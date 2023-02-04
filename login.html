@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <nav style="position:sticky; top:0px; z-index:2;">
+        <div class="navbar">
+            <div class="to">FarmHelp</div>
+            <div>
+                <ul class="ul-list">
+                    <a href="./index.html"><li id="ho">Home</li></a>
+                    <a href=""><li>General Information</li></a>
+                    <a href=""><li>Schemes</li></a>
+                    <a href=""><li>About Us</li></a>
+                    <a href="./signup.html"><li id="ho">Login/SignUp</li></a>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="container">
+        <div class="signup">
+            <form>
+                <h2>Login</h2>
+                <center><img src="./logo4.jpeg"></center>
+                <hr>
+                <h3>Email</h3>
+                <input type="email" placeholder="Enter your Email" class="inp" id="email">
+                <h3>Password</h3>
+                <input type="password" placeholder="Enter Password" class="inp" id="password">
+                <center><button class="btn" onclick="check()" type="button">Login</button></center>
+                <p id="ptag">Want to create new account? <a href="./signup.html">Signup</a></p>
+            </form>
+        </div>
+    </div>
+    <script src="./login.js"></script>
+</body>
+</html>
