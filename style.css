@@ -92,8 +92,21 @@ a:hover{
 
 .signup
 {
+    width:350px;
+    border: 0px solid rgb(128, 128, 128);
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: rgb(255, 255, 255);
+    margin: 10px;
+    margin-top:5px;
+    /* margin-bottom:25px; */
+    border-radius: 20px;
+}
+
+.login
+{
     width:300px;
-    border: 1px solid rgb(128, 128, 128);
+    border: 0px solid rgb(128, 128, 128);
     padding: 10px;
     box-sizing: border-box;
     background-color: rgb(255, 255, 255);
@@ -124,7 +137,7 @@ h3{
 }
 
 p{
-    margin: 10px;
+    margin: 6px;
 }
 
 .inp 
