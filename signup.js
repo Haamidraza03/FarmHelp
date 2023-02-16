@@ -50,9 +50,9 @@ function check()
     {
         alert("Adhaar Card No. should be of 12 digits. Please fill Accordingly!!!")
     }
-    else if(phno.length!=10 && phno>1234567891)
+    else if(phno.length!=10 && phno<1234567891)
     {
-        alert("Phone No. should be of 10 digits. Please fill Accordingly!!!")
+        alert("Phone No. should be of 10 digits. Please give Valid Phone number.")
     }
     else if(rationcard.length!=10)
     {
