@@ -39,7 +39,7 @@ function check()
             document.getElementById('email').value="";
             document.getElementById('password').value="";
             document.getElementById('cpassword').value="";
-            window.location.href="./login.html";
+            window.location.href="./otp.html";
         })
     }
     else if(adhaarno.length==0 && phno.length==0 && rationcard.length==0 && voterid.length==0)
