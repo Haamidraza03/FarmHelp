@@ -25,7 +25,7 @@ function check()
             if(test.length==1)
             {
                 alert('Login Successful.');
-                window.open("./index.html");
+                window.location.href="./index.html";
             }
             
            let test2 = users.filter((x)=>

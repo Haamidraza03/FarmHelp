@@ -39,7 +39,7 @@ function check()
             document.getElementById('email').value="";
             document.getElementById('password').value="";
             document.getElementById('cpassword').value="";
-            window.open("./login.html");
+            window.location.href="./login.html";
         })
     }
     else if(adhaarno.length==0 && phno.length==0 && rationcard.length==0 && voterid.length==0)
@@ -50,7 +50,7 @@ function check()
     {
         alert("Adhaar Card No. should be of 12 digits. Please fill Accordingly!!!")
     }
-    else if(phno.length!=10)
+    else if(phno.length!=10 && phno>1234567891)
     {
         alert("Phone No. should be of 10 digits. Please fill Accordingly!!!")
     }
