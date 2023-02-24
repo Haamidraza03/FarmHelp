@@ -22,7 +22,7 @@ function check()
     }
 
 
-    if(adhaarno.length==12 && phno.length==10 && rationcard.length==10 && voterid.length==10 && pswd1==pswd2 && username.length>1 && useremail.length>3 && pswd1.length>3 && pswd2.length>3)
+    if(adhaarno.length==12 && phno.length==10 && phno>8075678912 && rationcard.length==10 && voterid.length==10 && pswd1==pswd2 && username.length>1 && useremail.length>3 && pswd1.length>3 && pswd2.length>3)
     {
         fetch('https://farmhelp-7bbda-default-rtdb.firebaseio.com/user.json',
         {
@@ -50,9 +50,13 @@ function check()
     {
         alert("Adhaar Card No. should be of 12 digits. Please fill Accordingly!!!")
     }
-    else if(phno.length!=10 && phno<1234567891)
+    else if(phno.length!=10)
     {
         alert("Phone No. should be of 10 digits. Please give Valid Phone number.")
+    }
+    else if(phno<8075678912)
+    {
+        alert("Please enter a Valid Phone Number.")
     }
     else if(rationcard.length!=10)
     {
