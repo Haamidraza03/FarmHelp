@@ -7,6 +7,8 @@
     <link rel="icon" href="./favicon.png">
     <title>Schemes</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
 </head>
 <body>
     <nav style="position:sticky; top:0px; z-index:2;">
@@ -23,9 +25,9 @@
             </div>
         </div>
     </nav>
-    <h2 id="hee">Schemes</h2>
+    <h2 id="hee" style="text-align:center;letter-spacing:1.5px; z-index:1;" data-aos="slide-down" data-aos-duration="1500" data-aos-easing="ease-in-out">Schemes</h2>
     <center><div class="linktable">
-        <table border="2" cellpadding="5px" cellspacing="10px" class="content-table">
+        <table border="2" cellpadding="5px" cellspacing="10px" class="content-table" data-aos="zoom-in" data-aos-duration="2000" data-aos-easing="ease-in-out">
             <thead>
             <tr>
                 <th>Sr No.</th>
@@ -80,5 +82,9 @@
             </tbody>
         </table>
     </div></center>
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script>
+      AOS.init({once:"true"});
+    </script>
 </body>
 </html>
