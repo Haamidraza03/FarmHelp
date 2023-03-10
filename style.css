@@ -11,10 +11,6 @@ body{
     background-image: linear-gradient(45deg, #FFFB7D 25%, #85FFBD 81%);
 }
 
-html{
-    overflow-x: hidden;
-}
-
 .navbar{
     display:flex;
     justify-content: space-between;
@@ -70,6 +66,10 @@ a:hover{
     margin-top: 20px;
     font-size: 30px;
     color:whitesmoke;
+}
+
+hr{
+    margin:2px !important;
 }
 
 .main{
@@ -249,8 +249,32 @@ img{
     margin:50px;
 }
 
+.w-100 {
+    width: 50% !important;
+}
+
+.img-fluid {
+    max-width: 59% !important;
+    height: auto;
+}
+
+.carousel-control-next, .carousel-control-prev{
+    width:50% !important;
+}
+
 .yus-card{
     width:500px;
+    text-align: center;
+    background-color:white;
+    background-image: linear-gradient(to bottom,rgb(117, 253, 117),green);
+    color:white;
+    /* border:1px solid rgb(0, 0, 0); */
+    border-radius: 10px;
+    padding:25px 15px;
+}
+
+.hm-card{
+    width:70%;
     text-align: center;
     background-color:white;
     background-image: linear-gradient(to bottom,rgb(117, 253, 117),green);
