@@ -122,9 +122,10 @@ hr{
 }
 
 a{
-    text-decoration: none;
+    text-decoration: none !important;
     color:  rgb(4, 194, 4);
 }
+
 
 h2{
     margin: 10px;
@@ -193,7 +194,7 @@ p{
     width: 55%;
     /* padding-top: 50px; */
     border-collapse: collapse;
-    border: 25px 0;
+    border: 0px 0;
     font-size: 0.9em;
     min-width: 400px;
     justify-content: center;
