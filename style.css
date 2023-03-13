@@ -43,7 +43,7 @@ body{
 }
 
 a{
-    text-decoration: none;
+    text-decoration: none !important;
     color:white;
     cursor: pointer;
 }
@@ -166,17 +166,17 @@ p{
 
 .btn
 {
-    padding: 10px 5px;
-    width:99%;
-    border:none;
-    margin-block: 4px;
-    background-color: rgb(4, 194, 4);
-    color: rgb(245, 245, 245);
-    border-radius: 8px;
-    font-size: 16px;
-    font-weight: 250;
-    cursor: pointer;
-    justify-items: center;
+    padding: 10px 5px !important;
+    width:99% !important;
+    border:none !important;
+    margin-block: 4px !important;
+    background-color: rgb(4, 194, 4) !important;
+    color: rgb(245, 245, 245) !important;
+    border-radius: 8px !important;
+    font-size: 16px !important;
+    font-weight: 250 !important;
+    cursor: pointer !important;
+    justify-items: center !important;
 }
 
 #ptag{
@@ -204,6 +204,17 @@ p{
     overflow: hidden;
     -webkit-box-shadow: 5px 5px 15px 5px rgb(180, 177, 177);
     box-shadow: 5px 5px 15px 5px rgb(180, 177, 177);
+}
+
+.foot{
+    list-style-type: none;
+    display:flex;
+    margin-bottom:0px;
+}
+
+.foot li{
+    margin:10px;
+    font-size:14px;
 }
 
 .content-table thead tr{
@@ -275,10 +286,10 @@ img{
 }
 
 .hm-card{
-    width:70%;
+    width:90%;
     text-align: center;
-    background-color:white;
-    background-image: linear-gradient(to bottom,rgb(117, 253, 117),green);
+    background-color:rgb(15, 148, 0);
+    /* background-image: linear-gradient(to bottom,rgb(117, 253, 117),green); */
     color:white;
     /* border:1px solid rgb(0, 0, 0); */
     border-radius: 10px;
