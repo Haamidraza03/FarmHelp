@@ -177,7 +177,7 @@ p{
     color: rgb(245, 245, 245) !important;
     border-radius: 8px !important;
     font-size: 16px !important;
-    font-weight: 250 !important;
+    /* font-weight: 250 !important; */
     cursor: pointer !important;
     justify-items: center !important;
 }
