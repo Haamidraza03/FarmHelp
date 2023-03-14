@@ -48,6 +48,9 @@ a{
     cursor: pointer;
 }
 
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    --bs-gutter-x: 0rem !important;
+}
 a:hover{
     font-weight: bolder;
     border-bottom: 3px solid orange;
@@ -103,7 +106,7 @@ hr{
     background-color: rgb(255, 255, 255);
     margin: 10px;
     margin-top:5px;
-    /* margin-bottom:25px; */
+    margin-bottom:25px;
     border-radius: 20px;
     box-shadow: 0 0 30px 5px rgb(136, 129, 129);
 }
@@ -285,8 +288,17 @@ img{
     padding:25px 15px;
 }
 
+@media(max-width:425px){
+    .main p{
+        margin: 0px 0px 0px 20px !important;
+    }
+
+    .main h1{
+        margin: 0px 0px 0px 10px !important;
+    }
+}
+
 .hm-card{
-    width:90%;
     text-align: center;
     background-color:rgb(15, 148, 0);
     /* background-image: linear-gradient(to bottom,rgb(117, 253, 117),green); */
