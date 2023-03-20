@@ -78,12 +78,23 @@ hr{
 .main{
     width:100vw;
     height:91vh;
-    background-image: url('./images.jpeg');
+    background-image: url('./images/images.jpeg');
     background-size: cover;
     padding-top: 27vh;
     padding-left:10px;
     text-shadow:3px 3px 3px grey;
     box-sizing: border-box;
+}
+
+.map{
+    position:relative;
+}
+
+.guj{
+    position:absolute;
+    bottom:410px;
+    left:440px;
+
 }
 
 .container
