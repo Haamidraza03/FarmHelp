@@ -87,7 +87,8 @@ hr{
 }
 
 .map{
-    position:relative;
+    width:100vw !important;
+    
 }
 
 .guj{
