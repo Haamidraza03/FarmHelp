@@ -370,7 +370,7 @@ p{
     border: 2px solid rgb(4, 194, 4);
 }
 
-.btn
+.bttn
 {
     padding: 10px 5px !important;
     width:99% !important;
@@ -383,6 +383,11 @@ p{
     /* font-weight: 250 !important; */
     cursor: pointer !important;
     justify-items: center !important;
+}
+
+.btn:hover{
+    background-color: rgb(4, 194, 4) !important;
+    color: white !important;
 }
 
 #ptag{
@@ -510,6 +515,7 @@ img{
     border-radius: 10px;
     padding:25px 15px;
 }
+
 
 .yus-card p{
     text-align: center;
