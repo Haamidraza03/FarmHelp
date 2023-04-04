@@ -16,8 +16,8 @@ soup = BeautifulSoup(html.text, "lxml")
 #lxml is a tree parser builder, bcoz youtube is a complex website thats why we are using lxml parser, it builds tree like structure
 
 #seeing the html text, by writing all the html text in data.txt file
-# with open("data.txt", "w", encoding="utf-8") as output:
-#     output.write(soup.prettify())
+with open("data.txt", "w", encoding="utf-8") as output:
+    output.write(soup.prettify())
 
 
 singleCard = soup.findAll('div', class_ = 'clr flt topicstry story_list')
