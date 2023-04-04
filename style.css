@@ -11,6 +11,12 @@ body{
     background-image: linear-gradient(45deg, #FFFB7D 25%, #85FFBD 81%);
 }
 
+.clr:before, .clr:after, .clearfix:before, .clearfix:after {
+    content: " " !important;
+    display: table !important;
+    clear: both !important;
+}
+
 .navbar{
     display:flex;
     justify-content: space-between;
@@ -516,7 +522,211 @@ img{
     padding:25px 15px;
 }
 
-
 .yus-card p{
     text-align: center;
+}
+
+@media(max-width:1024px){
+    .guj{
+        position:absolute;
+        bottom:230px;
+        left:280px;
+    
+    }
+    
+    .mah{
+        position:absolute;
+        bottom:160px;
+        left:335px;
+    
+    }
+    
+    .raj{
+        position:absolute;
+        bottom:310px;
+        left:310px;
+    
+    }
+    
+    .mp{
+        position:absolute;
+        bottom:230px;
+        left:375px;
+    
+    }
+    
+    .ker{
+        position:absolute;
+        bottom:-30px;
+        left:350px;
+    
+    }
+    
+    .tn{
+        position:absolute;
+        bottom:-20px;
+        left:400px;
+    
+    }
+    
+    .kar{
+        position:absolute;
+        bottom:40px;
+        left:330px;
+    
+    }
+    
+    .and{
+        position:absolute;
+        bottom:60px;
+        left:410px;
+    
+    }
+    
+    .goa{
+        position:absolute;
+        bottom:68px;
+        left:313px;
+    
+    }
+    
+    .tel{
+        position:absolute;
+        bottom:100px;
+        left:450px;
+    
+    }
+    
+    .odi{
+        position:absolute;
+        bottom:0px;
+        left:750px;
+    
+    }
+    
+    .chat{
+        position:absolute;
+        bottom:20px;
+        left:650px;
+    
+    }
+    
+    .jha{
+        position:absolute;
+        bottom:100px;
+        left:755px;
+    
+    }
+    
+    .wb{
+        position:absolute;
+        bottom:90px;
+        left:820px;
+    
+    }
+    
+    .aru{
+        position:absolute;
+        bottom:240px;
+        left:1000px;
+    
+    }
+    
+    .ass{
+        position:absolute;
+        bottom:185px;
+        left:980px;
+    
+    }
+    
+    .meg{
+        position:absolute;
+        bottom:155px;
+        left:920px;
+    
+    }
+    
+    .tri{
+        position:absolute;
+        bottom:100px;
+        left:930px;
+    
+    }
+    
+    .miz{
+        position:absolute;
+        bottom:90px;
+        left:990px;
+    
+    }
+    
+    .man{
+        position:absolute;
+        bottom:130px;
+        left:1020px;
+    
+    }
+    
+    .nag{
+        position:absolute;
+        bottom:175px;
+        left:1045px;
+    
+    }
+    
+    .sik{
+        position:absolute;
+        bottom:220px;
+        left:860px;
+    
+    }
+    
+    .bih{
+        position:absolute;
+        bottom:160px;
+        left:800px;
+    
+    }
+    
+    .up{
+        position:absolute;
+        bottom:190px;
+        left:630px;
+    
+    }
+    
+    .har{
+        position:absolute;
+        bottom:270px;
+        left:520px;
+    
+    }
+    
+    .uk{
+        position:absolute;
+        bottom:300px;
+        left:590px;
+    
+    }
+    
+    .pun{
+        position:absolute;
+        bottom:320px;
+        left:500px;
+    
+    }
+    
+    .hp{
+        position:absolute;
+        bottom:360px;
+        left:540px;
+    
+    }
+    
+    .jk{
+        position:absolute;
+        bottom:440px;
+        left:480px;
+    
+    }
 }
