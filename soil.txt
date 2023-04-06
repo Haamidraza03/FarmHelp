@@ -1,0 +1,1120 @@
+<html lang="en">
+ <head>
+  <title>
+   What is soil? | Soil | Farm management | Agriculture Victoria
+  </title>
+  <!-- dist/matrix-css.html (START) -->
+  <link href="/__data/assets/git_bridge/0004/866065/dist/css/main.0861df33.chunk.css" rel="stylesheet"/>
+  <!-- dist/matrix-css.html (END) -->
+  <meta charset="utf-8"/>
+  <meta content="width=device-width,initial-scale=1.0" name="viewport"/>
+  <meta content="What is soil?" name="pagetitle-fb"/>
+  <link href="https://agriculture.vic.gov.au/__data/assets/file/0003/517962/favicon-1.ico" rel="shortcut icon"/>
+  <!-- favicon.ico -->
+  <!-- AGLS //-->
+  <!-- DC //-->
+  <meta content="There are a range of different soil types each with particular strengths and weaknesses for agricultural production." name="Description"/>
+  <meta content="soil; structure; colour; texture; drainage; organic; minerals; sandy; clay; loam; loamy" name="Keywords"/>
+  <meta content="There are a range of different soil types each with particular strengths and weaknesses for agricultural production." name="DCTERMS.description"/>
+  <meta content="soil; structure; colour; texture; drainage; organic; minerals; sandy; clay; loam; loamy" name="DCTERMS.keywords"/>
+  <meta content="en-AU" name="DCTERMS.language" scheme="DCTERMS.RFC5646"/>
+  <meta content="text" name="DCTERMS.type" scheme="DCTERMS.DCMIType"/>
+  <meta content="Department of Jobs, Precincts and Regions" name="DCTERMS.creator"/>
+  <meta content="Department of Jobs, Precincts and Regions" name="DCTERMS.publisher"/>
+  <meta content="https://agriculture.vic.gov.au/copyright" name="DCTERMS.rights" scheme="DCTERMS.URI"/>
+  <meta content="State Government of Victoria" name="DCTERMS.rightsHolder"/>
+  <meta content="Victoria" name="DCTERMS.coverage"/>
+  <meta content="What is soil? - Agriculture" name="DCTERMS.title"/>
+  <meta content="https://agriculture.vic.gov.au/farm-management/soil/what-is-soil" name="DCTERMS.identifier" scheme="DCTERMS.URI"/>
+  <meta content="2020-06-29" name="DCTERMS.created" scheme="DCTERMS.ISO8601"/>
+  <meta content="2023-01-17" name="DCTERMS.modified" scheme="DCTERMS.ISO8601"/>
+  <meta content="2021-11-30" name="DCTERMS.issued"/>
+  <meta content="collection" name="AGLSTERMS.aggregationLevel"/>
+  <meta content="Agriculture" name="DCTERMS.subject"/>
+  <meta content="INDEX" name="robots"/>
+  <!-- Social //-->
+  <meta content="Agriculture Victoria" property="og:site_name"/>
+  <meta content="What is soil?" property="og:title"/>
+  <meta content="website" property="og:type"/>
+  <meta content="https://agriculture.vic.gov.au/farm-management/soil/what-is-soil" property="og:url"/>
+  <meta content="Agriculture Victoria" property="og:image:alt"/>
+  <meta content="" property="og:description"/>
+  <meta content="summary_large_image" property="twitter:card"/>
+  <meta content="" property="twitter:site"/>
+  <meta content="https://agriculture.vic.gov.au/__data/assets/image/0004/814369/agriculture-thumbnail.jpg" property="og:image"/>
+  <!-- Review cycle //-->
+  <meta content="no" name="review.cycle.status"/>
+  <!-- Meta Pixel Code -->
+  <script>
+   !function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '238582581359398');
+fbq('track', 'PageView');
+  </script>
+  <noscript>
+   <img height="1" src="https://www.facebook.com/tr?id=238582581359398&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/>
+  </noscript>
+  <!-- End Meta Pixel Code -->
+  <!-- Hotjar Tracking Code for http://agriculture.vic.gov.au/ -->
+  <script>
+   (function(h,o,t,j,a,r){
+            h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+            h._hjSettings={hjid:1334626,hjsv:6};
+            a=o.getElementsByTagName('head')[0];
+            r=o.createElement('script');r.async=1;
+            r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+  </script>
+  <!--
+Start of global snippet: Please do not remove
+Place this snippet between the <he ad> and </he ad> tags on every page of your site.
+-->
+  <!-- Global site tag (gtag.js) - Google Marketing Platform -->
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=DC-10880932">
+  </script>
+  <script>
+   window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'DC-10880932');
+  gtag('config', 'G-HS1K1SLPBD');
+  </script>
+  <!-- End of global snippet: Please do not remove -->
+  <meta content="o0vhfz1jl1o1ix154t4k9tke76vuue" name="facebook-domain-verification"/>
+  <!--
+  Running Squiz Matrix
+  Developed by Squiz - http://www.squiz.net
+  Squiz, Squiz Matrix, MySource, MySource Matrix and Squiz.net are registered Trademarks of Squiz Pty Ltd
+  Page generated: 07 April 2023 02:13:37
+-->
+ </head>
+ <body class="" id="content">
+  <!--noindex-->
+  <div id="skip-to-content-react">
+  </div>
+  <!--<div id="breakpoints-react"></div>-->
+  <div id="alerts-react">
+  </div>
+  <script>
+   var headerDataCMS ={"headerLinks": [{"pageName": "Media centre","pageURL": "https:\/\/agriculture.vic.gov.au\/about\/media-centre"},{
+"pageName": "Events","pageURL": "https:\/\/agriculture.vic.gov.au\/support-and-resources\/event-listing"},{"pageName": "Contact us","pageURL": "https:\/\/agriculture.vic.gov.au\/about\/contact-us"}]}
+  </script>
+  <div id="header-react">
+  </div>
+  <script>
+   var megaMenu = {"categories": [{"id": "Livestock and animals","pageURL": "https:\/\/agriculture.vic.gov.au\/livestock-and-animals","pages": [{"pageName": "National Livestock Identification System (NLIS)","pageURL": "https:\/\/agriculture.vic.gov.au\/livestock-and-animals\/national-livestock-identification-system","pages": []},{"pageName": "Livestock health and welfare","pageURL": "https:\/\/agriculture.vic.gov.au\/livestock-and-animals\/livestock-health-and-welfare","pages": []},{"pageName": "Animal Welfare Victoria","pageURL": "https:\/\/agriculture.vic.gov.au\/livestock-and-animals\/animal-welfare-victoria","pages": []},{"pageName": "Beef","pageURL": "https:\/\/agriculture.vic.gov.au\/livestock-and-animals\/beef","pages": []},{"pageName": "Dairy","pageURL": "https:\/\/agriculture.vic.gov.au\/livestock-and-animals\/dairy","pages": []},{"pageName": "Honey bees","pageURL": "https:\/\/agriculture.vic.gov.au\/livestock-and-animals\/honey-bees","pages": []},{"pageName": "Horses","pageURL": "https:\/\/agriculture.vic.gov.au\/livestock-and-animals\/horses","pages": []},{"pageName": "Sheep","pageURL": "https:\/\/agriculture.vic.gov.au\/livestock-and-animals\/sheep","pages": []},{"pageName": "Pigs","pageURL": "https:\/\/agriculture.vic.gov.au\/livestock-and-animals\/pigs","pages": []},{"pageName": "Poultry and eggs","pageURL": "https:\/\/agriculture.vic.gov.au\/livestock-and-animals\/poultry-and-eggs","pages": []}   ]},{"id": "Crops and horticulture","pageURL": "https:\/\/agriculture.vic.gov.au\/crops-and-horticulture","pages": [{"pageName": "Workforce and Harvest ","pageURL": "https:\/\/agriculture.vic.gov.au\/crops-and-horticulture\/Workforce-and-Harvest","pages": []},{"pageName": "The Australian Grains Genebank","pageURL": "https:\/\/agriculture.vic.gov.au\/crops-and-horticulture\/the-australian-grains-genebank","pages": []},{"pageName": "Grains, pulses and cereals","pageURL": "https:\/\/agriculture.vic.gov.au\/crops-and-horticulture\/grains-pulses-and-cereals","pages": []},{"pageName": "Cannabis in Victoria","pageURL": "https:\/\/agriculture.vic.gov.au\/crops-and-horticulture\/cannabis-in-victoria","pages": []},{"pageName": "Fruit and nuts","pageURL": "https:\/\/agriculture.vic.gov.au\/crops-and-horticulture\/fruit-and-nuts","pages": []},{"pageName": "Poppies","pageURL": "https:\/\/agriculture.vic.gov.au\/crops-and-horticulture\/poppies","pages": []},{"pageName": "Wine and grapes","pageURL": "https:\/\/agriculture.vic.gov.au\/crops-and-horticulture\/wine-and-grapes","pages": []},{"pageName": "Vegetables","pageURL": "https:\/\/agriculture.vic.gov.au\/crops-and-horticulture\/vegetables","pages": []}   ]},{"id": "Biosecurity","pageURL": "https:\/\/agriculture.vic.gov.au\/biosecurity","pages": [{"pageName": "Protecting Victoria","pageURL": "https:\/\/agriculture.vic.gov.au\/biosecurity\/protecting-victoria","pages": []},{"pageName": "Moving livestock and animals","pageURL": "https:\/\/agriculture.vic.gov.au\/biosecurity\/moving-livestock-and-animals","pages": []},{"pageName": "Moving plants and plant products","pageURL": "https:\/\/agriculture.vic.gov.au\/biosecurity\/moving-plants-and-plant-products","pages": []},{"pageName": "Animal diseases","pageURL": "https:\/\/agriculture.vic.gov.au\/biosecurity\/animal-diseases","pages": []},{"pageName": "Marine pests","pageURL": "https:\/\/agriculture.vic.gov.au\/biosecurity\/marine-pests","pages": []},{"pageName": "Pest animals","pageURL": "https:\/\/agriculture.vic.gov.au\/biosecurity\/pest-animals","pages": []},{"pageName": "Pest insects and mites","pageURL": "https:\/\/agriculture.vic.gov.au\/biosecurity\/pest-insects-and-mites","pages": []},{"pageName": "Plant diseases","pageURL": "https:\/\/agriculture.vic.gov.au\/biosecurity\/plant-diseases","pages": []},{"pageName": "Weeds","pageURL": "https:\/\/agriculture.vic.gov.au\/biosecurity\/weeds","pages": []},{"pageName": "Food safety","pageURL": "https:\/\/agriculture.vic.gov.au\/biosecurity\/food-safety","pages": []}   ]},{"id": "Climate and weather","pageURL": "https:\/\/agriculture.vic.gov.au\/climate-and-weather","pages": [{"pageName": "Climate updates, newsletters and webinars","pageURL": "https:\/\/agriculture.vic.gov.au\/climate-and-weather\/climate-updates-newsletters-and-webinars","pages": []},{"pageName": "Understanding weather, climate and forecasting","pageURL": "https:\/\/agriculture.vic.gov.au\/climate-and-weather\/understanding-weather-climate-and-forecasting","pages": []},{"pageName": "Understanding carbon and emissions","pageURL": "https:\/\/agriculture.vic.gov.au\/climate-and-weather\/understanding-carbon-and-emissions","pages": []},{"pageName": "Resources","pageURL": "https:\/\/agriculture.vic.gov.au\/climate-and-weather\/resources","pages": []},{"pageName": "Agriculture and climate change","pageURL": "https:\/\/agriculture.vic.gov.au\/climate-and-weather\/policy-programs-action","pages": []}   ]},{"id": "Farm management","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management","pages": [{"pageName": "Emergency management","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/emergency-management","pages": []},{"pageName": "AgTech","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/agtech","pages": []},{"pageName": "Business management","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/business-management","pages": []},{"pageName": "Chemicals","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/chemicals","pages": []},{"pageName": "Energy on-farm","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/energy-on-farm","pages": []},{"pageName": "Land and pasture management","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/land-and-pasture-management","pages": []},{"pageName": "Planning and farm development ","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/planning-and-farm-development","pages": []},{"pageName": "Managing for and during drought","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/managing-for-and-during-drought","pages": []},{"pageName": "Property Identification Codes (PIC)","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/property-identification-codes","pages": []},{"pageName": "Soil","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/soil","pages": []},{"pageName": "Water","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/water","pages": []}   ]},{"id": "Export","pageURL": "https:\/\/agriculture.vic.gov.au\/export","pages": [{"pageName": "Pathways to export","pageURL": "https:\/\/agriculture.vic.gov.au\/export\/pathways-to-export","pages": []},{"pageName": "Market access","pageURL": "https:\/\/agriculture.vic.gov.au\/export\/international-markets","pages": []},{"pageName": "The Victorian Food and Fibre Trade Pavilion (Vic House)","pageURL": "https:\/\/agriculture.vic.gov.au\/export\/vic-house","pages": []},{"pageName": "Traceability","pageURL": "https:\/\/agriculture.vic.gov.au\/export\/traceability","pages": []},{"pageName": "Victoria\u2019s export performance ","pageURL": "https:\/\/agriculture.vic.gov.au\/export\/victorias-export-performance","pages": []}   ]},{"id": "Support and resources","pageURL": "https:\/\/agriculture.vic.gov.au\/support-and-resources","pages": [{"pageName": "Case studies","pageURL": "https:\/\/agriculture.vic.gov.au\/support-and-resources\/case-studies","pages": []},{"pageName": "Events","pageURL": "https:\/\/agriculture.vic.gov.au\/support-and-resources\/event-listing","pages": []},{"pageName": "Funds, grants and programs","pageURL": "https:\/\/agriculture.vic.gov.au\/support-and-resources\/funds-grants-programs","pages": []},{"pageName": "Networks","pageURL": "https:\/\/agriculture.vic.gov.au\/support-and-resources\/networks","pages": []},{"pageName": "Newsletters","pageURL": "https:\/\/agriculture.vic.gov.au\/support-and-resources\/newsletters","pages": []},{"pageName": "Podcasts","pageURL": "https:\/\/agriculture.vic.gov.au\/support-and-resources\/podcasts","pages": []},{"pageName": "Services","pageURL": "https:\/\/agriculture.vic.gov.au\/support-and-resources\/services","pages": []},{"pageName": "Tools and calculators","pageURL": "https:\/\/agriculture.vic.gov.au\/support-and-resources\/tools-and-calculators","pages": []},{"pageName": "eLearning","pageURL": "https:\/\/agriculture.vic.gov.au\/support-and-resources\/elearning","pages": []}   ]},{"id": "About","pageURL": "https:\/\/agriculture.vic.gov.au\/about","pages": [{"pageName": "Agriculture strategy","pageURL": "https:\/\/agriculture.vic.gov.au\/about\/agriculture-strategy","pages": []},{"pageName": "Agriculture in Victoria","pageURL": "https:\/\/agriculture.vic.gov.au\/about\/agriculture-in-victoria","pages": []},{"pageName": "Our role","pageURL": "https:\/\/agriculture.vic.gov.au\/about\/our-role","pages": []},{"pageName": "Strengthening Aboriginal communities","pageURL": "https:\/\/agriculture.vic.gov.au\/about\/strengthening-aboriginal-communities","pages": []},{"pageName": "Our research","pageURL": "https:\/\/agriculture.vic.gov.au\/about\/our-research","pages": []},{"pageName": "Working for us","pageURL": "https:\/\/agriculture.vic.gov.au\/about\/working-for-us","pages": []},{"pageName": "Media centre","pageURL": "https:\/\/agriculture.vic.gov.au\/about\/media-centre","pages": []},{"pageName": "Contact us","pageURL": "https:\/\/agriculture.vic.gov.au\/about\/contact-us","pages": []}   ]
+}]}
+  </script>
+  <div id="primary-navigation-react">
+  </div>
+  <script>
+   var QuickLinksDataCMS = {
+    "pages": []
+}
+
+
+
+  
+    QuickLinksDataCMS.pages.push({
+      "linkColour": "default",    
+      "pageName": "Floods and storms",
+      "pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/emergency-management\/floods"
+    })
+  
+    QuickLinksDataCMS.pages.push({
+      "linkColour": "default",     
+      "pageName": "A Biosecurity Statement for Victoria",
+      "pageURL": "https:\/\/agriculture.vic.gov.au\/biosecurity\/protecting-victoria\/strengthening-victorias-biosecurity-system-program\/biosecurity-statement-for-victoria"
+    })
+  
+    QuickLinksDataCMS.pages.push({
+      "linkColour": "default", 
+      "pageName": "Foot-and-mouth disease",
+      "pageURL": "https:\/\/agriculture.vic.gov.au\/biosecurity\/animal-diseases\/foot-and-mouth-disease"
+    })
+  
+    QuickLinksDataCMS.pages.push({
+      "linkColour": "default", 
+      "pageName": "Varroa mite of honey bees",
+      "pageURL": "https:\/\/agriculture.vic.gov.au\/biosecurity\/pest-insects-and-mites\/priority-pest-insects-and-mites\/varroa-mite-of-honey-bees"
+    })
+  
+    QuickLinksDataCMS.pages.push({
+      "linkColour": "default", 
+      "pageName": "Agriculture strategy",
+      "pageURL": "https:\/\/agriculture.vic.gov.au\/about\/agriculture-strategy"
+    })
+  </script>
+  <div id="hamburger-navigation-react">
+  </div>
+  <script>
+   var heroBannerDataCMS = {
+       "pageType": "content",
+       "category": "",
+       "heading": "What is soil?",	
+       "subheading": "There are a range of different soil types each with particular strengths and weaknesses for agricultural production.",
+       "linkurl": "",
+       "banner": "https://agriculture.vic.gov.au/__data/assets/file/0006/507066/ag-placeholder.svg",
+       "icon": `https://agriculture.vic.gov.au/__data/assets/file/0009/528246/soils-icon.svg`,
+      "freeTextStatus": "",
+       "freeText": "null"
+    }
+  </script>
+  <div id="hero-banner-react">
+  </div>
+  <div id="content_container_508460">
+   <script>
+    var breadcrumbsDataCMS = {
+   "links": [
+      {
+  "pageName": "Soil",
+  "pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/soil"
+},{
+  "pageName": "Farm management",
+  "pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management"
+},
+   ] 
+}
+breadcrumbsDataCMS.links.reverse()
+breadcrumbsDataCMS.links.push(      {
+    "pageName": "What is soil?",
+    "pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/soil\/what-is-soil"
+})
+breadcrumbsDataCMS.links.unshift(      {
+    "pageName": "Home",
+    "pageURL": "https://agriculture.vic.gov.au"
+})
+   </script>
+  </div>
+  <script>
+   var SocialLinksDataCMS = {  
+   "location": "top",
+   "pageName": " What is soil?"
+}
+  </script>
+  <div id="breadcrumbs-react">
+  </div>
+  <script>
+   //NOTE: Errors in this module like "Something Went Wrong" are likely due to the page not sitting under a 'Section' page (metadata value) or the root of the site.
+        
+        var leftHandNavigationMobileDataCMS  = {
+           "nav": [
+              {
+                 "pageName": "Farm management",
+                 "pageURL": "https://agriculture.vic.gov.au/farm-management",
+        
+        
+        
+        
+        
+        "pages": [{"pageName": "Emergency management","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/emergency-management","pages": [{"pageName": "Emergency contacts","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/emergency-management\/emergency-contacts","pages": []},{"pageName": "Coronavirus (COVID-19)","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/emergency-management\/coronavirus-covid-19","pages": []},{"pageName": "Bushfires","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/emergency-management\/bushfires","pages": []},{"pageName": "Floods and storms","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/emergency-management\/floods","pages": []},{"pageName": "Emergency animal welfare","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/emergency-management\/emergency-animal-welfare","pages": []},{"pageName": "Biosecurity emergencies","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/emergency-management\/biosecurity-emergencies","pages": []}   ]},{"pageName": "AgTech","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/agtech","pages": [{"pageName": "Introduction to AgTech","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/agtech\/introduction-to-agtech","pages": []},{"pageName": "Digital agriculture programs","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/agtech\/digital-agriculture-programs","pages": []},{"pageName": "Dirty Tech Talk","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/agtech\/dirty-tech-talk","pages": []},{"pageName": "The AgTech Regional Innovation Network (AgRIN)","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/agtech\/agtech-regional-innovation-network-agrin","pages": []},{"pageName": "Subscribe to updates about AgTech","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/agtech\/subscribe-to-updates-about-agtech","pages": []}   ]},{"pageName": "Business management","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/business-management","pages": [{"pageName": "New landholders","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/business-management\/new-landholders","pages": []},{"pageName": "Improving decision making","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/business-management\/improving-decision-making","pages": []},{"pageName": "Farm debt mediation","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/business-management\/farm-debt-mediation","pages": []}   ]},{"pageName": "Chemicals","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/chemicals","pages": [{"pageName": "Report a chemical use issue","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/chemicals\/report-a-chemical-use-issue","pages": []},{"pageName": "Chemical use legislation and regulation","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/chemicals\/chemical-use-legislation-and-regulation","pages": []},{"pageName": "Licences and permits","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/chemicals\/licences-and-permits","pages": []},{"pageName": "Spraying agricultural chemicals","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/chemicals\/spraying-agricultural-chemicals","pages": []},{"pageName": "Keeping records of chemical use","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/chemicals\/keeping-records-of-chemical-use","pages": []},{"pageName": "Requirements for using 1080 and PAPP animal bait","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/chemicals\/requirements-for-using-1080-and-PAPP-animal-bait","pages": []},{"pageName": "Off-label chemical use","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/chemicals\/offlabel-chemical-use","pages": []},{"pageName": "Managing chemical residues","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/chemicals\/managing-chemical-residues","pages": []},{"pageName": "Responsible chemical use","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/chemicals\/responsible-chemical-use","pages": []},{"pageName": "Fertiliser regulation","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/chemicals\/fertiliser-regulation","pages": []},{"pageName": "Veterinary chemicals","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/chemicals\/veterinary-chemicals","pages": []},{"pageName": "Chemical use application forms and templates","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/chemicals\/chemical-use-application-forms-and-templates","pages": []},{"pageName": "Requirements for AgVet chemical retailers","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/chemicals\/requirements-for-agvet-chemical-retailers","pages": []},{"pageName": "Farm chemical storage sites affected by flooding","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/chemicals\/farm-chemical-storage-sites-affected-by-flooding","pages": []}   ]},{"pageName": "Energy on-farm","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/energy-on-farm","pages": [{"pageName": "Agriculture Energy Investment Plan","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/energy-on-farm\/agriculture-energy-investment-plan","pages": []},{"pageName": "Success stories","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/energy-on-farm\/case-studies","pages": []},{"pageName": "How we helped","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/energy-on-farm\/how-we-helped","pages": []}   ]},{"pageName": "Land and pasture management","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/land-and-pasture-management","pages": [{"pageName": "Land Health","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/land-and-pasture-management\/land-health","pages": []},{"pageName": "Sustainable cropping","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/land-and-pasture-management\/sustainable-cropping","pages": []},{"pageName": "Farm planning","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/land-and-pasture-management\/farm-planning","pages": []},{"pageName": "Farm water management","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/land-and-pasture-management\/farm-water-management","pages": []},{"pageName": "Grazing management systems","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/land-and-pasture-management\/grazing-management-systems","pages": []},{"pageName": "Productive soils","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/land-and-pasture-management\/productive-soils","pages": []},{"pageName": "Soil conservation","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/land-and-pasture-management\/soil-conservation","pages": []},{"pageName": "Developing a bent grass control program","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/land-and-pasture-management\/developing-a-bent-grass-control-program","pages": []},{"pageName": "Grazing sheep on lucerne","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/land-and-pasture-management\/grazing-sheep-on-lucerne","pages": []},{"pageName": "Stock containment areas for emergencies","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/land-and-pasture-management\/stock-containment-areas-for-emergencies","pages": []},{"pageName": "Native pasture management","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/land-and-pasture-management\/native-pasture-management","pages": []},{"pageName": "Managing cattle in stock containment areas","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/land-and-pasture-management\/managing-cattle-in-stock-containment-areas","pages": []},{"pageName": "Autumn feed budgeting webinar ","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/land-and-pasture-management\/autumn-feed-budgeting-webinar","pages": []},{"pageName": "Pasture recovery after drought and fire ","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/land-and-pasture-management\/pasture-recovery-after-drought-and-fire","pages": []},{"pageName": "Autumn grazing management webinar","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/land-and-pasture-management\/autumn-grazing-management-webinar","pages": []},{"pageName": "Getting the best from your legume pastures ","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/land-and-pasture-management\/getting-the-best-from-your-legume-pastures","pages": []},{"pageName": "Driving winter pasture growth rates","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/land-and-pasture-management\/driving-winter-pasture-growth-rates","pages": []},{"pageName": "The value of grazing weeds","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/land-and-pasture-management\/the-value-of-grazing-weeds","pages": []},{"pageName": "Using soil moisture and temperature data for optimising growth","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/land-and-pasture-management\/using-soil-moisture-and-temperature-data","pages": []},{"pageName": "Quality hay and how to get it","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/land-and-pasture-management\/quality-hay-and-how-to-get-it","pages": []},{"pageName": "Checklist for producing quality silage","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/land-and-pasture-management\/checklist-quality-silage","pages": []},{"pageName": "Keeping pastures productive","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/land-and-pasture-management\/keeping-pastures-productive","pages": []},{"pageName": "Grazing value of summer weeds","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/land-and-pasture-management\/grazing-value-of-summer-weeds","pages": []},{"pageName": "Toxic summer weeds","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/land-and-pasture-management\/toxic-summer-weeds","pages": []},{"pageName": "Getting the best from pastures in spring","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/land-and-pasture-management\/getting-the-best-from-pastures-in-spring","pages": []},{"pageName": "Rain-affected hay","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/land-and-pasture-management\/rain-affected-hay","pages": []}   ]},{"pageName": "Planning and farm development ","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/planning-and-farm-development","pages": [{"pageName": "Navigating farm developments \u2013 online planning tool","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/planning-and-farm-development\/navigating-farm-developments-online-tool","pages": []},{"pageName": "Agriculture Victoria Planning and Advisory Service","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/planning-and-farm-development\/agvic-planning-and-advisory-service","pages": []},{"pageName": "eGuides \u2013 Planning and farm development ","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/planning-and-farm-development\/eguides-planning-and-farm-development","pages": []},{"pageName": "Information for planners and applicants","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/planning-and-farm-development\/information-for-planners-and-applicants","pages": []}   ]},{"pageName": "Managing for and during drought","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/managing-for-and-during-drought","pages": [{"pageName": "Farm Business Resilience Program","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/managing-for-and-during-drought\/farm-business-resilience-program","pages": []},{"pageName": "Dry season support","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/managing-for-and-during-drought\/dry-season-support","pages": []},{"pageName": "Victoria\u2019s Drought Preparedness and Response Framework","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/managing-for-and-during-drought\/drought-preparedness-and-response-framework","pages": []},{"pageName": "Protecting the land in dry times","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/managing-for-and-during-drought\/protecting-the-land-in-dry-times","pages": []},{"pageName": "Preparing your farm for drought","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/managing-for-and-during-drought\/preparing-your-farm-for-drought","pages": []},{"pageName": "Managing resources in a drought","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/managing-for-and-during-drought\/managing-resources-in-a-drought","pages": []},{"pageName": "Importation of fodder and livestock feed into Victoria","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/managing-for-and-during-drought\/importation-of-fodder-and-livestock-feed-into-victoria","pages": []},{"pageName": "Livestock management in cropping systems video","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/managing-for-and-during-drought\/livestock-management-in-cropping-systems-video","pages": []},{"pageName": "Grazing management of perennial forage shrubs video","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/managing-for-and-during-drought\/grazing-management-of-perennial-forage-shrubs-video","pages": []}   ]},{"pageName": "Property Identification Codes (PIC)","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/property-identification-codes","pages": []},{"pageName": "Soil","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/soil","pages": [{"pageName": "What is soil?","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/soil\/what-is-soil","pages": []},{"pageName": "Soil acidity","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/soil\/soil-acidity","pages": []},{"pageName": "Composting","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/soil\/composting","pages": []},{"pageName": "Choosing the right soil moisture monitoring device","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/soil\/choosing-the-right-soil-moisture-monitoring-device","pages": []},{"pageName": "Sampling soils for soil testing","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/soil\/sampling-soils-for-soil-testing","pages": []},{"pageName": "Understanding soil tests for pastures","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/soil\/understanding-soil-tests-for-pastures","pages": []},{"pageName": "Erosion","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/soil\/erosion","pages": []}   ]},{"pageName": "Water","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/water","pages": [{"pageName": "Farm water solutions","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/water\/farm-water-solutions","pages": []},{"pageName": "Managing dams","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/water\/managing-dams","pages": []},{"pageName": "Irrigation","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/water\/irrigation","pages": []},{"pageName": "Groundwater salinity","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/water\/groundwater-salinity","pages": []},{"pageName": "Saltbush for saline land","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/water\/saltbush-for-saline-land","pages": []},{"pageName": "Blue-green algae in water","pageURL": "https:\/\/agriculture.vic.gov.au\/farm-management\/water\/blue-green-algae-in-water","pages": []}   ]
+}]
+        
+           
+        
+         
+        
+         
+        
+         
+        
+         
+        
+              }
+          ]  
+           
+         
+          
+        }
+  </script>
+  <div id="left-hand-navigation-mobile-react">
+  </div>
+  <div class="main-body">
+   <div class="col-12 col-lg-4 left-hand-navigation-container">
+    <!-- Left hand navigation -->
+    <nav id="left-hand-navigation">
+     <h2>
+      <a href="https://agriculture.vic.gov.au/farm-management">
+       Farm management
+      </a>
+     </h2>
+     <ul>
+      <li>
+       <span class="">
+        <a href="https://agriculture.vic.gov.au/farm-management/emergency-management">
+         Emergency management
+        </a>
+       </span>
+      </li>
+      <li>
+       <span class="">
+        <a href="https://agriculture.vic.gov.au/farm-management/agtech">
+         AgTech
+        </a>
+       </span>
+      </li>
+      <li>
+       <span class="">
+        <a href="https://agriculture.vic.gov.au/farm-management/business-management">
+         Business management
+        </a>
+       </span>
+      </li>
+      <li>
+       <span class="">
+        <a href="https://agriculture.vic.gov.au/farm-management/chemicals">
+         Chemicals
+        </a>
+       </span>
+      </li>
+      <li>
+       <span class="">
+        <a href="https://agriculture.vic.gov.au/farm-management/energy-on-farm">
+         Energy on-farm
+        </a>
+       </span>
+      </li>
+      <li>
+       <span class="">
+        <a href="https://agriculture.vic.gov.au/farm-management/land-and-pasture-management">
+         Land and pasture management
+        </a>
+       </span>
+      </li>
+      <li>
+       <span class="">
+        <a href="https://agriculture.vic.gov.au/farm-management/planning-and-farm-development">
+         Planning and farm development
+        </a>
+       </span>
+      </li>
+      <li>
+       <span class="">
+        <a href="https://agriculture.vic.gov.au/farm-management/managing-for-and-during-drought">
+         Managing for and during drought
+        </a>
+       </span>
+      </li>
+      <li>
+       <span class="">
+        <a href="https://agriculture.vic.gov.au/farm-management/property-identification-codes">
+         Property Identification Codes (PIC)
+        </a>
+       </span>
+      </li>
+      <li>
+       <span class="has-children">
+        <a href="https://agriculture.vic.gov.au/farm-management/soil">
+         Soil
+        </a>
+       </span>
+       <ul>
+        <li>
+         <span class="current">
+          <a href="https://agriculture.vic.gov.au/farm-management/soil/what-is-soil">
+           What is soil?
+          </a>
+         </span>
+        </li>
+        <li>
+         <span class="">
+          <a href="https://agriculture.vic.gov.au/farm-management/soil/soil-acidity">
+           Soil acidity
+          </a>
+         </span>
+        </li>
+        <li>
+         <span class="">
+          <a href="https://agriculture.vic.gov.au/farm-management/soil/composting">
+           Composting
+          </a>
+         </span>
+        </li>
+        <li>
+         <span class="">
+          <a href="https://agriculture.vic.gov.au/farm-management/soil/choosing-the-right-soil-moisture-monitoring-device">
+           Choosing the right soil moisture monitoring device
+          </a>
+         </span>
+        </li>
+        <li>
+         <span class="">
+          <a href="https://agriculture.vic.gov.au/farm-management/soil/sampling-soils-for-soil-testing">
+           Sampling soils for soil testing
+          </a>
+         </span>
+        </li>
+        <li>
+         <span class="">
+          <a href="https://agriculture.vic.gov.au/farm-management/soil/understanding-soil-tests-for-pastures">
+           Understanding soil tests for pastures
+          </a>
+         </span>
+        </li>
+        <li>
+         <span class="">
+          <a href="https://agriculture.vic.gov.au/farm-management/soil/erosion">
+           Erosion
+          </a>
+         </span>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <span class="">
+        <a href="https://agriculture.vic.gov.au/farm-management/water">
+         Water
+        </a>
+       </span>
+      </li>
+     </ul>
+    </nav>
+    <!-- End left hand navigation -->
+   </div>
+   <!--endnoindex-->
+   <main class="" dir="ltr" id="main">
+    <h1>
+     What is soil?
+    </h1>
+    <div id="standard-content-page">
+     <!-- Page summary component -->
+     <div id="page-summary-react">
+     </div>
+     <div id="content_container_560819">
+      <p>
+       Soil is the loose surface material that covers most land. It consists of inorganic particles and organic matter. Soil provides the structural support to plants used in agriculture and is also their source of water and nutrients.
+      </p>
+      <p>
+       Soils vary greatly in their chemical and physical properties. Processes such as leaching, weathering and microbial activity combine to make a whole range of different soil types. Each type has particular strengths and weaknesses for agricultural production.
+      </p>
+      <h2>
+       Physical characteristics of soil
+      </h2>
+      <p>
+       The physical characteristics of soils include all the aspects that you can see and touch such as:
+      </p>
+      <ul>
+       <li>
+        texture
+       </li>
+       <li>
+        colour
+       </li>
+       <li>
+        depth
+       </li>
+       <li>
+        structure
+       </li>
+       <li>
+        porosity (the space between the particles)
+       </li>
+       <li>
+        stone content.
+       </li>
+      </ul>
+      <p>
+       Good soil structure contributes to soil and plant health allowing water and air movement into and through the soil profile. Soil stores water for plant growth and supports machine and animal traffic.
+      </p>
+      <p>
+       While some soils are naturally better structured than others, some physical characteristics of soils can be changed with good management.
+      </p>
+      <p>
+       It is important to monitor the physical characteristics of soil to understand soil condition.
+      </p>
+      <p>
+       It is also important to ensure that management practices are not contributing to the decline of the soil. An example of this is excessive traffic causing compaction and reducing the amount of macropores, or spaces between the aggregates, therefore reducing the amount of air and water into and through the soil.
+      </p>
+      <h2>
+       Soil texture, structure, drainage characteristics
+      </h2>
+      <p>
+       <img alt="Diagram showing soil aggregate made up of organic matter, clay, sand and silt" height="268" src="https://agriculture.vic.gov.au/__data/assets/image/0010/560863/soil-aggregate.jpg" title="Figure 1. Soil aggregate" width="600"/>
+      </p>
+      <p>
+       The combination of mineral fractions (gravel, sand, silt and clay particles) and organic matter fraction give soil its texture. Texture grades depend upon the amount of clay, sand, silt and organic matter present.
+      </p>
+      <p>
+       <img alt="Diagram showing large square particles with large pores for water to drain through" height="190" src="https://agriculture.vic.gov.au/__data/assets/image/0003/560865/Soil-Pores-1.jpg" style="float: right; margin: 1em 0px 1em 1em;" title="Sandy soil" width="147"/>
+      </p>
+      <p>
+       The solid part of the soil is made up of particles such as organic matter, silt, sand and clay which form aggregates. Aggregates are held together by clay particles and organic matter. Organic matter is one of the major cementing agents for soil aggregates. The size and shape of aggregates give soil a characteristic called soil structure.
+      </p>
+      <p>
+       Soil structure influences plant growth by affecting the movement of water, air and nutrients to plants.
+      </p>
+      <p>
+       Sandy soils have little or no structure but are often free draining.
+      </p>
+      <p>
+       With higher clay contents the soil structural strength increases, but its drainage ability often decreases.
+      </p>
+      <p>
+       Heavy clays can hold a large amounts of water and as infiltration rates are slow, they tend not to be well drained, unlike sand or loam soils with no or a lower clay content.
+      </p>
+      <p>
+       <img alt="Diagram showing loam soil with small and large particles and pores of different sizes" height="190" src="https://agriculture.vic.gov.au/__data/assets/image/0011/560864/Soil-Pores-2.jpg" style="float: right; margin: 1em 0px 1em 1em;" title="Loam type soil" width="249"/>
+      </p>
+      <p>
+       The amount of soil pores and the pore size relate to the drainage capacity of the soil. The larger size and fewer the number of pores the easier it is for water to move through the soil profile.
+      </p>
+      <p>
+       It is not just the soil type that affects structure and drainage but also the activities or environmental factors occurring to them. Root and earthworm activity can improve soil structure through creating large pores. Excessive cultivation, removal of crop residues and increased traffic contribute to soil structural decline, through compaction of soils, reducing pore size and breaking down of soil aggregates.
+      </p>
+      <p>
+       The chemical make-up of soils also determines structure. When high amounts of sodium are present (&gt;6% exchangeable sodium percentage) clay particles separate and move freely about in wet soil. These soils are known as sodic soils. When sodic soils come in contact with water, the water turns milky as the clay disperses and when the soil dries out a crust is formed on the surface. Sodicity can be overcome by applying gypsum.
+      </p>
+      <p>
+       <img alt="Diagram showing clay soil which has smaller particles with lots of small pores" height="190" src="https://agriculture.vic.gov.au/__data/assets/image/0004/560866/Soil-Pores-3.jpg" style="float: right; margin: 1em 0px 1em 1em;" title="Clay soil" width="149"/>
+      </p>
+      <p>
+       Slaking is the breakdown of aggregates on wetting, into smaller particles. Slaking generally occurs when intense rainfall hits dry soil, the aggregates collapse as a result of the pressure created by the clay swelling and the trapped air expanding and escaping. This process can block up pore spaces and when the soil dries a crust is formed causing infiltration and seedling emergence problems.
+      </p>
+      <h2>
+       Soil colour
+      </h2>
+      <p>
+       Soil colour can indicate the organic matter content of soil, the parent material soil is formed from, the degree of weathering the soil has undergone and the drainage characteristics of the soil.
+      </p>
+      <p>
+       The colour of the soil is the main indicator of how soils drain.
+      </p>
+      <p>
+       <strong>
+        Table 1: Soil colour and indications
+       </strong>
+      </p>
+      <table id="table13757" style="width: 100%;">
+       <thead>
+        <tr>
+         <th id="table13757r1c1">
+          Soil colour
+         </th>
+         <th id="table13757r1c2">
+          Indication
+         </th>
+        </tr>
+       </thead>
+       <tbody>
+        <tr>
+         <td headers="table13757r1c1">
+          Dark brown
+         </td>
+         <td headers="table13757r1c2">
+          High organic matter content
+         </td>
+        </tr>
+        <tr>
+         <td headers="table13757r1c1">
+          Black
+         </td>
+         <td headers="table13757r1c2">
+          Humus
+         </td>
+        </tr>
+        <tr>
+         <td headers="table13757r1c1">
+          Red
+         </td>
+         <td headers="table13757r1c2">
+          <ul>
+           <li>
+            Presence of iron
+           </li>
+           <li>
+            Phosphorous may be less available to the plant
+           </li>
+           <li>
+            Free draining
+           </li>
+          </ul>
+         </td>
+        </tr>
+        <tr>
+         <td headers="table13757r1c1">
+          Yellow
+         </td>
+         <td headers="table13757r1c2">
+          <ul>
+           <li>
+            Moist conditions
+           </li>
+           <li>
+            Restrictive drainage
+           </li>
+           <li>
+            Less weathering
+           </li>
+          </ul>
+         </td>
+        </tr>
+        <tr>
+         <td headers="table13757r1c1">
+          Grey, Blue/green hues
+         </td>
+         <td headers="table13757r1c2">
+          <ul>
+           <li>
+            Poor drainage
+           </li>
+           <li>
+            Waterlogging
+           </li>
+          </ul>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <p>
+       Lighter coloured soils can generally indicate low fertility for example white sands. While darker soils (like black clays) are quite fertile. There is a large range in between.
+      </p>
+      <h2>
+       Determine soil drainage
+      </h2>
+      <p>
+       The drainage of a soil is an important characteristic to assess, as many plants prefer well-drained soils.
+      </p>
+      <p>
+       If a soil is poorly drained, sufficient oxygen cannot get to the plant roots which can stunt or kill the plant.
+      </p>
+      <p>
+       Soils that are very well drained can limit plant capture of water in drier environments or in dry years due to insufficient water holding capacity.
+      </p>
+      <p>
+       Other important indicators are:
+      </p>
+      <ul>
+       <li>
+        texture of the soil
+       </li>
+       <li>
+        presence of buckshot and stones
+       </li>
+       <li>
+        dispersibility and friability of the soil.
+       </li>
+      </ul>
+      <h2>
+       Inorganic component of soils
+      </h2>
+      <p>
+       Inorganic material is the major component of most soils.
+      </p>
+      <p>
+       It consists largely of mineral particles with specific physical and chemical properties which vary depending on the parent material and conditions under which the soil was formed.
+      </p>
+      <p>
+       It is the inorganic fraction of soils which determines soil physical properties such as texture. This has a large effect on structure, density and water retention.
+      </p>
+      <h3>
+       Soil texture
+      </h3>
+      <p>
+       The texture of soil is a property which is determined largely by the relative proportions of inorganic particles of different sizes.
+      </p>
+      <p>
+       In Australia, the following sizes are used to describe the inorganic fraction of soils:
+      </p>
+      <ul>
+       <li>
+        <strong>
+         Gravel
+        </strong>
+        — particles greater than 2mm in diameter
+       </li>
+       <li>
+        <strong>
+         Coarse sand
+        </strong>
+        — particles less than 2mm and greater than 0.2mm in diameter
+       </li>
+       <li>
+        <strong>
+         Fine sand
+        </strong>
+        — particles between 0.2mm and 0.02mm in diameter
+       </li>
+       <li>
+        <strong>
+         Silt
+        </strong>
+        — particles between 0.02mm and 0.002mm in diameter
+       </li>
+       <li>
+        <strong>
+         Clay
+        </strong>
+        — particles less than 0.002mm in diameter.
+       </li>
+      </ul>
+      <h3>
+       Sand
+      </h3>
+      <p>
+       Quartz is the predominant mineral in the sand fraction of most soils. Sand particles have:
+      </p>
+      <ul>
+       <li>
+        a relatively small surface area per unit weight
+       </li>
+       <li>
+        low water retention
+       </li>
+       <li>
+        little chemical activity compared with silt and clay.
+       </li>
+      </ul>
+      <h3>
+       Silt
+      </h3>
+      <p>
+       Silt has a relatively limited surface area with little chemical activity. Soils high in silt may compact under heavy traffic. This affects the movement of air and water in the soil.
+      </p>
+      <h3>
+       Clay
+      </h3>
+      <p>
+       Clays have very large surface areas compared with the other inorganic fractions. As a result, clays are chemically very active and able to hold nutrients on their surfaces. These nutrients can be released into soil water to be used by plants. Like nutrients, water also attaches to the surfaces of clays but this water can be hard for plants to use.
+      </p>
+      <p>
+       There are many different types of clays. Clays are distinguished from sand and silt by their ability to swell and retain a shape they have been formed into — as well as by their sticky nature.
+      </p>
+      <h3>
+       Soil textural class
+      </h3>
+      <p>
+       The relative proportion of sand, silt and clay particles determines the physical properties of soil including the texture. The surface area of a given amount of soil increases significantly as the particle size decreases. Consequently, the soil textural class also gives an indication of soil chemical properties.
+      </p>
+      <p>
+       The exact proportions of sand, silt and clay in a soil can only be determined in a laboratory. However, a naming system has been developed to approximately describe the relative proportions. This classification of soil can be undertaken in the field where particular properties indicate possible textural classes.
+      </p>
+      <p>
+       To estimate texture in the field, crush a small sample of soil (10 to 20g) in one hand. After removing any gravel or root matter, work the soil in the fingers to break down any aggregates. With the sample moist but not sticky, the textural class can be estimated by the feel of the sample between the fingers.
+      </p>
+      <h3>
+       Textural class descriptions for soil
+      </h3>
+      <p>
+       A simple way to determine a soil texture and its characteristics is by hand texturing. When texturing soil it is important to understand the behaviour feel, colour, sound and cohesiveness of the soil, which is achieved by making a bolus (wetting the soil and forming a ball). For example, a sandy loam will only just stick together (slightly coherent) and there will be noticeable sand grains which can be seen and felt and heard if you place the bolus close to your ear and squeeze it.
+      </p>
+      <p>
+       It is then important to form a ribbon from the bolus to determine the clay content of the soil. The longer the ribbon the higher the clay content. The length of the ribbon is measured against a ruler and along with the behaviour of the soil can be compared with the descriptions on the soil texture table. This table will help you to assess soil texture.
+      </p>
+      <p>
+       <strong>
+        Table 2: Guide to common soil textures
+       </strong>
+      </p>
+      <table id="table59780" style="width: 100%;">
+       <thead>
+        <tr>
+         <th id="table59780r1c1">
+          Texture grade
+         </th>
+         <th id="table59780r1c2">
+          Behaviour of moist bolus (ball formed in palm of hand)
+         </th>
+        </tr>
+       </thead>
+       <tbody>
+        <tr>
+         <td headers="table59780r1c1">
+          Sand
+         </td>
+         <td headers="table59780r1c2">
+          Coherence, nil. Single sand grains adhere to fingers. If you press the bolus between your fingers, holding close to your ear, you will hear the sand grains rubbing against each other.
+         </td>
+        </tr>
+        <tr>
+         <td headers="table59780r1c1">
+          Loamy sand
+         </td>
+         <td headers="table59780r1c2">
+          Slight coherence. Discolours fingers with dark organic stain. Ribbon length 1.0cm.
+         </td>
+        </tr>
+        <tr>
+         <td headers="table59780r1c1">
+          Clayey sand
+         </td>
+         <td headers="table59780r1c2">
+          Slight coherence; sticky when wet. Many sand grains stick to fingers. Discolours fingers with clay stain. Ribbon length 1.0cm.
+         </td>
+        </tr>
+        <tr>
+         <td headers="table59780r1c1">
+          Sandy loam
+         </td>
+         <td headers="table59780r1c2">
+          Bolus just coherent but very sandy to touch. Ribbon length 1.3 to 2.5cm. Can hear sand grains (see Sand description).
+         </td>
+        </tr>
+        <tr>
+         <td headers="table59780r1c1">
+          Fine sandy loam
+         </td>
+         <td headers="table59780r1c2">
+          Bolus coherent. Sand can be felt and heard when manipulated. Ribbon length 1.3 to 2.5cm.
+         </td>
+        </tr>
+        <tr>
+         <td headers="table59780r1c1">
+          Light sandy clay loam
+         </td>
+         <td headers="table59780r1c2">
+          Bolus strongly coherent but sandy to touch. Ribbon length 2 to 2.5cm.
+         </td>
+        </tr>
+        <tr>
+         <td headers="table59780r1c1">
+          Loam
+         </td>
+         <td headers="table59780r1c2">
+          Bolus coherent and spongy. Smooth feel, may be greasy. Ribbon length 2.5cm.
+         </td>
+        </tr>
+        <tr>
+         <td headers="table59780r1c1">
+          Loam fine sandy
+         </td>
+         <td headers="table59780r1c2">
+          Bolus coherent and slightly spongy. Fine sand can be felt and heard when manipulated. Ribbon length 2.5cm.
+         </td>
+        </tr>
+        <tr>
+         <td headers="table59780r1c1">
+          Silt loam
+         </td>
+         <td headers="table59780r1c2">
+          Coherent bolus, very smooth to silky when manipulated. Ribbon length 2.5cm.
+         </td>
+        </tr>
+        <tr>
+         <td headers="table59780r1c1">
+          Sandy clay loam
+         </td>
+         <td headers="table59780r1c2">
+          Strongly coherent bolus sandy to touch. Medium sand grains visible. Ribbon length 2.5 to 3.8cm.
+         </td>
+        </tr>
+        <tr>
+         <td headers="table59780r1c1">
+          Clay loam
+         </td>
+         <td headers="table59780r1c2">
+          Coherent plastic bolus, smooth to manipulate. Ribbon length 4 to 5cm.
+         </td>
+        </tr>
+        <tr>
+         <td headers="table59780r1c1">
+          Silty clay loam
+         </td>
+         <td headers="table59780r1c2">
+          Coherent smooth bolus, plastic and silky to touch. Ribbon length 4 to 5cm.
+         </td>
+        </tr>
+        <tr>
+         <td headers="table59780r1c1">
+          Fine sandy clay loam
+         </td>
+         <td headers="table59780r1c2">
+          Coherent bolus, fine sand can be felt and heard. Ribbon length 4 to 5cm.
+         </td>
+        </tr>
+        <tr>
+         <td headers="table59780r1c1">
+          Sandy clay
+         </td>
+         <td headers="table59780r1c2">
+          Plastic bolus, fine medium sands can be seen, felt or heard in clay matrix. Ribbon length 5 to 7.5cm.
+         </td>
+        </tr>
+        <tr>
+         <td headers="table59780r1c1">
+          Silty clay
+         </td>
+         <td headers="table59780r1c2">
+          Plastic bolus, smooth and silky to manipulate. Ribbon length 5 to 7.5cm.
+         </td>
+        </tr>
+        <tr>
+         <td headers="table59780r1c1">
+          Light clay
+         </td>
+         <td headers="table59780r1c2">
+          Plastic bolus, smooth to touch; slight resistance to shearing between thumb and forefinger. Ribbon length 5 to 7.5cm.
+         </td>
+        </tr>
+        <tr>
+         <td headers="table59780r1c1">
+          Light medium clay
+         </td>
+         <td headers="table59780r1c2">
+          Plastic bolus, smooth to touch, slightly greater resistance to ribboning. Ribbon length 7.5cm.
+         </td>
+        </tr>
+        <tr>
+         <td headers="table59780r1c1">
+          Medium clay
+         </td>
+         <td headers="table59780r1c2">
+          Smooth plastic bolus, handles like plasticine. Has some resistance to ribboning. Ribbon length 7.5cm.
+         </td>
+        </tr>
+        <tr>
+         <td headers="table59780r1c1">
+          Heavy clay
+         </td>
+         <td headers="table59780r1c2">
+          Smooth plastic bolus, handles like stiff plasticine. Has firm resistance to ribboning. Ribbon length 7.5cm or more.
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <p>
+       It should always be remembered that soil texture often varies with depth and that the properties of the topsoil are affected by the properties of the subsoil.
+      </p>
+      <h3>
+       Structure
+      </h3>
+      <p>
+       Structure is the arrangement of soil particles and pore spaces between. Soil with a structure beneficial to plant growth, has stable aggregates between 0.5 and 2mm in diameter. Such soils have good aeration and drainage.
+      </p>
+      <h3>
+       Chemical properties
+      </h3>
+      <p>
+       The inorganic minerals of soils consist primarily of silicon, iron and aluminium which do not contribute greatly to the nutritional needs of plants. Those in the clay fraction have the capacity to retain nutrients in forms which are potentially available for plants to use.
+      </p>
+      <h2>
+       Organic component of soil
+      </h2>
+      <p>
+       The organic matter of soil usually makes up less than 10% of the soil. It can be subdivided into living and the non-living fractions. The non-living fraction contributes to the soil's ability to retain water and some nutrients and to the formation of stable aggregates.
+      </p>
+      <h3>
+       Organic matter fraction of soils
+      </h3>
+      <p>
+       The organic matter fraction of soils comes from the decomposition of animal or plant products such as faeces and leaves. Soil organic matter contributes to stable soil aggregates by binding soil particles together.
+      </p>
+      <p>
+       Plants living in soil continually add organic matter in the form of roots and debris. Decomposition of this organic matter by microbial activity releases nutrients for the growth of other plants.
+      </p>
+      <p>
+       The organic matter content of a soil depends on the rates of organic matter addition and decomposition. Soil microorganisms are responsible for the decomposition of organic matter such as plant residues. Initially, the sugars, starch and certain proteins are readily attacked by a number of different microorganisms. The more resistant structural components of the cell wall decompose relatively slowly. The less easily decomposed compounds, such as lignin and tannin, impart a dark colour to soils containing a significant organic matter content.
+      </p>
+      <p>
+       The decomposition rate of organic materials depends on how favourable the soil environment is for microbial activity. Higher decomposition rates occur where there are:
+      </p>
+      <ul>
+       <li>
+        warm, moist conditions
+       </li>
+       <li>
+        good aeration
+       </li>
+       <li>
+        a favourable ratio of nutrients
+       </li>
+       <li>
+        a pH near neutral
+       </li>
+       <li>
+        freedom from toxic compounds.
+       </li>
+      </ul>
+      <h3>
+       Soil organisms
+      </h3>
+      <p>
+       The soil contains numerous organisms ranging from microscopic bacteria to large soil animals such as earthworms. The soil microorganisms include:
+      </p>
+      <ul>
+       <li>
+        bacteria
+       </li>
+       <li>
+        fungi
+       </li>
+       <li>
+        actinomycetes
+       </li>
+       <li>
+        algae
+       </li>
+       <li>
+        protozoa
+       </li>
+       <li>
+        nematodes.
+       </li>
+      </ul>
+      <p>
+       The diversity of soil organisms can both assist and hinder plant growth. Beneficial activities include:
+      </p>
+      <ul>
+       <li>
+        organic matter decomposition
+       </li>
+       <li>
+        nitrogen fixation
+       </li>
+       <li>
+        transformation of essential elements from one form to another
+       </li>
+       <li>
+        improvement in soil structure through soil aggregation
+       </li>
+       <li>
+        improved drainage and aeration.
+       </li>
+      </ul>
+      <p>
+       Under some circumstances soil organisms compete with plants for nutrients.
+      </p>
+      <p>
+       Bacteria are the smallest and most numerous microorganisms in the soil. They make an important contribution to organic matter decomposition, nitrogen fixation and the transformation of nitrogen and sulphur.
+      </p>
+      <p>
+       The fungi and actinomycetes contribute beneficially to organic matter decomposition. The group of large soil animals includes earthworms, which incorporate organic matter into the soil as well as improving aeration and drainage by means of their channels.
+      </p>
+      <p>
+       Some soil fungi, nematodes, and insects feed on roots and lateral shoots to the detriment of plants.
+      </p>
+      <h2>
+       Further reading
+      </h2>
+      <p>
+       LEEPER, G.W. and UREN, N.C. (1993) Soil Science, An Introduction. 5th edition, Melbourne University Press.
+      </p>
+     </div>
+     <script>
+      var relatedEventsData = [];
+     </script>
+     <div id="related-events-react">
+     </div>
+     <div id="was-this-helpful-react">
+     </div>
+     <div id="last-updated-reviewed">
+      <!--<span class="last-reviewed">Page last reviewed:  </span><span class="divider">|</span>-->
+      <span class="last-updated">
+       Page last updated: 17 Oct 2022
+      </span>
+     </div>
+    </div>
+   </main>
+   <!--noindex-->
+  </div>
+  <div class="promo-card-container">
+  </div>
+  <div id="back-to-top-react">
+  </div>
+  <script>
+   var acknowledgementDataCMS = 
+
+{
+    acknowledgement: {
+      content:
+        "<p>We acknowledge the traditional Aboriginal Owners of Country throughout Victoria, their ongoing connection to this land and we pay our respects to their culture and their Elders past, present and future.<\/p>"
+    }
+  }
+  </script>
+  <div id="acknowledgement-react">
+  </div>
+  <script>
+   var footerDataCMS ={
+        "socialLinks": [
+            { 
+               "location": "footer",
+               "facebook": "https://www.facebook.com/agriculturevictoria",
+               "twitter": "https://twitter.com/vicgovag", 
+               "youtube": "https://www.youtube.com/channel/UCMRjR7CLYA6gTHPOHblELQQ"                           
+            }                    
+         ],
+         "column1": [
+                       {
+               "pageName": "Copyright",
+               "pageURL": "https:\/\/agriculture.vic.gov.au\/copyright"             
+            } ,
+            {
+               "pageName": "Privacy",
+               "pageURL": "https:\/\/agriculture.vic.gov.au\/privacy"               
+            } ,
+            {
+               "pageName": "Disclaimer",
+               "pageURL": "https:\/\/agriculture.vic.gov.au\/disclaimer"                 
+            }                       
+         ],
+         "column2": [
+                        {
+               "pageName": "Accessibility",
+               "pageURL": "https:\/\/agriculture.vic.gov.au\/accessibility"             
+            } ,
+            {
+               "pageName": "Sitemap",
+               "pageURL": "https:\/\/agriculture.vic.gov.au\/sitemap"               
+            } ,
+            {
+               "pageName": "Contact us",
+               "pageURL": "https:\/\/agriculture.vic.gov.au\/about\/contact-us"                 
+            }                       
+         ],
+         "moreInformation": 
+            {
+               "content": '<h2>More information<\/h2><p>Telephone: <a href="tel:136186">136 186</a><\/p><p>Deaf, hearing or speech impaired?<br \/>National Relay Service: 133 677<a href=\"http:\/\/www.relayservice.gov.au\">www.relayservice.gov.au<\/a><\/p><p>VicEmergency Hotline: 1800 226 226<\/p>'       
+            } 
+}
+  </script>
+  <div id="footer-react">
+  </div>
+  <!--
+Event snippet for AU_DJPR-AGRICULTURE VICTORIA SERVICES PTY LTD_COUNTER - STANDARD_PAGE VIEW_UNIVERAL REMARKETING TAG on https://agriculture.vic.gov.au: Please do not remove.
+Place this snippet on pages with events you’re tracking. 
+Creation date: 04/18/2021
+-->
+  <script>
+   gtag('event', 'conversion', {
+    'allow_custom_scripts': true,
+    'u1': '[PageURL]',
+    'send_to': 'DC-10880932/remar0/au_dj0+standard'
+  });
+  </script>
+  <noscript>
+   <img alt="" height="1" src="https://ad.doubleclick.net/ddm/activity/src=10880932;type=remar0;cat=au_dj0;u1=[PageURL];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ord=1?" width="1"/>
+  </noscript>
+  <!-- End of event snippet: Please do not remove -->
+  <!--endnoindex-->
+  <!-- dist/matrix-js.html (START) -->
+  <script src="/__data/assets/git_bridge/0004/866065/dist/js/runtime.10871c73.js">
+  </script>
+  <script src="/__data/assets/git_bridge/0004/866065/dist/js/main.d0e27b5b.chunk.js">
+  </script>
+  <!-- dist/matrix-js.html (END) -->
+  <script type="text/javascript">
+   window._monsido = window._monsido || {
+        token: "vNC7p5vL94_L4zZ7P6sbMQ",
+    };
+  </script>
+  <!-- Alert Banner JS -->
+  <script defer="" src="https://web5.economicdevelopment.vic.gov.au/alert-banner.js">
+  </script>
+  <script async="" src="https://app-script.monsido.com/v2/monsido-script.js" type="text/javascript">
+  </script>
+  <script src="https://js.createsend1.com/javascript/copypastesubscribeformlogic.js" type="text/javascript">
+  </script>
+  <script src="https://agriculture.vic.gov.au/__data/assets/file/0004/526054/jquery.min.js" type="text/javascript">
+  </script>
+  <script src="https://agriculture.vic.gov.au/__data/assets/js_file/0005/526055/analytics.js">
+  </script>
+  <!--analytics-->
+ </body>
+</html>

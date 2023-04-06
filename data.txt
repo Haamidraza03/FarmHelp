@@ -6,7 +6,7 @@
   <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
   <meta content="width=device-width,minimum-scale=1,initial-scale=1" name="viewport"/>
   <link href="https://economictimes.indiatimes.com/topic/farmers/amp" rel="amphtml"/>
-  <meta cache-control="Tuesday, April 04, 2023  11:21:34 PM IST" http-equiv="Last-Modified"/>
+  <meta cache-control="Thursday, April 06, 2023  12:26:40 PM IST" http-equiv="Last-Modified"/>
   <title>
    farmers: Latest News &amp; Videos, Photos about farmers  | The Economic Times - Page 1
   </title>
@@ -357,7 +357,7 @@
             
             })();
   </script>
-  <!--/mpulsescript.cmspotime:3-->
+  <!--/mpulsescript.cmspotime:4-->
   <link href="https://www.google-analytics.com" rel="preconnect"/>
   <link href="https://cm.g.doubleclick.net" rel="preconnect"/>
   <link href="https://googleads.g.doubleclick.net" rel="preconnect"/>
@@ -495,12 +495,12 @@
         </a>
        </span>
       </div>
-      <span data-dt="2023-04-04 23:21:35.481">
+      <span data-dt="2023-04-06 12:26:41.473">
        <span>
         |
        </span>
        <span class="dib time">
-        04 April, 2023, 11:21 PM IST
+        06 April, 2023, 12:26 PM IST
        </span>
       </span>
       <span>
@@ -677,7 +677,7 @@
    </div>
    <div class="fullWidthContainer showDetail" id="userOnboardTrial">
    </div>
-   <!--/etnav.cms?msid=0potime:3-->
+   <!--/etnav.cms?msid=0potime:8-->
    <div class="brcmb_wrapper clearfix">
     <div class="clr breadCrumb contentwrapper" itemscope="" itemtype="https://schema.org/BreadcrumbList">
      <span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
@@ -692,7 +692,7 @@
       farmers
      </span>
      <!-- could not get data -->
-     <!--/breadcrumb_static.cms?gidurl=yes&template_name=topics_default&language=&msid=0potime:3-->
+     <!--/breadcrumb_static.cms?gidurl=yes&template_name=topics_default&language=&msid=0potime:2-->
     </div>
    </div>
    <div id="breakingNews">
@@ -1499,91 +1499,77 @@
        <div class="overh slides clearfix">
         <ul>
          <li>
-          <a data-ga-onclick="Seo - 1 - href" href="/magazines/panache/tech-and-gadgets/oneplus-nord-ce-3-lite-5g-launch-live-news-nord-buds-2-latest-updates/liveblog/99244213.cms">
-           OnePlus Nord CE 3 Lite Launch live
+          <a data-ga-onclick="Seo - 1 - href" href="/news/politics-and-nation/bjp-committed-to-taking-tough-steps-to-rid-india-of-graft-nepotism-pm-modi-on-party-foundation-day/articleshow/99287543.cms">
+           BJP Foundation day
           </a>
-          <a data-ga-onclick="Seo - 2 - href" href="/news/economy/agriculture/national-bulk-handling-corporation-appoints-vinod-kumar-as-md-ceo/articleshow/99234124.cms">
+          <a data-ga-onclick="Seo - 2 - href" href="/news/newsblogs/daily-news-and-latest-updates-live-6-april-2023/liveblog/99284547.cms">
+           Satyendar Jain Bail News Live
+          </a>
+          <a data-ga-onclick="Seo - 3 - href" href="/news/india/jharkhand-minister-jagarnath-mahto-dies-at-chennai-hospital/articleshow/99287075.cms">
+           Jagarnath Mahto
+          </a>
+          <a data-ga-onclick="Seo - 4 - href" href="/news/economy/policy/rbi-cuts-inflation-projection-for-fy24-to-5-2-from-5-3-flags-risks-from-adverse-climate-conditions/articleshow/99284923.cms">
+           Rbi Inflation Rate
+          </a>
+         </li>
+         <li>
+          <a data-ga-onclick="Seo - 5 - href" href="/news/india/india-sees-sharp-jump-in-daily-covid-cases-5300-fresh-infections-in-24-hours/articleshow/99284211.cms">
+           Covid Cases India
+          </a>
+          <a data-ga-onclick="Seo - 6 - href" href="/news/economy/policy/how-key-economic-indicators-shaped-up-before-indias-policy-decision-tomorrow/articleshow/99266333.cms">
+           RBI MPC Meet 2023
+          </a>
+          <a data-ga-onclick="Seo - 7 - href" href="/news/india/sc-quashes-centres-ban-on-malayalam-news-channel-mediaone/articleshow/99258884.cms">
+           Mediaone News
+          </a>
+          <a data-ga-onclick="Seo - 8 - href" href="/news/economy/agriculture/national-bulk-handling-corporation-appoints-vinod-kumar-as-md-ceo/articleshow/99234124.cms">
            Vinod Kumar
           </a>
-          <a data-ga-onclick="Seo - 3 - href" href="/industry/media/entertainment/media/ambanis-ipl-streaming-playbook-goes-beyond-the-number-fight-versus-disney-star/articleshow/99230331.cms">
-           Disney Star
+         </li>
+         <li>
+          <a data-ga-onclick="Seo - 9 - href" href="/magazines/panache/padma-awards-2023-raveena-tandon-meets-rrr-director-ss-rajamouli/articleshow/99285622.cms">
+           Padma Awards 2023
           </a>
-          <a data-ga-onclick="Seo - 4 - href" href="/news/india/kerala-train-fire-incident-three-found-dead-on-railway-track-after-man-sets-co-passenger-on-fire/articleshow/99202658.cms">
-           Kerala Train fire
+          <a data-ga-onclick="Seo - 10 - href" href="/news/new-updates/hanuman-jayanti-2023-inspirational-quotes-heartfelt-messages-and-warm-wishes-to-share-on-this-auspicious-day/articleshow/99268398.cms">
+           Hanuman Jayanti Wishes
+          </a>
+          <a data-ga-onclick="Seo - 11 - href" href="/magazines/panache/salman-khan-chides-younger-actors-for-charging-a-bomb-says-90s-stars-will-tire-them-out/articleshow/99287084.cms">
+           Salman Khan
+          </a>
+          <a data-ga-onclick="Seo - 12 - href" href="/magazines/panache/author-sudha-murty-receives-padma-bhushan-daughter-uk-first-lady-akshata-gets-front-row-seat-to-the-ceremony/articleshow/99285371.cms">
+           Sudha Murthy
           </a>
          </li>
          <li>
-          <a data-ga-onclick="Seo - 5 - href" href="/news/company/corporate-trends/india-inc-reactivates-covid-protocols-as-cases-rise-in-india/articleshow/99194532.cms">
-           Covid cases India
+          <a data-ga-onclick="Seo - 13 - href" href="/magazines/panache/web-stories/padma-awards-2023-family-time-for-raveena-tandon-sudha-murty-rajamouli-cheers-keeravani/slideshow/99286844.cms">
+           Padma Awards 2023 List
           </a>
-          <a data-ga-onclick="Seo - 6 - href" href="/news/india/russia-and-india-face-similar-challenges-in-public-safety-ntechlab/articleshow/99200557.cms">
-           Ntechlab Communications
-          </a>
-          <a data-ga-onclick="Seo - 7 - href" href="/news/new-updates/mahavir-jayanti-2023-check-date-history-significance-and-how-to-celebrate/articleshow/99203642.cms">
-           Mahavir Jayanti 2023 Date
-          </a>
-          <a data-ga-onclick="Seo - 8 - href" href="/news/india/indias-updated-covid-guidelines-advise-caution-on-antibiotics-steroid-use/articleshow/99183154.cms">
-           India Covid Guidelines
-          </a>
-         </li>
-         <li>
-          <a data-ga-onclick="Seo - 9 - href" href="/news/india/india-reports-3095-fresh-covid-infection-cases/articleshow/99134049.cms">
-           Covid cases News
-          </a>
-          <a data-ga-onclick="Seo - 10 - href" href="/magazines/panache/this-is-super-lame-badshah-says-he-is-not-getting-married-to-isha-rikhi/articleshow/99202091.cms">
+          <a data-ga-onclick="Seo - 14 - href" href="/magazines/panache/this-is-super-lame-badshah-says-he-is-not-getting-married-to-isha-rikhi/articleshow/99202091.cms">
            Badshah Marriage
           </a>
-          <a data-ga-onclick="Seo - 11 - href" href="/news/new-updates/wordle-653-see-hints-and-answers-for-the-popular-word-guessing-game/articleshow/99201622.cms">
+          <a data-ga-onclick="Seo - 15 - href" href="/news/new-updates/wordle-655-april-5-2023-see-hints-solutions-how-to-play-the-word-puzzle/articleshow/99258837.cms">
            Wordle Today
           </a>
-          <a data-ga-onclick="Seo - 12 - href" href="/news/how-to/how-to-use-your-iphones-esim-for-international-travel-without-roaming-fee-a-complete-guide/articleshow/99108178.cms">
+          <a data-ga-onclick="Seo - 16 - href" href="/news/how-to/how-to-use-your-iphones-esim-for-international-travel-without-roaming-fee-a-complete-guide/articleshow/99108178.cms">
            Iphone Esim
           </a>
          </li>
          <li>
-          <a data-ga-onclick="Seo - 13 - href" href="/news/elections/assembly-elections/karnataka/karnataka-to-go-to-polls-on-may-10-results-on-13may-/articleshow/99078460.cms">
+          <a data-ga-onclick="Seo - 17 - href" href="/news/elections/assembly-elections/karnataka/karnataka-to-go-to-polls-on-may-10-results-on-13may-/articleshow/99078460.cms">
            Karnataka Assembly Elections
           </a>
-          <a data-ga-onclick="Seo - 14 - href" href="/news/india/covid-cases-in-india-climb-to-5-month-high/articleshow/99079185.cms">
-           India Covid Cases Update
-          </a>
-          <a data-ga-onclick="Seo - 15 - href" href="/markets/stocks/news/stock-markets-to-be-shut-for-four-days-in-three-weeks-heres-why/articleshow/99064335.cms">
-           Stock market Holiday
-          </a>
-          <a data-ga-onclick="Seo - 16 - href" href="/markets/stocks/news/vedanta-cfo-ajay-goel-resigns-to-pursue-other-opportunities/articleshow/99065217.cms">
-           Ajay Goel Resign
-          </a>
-         </li>
-         <li>
-          <a data-ga-onclick="Seo - 17 - href" href="/magazines/panache/web-stories/ram-charans-birthday-bash-a-starry-affair-with-team-rrr-akkinenis-vijay-devarakonda/slideshow/99082674.cms">
-           Ram Charan Birthday Party
-          </a>
-          <a data-ga-onclick="Seo - 18 - href" href="/news/india/atiq-ahmed-held-guilty-in-2006-umesh-pal-kidnapping-case-his-brother-acquitted/articleshow/99055651.cms">
-           Atiq Ahmed Life Imprisonment
-          </a>
-          <a data-ga-onclick="Seo - 19 - href" href="/magazines/panache/chopra-dodges-questions-on-rumoured-engagement-to-aap-leader-raghav-chadha-with-a-smile-leaves-reporters-guessing/articleshow/99086176.cms">
-           Parineeti Chopra Engagement
-          </a>
-          <a data-ga-onclick="Seo - 20 - href" href="/news/new-updates/bheed-box-office-collection-day-4-rajkummar-rao-bhumi-pednekar-starrer-falls-flat-at-the-box-office-collects-this-much/articleshow/99055094.cms">
-           Bheed Box Office Collection
-          </a>
-         </li>
-         <li>
-          <a data-ga-onclick="Seo - 21 - href" href="/news/company/corporate-trends/dell-most-trusted-brand-in-india-xiaomi-mobiles-at-number-2-tra-report/articleshow/99050686.cms">
-           Xiaomi India
-          </a>
-          <a data-ga-onclick="Seo - 22 - href" href="/news/economy/policy/government-may-extend-pan-aadhaar-linking-deadline/articleshow/99041488.cms">
+          <a data-ga-onclick="Seo - 18 - href" href="/news/economy/policy/government-may-extend-pan-aadhaar-linking-deadline/articleshow/99041488.cms">
            Pan Aadhar Linking
           </a>
-          <a data-ga-onclick="Seo - 23 - href" href="/news/elections">
+          <a data-ga-onclick="Seo - 19 - href" href="/news/elections">
            Elections
           </a>
-          <a data-ga-onclick="Seo - 24 - href" href="/wealth/tax">
+          <a data-ga-onclick="Seo - 20 - href" href="/wealth/tax">
            Income Tax
           </a>
          </li>
          <li>
-          <a data-ga-onclick="Seo - 25 - href" href="/wealth/ifsc-bank-code">
+          <a data-ga-onclick="Seo - 21 - href" href="/wealth/ifsc-bank-code">
            IFSC Code
           </a>
          </li>
@@ -1591,7 +1577,7 @@
        </div>
       </div>
      </div>
-     <!--/seowidget_new.cms?msid=65474959&nolink=1&layout=articleshow&head=Top Trending Termspotime:3-->
+     <!--/seowidget_new.cms?msid=65474959&nolink=1&layout=articleshow&head=Top Trending Termspotime:4-->
      <div class="clr">
      </div>
      <div class="adsbg300 colombiaAd list colombia rmfp" data-dfpsize="[[300, 250]]" data-dfpslot="/7176/Economictimes/ET_Home/ET_Home_Home/ET_HP_Bid_Experiment_300" data-ga-onclick="1 - CTN" data-position="1" data-section="0" data-slot="129117" data-track="Story_Position_1" data-type="dfp" id="div-clmb-ctn-129117-1" style="min-height: 235px;">
@@ -1605,50 +1591,50 @@
        </h2>
        <ul class="font_faus plr_wd">
         <li>
-         <span class="hl" data-ga-onclick="1 - href" href="/magazines/panache/nmacc-day-3-radhika-merchant-stuns-in-dolce-gabbana-jumpsuit-gigi-hadid-bonds-with-shah-rukh-khan-kokilaben-ambani-inaugurates-art-house/articleshow/99212912.cms" target="_blank" title="NMACC Day 3: Radhika Merchant stuns in Dolce &amp; Gabbana jumpsuit; Gigi Hadid bonds with Shah Rukh Khan, Kokilaben Ambani inaugurates Art House">
-          <img alt="NMACC Day 3: Radhika Merchant stuns in Dolce &amp; Gabbana jumpsuit; Gigi Hadid bonds with Shah Rukh Khan, Kokilaben Ambani inaugurates Art House" class="lazy flr" data-original="https://img.etimg.com/thumb/width-100,height-75,msid-99212912/magazines/panache/nmacc-day-3-radhika-merchant-stuns-in-dolce-gabbana-jumpsuit-gigi-hadid-bonds-with-shah-rukh-khan-kokilaben-ambani-inaugurates-art-house.jpg" height="75" src="https://img.etimg.com/thumb/width-100,height-75,msid-42031747/etlogo.jpg" title="NMACC Day 3: Radhika Merchant stuns in Dolce &amp; Gabbana jumpsuit; Gigi Hadid bonds with Shah Rukh Khan, Kokilaben Ambani inaugurates Art House" width="100"/>
+         <span class="hl" data-ga-onclick="1 - href" href="/industry/cons-products/fmcg/big-catch-rs-sodhi-can-help-reliance-milk-the-market/articleshow/99269685.cms" target="_blank" title="Big catch Amul veteran RS Sodhi can help Reliance milk the market">
+          <img alt="Big catch Amul veteran RS Sodhi can help Reliance milk the market" class="lazy flr" data-original="https://img.etimg.com/thumb/width-100,height-75,msid-99269685/industry/cons-products/fmcg/big-catch-rs-sodhi-can-help-reliance-milk-the-market.jpg" height="75" src="https://img.etimg.com/thumb/width-100,height-75,msid-42031747/etlogo.jpg" title="Big catch Amul veteran RS Sodhi can help Reliance milk the market" width="100"/>
          </span>
-         <a class="hl" data-ga-onclick="1 - href" href="/magazines/panache/nmacc-day-3-radhika-merchant-stuns-in-dolce-gabbana-jumpsuit-gigi-hadid-bonds-with-shah-rukh-khan-kokilaben-ambani-inaugurates-art-house/articleshow/99212912.cms" target="_blank" title="NMACC Day 3: Radhika Merchant stuns in Dolce &amp; Gabbana jumpsuit; Gigi Hadid bonds with Shah Rukh Khan, Kokilaben Ambani inaugurates Art House">
-          NMACC Day 3: Radhika Merchant stuns in Dolce &amp; Gabbana jumpsuit; Gigi Hadid bonds with Shah Rukh Khan, Kokilaben Ambani inaugurates Art House
+         <a class="hl" data-ga-onclick="1 - href" href="/industry/cons-products/fmcg/big-catch-rs-sodhi-can-help-reliance-milk-the-market/articleshow/99269685.cms" target="_blank" title="Big catch Amul veteran RS Sodhi can help Reliance milk the market">
+          Big catch Amul veteran RS Sodhi can help Reliance milk the market
          </a>
         </li>
         <li>
-         <span class="hl" data-ga-onclick="2 - href" href="/wealth/invest/ppf-account-holders-should-deposit-contribution-by-april-5-heres-why/articleshow/99231368.cms" target="_blank" title="PPF account holders should deposit contribution by April 5: Here’s why">
-          <img alt="PPF account holders should deposit contribution by April 5: Here’s why" class="lazy flr" data-original="https://img.etimg.com/thumb/width-100,height-75,msid-99231368/wealth/invest/ppf-account-holders-should-deposit-contribution-by-april-5-heres-why.jpg" height="75" src="https://img.etimg.com/thumb/width-100,height-75,msid-42031747/etlogo.jpg" title="PPF account holders should deposit contribution by April 5: Here’s why" width="100"/>
+         <span class="hl" data-ga-onclick="2 - href" href="/news/company/corporate-trends/hero-motocorp-launches-voluntary-retirement-scheme-vrs-for-all-staff-members/articleshow/99268074.cms" target="_blank" title="Hero MotoCorp launches Voluntary Retirement Scheme (VRS) for all staff members">
+          <img alt="Hero MotoCorp launches Voluntary Retirement Scheme (VRS) for all staff members" class="lazy flr" data-original="https://img.etimg.com/thumb/width-100,height-75,msid-99268074/news/company/corporate-trends/hero-motocorp-launches-voluntary-retirement-scheme-vrs-for-all-staff-members.jpg" height="75" src="https://img.etimg.com/thumb/width-100,height-75,msid-42031747/etlogo.jpg" title="Hero MotoCorp launches Voluntary Retirement Scheme (VRS) for all staff members" width="100"/>
          </span>
-         <a class="hl" data-ga-onclick="2 - href" href="/wealth/invest/ppf-account-holders-should-deposit-contribution-by-april-5-heres-why/articleshow/99231368.cms" target="_blank" title="PPF account holders should deposit contribution by April 5: Here’s why">
-          PPF account holders should deposit contribution by April 5: Here’s why
+         <a class="hl" data-ga-onclick="2 - href" href="/news/company/corporate-trends/hero-motocorp-launches-voluntary-retirement-scheme-vrs-for-all-staff-members/articleshow/99268074.cms" target="_blank" title="Hero MotoCorp launches Voluntary Retirement Scheme (VRS) for all staff members">
+          Hero MotoCorp launches Voluntary Retirement Scheme (VRS) for all staff members
          </a>
         </li>
         <li>
-         <span class="hl" data-ga-onclick="3 - href" href="/industry/media/entertainment/media/ambanis-ipl-streaming-playbook-goes-beyond-the-number-fight-versus-disney-star/articleshow/99230331.cms" target="_blank" title="Ambani's IPL streaming playbook goes beyond the number fight versus Disney Star">
-          <img alt="Ambani's IPL streaming playbook goes beyond the number fight versus Disney Star" class="lazy flr" data-original="https://img.etimg.com/thumb/width-100,height-75,msid-99230331/industry/media/entertainment/media/ambanis-ipl-streaming-playbook-goes-beyond-the-number-fight-versus-disney-star.jpg" height="75" src="https://img.etimg.com/thumb/width-100,height-75,msid-42031747/etlogo.jpg" title="Ambani's IPL streaming playbook goes beyond the number fight versus Disney Star" width="100"/>
+         <span class="hl" data-ga-onclick="3 - href" href="/industry/cons-products/electronics/apple-ceo-tim-cook-likely-to-fly-in-to-launch-companys-first-india-store/articleshow/99281058.cms" target="_blank" title="Apple CEO Tim Cook likely to fly in to launch company's first India store">
+          <img alt="Apple CEO Tim Cook likely to fly in to launch company's first India store" class="lazy flr" data-original="https://img.etimg.com/thumb/width-100,height-75,msid-99281058/industry/cons-products/electronics/apple-ceo-tim-cook-likely-to-fly-in-to-launch-companys-first-india-store.jpg" height="75" src="https://img.etimg.com/thumb/width-100,height-75,msid-42031747/etlogo.jpg" title="Apple CEO Tim Cook likely to fly in to launch company's first India store" width="100"/>
          </span>
-         <a class="hl" data-ga-onclick="3 - href" href="/industry/media/entertainment/media/ambanis-ipl-streaming-playbook-goes-beyond-the-number-fight-versus-disney-star/articleshow/99230331.cms" target="_blank" title="Ambani's IPL streaming playbook goes beyond the number fight versus Disney Star">
-          Ambani's IPL streaming playbook goes beyond the number fight versus Disney Star
+         <a class="hl" data-ga-onclick="3 - href" href="/industry/cons-products/electronics/apple-ceo-tim-cook-likely-to-fly-in-to-launch-companys-first-india-store/articleshow/99281058.cms" target="_blank" title="Apple CEO Tim Cook likely to fly in to launch company's first India store">
+          Apple CEO Tim Cook likely to fly in to launch company's first India store
          </a>
         </li>
         <li>
-         <span class="hl" data-ga-onclick="4 - href" href="/industry/energy/oil-gas/india-oil-imports-saudi-gain-is-moscows-loss/articleshow/99226223.cms" target="_blank" title="India Oil Imports: Saudi gain is Moscow's loss">
-          <img alt="India Oil Imports: Saudi gain is Moscow's loss" class="lazy flr" data-original="https://img.etimg.com/thumb/width-100,height-75,msid-99226223/industry/energy/oil-gas/india-oil-imports-saudi-gain-is-moscows-loss.jpg" height="75" src="https://img.etimg.com/thumb/width-100,height-75,msid-42031747/etlogo.jpg" title="India Oil Imports: Saudi gain is Moscow's loss" width="100"/>
+         <span class="hl" data-conttype="100" data-ga-onclick="4 - href" href="/markets/stocks/news/ideas-for-risk-takers-in-new-financial-year-top-5-smallcap-stocks-with-an-upside-potential-of-52/articleshow/99260613.cms" target="_blank" title="Ideas for risk takers in new financial year: Top 5 smallcap stocks with an upside potential of 52%">
+          <img alt="Ideas for risk takers in new financial year: Top 5 smallcap stocks with an upside potential of 52%" class="lazy flr" data-original="https://img.etimg.com/thumb/width-100,height-75,msid-99260613/markets/stocks/news/ideas-for-risk-takers-in-new-financial-year-top-5-smallcap-stocks-with-an-upside-potential-of-52.jpg" height="75" src="https://img.etimg.com/thumb/width-100,height-75,msid-42031747/etlogo.jpg" title="Ideas for risk takers in new financial year: Top 5 smallcap stocks with an upside potential of 52%" width="100"/>
          </span>
-         <a class="hl" data-ga-onclick="4 - href" href="/industry/energy/oil-gas/india-oil-imports-saudi-gain-is-moscows-loss/articleshow/99226223.cms" target="_blank" title="India Oil Imports: Saudi gain is Moscow's loss">
-          India Oil Imports: Saudi gain is Moscow's loss
+         <a class="hl" data-conttype="100" data-ga-onclick="4 - href" href="/markets/stocks/news/ideas-for-risk-takers-in-new-financial-year-top-5-smallcap-stocks-with-an-upside-potential-of-52/articleshow/99260613.cms" target="_blank" title="Ideas for risk takers in new financial year: Top 5 smallcap stocks with an upside potential of 52%">
+          Ideas for risk takers in new financial year: Top 5 smallcap stocks with an upside potential of 52%
          </a>
         </li>
         <li>
-         <span class="hl" data-ga-onclick="5 - href" href="/markets/stocks/news/this-nifty-multibagger-turns-rs-10000-to-rs-4-7-lakh-in-just-10-years/articleshow/99232798.cms" target="_blank" title="This Nifty multibagger turns Rs 10,000 to Rs 4.7 lakh in just 10 years">
-          <img alt="This Nifty multibagger turns Rs 10,000 to Rs 4.7 lakh in just 10 years" class="lazy flr" data-original="https://img.etimg.com/thumb/width-100,height-75,msid-99232798/markets/stocks/news/this-nifty-multibagger-turns-rs-10000-to-rs-4-7-lakh-in-just-10-years.jpg" height="75" src="https://img.etimg.com/thumb/width-100,height-75,msid-42031747/etlogo.jpg" title="This Nifty multibagger turns Rs 10,000 to Rs 4.7 lakh in just 10 years" width="100"/>
+         <span class="hl" data-ga-onclick="5 - href" href="/markets/stocks/news/sebi-chief-briefs-sc-panel-on-adani-hindenburg-issue/articleshow/99253072.cms" target="_blank" title="Sebi chief briefs SC panel on Adani-Hindenburg issue">
+          <img alt="Sebi chief briefs SC panel on Adani-Hindenburg issue" class="lazy flr" data-original="https://img.etimg.com/thumb/width-100,height-75,msid-99253072/markets/stocks/news/sebi-chief-briefs-sc-panel-on-adani-hindenburg-issue.jpg" height="75" src="https://img.etimg.com/thumb/width-100,height-75,msid-42031747/etlogo.jpg" title="Sebi chief briefs SC panel on Adani-Hindenburg issue" width="100"/>
          </span>
-         <a class="hl" data-ga-onclick="5 - href" href="/markets/stocks/news/this-nifty-multibagger-turns-rs-10000-to-rs-4-7-lakh-in-just-10-years/articleshow/99232798.cms" target="_blank" title="This Nifty multibagger turns Rs 10,000 to Rs 4.7 lakh in just 10 years">
-          This Nifty multibagger turns Rs 10,000 to Rs 4.7 lakh in just 10 years
+         <a class="hl" data-ga-onclick="5 - href" href="/markets/stocks/news/sebi-chief-briefs-sc-panel-on-adani-hindenburg-issue/articleshow/99253072.cms" target="_blank" title="Sebi chief briefs SC panel on Adani-Hindenburg issue">
+          Sebi chief briefs SC panel on Adani-Hindenburg issue
          </a>
         </li>
        </ul>
       </div>
-      <!--/articleshow_popularwidget.cms?type=most_popular&msid=99212912,99231368,99230331,99226223,99232798&sec_id=potime:2-->
+      <!--/articleshow_popularwidget.cms?type=most_popular&msid=99269685,99268074,99281058,99260613,99253072&sec_id=potime:2-->
      </div>
-     <!--/topics_mostpopularwidget.cms?type=most_popular&tn=topics_defaultpotime:3-->
+     <!--/topics_mostpopularwidget.cms?type=most_popular&tn=topics_defaultpotime:4-->
      <div class="clr">
      </div>
      <div class="adsbg300 colombiaAd list colombia" data-dfpsize="[[300, 250]]" data-dfpslot="/7176/Economictimes/ET_Home/ET_Home_Home/ET_HP_Bid_Experiment_300" data-ga-onclick="2 - CTN" data-position="2" data-section="0" data-slot="129117" data-track="Story_Position_2" data-type="dfp" id="div-clmb-ctn-129117-2">
@@ -1670,18 +1656,18 @@
           </a>
          </td>
          <td class="stockValue">
-          424.25
+          433.65
          </td>
         </tr>
         <tr>
          <td class="brdrbt">
           <span class="dateTimeStock">
-           03:59 PM | 03 Apr 2023
+           12:10 PM | 06 Apr 2023
           </span>
          </td>
          <td class="stockValue brdrbt">
           <span class="cSprite_b per green">
-           3.45 (0.82%)
+           7.10 (1.66%)
           </span>
          </td>
         </tr>
@@ -1692,18 +1678,18 @@
           </a>
          </td>
          <td class="stockValue">
-          378.90
+          387.95
          </td>
         </tr>
         <tr>
          <td class="brdrbt">
           <span class="dateTimeStock">
-           03:59 PM | 03 Apr 2023
+           12:10 PM | 06 Apr 2023
           </span>
          </td>
          <td class="stockValue brdrbt">
-          <span class="cSprite_b per red">
-           -4.60 (-1.20%)
+          <span class="cSprite_b per green">
+           1.55 (0.40%)
           </span>
          </td>
         </tr>
@@ -1714,18 +1700,18 @@
           </a>
          </td>
          <td class="stockValue">
-          190.55
+          192.90
          </td>
         </tr>
         <tr>
          <td class="brdrbt">
           <span class="dateTimeStock">
-           03:59 PM | 03 Apr 2023
+           12:10 PM | 06 Apr 2023
           </span>
          </td>
          <td class="stockValue brdrbt">
-          <span class="cSprite_b per red">
-           -1.05 (-0.55%)
+          <span class="cSprite_b per green">
+           2.80 (1.47%)
           </span>
          </td>
         </tr>
@@ -1736,18 +1722,18 @@
           </a>
          </td>
          <td class="stockValue">
-          1410.85
+          1421.50
          </td>
         </tr>
         <tr>
          <td class="brdrbt">
           <span class="dateTimeStock">
-           03:59 PM | 03 Apr 2023
+           12:10 PM | 06 Apr 2023
           </span>
          </td>
          <td class="stockValue brdrbt">
           <span class="cSprite_b per red">
-           -17.10 (-1.20%)
+           -2.05 (-0.14%)
           </span>
          </td>
         </tr>
@@ -1758,18 +1744,18 @@
           </a>
          </td>
          <td class="stockValue">
-          2331.45
+          2339.05
          </td>
         </tr>
         <tr>
          <td class="brdrbt">
           <span class="dateTimeStock">
-           03:59 PM | 03 Apr 2023
+           12:10 PM | 06 Apr 2023
           </span>
          </td>
          <td class="stockValue brdrbt">
           <span class="cSprite_b per green">
-           0.40 (0.02%)
+           13.20 (0.57%)
           </span>
          </td>
         </tr>
@@ -1780,18 +1766,18 @@
           </a>
          </td>
          <td class="stockValue">
-          3200.00
+          3228.55
          </td>
         </tr>
         <tr class="hide moreData">
          <td class="brdrbt">
           <span class="dateTimeStock">
-           03:59 PM | 03 Apr 2023
+           12:10 PM | 06 Apr 2023
           </span>
          </td>
          <td class="stockValue brdrbt">
           <span class="cSprite_b per red">
-           -5.90 (-0.18%)
+           -11.25 (-0.35%)
           </span>
          </td>
         </tr>
@@ -1802,18 +1788,18 @@
           </a>
          </td>
          <td class="stockValue">
-          104.10
+          104.75
          </td>
         </tr>
         <tr class="hide moreData">
          <td class="brdrbt">
           <span class="dateTimeStock">
-           03:59 PM | 03 Apr 2023
+           12:10 PM | 06 Apr 2023
           </span>
          </td>
          <td class="stockValue brdrbt">
           <span class="cSprite_b per red">
-           -0.40 (-0.38%)
+           -0.10 (-0.10%)
           </span>
          </td>
         </tr>
@@ -1824,18 +1810,18 @@
           </a>
          </td>
          <td class="stockValue">
-          15.35
+          15.50
          </td>
         </tr>
         <tr class="hide moreData">
          <td class="brdrbt">
           <span class="dateTimeStock">
-           03:59 PM | 03 Apr 2023
+           12:10 PM | 06 Apr 2023
           </span>
          </td>
          <td class="stockValue brdrbt">
           <span class="cSprite_b per green">
-           0.30 (1.99%)
+           0.25 (1.64%)
           </span>
          </td>
         </tr>
@@ -1846,18 +1832,18 @@
           </a>
          </td>
          <td class="stockValue">
-          1610.55
+          1657.65
          </td>
         </tr>
         <tr class="hide moreData">
          <td class="brdrbt">
           <span class="dateTimeStock">
-           03:58 PM | 03 Apr 2023
+           12:10 PM | 06 Apr 2023
           </span>
          </td>
          <td class="stockValue brdrbt">
           <span class="cSprite_b per green">
-           1.00 (0.06%)
+           3.90 (0.24%)
           </span>
          </td>
         </tr>
@@ -1868,18 +1854,18 @@
           </a>
          </td>
          <td class="stockValue">
-          367.95
+          368.20
          </td>
         </tr>
         <tr class="hide moreData">
          <td class="brdrbt">
           <span class="dateTimeStock">
-           03:59 PM | 03 Apr 2023
+           12:10 PM | 06 Apr 2023
           </span>
          </td>
          <td class="stockValue brdrbt">
-          <span class="cSprite_b per green">
-           2.70 (0.74%)
+          <span class="cSprite_b per red">
+           -1.55 (-0.42%)
           </span>
          </td>
         </tr>
@@ -2051,35 +2037,41 @@
          Trending Now
         </p>
         <div class="footLinks" data-ga-action="Trending Now" data-msid="64594416">
-         <a data-ga-onclick="OnePlus Nord CE 3 Lite Launch live - href" href="/magazines/panache/tech-and-gadgets/oneplus-nord-ce-3-lite-5g-launch-live-news-nord-buds-2-latest-updates/liveblog/99244213.cms" target="_blank" title="OnePlus Nord CE 3 Lite Launch live">
-          OnePlus Nord CE 3 Lite Launch live
+         <a data-ga-onclick="Sensex Today - href" href="/markets/stocks/live-blog/bse-sensex-today-live-nifty-stock-market-updates-06-april-2023/liveblog/99281820.cms" target="_blank" title="Sensex Today">
+          Sensex Today
          </a>
-         <a data-ga-onclick="National Bulk Handling Corporation - href" href="/news/economy/agriculture/national-bulk-handling-corporation-appoints-vinod-kumar-as-md-ceo/articleshow/99234124.cms" target="_blank" title="National Bulk Handling Corporation">
-          National Bulk Handling Corporation
+         <a data-ga-onclick="Inflation Rate - href" href="/news/economy/policy/rbi-cuts-inflation-projection-for-fy24-to-5-2-from-5-3-flags-risks-from-adverse-climate-conditions/articleshow/99284923.cms" target="_blank" title="Inflation Rate">
+          Inflation Rate
          </a>
-         <a data-ga-onclick="Dogecoin Price Today - href" href="/markets/cryptocurrency/dogecoin-skyrockets-30-as-twitter-changes-logo-to-doge-meme-on-web/articleshow/99233087.cms" target="_blank" title="Dogecoin Price Today">
-          Dogecoin Price Today
+         <a data-ga-onclick="RBI Repo Rate Impact - href" href="/markets/stocks/news/rbi-leaves-repo-rate-unchanged-at-6-5-maintains-policy-stance-market-turns-positive/articleshow/99285652.cms" target="_blank" title="RBI Repo Rate Impact">
+          RBI Repo Rate Impact
          </a>
-         <a data-ga-onclick="World Bank news - href" href="/news/economy/indicators/world-bank-lowers-india-fy24-growth-forecast-to-6-3/articleshow/99233282.cms" target="_blank" title="World Bank news">
-          World Bank news
+         <a data-ga-onclick="Gold Price Today - href" href="/markets/commodities/news/gold-price-today-yellow-metal-slips-off-lifetime-high-should-you-buy-or-wait-for-further-correction/articleshow/99284554.cms" target="_blank" title="Gold Price Today">
+          Gold Price Today
          </a>
-         <a data-ga-onclick="India covid cases today - href" href="/news/india/india-logs-3038-news-covid-infections-active-cases-rise-to-21179/articleshow/99232778.cms" target="_blank" title="India covid cases today">
-          India covid cases today
+         <a data-ga-onclick="Covid Cases India - href" href="/news/india/india-sees-sharp-jump-in-daily-covid-cases-5300-fresh-infections-in-24-hours/articleshow/99284211.cms" target="_blank" title="Covid Cases India">
+          Covid Cases India
          </a>
-         <a data-ga-onclick="Ambani Playbook - href" href="/industry/media/entertainment/media/ambanis-ipl-streaming-playbook-goes-beyond-the-number-fight-versus-disney-star/articleshow/99230331.cms" target="_blank" title="Ambani Playbook">
-          Ambani Playbook
+         <a data-ga-onclick="RBI MPC Meeting Live Updates - href" href="/news/newsblogs/rbi-mpc-meet-2023-news-live-shaktikanta-das-latest-updates-6-april-2023/liveblog/99280969.cms" target="_blank" title="RBI MPC Meeting Live Updates">
+          RBI MPC Meeting Live Updates
          </a>
-         <a data-ga-onclick="Stock Market Holiday Today - href" href="/markets/stocks/news/is-the-stock-market-closed-for-mahavir-jayanti-tomorrow/articleshow/99217527.cms" target="_blank" title="Stock Market Holiday Today">
-          Stock Market Holiday Today
+         <a data-ga-onclick="RBI MPC Meet 2023 - href" href="/news/economy/policy/how-key-economic-indicators-shaped-up-before-indias-policy-decision-tomorrow/articleshow/99266333.cms" target="_blank" title="RBI MPC Meet 2023">
+          RBI MPC Meet 2023
          </a>
-         <a data-ga-onclick="Ajay Goel - href" href="/tech/startups/vedantas-ajay-goel-to-join-byjus-as-its-cfo/articleshow/99221332.cms" target="_blank" title="Ajay Goel">
-          Ajay Goel
+         <a data-ga-onclick="Padma Awards 2023 - href" href="/magazines/panache/padma-awards-2023-raveena-tandon-meets-rrr-director-ss-rajamouli/articleshow/99285622.cms" target="_blank" title="Padma Awards 2023">
+          Padma Awards 2023
          </a>
-         <a data-ga-onclick="India Msmes - href" href="/news/economy/indicators/indian-msmes-bottomlines-hit-by-volatile-commodity-prices-exports-face-headwinds-crisil/articleshow/99210724.cms" target="_blank" title="India Msmes">
-          India Msmes
+         <a data-ga-onclick="Sudha Murthy - href" href="/magazines/panache/author-sudha-murty-receives-padma-bhushan-daughter-uk-first-lady-akshata-gets-front-row-seat-to-the-ceremony/articleshow/99285371.cms" target="_blank" title="Sudha Murthy">
+          Sudha Murthy
          </a>
-         <a data-ga-onclick="India Covid cases - href" href="/news/india/india-logs-3641-new-cases-11-deaths-in-a-day/articleshow/99207864.cms" target="_blank" title="India Covid cases">
-          India Covid cases
+         <a data-ga-onclick="Hanuman Jayanti Wishes - href" href="/news/new-updates/hanuman-jayanti-2023-inspirational-quotes-heartfelt-messages-and-warm-wishes-to-share-on-this-auspicious-day/articleshow/99268398.cms" target="_blank" title="Hanuman Jayanti Wishes">
+          Hanuman Jayanti Wishes
+         </a>
+         <a data-ga-onclick="Forbes List - href" href="/news/company/corporate-trends/forbes-billionaires-list-elon-musk-not-the-richest-man-in-world-anymore/articleshow/99257864.cms" target="_blank" title="Forbes List">
+          Forbes List
+         </a>
+         <a data-ga-onclick="Wordle Today - href" href="/news/new-updates/wordle-655-april-5-2023-see-hints-solutions-how-to-play-the-word-puzzle/articleshow/99258837.cms" target="_blank" title="Wordle Today">
+          Wordle Today
          </a>
          <a data-ga-onclick="central vista new parliament - href" href="/news/india/central-vista-project-pm-modi-makes-surprise-visit-to-new-parliament-building/surprise-visit/slideshow/99205035.cms" target="_blank" title="central vista new parliament">
           central vista new parliament
@@ -2093,14 +2085,8 @@
          <a data-ga-onclick="Adani Group Stocks - href" href="/markets/stocks/news/adani-stocks-lose-up-to-5-8-counters-in-red-heres-why/articleshow/99205891.cms" target="_blank" title="Adani Group Stocks">
           Adani Group Stocks
          </a>
-         <a data-ga-onclick="Covid cases India - href" href="/news/company/corporate-trends/india-inc-reactivates-covid-protocols-as-cases-rise-in-india/articleshow/99194532.cms" target="_blank" title="Covid cases India">
-          Covid cases India
-         </a>
          <a data-ga-onclick="Stock Market Holidays in April - href" href="/markets/stocks/news/stock-market-holidays-bse-nse-to-remain-shut-for-these-3-days-in-april/articleshow/99202414.cms" target="_blank" title="Stock Market Holidays in April">
           Stock Market Holidays in April
-         </a>
-         <a data-ga-onclick="Ntechlab Communications - href" href="/news/india/russia-and-india-face-similar-challenges-in-public-safety-ntechlab/articleshow/99200557.cms" target="_blank" title="Ntechlab Communications">
-          Ntechlab Communications
          </a>
         </div>
        </div>
@@ -2109,7 +2095,7 @@
          Popular Categories
         </p>
         <div class="footLinks" data-ga-action="Popular Categories">
-         <a data-ga-onclick="News Live! - href" href="https://economictimes.indiatimes.com/news/newsblogs/daily-news-and-latest-updates-live-4-april-2023/liveblog/99226173.cms" target="_blank" title="News Live!">
+         <a data-ga-onclick="News Live! - href" href="https://economictimes.indiatimes.com/news/newsblogs/daily-news-and-latest-updates-live-6-april-2023/liveblog/99284547.cms" target="_blank" title="News Live!">
           News Live!
          </a>
          <a data-ga-onclick="Markets Live! - href" href="https://economictimes.indiatimes.com/markets/live-coverage" target="_blank" title="Markets Live!">
@@ -2146,32 +2132,38 @@
          Hot on Web
         </p>
         <div class="footLinks" data-ga-action="Hot on Web" data-msid="7843655">
-         <a data-ga-onclick="OnePlus Nord CE 3 Lite Launch live - href" href="/magazines/panache/tech-and-gadgets/oneplus-nord-ce-3-lite-5g-launch-live-news-nord-buds-2-latest-updates/liveblog/99244213.cms" target="_blank" title="OnePlus Nord CE 3 Lite Launch live">
-          OnePlus Nord CE 3 Lite Launch live
+         <a data-ga-onclick="Sensex Today - href" href="/markets/stocks/live-blog/bse-sensex-today-live-nifty-stock-market-updates-06-april-2023/liveblog/99281820.cms" target="_blank" title="Sensex Today">
+          Sensex Today
          </a>
-         <a data-ga-onclick="India covid cases today - href" href="/news/india/india-logs-3038-news-covid-infections-active-cases-rise-to-21179/articleshow/99232778.cms" target="_blank" title="India covid cases today">
-          India covid cases today
+         <a data-ga-onclick="Rbi Inflation Rate - href" href="/news/economy/policy/rbi-cuts-inflation-projection-for-fy24-to-5-2-from-5-3-flags-risks-from-adverse-climate-conditions/articleshow/99284923.cms" target="_blank" title="Rbi Inflation Rate">
+          Rbi Inflation Rate
          </a>
-         <a data-ga-onclick="Ambani Playbook - href" href="/industry/media/entertainment/media/ambanis-ipl-streaming-playbook-goes-beyond-the-number-fight-versus-disney-star/articleshow/99230331.cms" target="_blank" title="Ambani Playbook">
-          Ambani Playbook
+         <a data-ga-onclick="Covid Cases India - href" href="/news/india/india-sees-sharp-jump-in-daily-covid-cases-5300-fresh-infections-in-24-hours/articleshow/99284211.cms" target="_blank" title="Covid Cases India">
+          Covid Cases India
          </a>
-         <a data-ga-onclick="Badshah Marriage - href" href="/magazines/panache/this-is-super-lame-badshah-says-he-is-not-getting-married-to-isha-rikhi/articleshow/99202091.cms" target="_blank" title="Badshah Marriage">
-          Badshah Marriage
+         <a data-ga-onclick="RBI MPC Meet Live News - href" href="/news/newsblogs/rbi-mpc-meet-2023-news-live-shaktikanta-das-latest-updates-6-april-2023/liveblog/99280969.cms" target="_blank" title="RBI MPC Meet Live News">
+          RBI MPC Meet Live News
          </a>
-         <a data-ga-onclick="Foreign Trade Policy 2023 - href" href="/news/economy/policy/foreign-trade-policy-2023-govt-breaks-tradition-of-target-year/articleshow/99134591.cms" target="_blank" title="Foreign Trade Policy 2023">
-          Foreign Trade Policy 2023
+         <a data-ga-onclick="RBI MPC Meet 2023 - href" href="/news/economy/policy/how-key-economic-indicators-shaped-up-before-indias-policy-decision-tomorrow/articleshow/99266333.cms" target="_blank" title="RBI MPC Meet 2023">
+          RBI MPC Meet 2023
          </a>
-         <a data-ga-onclick="Covid cases Update - href" href="/news/india/india-reports-3095-fresh-covid-infection-cases/articleshow/99134049.cms" target="_blank" title="Covid cases Update">
-          Covid cases Update
+         <a data-ga-onclick="Padma Awards 2023 - href" href="/magazines/panache/padma-awards-2023-raveena-tandon-meets-rrr-director-ss-rajamouli/articleshow/99285622.cms" target="_blank" title="Padma Awards 2023">
+          Padma Awards 2023
          </a>
-         <a data-ga-onclick="Quordle Today - href" href="/news/new-updates/quordle-434-april-3-2023-hints-and-answers-for-the-daily-word-game/articleshow/99201663.cms" target="_blank" title="Quordle Today">
+         <a data-ga-onclick="Hanuman Jayanti Wishes - href" href="/news/new-updates/hanuman-jayanti-2023-inspirational-quotes-heartfelt-messages-and-warm-wishes-to-share-on-this-auspicious-day/articleshow/99268398.cms" target="_blank" title="Hanuman Jayanti Wishes">
+          Hanuman Jayanti Wishes
+         </a>
+         <a data-ga-onclick="Sudha Murthy - href" href="/magazines/panache/author-sudha-murty-receives-padma-bhushan-daughter-uk-first-lady-akshata-gets-front-row-seat-to-the-ceremony/articleshow/99285371.cms" target="_blank" title="Sudha Murthy">
+          Sudha Murthy
+         </a>
+         <a data-ga-onclick="Quordle Today - href" href="/news/new-updates/quordle-436-april-5-2023-see-hints-and-answers-for-the-puzzle/articleshow/99256568.cms" target="_blank" title="Quordle Today">
           Quordle Today
          </a>
          <a data-ga-onclick="H-1B visa - href" href="/nri/work/h-1b-visa-holders-spouses-can-work-in-us-says-judge/articleshow/99097066.cms" target="_blank" title="H-1B visa">
           H-1B visa
          </a>
-         <a data-ga-onclick="Iphone esim - href" href="/news/how-to/how-to-use-your-iphones-esim-for-international-travel-without-roaming-fee-a-complete-guide/articleshow/99108178.cms" target="_blank" title="Iphone esim">
-          Iphone esim
+         <a data-ga-onclick="World Today - href" href="/news/new-updates/wordle-655-april-5-2023-see-hints-solutions-how-to-play-the-word-puzzle/articleshow/99258837.cms" target="_blank" title="World Today">
+          World Today
          </a>
          <a data-ga-onclick="Pan Card Aadhaar Linking - href" href="/wealth/save/not-linking-pan-aadhaar-can-restrict-your-nps-transactions-from-april-1-2023/articleshow/99025991.cms" target="_blank" title="Pan Card Aadhaar Linking">
           Pan Card Aadhaar Linking
@@ -2191,12 +2183,6 @@
          <a data-ga-onclick="March Bank Holiday 2023 - href" href="/wealth/save/bank-holidays-in-march-2023-banks-will-be-closed-for-12-days-across-states-in-march-get-the-full-state-wise-bank-holiday-list/articleshow/98226723.cms" target="_blank" title="March Bank Holiday 2023">
           March Bank Holiday 2023
          </a>
-         <a data-ga-onclick="Bank Holidays 2023 - href" href="/wealth/save/bank-holidays-2023-bank-to-remain-closed-on-these-days-in-2023-check-complete-list-here/articleshow/96541333.cms" target="_blank" title="Bank Holidays 2023">
-          Bank Holidays 2023
-         </a>
-         <a data-ga-onclick="What are balanced mutual funds - href" href="/mf/analysis/what-are-balanced-mutual-funds/articleshow/79017862.cms" target="_blank" title="What are balanced mutual funds">
-          What are balanced mutual funds
-         </a>
         </div>
        </div>
        <div class="">
@@ -2204,11 +2190,41 @@
          In Case you missed it
         </p>
         <div class="footLinks" data-ga-action="In Case you missed it" data-msid="7178160">
-         <a data-ga-onclick="OnePlus Nord CE 3 Lite Launch live - href" href="/magazines/panache/tech-and-gadgets/oneplus-nord-ce-3-lite-5g-launch-live-news-nord-buds-2-latest-updates/liveblog/99244213.cms" target="_blank" title="OnePlus Nord CE 3 Lite Launch live">
-          OnePlus Nord CE 3 Lite Launch live
+         <a data-ga-onclick="Sensex Today - href" href="/markets/stocks/live-blog/bse-sensex-today-live-nifty-stock-market-updates-06-april-2023/liveblog/99281820.cms" target="_blank" title="Sensex Today">
+          Sensex Today
          </a>
-         <a data-ga-onclick="Justdial - href" href="/news/india/demand-for-cas-and-i-t-consultants-booms-in-fy23-justdial/articleshow/99241185.cms" target="_blank" title="Justdial">
-          Justdial
+         <a data-ga-onclick="Jagarnath Mahto Death - href" href="/news/india/jharkhand-minister-jagarnath-mahto-dies-at-chennai-hospital/articleshow/99287075.cms" target="_blank" title="Jagarnath Mahto Death">
+          Jagarnath Mahto Death
+         </a>
+         <a data-ga-onclick="CRPF Recruitment - href" href="/news/defence/crpf-to-recruit-1-30-lakh-constables-with-10-pc-reservations-for-agniveers-mha/articleshow/99286531.cms" target="_blank" title="CRPF Recruitment">
+          CRPF Recruitment
+         </a>
+         <a data-ga-onclick="Inflation Rate - href" href="/news/economy/policy/rbi-cuts-inflation-projection-for-fy24-to-5-2-from-5-3-flags-risks-from-adverse-climate-conditions/articleshow/99284923.cms" target="_blank" title="Inflation Rate">
+          Inflation Rate
+         </a>
+         <a data-ga-onclick="Gold Price Today - href" href="/markets/commodities/news/gold-price-today-yellow-metal-slips-off-lifetime-high-should-you-buy-or-wait-for-further-correction/articleshow/99284554.cms" target="_blank" title="Gold Price Today">
+          Gold Price Today
+         </a>
+         <a data-ga-onclick="Covid Cases India - href" href="/news/india/india-sees-sharp-jump-in-daily-covid-cases-5300-fresh-infections-in-24-hours/articleshow/99284211.cms" target="_blank" title="Covid Cases India">
+          Covid Cases India
+         </a>
+         <a data-ga-onclick="RBI MPC Meet Live Updates - href" href="/news/newsblogs/rbi-mpc-meet-2023-news-live-shaktikanta-das-latest-updates-6-april-2023/liveblog/99280969.cms" target="_blank" title="RBI MPC Meet Live Updates">
+          RBI MPC Meet Live Updates
+         </a>
+         <a data-ga-onclick="RBI MPC meet 2023 - href" href="/news/economy/policy/how-key-economic-indicators-shaped-up-before-indias-policy-decision-tomorrow/articleshow/99266333.cms" target="_blank" title="RBI MPC meet 2023">
+          RBI MPC meet 2023
+         </a>
+         <a data-ga-onclick="Padma Awards 2023 - href" href="/magazines/panache/padma-awards-2023-raveena-tandon-meets-rrr-director-ss-rajamouli/articleshow/99285622.cms" target="_blank" title="Padma Awards 2023">
+          Padma Awards 2023
+         </a>
+         <a data-ga-onclick="Sudha Murthy - href" href="/magazines/panache/author-sudha-murty-receives-padma-bhushan-daughter-uk-first-lady-akshata-gets-front-row-seat-to-the-ceremony/articleshow/99285371.cms" target="_blank" title="Sudha Murthy">
+          Sudha Murthy
+         </a>
+         <a data-ga-onclick="Salman Khan - href" href="/magazines/panache/salman-khan-chides-younger-actors-for-charging-a-bomb-says-90s-stars-will-tire-them-out/articleshow/99287084.cms" target="_blank" title="Salman Khan">
+          Salman Khan
+         </a>
+         <a data-ga-onclick="Hanuman Jayanti Wishes - href" href="/news/new-updates/hanuman-jayanti-2023-inspirational-quotes-heartfelt-messages-and-warm-wishes-to-share-on-this-auspicious-day/articleshow/99268398.cms" target="_blank" title="Hanuman Jayanti Wishes">
+          Hanuman Jayanti Wishes
          </a>
          <a data-ga-onclick="National Bulk Handling Corporation - href" href="/news/economy/agriculture/national-bulk-handling-corporation-appoints-vinod-kumar-as-md-ceo/articleshow/99234124.cms" target="_blank" title="National Bulk Handling Corporation">
           National Bulk Handling Corporation
@@ -2216,44 +2232,14 @@
          <a data-ga-onclick="World Bank News - href" href="/news/economy/indicators/world-bank-lowers-india-fy24-growth-forecast-to-6-3/articleshow/99233282.cms" target="_blank" title="World Bank News">
           World Bank News
          </a>
-         <a data-ga-onclick="Infosys Narayana Murthy - href" href="/news/web-stories/how-a-paris-stint-helped-narayana-murthy-build-infosys/slideshow/99233423.cms" target="_blank" title="Infosys Narayana Murthy">
-          Infosys Narayana Murthy
-         </a>
-         <a data-ga-onclick="India covid cases today - href" href="/news/india/india-logs-3038-news-covid-infections-active-cases-rise-to-21179/articleshow/99232778.cms" target="_blank" title="India covid cases today">
-          India covid cases today
+         <a data-ga-onclick="Forbes List - href" href="/news/company/corporate-trends/forbes-billionaires-list-elon-musk-not-the-richest-man-in-world-anymore/articleshow/99257864.cms" target="_blank" title="Forbes List">
+          Forbes List
          </a>
          <a data-ga-onclick="Ambani Playbook - href" href="/industry/media/entertainment/media/ambanis-ipl-streaming-playbook-goes-beyond-the-number-fight-versus-disney-star/articleshow/99230331.cms" target="_blank" title="Ambani Playbook">
           Ambani Playbook
          </a>
          <a data-ga-onclick="Ajay Goel - href" href="/tech/startups/vedantas-ajay-goel-to-join-byjus-as-its-cfo/articleshow/99221332.cms" target="_blank" title="Ajay Goel">
           Ajay Goel
-         </a>
-         <a data-ga-onclick="India Msmes - href" href="/news/economy/indicators/indian-msmes-bottomlines-hit-by-volatile-commodity-prices-exports-face-headwinds-crisil/articleshow/99210724.cms" target="_blank" title="India Msmes">
-          India Msmes
-         </a>
-         <a data-ga-onclick="Marlene schiappa - href" href="/news/web-stories/french-minister-on-playboy-cover-who-is-she/slideshow/99207420.cms" target="_blank" title="Marlene schiappa">
-          Marlene schiappa
-         </a>
-         <a data-ga-onclick="India Covid cases - href" href="/news/india/india-logs-3641-new-cases-11-deaths-in-a-day/articleshow/99207864.cms" target="_blank" title="India Covid cases">
-          India Covid cases
-         </a>
-         <a data-ga-onclick="coconut water benefits - href" href="/news/web-stories/coconut-water-and-weight-loss-is-there-really-a-link/slideshow/99204143.cms" target="_blank" title="coconut water benefits">
-          coconut water benefits
-         </a>
-         <a data-ga-onclick="Neeraj Nigam - href" href="/news/economy/policy/rbi-appoints-neeraj-nigam-as-new-executive-director/articleshow/99204825.cms" target="_blank" title="Neeraj Nigam">
-          Neeraj Nigam
-         </a>
-         <a data-ga-onclick="Kerala Train Fire - href" href="/news/india/kerala-train-fire-incident-three-found-dead-on-railway-track-after-man-sets-co-passenger-on-fire/articleshow/99202658.cms" target="_blank" title="Kerala Train Fire">
-          Kerala Train Fire
-         </a>
-         <a data-ga-onclick="Covid cases India - href" href="/news/company/corporate-trends/india-inc-reactivates-covid-protocols-as-cases-rise-in-india/articleshow/99194532.cms" target="_blank" title="Covid cases India">
-          Covid cases India
-         </a>
-         <a data-ga-onclick="Ntechlab Communications - href" href="/news/india/russia-and-india-face-similar-challenges-in-public-safety-ntechlab/articleshow/99200557.cms" target="_blank" title="Ntechlab Communications">
-          Ntechlab Communications
-         </a>
-         <a data-ga-onclick="Black money law - href" href="/news/economy/policy/flurry-of-i-t-orders-under-black-money-law-to-beat-march-31-deadline/articleshow/99197687.cms" target="_blank" title="Black money law">
-          Black money law
          </a>
         </div>
        </div>
@@ -2755,7 +2741,7 @@
      </div>
     </footer>
    </div>
-   <!--/etfooter_rewamp.cms?subsec1=&subsec2=&quicklink=1&pageType=&pageName=topics_default&section_id=0&template_name=topic&sub_type=fpotime:3-->
+   <!--/etfooter_rewamp.cms?subsec1=&subsec2=&quicklink=1&pageType=&pageName=topics_default&section_id=0&template_name=topic&sub_type=fpotime:4-->
    <div id="scrollTop">
     <span>
     </span>
@@ -2793,7 +2779,7 @@
    function getCookie(n) {var ne = n + "=", ca = document.cookie.split(';');for (var i=0;i< ca.length;i++){ var c = ca[i]; while (c.charAt(0) == ' ') c = c.substring(1, c.length); if (c.indexOf(ne) == 0) return c.substring(ne.length, c.length); } return null; }
 	        
 	        
-	    var objVc = {env:'live',version_on:'2023.04.04 23:18',vcLScacheTime:'10',js_etsubscription:'2',js_onboarding_popup_sh:'13',js_comments:'111',js_googleslock:'782',js_googlelogin:'71',js_common_buydirect:'752',js_bookmark:'24',js_follow:'12',js_highcharts:'4',js_highcharts3d:'2',js_googlecharts:'1',js_sr_search:'1',js_ask_the_expert_crypto:'16',js_articleshow_main:'232',css_articleshow_new:'113',js_login:'104',js_datepicker:'2',js_push:'61',js_athena_distribution:'32',js_athena_distribution_wap:'27',js_slikeplayernew:'18',js_access_prime_pass:'4',js_prime_access_functions:'10',css_buydirect:'14',css_commoncalc:'29',js_tradenow:'26',interstitial_web:'1',int_countrychk_web:'1',int_allowedcountry_web:'1,2,3,4,5,6',int_fequencycap_web:'4',extended_fcap_hrs_web:'18',js_common_wap:'352',js_common_markets_wap:'11',js_watchlist_wap:'15',js_sr_search_wap:'8',js_ask_the_expert_crypto_wap:'16',js_athenalive_wap:'90',js_commonall:'144',js_bookmark_wap:'13',js_socialdatacapture_min_wap:'46',wap_interstitial_start:'April 02, 2023 23:59:00',wap_interstitial_end:'March 31, 2024 23:59:00',int_countrychk_wap:'0',int_allowedcountry_wap:'1,2',cpd_wap:'1',lib_login:'/js_feed/jsso_crosswalk_legacy_min.cms',live_tv_skin:'0',global_cube:'0',global_cube_cty_chk:'0',global_cube_cty_include:'CHENNAI',global_cube_cty_exclude:'CHINA',global_cube_wap:'0',global_cube_cty_chk_wap:'0',global_cube_cty_include_wap:'CHENNAI',global_cube_cty_exclude_wap:'CHINA',global_cube_faces:'2',global_cube_fullad:'0',global_cube_landingon:'sensex',global_cube_wap_url:'https://m.economictimes.com/iframe_cube.cms',currency_ad_wap:'1',site_sync:'0',ticker_ad:'0',ticker_ad_desktop_only:'0',aff_package:'bnsov',aff_package_wap:'bnsov',ticker_ad_home:'0',adx:'1',logAdsStatus:'0',amazon_bidding:'0',amazon_tam:'1',amazon_tam_web:'0',js_newsltrpopup:'126',nlExpiry:'864000',nlReloadExpiry:'30',js_primetargeting_popup:'9',js_inappmsg:'8',plan_on_paywall:'0',skip_trial:'100',planEntryPointCache:'3',trackAdCode:'0',ajaxError:'1',cTId:'WWW-R7W-Z45Z',oauth:'oauth2',oauthClientId:'b2a8e883ec676f417520f422068a4742',planPage:'/plans.cms',planPageTest:'https://economictimes.indiatimes.com/plans.cms',planPageM:'https://m.economictimes.com/plans.cms',subscriptions:'subscriptions',krypton:'kryptonp',apw:'apw',nlSubscribe:'etsub3',exp_login2plan:'0',js_ratingwidget:'9',js_swg:'4',swg:'1',login_paywall:'Starting @ <strike>Rs150</strike> Rs120/month',singularPlanExp:'0',intro_offer_banner:'0',ctaTxtExp:'50',mf_defaultTab:'1',intro_offer:'0',article_recommendations:'100',primeTargeting:'1',skipnlpopup:'1',skipCryptoPopup:'1',js_article_recommendations:'21',skiparticle_recommendations_rhs:'1',skiparticle_recommendations_in:'1',skipwhatsapp_banner:'1',liveTvLsName:'bandTvCheckPlayed3',liveTvLsValue:'3600',survicate_loyaluser_count:'15',js_etbenefits:'38',js_tponboarding:'3',js_giftstory:'11',disable_MFOP_wap:'1',missedStoryPercent:'30',missedStoryDays:'7',missedStoryMinCount:'3',guestOTPEnabled:'0',paywallSubscriberFlow:'0',oneTapAcessPassFlow:'5',js_paywallsubflow:'3',signinwallSubscriberFlow:'50',web_productIntervention:'0111101010',wap_productIntervention:'100101011',mktTopAppDownloader:'1',mktBottomAppDownloader:'1',stocksRecoPopup:'0',paywall_mloffer:'0',onboarding_tpoffer:'1',ml_flag:'0',dummy:''};
+	    var objVc = {env:'live',version_on:'2023.04.06 12:25',vcLScacheTime:'10',js_etsubscription:'2',js_onboarding_popup_sh:'13',js_comments:'111',js_googleslock:'782',js_googlelogin:'71',js_common_buydirect:'752',js_bookmark:'24',js_follow:'12',js_highcharts:'4',js_highcharts3d:'2',js_googlecharts:'1',js_sr_search:'1',js_ask_the_expert_crypto:'16',js_articleshow_main:'232',css_articleshow_new:'113',js_login:'104',js_datepicker:'2',js_push:'61',js_athena_distribution:'33',js_athena_distribution_wap:'27',js_slikeplayernew:'19',js_access_prime_pass:'4',js_prime_access_functions:'10',css_buydirect:'14',css_commoncalc:'29',js_tradenow:'26',interstitial_web:'1',int_countrychk_web:'1',int_allowedcountry_web:'1,2,3,4,5,6',int_fequencycap_web:'4',extended_fcap_hrs_web:'18',js_common_wap:'352',js_common_markets_wap:'11',js_watchlist_wap:'15',js_sr_search_wap:'8',js_ask_the_expert_crypto_wap:'16',js_athenalive_wap:'90',js_commonall:'144',js_bookmark_wap:'13',js_socialdatacapture_min_wap:'46',wap_interstitial_start:'April 02, 2023 23:59:00',wap_interstitial_end:'March 31, 2024 23:59:00',int_countrychk_wap:'0',int_allowedcountry_wap:'1,2',cpd_wap:'1',lib_login:'/js_feed/jsso_crosswalk_legacy_min.cms',live_tv:'{"onoff_flag":"1","platform":"desktop","sections":["1977021501","1715249553","13352306","5575607","837555174","359241701","13357270","107115","897228639","7771250","1466318837"],"pages":"restOfThePage","auto_open":"1","default_tv":"0","timePeriod":{"showTimeFlag":false,"fromTime":"","toTime":""},"preRollAd":1,"content_default_tv":"content_default_tv_0","homepage_livetv":"livetvcoloum_Center","marketpage_livetv":"live_m_tvcoloum_3","UrlLink_livetv":"youtube","App_page_livetv":"appPos_Middle","hpTvInfo":{"title":"Live: RBI Monetary Policy press conference","type":"youtube","vid":"skUf9pWn5J0","img":"https://img.youtube.com/vi/skUf9pWn5J0/0.jpg","url":"https://youtube.com/live/skUf9pWn5J0"}}',live_tv_skin:'0',global_cube:'0',global_cube_cty_chk:'0',global_cube_cty_include:'CHENNAI',global_cube_cty_exclude:'CHINA',global_cube_wap:'0',global_cube_cty_chk_wap:'0',global_cube_cty_include_wap:'CHENNAI',global_cube_cty_exclude_wap:'CHINA',global_cube_faces:'2',global_cube_fullad:'0',global_cube_landingon:'sensex',global_cube_wap_url:'https://m.economictimes.com/iframe_cube.cms',currency_ad_wap:'1',site_sync:'0',ticker_ad:'0',ticker_ad_desktop_only:'0',aff_package:'bnsov',aff_package_wap:'bnsov',ticker_ad_home:'0',adx:'1',logAdsStatus:'0',amazon_bidding:'0',amazon_tam:'1',amazon_tam_web:'0',js_newsltrpopup:'126',nlExpiry:'864000',nlReloadExpiry:'30',js_primetargeting_popup:'9',js_inappmsg:'8',plan_on_paywall:'0',skip_trial:'100',planEntryPointCache:'3',trackAdCode:'0',ajaxError:'1',cTId:'WWW-R7W-Z45Z',oauth:'oauth2',oauthClientId:'b2a8e883ec676f417520f422068a4742',planPage:'/plans.cms',planPageTest:'https://economictimes.indiatimes.com/plans.cms',planPageM:'https://m.economictimes.com/plans.cms',subscriptions:'subscriptions',krypton:'kryptonp',apw:'apw',nlSubscribe:'etsub3',exp_login2plan:'0',js_ratingwidget:'9',js_swg:'4',swg:'1',login_paywall:'Starting @ <strike>Rs150</strike> Rs120/month',singularPlanExp:'0',intro_offer_banner:'0',ctaTxtExp:'50',mf_defaultTab:'1',intro_offer:'0',article_recommendations:'100',primeTargeting:'1',skipnlpopup:'1',skipCryptoPopup:'1',js_article_recommendations:'21',skiparticle_recommendations_rhs:'1',skiparticle_recommendations_in:'1',skipwhatsapp_banner:'1',liveTvLsName:'bandTvCheckPlayed3',liveTvLsValue:'3600',survicate_loyaluser_count:'15',js_etbenefits:'38',js_tponboarding:'3',js_giftstory:'11',disable_MFOP_wap:'1',missedStoryPercent:'30',missedStoryDays:'7',missedStoryMinCount:'3',guestOTPEnabled:'0',paywallSubscriberFlow:'0',oneTapAcessPassFlow:'5',js_paywallsubflow:'3',signinwallSubscriberFlow:'50',web_productIntervention:'0111101010',wap_productIntervention:'100101011',mktTopAppDownloader:'1',mktBottomAppDownloader:'1',stocksRecoPopup:'0',paywall_mloffer:'0',onboarding_tpoffer:'1',ml_flag:'0',dummy:''};
         (function(){
             
             try {var lsd = localStorage.getItem('objVc'), lsdj = lsd && JSON.parse(lsd) || '', vo = objVc.version_on, lv = new Date(vo), sv = lsdj && lsdj.version_on && new Date(lsdj.version_on) || 0, diff = (sv-lv) / 60000;
@@ -2846,7 +2832,7 @@
         
         }catch(e) {}
   </script>
-  <!--/tiluuidscript.cmspotime:3-->
+  <!--/tiluuidscript.cmspotime:15-->
   <script>
    var geoData = getCookie('geoinfo');
                     if(geoData == null) {
@@ -2901,7 +2887,7 @@
             
 	        var objSec = {template: 'topics_default', msid:'0'};
         var tmplName = tpName = 'topics_default',lang = '',nav_sec1,newHookId,subsec1_value,subsec1_common = '0',newHookId2,subsec2_value,subsec2_common = '',subsec3_common = '';
-        var objDim = {d52:'nature_of_content',d96:'continuous_paywall_hits',d112:'ml_status',d95:'monthly_article_count',d113:'ml_score',d10:'user_login_status_hit',d54:'content_shelf_life',d98:'daily_paid_article_count',d110:'paywall_signaling',d53:'content_target_audience',d97:'monthly_paid_article_count',d111:'response_source',d12:'tags_meta_keyword',d56:'degree_of_conten',d11:'content_theme_the_primary_tag',d55:'content_tone',d14:'special_coverage',d58:'et_product_item',d13:'article_publish_time',d16:'video_embed',d15:'audio_embed',d59:'show_paywall_final',d117:'video_status',d61:'paywall_probability',d114:'ml_threshold_value',d60:'paywall_score',d115:'adaptive_status',d63:'paid_articles_read',d62:'eligibility_paywall_rule',d65:'bureau_articles_read',d20:'platform',d64:'free_articles_read',d23:'author_id',d67:'loyalty',d66:'article_length',d25:'page_template',d24:'syft_initiate_page',d68:'paywall_hits',d27:'site_sub_section',d26:'site_section',d29:'section_id',d28:'prime_deal_code',d109:'user_region',d70:'us_election_2020',d72:'paywall_experiment',d71:'plan_group_id',d32:'prime_article_read_before_syft',d75:'watchlist_active_status',d34:'content_age',d33:'prime_article_read_before_success',d36:'sign_in_initiation_position',d35:'subscription_method_hit',d37:'user_subscription_status',d1:'et_product',d2:'blocker_type',d3:'user_login_status_session',d4:'agency',d5:'author_name',d6:'cms_content_publishing_type',d7:'content_personalisation_level',d8:'article_publish_date',d9:'sub_section_name',d40:'freeread',d45:'prime_hp_ui_template',d47:'prime_hp_ui_content_b_color',d46:'prime_hp_ui_content_size',d49:'syft_initiate_position',d48:'content_msid',d92:'last_click_source',d50:'signin_initiate_page',d94:'daily_article_count',d93:'internal_source'};var serverTime = '04.04.2023 23:21:32';var WRInitTime=(new Date()).getTime();
+        var objDim = {d52:'nature_of_content',d96:'continuous_paywall_hits',d112:'ml_status',d95:'monthly_article_count',d113:'ml_score',d10:'user_login_status_hit',d54:'content_shelf_life',d98:'daily_paid_article_count',d110:'paywall_signaling',d53:'content_target_audience',d97:'monthly_paid_article_count',d111:'response_source',d12:'tags_meta_keyword',d56:'degree_of_conten',d11:'content_theme_the_primary_tag',d55:'content_tone',d14:'special_coverage',d58:'et_product_item',d13:'article_publish_time',d16:'video_embed',d15:'audio_embed',d59:'show_paywall_final',d117:'video_status',d61:'paywall_probability',d114:'ml_threshold_value',d60:'paywall_score',d115:'adaptive_status',d63:'paid_articles_read',d62:'eligibility_paywall_rule',d65:'bureau_articles_read',d20:'platform',d64:'free_articles_read',d23:'author_id',d67:'loyalty',d66:'article_length',d25:'page_template',d24:'syft_initiate_page',d68:'paywall_hits',d27:'site_sub_section',d26:'site_section',d29:'section_id',d28:'prime_deal_code',d109:'user_region',d70:'us_election_2020',d72:'paywall_experiment',d71:'plan_group_id',d32:'prime_article_read_before_syft',d75:'watchlist_active_status',d34:'content_age',d33:'prime_article_read_before_success',d36:'sign_in_initiation_position',d35:'subscription_method_hit',d37:'user_subscription_status',d1:'et_product',d2:'blocker_type',d3:'user_login_status_session',d4:'agency',d5:'author_name',d6:'cms_content_publishing_type',d7:'content_personalisation_level',d8:'article_publish_date',d9:'sub_section_name',d40:'freeread',d45:'prime_hp_ui_template',d120:'utm_params',d47:'prime_hp_ui_content_b_color',d46:'prime_hp_ui_content_size',d49:'syft_initiate_position',d48:'content_msid',d92:'last_click_source',d50:'signin_initiate_page',d94:'daily_article_count',d93:'internal_source'};var serverTime = '04.06.2023 12:23:42';var WRInitTime=(new Date()).getTime();
             (function () {if (self !== top) {var e = function (s) {return document.getElementsByTagName(s)}; e("head")[0].innerHTML = '<style>*{display:none;}</style>'; setTimeout(function () {e("body")[0].innerHTML = ''; var hEle = e("html")[0]; hEle.innerHTML = '<a href="' + self.location + '" target="_blank">economictimes.indiatimes.com</a>'; hEle.className = ''; top.location = self.location; }, 0);}})();
         
         _log = window.console && console.log ? console.log : function () {};
@@ -3642,7 +3628,7 @@
   </div>
   <div class="skinning_left" data-adsslot="ET_Topic/ET_ROS_Skin_TPC_AL_LHS_125" data-fallback="1" data-loc="All" data-size="[[160, 600], [120, 600], [125, 600]]" id="skinningleft_backup" subsec1="0" subsec2="0">
   </div>
-  <!--/dfpinnovads.cms?loc=All&tpname=topics_defaultpotime:3-->
+  <!--/dfpinnovads.cms?loc=All&tpname=topics_defaultpotime:6-->
   <div data-adsslot="ET_News/ET_News_Home/ET_ROS_OP_NWS_POP" data-loc="All" data-oop="1" data-size="" id="div-gpt-ad-1388716846613-0-oop4">
   </div>
   <div data-adsslot="ET_News/ET_News/ET_News_Home/ET_ROS_OP_NWS_Shosh" data-loc="All" data-oop="1" data-size="" id="div-gpt-ad-1388716846613-0-oop5">
