@@ -1,0 +1,2566 @@
+<!DOCTYPE html>
+<html class="topic-desktop ui-unknown0 ui-unknown" data-ytrk-page="TOPIC PAGINATED LARGE_NP" lang="en">
+ <head prefix="og: https://ogp.me/ns# fb: https://ogp.me/ns/fb#">
+  <meta charset="utf-8"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <meta content="74442380906" property="fb:pages"/>
+  <link href="https://cdn.britannica.com/mendel-resources/3-90" rel="dns-prefetch"/>
+  <link href="https://cdn.britannica.com/mendel-resources/3-90" rel="preconnect"/>
+  <meta content="fertilizer,  natural or artificial substance containing the chemical elements that improve growth and productiveness of plants. Fertilizers enhance the natural fertility of the soil or replace chemical elements taken from the soil by previous crops. Soil fertility is the quality of a soil that enables it to provide compounds in adequate amounts and proper balance to promote growth of plants when other factors (such as light, moisture, temperature, and soil structure) are favourable. Where fertility of the soil is not good, natural or manufactured materials may be added to supply the needed plant nutrients. These are called fertilizers, although the" name="description"/>
+  <meta content="fertilizer, encyclopedia, encyclopeadia, britannica, article" name="keywords"/>
+  <link href="https://www.britannica.com/topic/fertilizer" rel="canonical"/>
+  <title>
+   Fertilizer | Definition, Types, Plant Nutrients, Application, &amp; Facts | Britannica
+  </title>
+  <script data-type="Init Mendel" type="text/javascript">
+   window.$UI = {};
+
+    window.Constants = {"LICENSE_URL": "/bps/license","DEFAULT_TEST_VERSION": "A","DEFAULT_STATE": "XX","QUIZ_URL": "/quiz","SPOTLIGHT_BROWSE_URL": "/stories/spotlight","CONTENT_TYPE_TEXT": "text/plain;charset=UTF-8","TOPIC_FACTS_DATA_URL": "/facts","QUIZ_BROWSE_IMAGE_QUIZZES": "images","TOPIC_MEDIA_PATH": "/images-videos","USER_PROFILE_URL": "/user","DEBUG_URL": "/debug","ONE_GOOD_FACT_URL": "/one-good-fact","ERROR_404_URL": "/error404","TOPIC_QUOTES_PATH": "/quotes","INSTANT_ARTICLES_URL": "/instant-articles","TOPIC_PAGE_CONTENT_AJAX_URL": "/topic-content/page","INFINITE_SCROLL_PREFIX_URL": "/scroll","TOPIC_TOP_QUESTION_BROWSE_URL": "/questions","CC_USD": "USD","domain": "britannica.com","SURVEY_URL": "/survey","CATEGORY_BROWSE_URL": "/browse","STORY_BROWSE_URL": "/stories","IN_THIS_WEEK_BROWSE_URL": "/week-in-review","COUNTRY_US": "US","OPEN_MEDIA_OVERLAY_PARAMETER": "/media","NEWSLETTER_SUBSCRIPTION_URL": "/newsletter-subscription","INSIGHTS_LANDING_PAGE_URL_2": "/factsmatter","INSIGHTS_LANDING_PAGE_URL_1": "/insights","MAINTENANCE_ERROR_URL": "https://maintenance.eb.com","IMARS_EDITOR_ID": "12365882","PROFILE_EB_EDITOR_URL": "/editor","WEB_INF_RESOURCES_PATH": "WEB-INF/resources","TOPIC_ADDITIONAL_INFO_PATH": "/additional-info","CC_INR": "INR","ARTICLE_PRINT_URL": "/print/article","FIRST_EDITION_URL": "/subscriber/firstedition","WW1_PORTAL_URL": "/discover/World-War-I","MENDEL_COOKIE": "__mendel","DEMYSTIFIED_BROWSE_URL": "/stories/demystified","LIST_BROWSE_URL": "/list/browse","PROFILE_EXPERT_URL": "/contributor","ASSEMBLY_IMAGE_URL": "/image/assembly","DAY_IN_HISTORY_URL": "/on-this-day","DEFAULT_CURRENCY": "USD","CONTENT_TYPE_XML": "text/xml;charset=UTF-8","AJAX_PREFIX_URL": "/ajax","TOPIC_BROWSE_URL": "/topic-browse","MARKETING_CONTENT": "/marketing-content","ENV_RUNTIME": "runtime","USER_PROFILE_PARTNER_LOGO_URL": "/image/profile-partner","GALLERY_URL": "/gallery","CONTENT_TYPE_HTML": "text/html;charset=UTF-8","ENV_LOCAL": "override","MEDIA_OVERLAY_URL": "/media-overlay","KUSTOM_APPLICATION_ID": "1","ENV_DEV": "development","MEDIA_URL": "/media","TOPIC_TOP_QUESTION_URL": "/question","PORTAL_FINANCE_URL_PREFIX": "/money","PODCASTS_URL": "/podcasts","STAND_ALONE_VIDEO_URL": "/video","MORE_ON_THIS_DAY_URL": "/more-on-this-day","SEARCH_PAGE_URL": "/search","TOPIC_CONTENT_AJAX_URL": "/topic-content/topic","ENV_BRANCH": "branch","ERROR_URL": "/error","MAIN_VERSION": "mainVersion","DEFAULT_S3_REGION": "US_EAST_1","LOGINBOX_URL": "/auth/loginbox","ONE_GOOD_FACT_BROWSE_URL": "/one-good-fact/all-good-facts","QUIZ_BROWSE_URL": "/quiz/browse","BIO_BROWSE_URL": "/biographies","LIST_URL": "/list","ALPHA_BROWSE_URL": "/sitemap","CONTENT_TYPE_JSON": "application/json","DICTIONARY_URL": "/dictionary","COBRAND_IMAGE_URL": "/image/cobrand","SUBMISSION_URL": "/submission","EB_LOG_OUT": "/auth2/logout","ENV_PRODUCTION": "production","TOPIC_AJAX_URL": "/ajax/topic","TOPIC_SUMMARY_BROWSE_URL": "/summaries","WTFACT_BROWSE_URL": "/stories/wtfact","VIDEO_CHANNEL_URL": "/videos","GALLERY_BROWSE_URL": "/gallery/browse","CACHE_URL": "/cache","COMPANION_BROWSE_URL": "/stories/companion","MEDIA_FOLDER": "/eb-media","SHOW_ALL_CONTRIBUTORS": "/additional-info#contributors","BRITANNICA_EDITORS_ID": "4419","EXPLORE_BROWSE": "/explore","TOPIC_SUMMARY_URL": "/summary","ENV_CACHE_DISABLED": "mendelCache","STORY_URL": "/story","DEFAULT_COUNTRY": "US","NAVBAR_URL": "/ajax/navbar","EB_LOGIN_URL": "/auth/eb-login","NEW_ARTICLES_URL": "/new-articles",};
+    window.CDN = "https://cdn.britannica.com";
+    window.CAM_LOGIN_URL = "https://cam.britannica.com";
+    window.CAM_SIGN_UP_URL = "https://cam.britannica.com/registration"
+
+    window.Mendel = {
+     	"config" : {
+            "domain": "britannica.com",
+			"page": "Topic",
+			"videoPlayerId": "9qxcjKRe",
+			"sharedUrl": "https://www.britannica.com/topic/fertilizer",
+	        "resourcesPrefixUrl": "https://cdn.britannica.com/mendel-resources/3-90/[url]?v=3.90.6",
+			"userInfo": { "type": "ANONYMOUS"
+			             ,"currency": "INR"
+			             ,"country": "IN"
+					     ,"state": "MH"
+			             ,"bcomId": "-1966091397134196494"
+				         ,"hasAds": false
+					     ,"testVersion": "D"
+				         ,"privacyInfo": {"consentLocation":false,"gdpr":false,"ccpa":false,"needConsent":false}
+						 ,"consumerId": ""
+						 ,"instId": ""
+						 ,"consumerUserName": ""
+						 ,"instUserName": ""
+						 ,"cognito": null
+			},
+			"isLoggedInAsUser": false,
+			"analytics": {  "gaId": "UA-6636134-11" },
+			"isPhone": false,
+			"isDesktop": true,
+			"logoutUrl": "/auth2/logout",
+			"selfServiceUrl": "https://myaccount.britannica.com",
+			"cdnUrl": "https://cdn.britannica.com",
+	        "fetchOffset": 800,
+			
+			"mendelCookieName": "__mendel",
+			"mendelCookie": {"pagesViewed":1,"surveyShown":false,"topicInitialSequence":1},
+			
+
+			"autocompleteToSearchPage": false,
+            "isMendelAdsManager": false,"topicUrl": "https://www.britannica.com/topic/fertilizer"
+        ,"freeTopicReason": "COUNTRY_IS_FREE"
+        ,"topicId": 205346
+	    ,"template": "DESKTOP"
+	    ,"type": "CORE"
+		,"hasToc": true
+	    ,"showPreview": false,"infiniteScrollList": [{"p":1,"t":205346},{"p":1,"t":245021},{"p":1,"t":1387259},{"p":2,"t":168592},{"p":1,"t":233541},{"p":1,"t":453486},{"p":1,"t":363236},{"p":1,"t":146146},{"p":1,"t":289077},{"p":1,"t":247789}]
+        ,"sequence": 1
+        ,"topics": {}
+		},
+        "GA": {"leg":"D","userType":"ANONYMOUS","pageType":"Topic","articleTemplateType":"LARGE","gisted":false}
+    };
+  </script>
+  <meta content="1887621861548296" property="fb:app_id"/>
+  <meta content="summary_large_image" name="twitter:card"/>
+  <meta content="@britannica" name="twitter:site"/>
+  <meta content="https://cdn.britannica.com/24/202424-050-7AA040E8/tractor-spreading-fertilizer.jpg" name="twitter:image"/>
+  <meta content="fertilizer,  natural or artificial substance containing the chemical elements that improve growth and productiveness of plants. Fertilizers enhance the natural fertility of the soil or replace chemical elements taken from the soil by previous crops. Soil fertility is the quality of a soil that enables it to provide compounds in adequate amounts and proper balance to promote growth of plants when other factors (such as light, moisture, temperature, and soil structure) are favourable. Where fertility of the soil is not good, natural or manufactured materials may be added to supply the needed plant nutrients. These are called fertilizers, although the" name="twitter:description"/>
+  <meta content="ARTICLE" property="og:type"/>
+  <meta content="Fertilizer | Definition, Types, Plant Nutrients, Application, &amp; Facts" property="og:title"/>
+  <meta content="fertilizer,  natural or artificial substance containing the chemical elements that improve growth and productiveness of plants. Fertilizers enhance the natural fertility of the soil or replace chemical elements taken from the soil by previous crops. Soil fertility is the quality of a soil that enables it to provide compounds in adequate amounts and proper balance to promote growth of plants when other factors (such as light, moisture, temperature, and soil structure) are favourable. Where fertility of the soil is not good, natural or manufactured materials may be added to supply the needed plant nutrients. These are called fertilizers, although the" property="og:description"/>
+  <meta content="Encyclopedia Britannica" property="og:site_name"/>
+  <meta content="https://www.britannica.com/topic/fertilizer" property="og:url"/>
+  <meta content="https://cdn.britannica.com/24/202424-050-7AA040E8/tractor-spreading-fertilizer.jpg" property="og:image"/>
+  <meta content="image/jpeg" property="og:image:type"/>
+  <script data-type="init opengraph" type="text/javascript">
+   Mendel.openGraph = {"type":"ARTICLE","title":"Fertilizer | Definition, Types, Plant Nutrients, Application, & Facts","description":"fertilizer,  natural or artificial substance containing the chemical elements that improve growth and productiveness of plants. Fertilizers enhance the natural fertility of the soil or replace chemical elements taken from the soil by previous crops. Soil fertility is the quality of a soil that enables it to provide compounds in adequate amounts and proper balance to promote growth of plants when other factors (such as light, moisture, temperature, and soil structure) are favourable. Where fertility of the soil is not good, natural or manufactured materials may be added to supply the needed plant nutrients. These are called fertilizers, although the","imageUrl":"https://cdn.britannica.com/24/202424-050-7AA040E8/tractor-spreading-fertilizer.jpg","imageType":"image/jpeg","pageUrl":"https://www.britannica.com/topic/fertilizer"}
+  </script>
+  <link href="https://fonts.googleapis.com/" rel="preconnect"/>
+  <link href="https://fonts.googleapis.com/" rel="dns-prefetch"/>
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
+  <link href="https://cdn.britannica.com/mendel-resources/3-90/dist/vendor-bundle.css?v=3.90.6" rel="stylesheet"/>
+  <link href="https://cdn.britannica.com/mendel-resources/3-90/dist/mendel-css.css?v=3.90.6" rel="stylesheet"/>
+  <link href="https://cdn.britannica.com/mendel-resources/3-90/dist/topic-page.css?v=3.90.6" rel="stylesheet"/>
+  <script type="text/javascript">
+   if (self !== top) { top.location = self.location; }
+
+        
+
+        // if ('scrollRestoration' in history) { history.scrollRestoration = 'manual'; }
+  </script>
+  <script async="" src="https://www.googleoptimize.com/optimize.js?id=OPT-TD96PKG">
+  </script>
+  <script>
+   dataLayer = [];
+  </script>
+  <script type="text/javascript">
+   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		       new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		       j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		       '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		   })(window,document,'script','dataLayer','GTM-5W6NC8');
+  </script>
+  <script type="application/ld+json">
+   {
+	"@context" : "https://schema.org",
+	"@type" : "article",
+	"headline" : "Fertilizer | Definition, Types, Plant Nutrients, Application, & Facts",
+	"image" : "https://cdn.britannica.com/24/202424-050-7AA040E8/tractor-spreading-fertilizer.jpg",
+	"author" : "Robert E. Stewart",
+	"keywords" : "fertilizer, encyclopedia, encyclopeadia, britannica, article",
+	"wordcount"	: "2816",
+	"publisher" : {
+				     "@type" : "Organization",
+				     "name" : "Encyclopedia Britannica",
+				     "logo" : {
+					     "@type" : "ImageObject",
+					     "url" : "https://corporate.britannica.com/wp-content/themes/eb-corporate/_img/logo.png"
+				     }
+				  },
+    "url" : "https://www.britannica.com/topic/fertilizer",
+    "datePublished" : "1998-07-20",
+    "dateModified" : "2023-03-10",
+    "description" : "Fertilizer, natural or artificial substance containing the chemical elements that improve growth and productiveness of plants. Fertilizers enhance the natural fertility of the soil or replace chemical elements taken from the soil by previous crops."
+}
+  </script>
+ </head>
+ <body class="new-topic topic-desktop first-page-true user-ANONYMOUS md-desktop leg-d" data-ads-manager="cafeMedia" data-leg="D">
+  <script id="json-navbar-info" type="application/json">
+   {"extraLinks":[{"title":"Dictionary","url":"/dictionary"},{"title":"Quizzes","url":"/quiz/browse"},{"title":"Money","url":"/money"},{"title":"Video","url":"/videos"}],"featureLinks":[{"title":"On This Day in History","url":"/on-this-day","description":"What happened today in history?"},{"title":"Quizzes","url":"/quiz/browse","description":"Can you get to the top of the leaderboard?"},{"title":"Podcasts","url":"/podcasts","description":"Stay curious on the go."},{"title":"Dictionary","url":"/dictionary","description":"Clear and simple definitions from language experts."},{"title":"Biographies","url":"/biographies","description":"Explore extraordinary lives."},{"title":"Summaries","url":"/summary","description":"Summaries, quick-facts, and timelines on key topics."},{"title":"Top Questions","url":"/question","description":"Britannica’s Editors answer your top questions."},{"title":"Week In Review","url":"/week-in-review","description":"A weekly recap of key events and fun facts."},{"title":"Infographics","url":"https://www.britannica.com/study/infographics","description":"Explore the world through maps, charts, and graphs.","newTab":true},{"title":"Demystified","url":"/stories/demystified","description":"Insight into some of life's big mysteries."},{"title":"Lists","url":"/list/browse","description":"Find out what tops our Editors’ lists. "},{"title":"#WTFact","url":"/stories/wtfact","description":"Stories so weird you’ll exclaim: “What the Fact!”"},{"title":"Companions","url":"/stories/companion","description":"A more concise complement to our top articles."},{"title":"Image Galleries","url":"/gallery/browse","description":"Browse editorially curated collections."},{"title":"Spotlight","url":"/stories/spotlight","description":"Get more context behind trending news and events."},{"title":"The Forum","url":"/stories/the-forum","description":"Analysis, research, and ideas from leading experts."},{"title":"One Good Fact","url":"/one-good-fact","description":"Your daily source for fascinating facts."}],"featuredFeature":{"title":"How Do You Tell the Difference Between Total, Annular, Solar, and Lunar Eclipses?","url":"/story/how-do-you-tell-the-difference-between-total-annular-solar-and-lunar-eclipses","description":"Demystified / Science","image":{"id":0,"url":"/41/196341-131-60E24B83/solar-eclipse-moon-sun-space-astronomy.jpg","altText":"solar eclipse, sun, moon, astronomy, space","credit":"© solarseven/Dreamstime.com","fullUrl":"https://cdn.britannica.com/41/196341-131-60E24B83/solar-eclipse-moon-sun-space-astronomy.jpg"}},"categoryLinks":[{"id":10000,"title":"Entertainment & Pop Culture","url":"Entertainment-Pop-Culture","description":"Entertainment and leisure activities have been a part of culture in one form or another since the ancient times. Dance performances, live music, and storytelling have a long tradition throughout history, even as the styles and available methods of delivery have shifted dramatically.","image":{"id":0,"url":"/04/167104-050-A0D0F726.jpg","altText":"Entertainment & Pop Culture","fullUrl":"https://cdn.britannica.com/04/167104-050-A0D0F726.jpg"}},{"id":5000,"title":"Geography & Travel","url":"Geography-Travel","description":"Planet Earth contains some extraordinarily diverse environments, some of which are easily habitable and some not so much. In different areas of Earth, one might find sweltering deserts, dense tropical rainforests, or bone-chilling tundras. Each biome and habitat comes with its own selection of flora and fauna, and it may include physical features such as canyons, volcanoes, rivers, or caves. Human beings have built homes in many different environments, settling the area and organizing it into units such as cities, states, regions, and countries, each with its own points of interest. Shifting trends in human migration have resulted in a human geography that is profoundly different from that of centuries ago.","image":{"id":0,"url":"/17/2317-050-758D0E55/World-map-descriptions-Herodotus-Black-Sea.jpg","altText":"Geography & Travel","fullUrl":"https://cdn.britannica.com/17/2317-050-758D0E55/World-map-descriptions-Herodotus-Black-Sea.jpg"}},{"id":3000,"title":"Health & Medicine","url":"Health-Medicine","description":"The study of the human mind and body, how these function, and how they interact—not only with each other but also with their environment—has been of utmost importance in ensuring human well-being. Research on potential treatments and preventive medicine has expanded greatly with the development of modern medicine, and a network of disciplines, including such fields as genetics, psychology, and nutrition, aims to facilitate the betterment of our health.","image":{"id":0,"url":"/07/192107-050-CE043374/anatomy-charts-human-body-muscle-systems-skeletal.jpg","altText":"Health & Medicine","fullUrl":"https://cdn.britannica.com/07/192107-050-CE043374/anatomy-charts-human-body-muscle-systems-skeletal.jpg"}},{"id":8000,"title":"Lifestyles & Social Issues","url":"Lifestyles-Social-Issues","description":"It's easy enough to agree that human beings all around the world have certain basic requirements that must be fulfilled in order to ensure their individual and collective well-being. History has shown us, however, that it's not so easy to form societies or communities that fulfill these requirements for all members. The fight for human and civil rights has persisted for hundreds of years and remains alive today, both within the borders of nations and on an international scale. It has led to large-scale social movements and reforms concerning issues such as suffrage, slavery, women's rights, racism, environmentalism, gay rights, and much more.","image":{"id":0,"url":"/11/195611-131-4DFC1336/Belgian-pride-parade-People-streets-flags-Brussels-2017.jpg","altText":"Lifestyles & Social Issues","fullUrl":"https://cdn.britannica.com/11/195611-131-4DFC1336/Belgian-pride-parade-People-streets-flags-Brussels-2017.jpg"}},{"id":12000,"title":"Literature","url":"Literature","description":"With the development of language, the human imagination has found a way to create and communicate through the written word. A literary work can transport us into a fictional, fantastic new world, describe a fleeting feeling, or simply give us a picture of the past through novels, poems, tragedies, epic works, and other genres. Through literature, communication becomes an art, and it can bridge and bond people and cultures of different languages and backgrounds.","image":{"id":0,"url":"/44/172844-131-9695C31F/word-communication-stress-accent-letters-syllable.jpg","altText":"Literature","fullUrl":"https://cdn.britannica.com/44/172844-131-9695C31F/word-communication-stress-accent-letters-syllable.jpg"}},{"id":7000,"title":"Philosophy & Religion","url":"Philosophy-Religion","description":"Humans have long pondered not only how we came to be but also why we came to be. The earliest Greek philosophers focused their attention upon the origin and nature of the physical world; later philosophers have theorized about the nature of knowledge, truth, good and evil, love, friendship, and much more. Philosophy involves a methodical assessment of any and all aspects of human existence and experience. The realms of philosophy and religion have sometimes intersected in conducting such inquiries as these. As with philosophy, the study of religion underscores how humankind has long speculated about its origins. The possibility of a higher being (or beings) to which livings things owe their existence has long captived human thought. Many religions also offer their own views on the nature of good and evil, and they may prescribe guidelines and judgment on different kinds of human behavior.","image":{"id":0,"url":"/95/180595-050-EDF2CA3A.jpg","altText":"Philosophy & Religion","fullUrl":"https://cdn.britannica.com/95/180595-050-EDF2CA3A.jpg"}},{"id":9000,"title":"Politics, Law & Government","url":"Politics-Law-Government","description":"The world today is divided territorially into more than 190 countries, each of which possesses a national government that claims to exercise sovereignty and seeks to compel obedience to its will by its citizens. Governments can be classified in any number of ways. For example, they might be classified by the number of rulers, thus distinguishing government by one (as in a monarchy or a tyranny) from government by the few (in an aristocracy or oligarchy) and from government by the many (as in a democracy). Governments can also be classified by mode of succession; for example, ascension to governmental leadership may follow the rules of hereditary succession, or it may be determined through elections or by force. Governments also vary in terms of the laws and rules of conduct that each political entity follows.","image":{"id":0,"url":"/22/99622-050-E70BCD0A/Parthenon-Athens.jpg","altText":"Politics, Law & Government","fullUrl":"https://cdn.britannica.com/22/99622-050-E70BCD0A/Parthenon-Athens.jpg"}},{"id":1000,"title":"Science","url":"Science","description":"How can the sky be blue one day and stormy the next? Why do heavy objects tend to fall downwards when dropped? How are birds able to fly (and why can’t I do the same?)? Human beings have long been curious about the world in which we live, striving to identify connections among the phenomenons we witness and to understand how it all works. The field of science has developed over many centuries as a way of studying and understanding the world, beginning with the primitive stage of simply noting important regularities in nature and continuing through the rise of modern science. The modern-day sciences cover a vast range of fields, including biology, chemistry, meteorology, astronomy, physics, and much more.","image":{"id":0,"url":"/86/193986-050-7B2DBB6A/ball-and-stick-model-structure-atoms.jpg","altText":"Science","fullUrl":"https://cdn.britannica.com/86/193986-050-7B2DBB6A/ball-and-stick-model-structure-atoms.jpg"}},{"id":4000,"title":"Sports & Recreation","url":"Sports-Recreation","description":"Physical contests and recreational games have long played a part in human society. In both team and solo sports, the human body has been pushed to its limits in the name of improving athletic performance and in order to break record upon record. The ancient Olympic Games are an early example of the contests in which humans have engaged to showcase physical prowess. In modern times, sports and games have evolved into a lucrative and competitive industry, while other leisure activities, such as card and video games, can be competitive or just serve as a way to unwind or socialize.","image":{"id":0,"url":"/13/170713-131-8D6B0AF7.jpg","altText":"Sports & Recreation","fullUrl":"https://cdn.britannica.com/13/170713-131-8D6B0AF7.jpg"}},{"id":2000,"title":"Technology","url":"Technology","description":"Humankind has long striven to improve its living conditions through the development of tools, instruments, and transportation and communications systems, all with the goal of making our lives easier, more productive and—why not?—more fun, too. Thanks to human curiosity and technological research, many significant inventions have been made throughout history that in turn made a difference in our daily lives.","image":{"id":0,"url":"/84/203584-131-357FBE7D/speed-internet-technology-background.jpg","altText":"Technology","fullUrl":"https://cdn.britannica.com/84/203584-131-357FBE7D/speed-internet-technology-background.jpg"}},{"id":11000,"title":"Visual Arts","url":"Visual-Arts","description":"These are the arts that meet the eye and evoke an emotion through an expression of skill and imagination. They include the most ancient forms, such as painting and drawing, and the arts that were born thanks to the development of technology, like sculpture, printmaking, photography, and installation art. Though beauty is in the eye of the beholder, different eras in art history have had their own principles to define beauty, from the richly ornamented taste of the Baroque to the simple utilitarian style of the Prairie School.","image":{"id":0,"url":"/45/24345-050-78FAA104.jpg","altText":"Visual Arts","fullUrl":"https://cdn.britannica.com/45/24345-050-78FAA104.jpg"}},{"id":6000,"title":"World History","url":"World-History","description":"Does history really repeat itself, or can we learn from the mistakes of those who came before us? History provides a chronological, statistical, and cultural record of the events, people, and movements that have made an impact on humankind and the world at large throughout the ages.","image":{"id":0,"url":"/05/84505-050-8BB58BE6/cave-art-Ennedi-Plateau-Chad.jpg","altText":"World History","fullUrl":"https://cdn.britannica.com/05/84505-050-8BB58BE6/cave-art-Ennedi-Plateau-Chad.jpg"}}],"featuredTopic":{"title":"childhood disease and disorder","url":"https://www.britannica.com/science/childhood-diseases-and-disorders","description":"Article / Health &amp; Medicine","image":{"id":161917,"url":"/33/149333-050-3F56B5D4/baby-oxygen-hospital-intensive-care-unit.jpg","altText":"birth: premature","credit":"© Hemera/Thinkstock","width":1600,"height":1206,"fullUrl":"https://cdn.britannica.com/33/149333-050-3F56B5D4/baby-oxygen-hospital-intensive-care-unit.jpg"}},"videoChannelsLinks":[{"title":"Britannica Explains","url":"/videos/explains","description":"In these videos, Britannica explains a variety of topics and answers frequently asked questions."},{"title":"Britannica Classics","url":"/videos/britannica-classics","description":"Check out these retro videos from Encyclopedia Britannica’s archives."},{"title":"Demystified Videos","url":"/videos/demystified","description":"In Demystified, Britannica has all the answers to your burning questions."},{"title":"#WTFact Videos","url":"/videos/wtfact","description":"In #WTFact Britannica shares some of the most bizarre facts we can find."},{"title":"This Time in History","url":"/videos/this-week-in-history","description":"In these videos, find out what happened this month (or any month!) in history."}],"newLinks":[{"title":"Student Portal","url":"/study/","description":"Britannica is the ultimate student resource for key school subjects like history, government, literature, and more.","newTab":true},{"title":"COVID-19 Portal","url":"/explore/savingearth/covid-19/","description":"While this global health crisis continues to evolve, it can be useful to look to past pandemics to better understand how to respond today.","newTab":true},{"title":"100 Women","url":"/explore/100women/","description":"Britannica celebrates the centennial of the Nineteenth Amendment, highlighting suffragists and history-making politicians.","newTab":true},{"title":"Saving Earth","url":"/explore/savingearth/","description":"Britannica Presents Earth’s To-Do List for the 21st Century. Learn about the major environmental problems facing our planet and what can be done about them!","newTab":true},{"title":"SpaceNext50","url":"/explore/space/","description":"Britannica presents SpaceNext50,  From the race to the Moon to space stewardship, we explore a wide range of subjects that feed our curiosity about space!","newTab":true}]}
+  </script>
+  <header class="bg-navy-dark shadow-lg border-bottom border-black" id="header">
+   <div class="grid gx-0 align-items-center">
+    <div class="col-auto order-1 order-sm-0 d-none d-sm-block">
+     <a class="mx-10 mx-sm-20 d-flex align-items-center" href="/">
+      <img alt="Encyclopedia Britannica" loading="lazy" src="https://cdn.britannica.com/mendel/eb-logo/MendelNewThistleLogo.png" width="123"/>
+     </a>
+    </div>
+    <div class="col grid">
+     <div class="col-65 col-md-40 col-lg-auto d-none d-sm-inline-block py-5 px-0">
+      <div class="global-nav-search-container">
+       <form action="/search" class="md-search-form m-0" id="global-nav-search" method="get">
+        <div class="search-box position-relative col-100">
+         <label class="sr-only" for="global-nav-search-query">
+          Search Britannica
+         </label>
+         <input aria-label="Search Britannica" autocomplete="off" class="form-control form-control-lg font-16 search-query pl-20 pr-70 shadow-sm" id="global-nav-search-query" maxlength="200" name="query" placeholder="Search Britannica..."/>
+         <button class="search-reset-btn btn btn-link px-10 position-absolute top-0 h-100 d-none" type="reset">
+          <em class="material-icons" data-icon="close">
+          </em>
+         </button>
+         <button class="search-submit btn btn-link text-blue px-10 position-absolute top-0 right-0 h-100" disabled="" type="submit">
+          <span class="sr-only">
+           Click here to search
+          </span>
+          <em class="material-icons" data-icon="search">
+          </em>
+         </button>
+        </div>
+       </form>
+      </div>
+     </div>
+     <div class="col d-flex align-items-center">
+      <button class="js-toggle js-toggle-hamburger btn btn-link link-white btn-sm rounded-0 ml-10 px-0">
+       <em class="material-icons inactive-icon" data-icon="menu">
+       </em>
+       <em class="material-icons active-icon" data-icon="close">
+       </em>
+       <span class="d-none d-sm-inline-block ml-5 p-0">
+        Browse
+       </span>
+      </button>
+      <button class="d-sm-none js-toggle js-toggle-search-flyout btn btn-link link-white btn-sm rounded-0">
+       <em class="material-icons inactive-icon" data-icon="search">
+       </em>
+       <em class="material-icons active-icon" data-icon="close">
+       </em>
+      </button>
+      <a class="d-none d-md-inline-block link-white font-14 ml-20" href="/dictionary">
+       Dictionary
+      </a>
+      <a class="d-none d-md-inline-block link-white font-14 ml-20" href="/quiz/browse">
+       Quizzes
+      </a>
+      <a class="d-none d-md-inline-block link-white font-14 ml-20" href="/money">
+       Money
+      </a>
+      <a class="d-none d-md-inline-block link-white font-14 ml-20" href="/videos">
+       Video
+      </a>
+     </div>
+    </div>
+    <div class="col-35 d-sm-none text-center">
+     <a class="d-flex align-items-center justify-content-center" href="/">
+      <img alt="Encyclopedia Britannica" loading="lazy" src="https://cdn.britannica.com/mendel/eb-logo/MendelNewThistleLogo.png" width="119"/>
+     </a>
+    </div>
+    <div class="col-35 col-sm-auto text-right order-3 mr-lg-15 align-items-center d-flex justify-content-end">
+     <div class="d-none d-md-inline-block">
+      <span class="marketing-HEADER_SUBSCRIPTION_DESKTOP2 marketing-content" data-marketing-id="HEADER_SUBSCRIPTION_DESKTOP2">
+       <a class="subscribe-link btn btn-sm btn-orange-dark py-5 mr-10" href="https://subscription.britannica.com/subscribe?partnerCode=BP_GN_NAC_USD_D" target="_blank">
+        Subscribe
+       </a>
+      </span>
+     </div>
+     <div class="d-inline-block d-md-none">
+      <span class="marketing-HEADER_SUBSCRIPTION_MOBILE marketing-content" data-marketing-id="HEADER_SUBSCRIPTION_MOBILE">
+       <a class="subscribe-link btn btn-xs btn-orange-dark p-5" href="https://premium.britannica.com/premium-membership/?utm_source=premium&amp;utm_medium=global-nav-mobile&amp;utm_campaign=evergreen" rel="noopener" target="_blank">
+        Subscribe
+       </a>
+      </span>
+     </div>
+     <button class="js-toggle-user-dropdown js-toggle btn btn-sm btn-link link-white rounded-0 px-md-15 pl-10 pr-5">
+      <span class="d-none d-md-inline-block mr-5">
+       Login
+      </span>
+      <em class="material-icons d-inline-block d-md-none font-20" data-icon="account_circle">
+      </em>
+      <em class="material-icons inactive-icon d-inline-block font-18" data-icon="keyboard_arrow_down">
+      </em>
+      <em class="material-icons active-icon d-inline-block font-18" data-icon="keyboard_arrow_up">
+      </em>
+     </button>
+    </div>
+   </div>
+   <div id="global-nav-react">
+    <ul class="d-none">
+     <li>
+      <a href="/browse/Entertainment-Pop-Culture">
+       Entertainment &amp; Pop Culture
+      </a>
+     </li>
+     <li>
+      <a href="/browse/Geography-Travel">
+       Geography &amp; Travel
+      </a>
+     </li>
+     <li>
+      <a href="/browse/Health-Medicine">
+       Health &amp; Medicine
+      </a>
+     </li>
+     <li>
+      <a href="/browse/Lifestyles-Social-Issues">
+       Lifestyles &amp; Social Issues
+      </a>
+     </li>
+     <li>
+      <a href="/browse/Literature">
+       Literature
+      </a>
+     </li>
+     <li>
+      <a href="/browse/Philosophy-Religion">
+       Philosophy &amp; Religion
+      </a>
+     </li>
+     <li>
+      <a href="/browse/Politics-Law-Government">
+       Politics, Law &amp; Government
+      </a>
+     </li>
+     <li>
+      <a href="/browse/Science">
+       Science
+      </a>
+     </li>
+     <li>
+      <a href="/browse/Sports-Recreation">
+       Sports &amp; Recreation
+      </a>
+     </li>
+     <li>
+      <a href="/browse/Technology">
+       Technology
+      </a>
+     </li>
+     <li>
+      <a href="/browse/Visual-Arts">
+       Visual Arts
+      </a>
+     </li>
+     <li>
+      <a href="/browse/World-History">
+       World History
+      </a>
+     </li>
+    </ul>
+    <ul class="d-none">
+     <li>
+      <a href="/on-this-day">
+       On This Day in History
+      </a>
+     </li>
+     <li>
+      <a href="/quiz/browse">
+       Quizzes
+      </a>
+     </li>
+     <li>
+      <a href="/podcasts">
+       Podcasts
+      </a>
+     </li>
+     <li>
+      <a href="/dictionary">
+       Dictionary
+      </a>
+     </li>
+     <li>
+      <a href="/biographies">
+       Biographies
+      </a>
+     </li>
+     <li>
+      <a href="/summary">
+       Summaries
+      </a>
+     </li>
+     <li>
+      <a href="/question">
+       Top Questions
+      </a>
+     </li>
+     <li>
+      <a href="/week-in-review">
+       Week In Review
+      </a>
+     </li>
+     <li>
+      <a href="https://www.britannica.com/study/infographics">
+       Infographics
+      </a>
+     </li>
+     <li>
+      <a href="/stories/demystified">
+       Demystified
+      </a>
+     </li>
+     <li>
+      <a href="/list/browse">
+       Lists
+      </a>
+     </li>
+     <li>
+      <a href="/stories/wtfact">
+       #WTFact
+      </a>
+     </li>
+     <li>
+      <a href="/stories/companion">
+       Companions
+      </a>
+     </li>
+     <li>
+      <a href="/gallery/browse">
+       Image Galleries
+      </a>
+     </li>
+     <li>
+      <a href="/stories/spotlight">
+       Spotlight
+      </a>
+     </li>
+     <li>
+      <a href="/stories/the-forum">
+       The Forum
+      </a>
+     </li>
+     <li>
+      <a href="/one-good-fact">
+       One Good Fact
+      </a>
+     </li>
+    </ul>
+    <ul class="d-none">
+     <li>
+      <a href="/videos/Entertainment-Pop-Culture">
+       Entertainment &amp; Pop Culture
+      </a>
+     </li>
+     <li>
+      <a href="/videos/Geography-Travel">
+       Geography &amp; Travel
+      </a>
+     </li>
+     <li>
+      <a href="/videos/Health-Medicine">
+       Health &amp; Medicine
+      </a>
+     </li>
+     <li>
+      <a href="/videos/Lifestyles-Social-Issues">
+       Lifestyles &amp; Social Issues
+      </a>
+     </li>
+     <li>
+      <a href="/videos/Literature">
+       Literature
+      </a>
+     </li>
+     <li>
+      <a href="/videos/Philosophy-Religion">
+       Philosophy &amp; Religion
+      </a>
+     </li>
+     <li>
+      <a href="/videos/Politics-Law-Government">
+       Politics, Law &amp; Government
+      </a>
+     </li>
+     <li>
+      <a href="/videos/Science">
+       Science
+      </a>
+     </li>
+     <li>
+      <a href="/videos/Sports-Recreation">
+       Sports &amp; Recreation
+      </a>
+     </li>
+     <li>
+      <a href="/videos/Technology">
+       Technology
+      </a>
+     </li>
+     <li>
+      <a href="/videos/Visual-Arts">
+       Visual Arts
+      </a>
+     </li>
+     <li>
+      <a href="/videos/World-History">
+       World History
+      </a>
+     </li>
+    </ul>
+    <ul class="d-none">
+     <li>
+      <a href="/videos/explains">
+       Britannica Explains
+       <br/>
+       In these videos, Britannica explains a variety of topics and answers frequently asked questions.
+      </a>
+     </li>
+     <li>
+      <a href="/videos/britannica-classics">
+       Britannica Classics
+       <br/>
+       Check out these retro videos from Encyclopedia Britannica’s archives.
+      </a>
+     </li>
+     <li>
+      <a href="/videos/demystified">
+       Demystified Videos
+       <br/>
+       In Demystified, Britannica has all the answers to your burning questions.
+      </a>
+     </li>
+     <li>
+      <a href="/videos/wtfact">
+       #WTFact Videos
+       <br/>
+       In #WTFact Britannica shares some of the most bizarre facts we can find.
+      </a>
+     </li>
+     <li>
+      <a href="/videos/this-week-in-history">
+       This Time in History
+       <br/>
+       In these videos, find out what happened this month (or any month!) in history.
+      </a>
+     </li>
+    </ul>
+    <ul class="d-none">
+     <li>
+      <a href="/study/">
+       Student Portal
+      </a>
+      <br/>
+      Britannica is the ultimate student resource for key school subjects like history, government, literature, and more.
+     </li>
+     <li>
+      <a href="/explore/savingearth/covid-19/">
+       COVID-19 Portal
+      </a>
+      <br/>
+      While this global health crisis continues to evolve, it can be useful to look to past pandemics to better understand how to respond today.
+     </li>
+     <li>
+      <a href="/explore/100women/">
+       100 Women
+      </a>
+      <br/>
+      Britannica celebrates the centennial of the Nineteenth Amendment, highlighting suffragists and history-making politicians.
+     </li>
+     <li>
+      <a href="/explore/savingearth/">
+       Saving Earth
+      </a>
+      <br/>
+      Britannica Presents Earth’s To-Do List for the 21st Century. Learn about the major environmental problems facing our planet and what can be done about them!
+     </li>
+     <li>
+      <a href="/explore/space/">
+       SpaceNext50
+      </a>
+      <br/>
+      Britannica presents SpaceNext50,  From the race to the Moon to space stewardship, we explore a wide range of subjects that feed our curiosity about space!
+     </li>
+    </ul>
+   </div>
+  </header>
+  <main>
+   <div class="md-page-wrapper">
+    <div class="md-content" id="content">
+     <div class="md-article-container template-desktop">
+      <div class="infinite-scroll-container article last">
+       <article class="article-content content md-expanded" data-topic-id="205346">
+        <div class="grid gx-0">
+         <div class="col-auto">
+          <div class="family-panel md-article-drawer position-relative d-flex border-right-sm open">
+           <div class="drawer d-flex flex-column open">
+            <div class="family-panel-header d-lg-flex grid gx-0 align-items-center border-bottom bg-white col-auto">
+             <div class="col">
+              <div class="p-15 text-truncate">
+               <a class="font-serif font-weight-bold font-14 text-black link-blue" href="https://www.britannica.com/topic/fertilizer">
+                fertilizer
+               </a>
+              </div>
+             </div>
+             <div class="col-auto d-lg-none">
+              <button class="d-flex d-lg-none btn-link btn btn-sm shadow-sm js-sections-button pl-0 pr-10 mr-10">
+               <em class="material-icons mr-5 ml-n10 my-n5 md-icon" data-icon="toc">
+               </em>
+               Table of Contents
+              </button>
+             </div>
+            </div>
+            <div class="family-section-content p-10 p-lg-0 col">
+             <div class="d-lg-none family-panel-close-header grid gx-0 align-items-center border-bottom bg-white rounded-tl-lg rounded-tr-lg shadow">
+              <div class="col">
+               <div class="p-15 text-truncate">
+                <a class="font-serif font-weight-bold font-14 text-black link-blue" href="https://www.britannica.com/topic/fertilizer">
+                 fertilizer
+                </a>
+               </div>
+              </div>
+              <div class="col-auto">
+               <button class="js-sections-close-button btn-link btn-sm btn py-5 pl-0 pr-10 mr-10">
+                <em class="material-icons" data-icon="close">
+                </em>
+               </button>
+              </div>
+             </div>
+             <div class="section-content pt-10 pb-15 pr-10 pl-5 h-100 shadow">
+              <div class="toc ARTICLE mb-20">
+               <div class="font-14 font-weight-bold pb-5 ml-15">
+                Table of Contents
+               </div>
+               <ul class="list-unstyled mb-0" data-level="h1">
+                <li data-target="#ref1">
+                 <a class="ml-25" href="/topic/fertilizer">
+                  Introduction
+                 </a>
+                 <div class="ml-40 toc-drawer sub-toc-drawer">
+                 </div>
+                </li>
+                <li data-target="#ref349665">
+                 <div class="d-flex align-items-center">
+                  <div class="ml-25">
+                  </div>
+                  <a class="w-100" href="/topic/fertilizer#ref349665">
+                   Essential plant nutrients
+                  </a>
+                 </div>
+                 <div class="ml-40 toc-drawer sub-toc-drawer">
+                 </div>
+                </li>
+                <li data-target="#ref349666">
+                 <div class="d-flex align-items-center">
+                  <div class="ml-25">
+                  </div>
+                  <a class="w-100" href="/topic/fertilizer#ref349666">
+                   Determining nutrient needs
+                  </a>
+                 </div>
+                 <div class="ml-40 toc-drawer sub-toc-drawer">
+                 </div>
+                </li>
+                <li data-target="#ref349667">
+                 <div class="d-flex align-items-center">
+                  <div class="ml-25">
+                  </div>
+                  <a class="w-100" href="/topic/fertilizer#ref349667">
+                   The economics of fertilizers
+                  </a>
+                 </div>
+                 <div class="ml-40 toc-drawer sub-toc-drawer">
+                 </div>
+                </li>
+                <li data-target="#ref349668">
+                 <div class="d-flex align-items-center">
+                  <div class="ml-25">
+                  </div>
+                  <a class="w-100" href="/topic/fertilizer#ref349668">
+                   Synthetic fertilizers
+                  </a>
+                 </div>
+                 <div class="ml-40 toc-drawer sub-toc-drawer">
+                 </div>
+                </li>
+                <li data-target="#ref349669">
+                 <div class="d-flex align-items-center">
+                  <button aria-label="Toggle Heading" class="h1-link-drawer-button btn btn-xs btn-circle d-flex rounded" type="button">
+                   <em class="material-icons font-18" data-icon="keyboard_arrow_right">
+                   </em>
+                  </button>
+                  <a class="w-100" href="/topic/fertilizer#ref349669">
+                   Organic fertilizers and practices
+                  </a>
+                 </div>
+                 <div class="ml-40 toc-drawer sub-toc-drawer">
+                  <ul class="list-unstyled" data-level="h2">
+                   <li data-target="#ref349670">
+                    <a class="w-100" href="/topic/fertilizer#ref349670">
+                     Farm manure
+                    </a>
+                   </li>
+                  </ul>
+                  <ul class="list-unstyled" data-level="h2">
+                   <li data-target="#ref349671">
+                    <a class="w-100" href="/topic/fertilizer#ref349671">
+                     Green manuring
+                    </a>
+                   </li>
+                  </ul>
+                  <ul class="list-unstyled" data-level="h2">
+                   <li data-target="#ref349672">
+                    <a class="w-100" href="/topic/fertilizer#ref349672">
+                     Compost
+                    </a>
+                   </li>
+                  </ul>
+                  <ul class="list-unstyled" data-level="h2">
+                   <li data-target="#ref349673">
+                    <a class="w-100" href="/topic/fertilizer#ref349673">
+                     Liming
+                    </a>
+                   </li>
+                  </ul>
+                 </div>
+                </li>
+                <li data-target="#ref349674">
+                 <div class="d-flex align-items-center">
+                  <div class="ml-25">
+                  </div>
+                  <a class="w-100" href="/topic/fertilizer#ref349674">
+                   Methods of application
+                  </a>
+                 </div>
+                 <div class="ml-40 toc-drawer sub-toc-drawer">
+                 </div>
+                </li>
+               </ul>
+              </div>
+              <div class="toc FAST_FACTS">
+               <div class="label pb-5 ml-15">
+                Fast Facts
+               </div>
+               <ul class="list-unstyled mb-0 pb-20" data-level="h1">
+                <li data-target="#facts-fertilizer">
+                 <a class="w-95 ml-25" href="/facts/fertilizer">
+                  Related Content
+                 </a>
+                </li>
+               </ul>
+              </div>
+              <div class="toc READ_NEXT">
+               <div class="label pb-5 ml-15">
+                Read Next
+               </div>
+               <ul class="list-unstyled mb-0 pb-20" data-level="h1">
+                <li>
+                 <a class="w-95 ml-25" href="/list/18-questions-about-farming-answered">
+                  18 Questions About Farming Answered
+                 </a>
+                </li>
+               </ul>
+              </div>
+              <div class="toc MEDIA">
+               <div class="label pb-5 ml-15">
+                Media
+               </div>
+               <ul class="list-unstyled mb-0 pb-20" data-level="h1">
+                <li data-target="#Videos-fertilizer">
+                 <a class="w-95 ml-25" href="https://www.britannica.com/topic/fertilizer/images-videos#Videos">
+                  Videos
+                 </a>
+                </li>
+                <li data-target="#Images-fertilizer">
+                 <a class="w-95 ml-25" href="https://www.britannica.com/topic/fertilizer/images-videos#Images">
+                  Images
+                 </a>
+                </li>
+               </ul>
+              </div>
+              <div class="toc INFO">
+               <div class="label pb-5 ml-15">
+                More
+               </div>
+               <ul class="list-unstyled mb-0 pb-20" data-level="h1">
+                <li data-target="#More-Articles">
+                 <a class="w-95 ml-25" href="https://www.britannica.com/topic/fertilizer/additional-info#More-Articles" rel="nofollow">
+                  More Articles On This Topic
+                 </a>
+                </li>
+                <li data-target="#contributors-fertilizer">
+                 <a class="w-95 ml-25" href="https://www.britannica.com/topic/fertilizer/additional-info#contributors" rel="nofollow">
+                  Contributors
+                 </a>
+                </li>
+                <li data-target="#history-fertilizer">
+                 <a class="w-95 ml-25" href="https://www.britannica.com/topic/fertilizer/additional-info#history" rel="nofollow">
+                  Article History
+                 </a>
+                </li>
+               </ul>
+              </div>
+             </div>
+            </div>
+           </div>
+           <button aria-label="Toggle Drawer" class="drawerToggle btn position-sticky border btn-xs btn-white btn-circle rounded d-none d-lg-flex" type="button">
+            <em class="material-icons font-18" data-icon="keyboard_arrow_left">
+            </em>
+           </button>
+          </div>
+         </div>
+         <div class="col">
+          <div class="container p-0 p-sm-20 ml-0">
+           <div class="grid gx-0 gx-sm-20">
+            <div class="col-sm mendel-content-rail">
+             <div class="infinite-pagination-container">
+              <script type="application/ld+json">
+               {
+			"@context" : "https://schema.org",
+			"@type" : "BreadcrumbList",
+			"itemListElement" :
+			[
+				
+			
+			{
+			"@type" : "ListItem",
+			"position" : 1,
+			"item" :
+			{
+			"@id" : "https://www.britannica.com/browse/Technology",
+			"name": "Technology"
+			}
+			}
+		
+			,
+			{
+			"@type" : "ListItem",
+			"position" : 2,
+			"item" :
+			{
+			"@id" : "https://www.britannica.com/browse/Agriculture",
+			"name": "Agriculture &amp; Agricultural Technology"
+			}
+			}
+		
+			]
+		}
+              </script>
+              <nav class="breadcrumb ml-20 mt-10 ml-sm-0 mt-sm-0">
+               <span class="breadcrumb-item">
+                <a class="" href="/">
+                 Home
+                </a>
+               </span>
+               <span class="breadcrumb-item">
+                <a class="" href="/browse/Technology">
+                 Technology
+                </a>
+               </span>
+               <span class="breadcrumb-item">
+                <a class="" href="/browse/Agriculture">
+                 Agriculture &amp; Agricultural Technology
+                </a>
+               </span>
+              </nav>
+              <div class="grey-box w-100 grey-box-top grey-box-bottom">
+               <div class="topic-header">
+                <div class="d-flex align-items-top justify-content-between">
+                 <div class="d-flex flex-column">
+                  <h1 class="mt-20 mb-0">
+                   fertilizer
+                  </h1>
+                  <div class="topic-identifier font-16 font-md-20">
+                   agriculture
+                  </div>
+                 </div>
+                 <div class="d-block d-sm-none md-topic-tools-mobile mt-20" data-topic-id="205346" style="right:20px">
+                  <button class="js-tooltip-actions ml-10 btn btn-xs btn-outline-blue border shadow-sm pr-10">
+                   <em class="material-icons md-icon ml-n10 my-n5 mr-5" data-icon="more_vert">
+                   </em>
+                   Actions
+                  </button>
+                  <div class="md-actions-popover popover popover-sm py-5 px-0 z-1">
+                   <div>
+                    <button class="js-modal qa-cite-modal-button btn btn-sm btn-link" data-modal="[data-topic-id=205346] .md-cite-modal-mobile">
+                     <em class="material-icons mr-5 ml-n10 my-n5 md-icon" data-icon="verified">
+                     </em>
+                     Cite
+                    </button>
+                    <div class="md-cite-modal-mobile size-lg d-none">
+                     <div class="md-modal-body">
+                      <div class="h2 font-serif d-flex align-items-center pb-15 border-bottom mb-15">
+                       <em class="material-icons text-blue mr-10">
+                        verified
+                       </em>
+                       Cite
+                      </div>
+                      <div class="font-serif">
+                       While every effort has been made to follow citation style rules, there may be some discrepancies.
+			Please refer to the appropriate style manual or other sources if you have any questions.
+                      </div>
+                      <div class="label mt-20 mb-10">
+                       Select Citation Style
+                      </div>
+                      <select class="js-citation-format-select form-select">
+                       <option selected="" value="mla">
+                        MLA
+                       </option>
+                       <option value="apa">
+                        APA
+                       </option>
+                       <option value="chicago">
+                        Chicago Manual of Style
+                       </option>
+                      </select>
+                      <div class="citation font-serif border rounded p-15 mt-20" data-authors="Robert E. Stewart" data-published-date="10 Mar. 2023" data-title="fertilizer" data-url="https://www.britannica.com/topic/fertilizer">
+                       <div class="citation-text">
+                       </div>
+                      </div>
+                      <button class="js-copy-citation-button mt-20 btn btn-xs btn-outline-blue border shadow-sm pr-10">
+                       <em class="material-icons md-icon ml-n10 my-n5 mr-5" data-icon="file_copy">
+                       </em>
+                       <span class="js-citation-status-text">
+                        Copy Citation
+                       </span>
+                      </button>
+                     </div>
+                    </div>
+                   </div>
+                   <div>
+                    <button class="js-share-modal-button js-modal btn btn-sm btn-link" data-modal="[data-topic-id=205346] .md-share-modal">
+                     <em class="material-icons mr-5 ml-n10 my-n5 md-icon" data-icon="share">
+                     </em>
+                     Share
+                    </button>
+                    <div class="md-share-modal size-lg d-none">
+                     <div class="md-modal-body">
+                      <div class="h2 font-serif d-flex align-items-center pb-15 border-bottom">
+                       <em class="material-icons text-blue mr-10" data-icon="share">
+                       </em>
+                       Share
+                      </div>
+                      <div class="label my-20">
+                       Share to social media
+                      </div>
+                      <div class="md-social-toolbar-circle d-flex align-items-start inverted" data-url="https://www.britannica.com/topic/fertilizer" data-value="share" title="fertilizer">
+                       <a class="social-icon facebook justify-content-center d-flex align-items-center align-self-center" data-provider="facebook" href="https://www.facebook.com/BRITANNICA/" rel="noopener" target="_blank">
+                        <span>
+                         Facebook
+                        </span>
+                       </a>
+                       <a class="social-icon twitter justify-content-center d-flex align-items-center align-self-center" data-provider="twitter" href="https://twitter.com/britannica" rel="noopener" target="_blank">
+                        <span>
+                         Twitter
+                        </span>
+                       </a>
+                      </div>
+                      <div class="label pt-20 mt-20 mb-5 border-top">
+                       URL
+                      </div>
+                      <a class="font-serif text-truncate d-inline-block" href="https://www.britannica.com/topic/fertilizer">
+                       https://www.britannica.com/topic/fertilizer
+                      </a>
+                     </div>
+                    </div>
+                   </div>
+                   <div>
+                    <button class="js-feedback-modal-button js-modal btn btn-sm btn-link" data-modal=".md-feedback-modal">
+                     <em class="material-icons mr-5 ml-n10 my-n5 md-icon" data-icon="message">
+                     </em>
+                     Give Feedback
+                    </button>
+                   </div>
+                   <div>
+                    <button class="js-modal btn btn-sm btn-link" data-modal="[data-topic-id=205346] .md-websites-modal-mobile">
+                     <em class="material-icons mr-5 ml-n10 my-n5 md-icon" data-icon="link">
+                     </em>
+                     External Websites
+                    </button>
+                   </div>
+                  </div>
+                  <div class="md-feedback-modal size-lg d-none">
+                   <div class="md-modal-body">
+                    <div class="h2 font-serif pb-15 border-bottom">
+                     Feedback
+                    </div>
+                    <form action="/submission/feedback/205346" method="post">
+                     <div class="my-20">
+                      Corrections? Updates? Omissions? Let us know if you have suggestions to improve this article (requires login).
+                     </div>
+                     <div class="type-menu">
+                      <label class="label mb-10" for="feedback-type">
+                       Feedback Type
+                      </label>
+                      <select class="form-select mb-30" id="feedback-type" name="feedbackTypeId" required="">
+                       <option selected="selected" value="">
+                        Select a type (Required)
+                       </option>
+                       <option value="1">
+                        Factual Correction
+                       </option>
+                       <option value="2">
+                        Spelling/Grammar Correction
+                       </option>
+                       <option value="3">
+                        Link Correction
+                       </option>
+                       <option value="4">
+                        Additional Information
+                       </option>
+                       <option value="5">
+                        Other
+                       </option>
+                      </select>
+                     </div>
+                     <label class="label mb-10" for="feedback">
+                      Your Feedback
+                     </label>
+                     <textarea class="form-control mb-30" id="feedback" maxlength="3000" name="feedback" required="" rows="7"></textarea>
+                     <button class="btn btn-blue" type="submit">
+                      Submit Feedback
+                     </button>
+                    </form>
+                    <div class="success-messaging d-none mt-30">
+                     <div class="title">
+                      Thank you for your feedback
+                     </div>
+                     <p>
+                      Our editors will review what you’ve submitted and determine whether to revise the article.
+                     </p>
+                    </div>
+                   </div>
+                  </div>
+                  <div class="md-websites-modal-mobile size-lg d-none">
+                   <div class="md-modal-body">
+                    <div class="h2 font-serif pb-15 border-bottom">
+                     External Websites
+                    </div>
+                    <div class="pb-20">
+                     <ul class="list-unstyled mt-20 lh-lg">
+                      <li>
+                       <a class="external" href="https://www.ctahr.hawaii.edu/mauisoil/c_material.aspx" rel="noopener" target="_blank">
+                        University of Hawai‘i at Manoa - College of Tropical Agriculture and Human Resources - College of Tropical Agriculture and Human Resources - Fertilizer material
+                       </a>
+                      </li>
+                      <li>
+                       <a class="external" href="https://www.unep.org/news-and-stories/story/fertilizers-challenges-and-solutions" rel="noopener" target="_blank">
+                        UN Environment Programme - Fertilizers: challenges and solutions
+                       </a>
+                      </li>
+                      <li>
+                       <a class="external" href="https://extension.usu.edu/waterquality/agriculturewq/fertilizer" rel="noopener" target="_blank">
+                        Utah State University Extension - Fertilizer Management
+                       </a>
+                      </li>
+                      <li>
+                       <a class="external" href="https://chem.libretexts.org/Bookshelves/Introductory_Chemistry/Chemistry_for_Changing_Times_(Hill_and_McCreary)/20%3A_Chemistry_Down_on_the_Farm/20.01%3A_Farming_and_Chemicals-_Fertilizers" rel="noopener" target="_blank">
+                        Chemistry LibreTexts - Farming and Chemicals- Fertilizers
+                       </a>
+                      </li>
+                      <li>
+                       <a class="external" href="https://extension.umn.edu/lawn-care/fertilizing-lawns" rel="noopener nofollow" target="_blank">
+                        University of Minnesota Extension - Fertilizing lawns
+                       </a>
+                      </li>
+                     </ul>
+                    </div>
+                    <div class="md-websites-ebk-title">
+                     Britannica Websites
+                    </div>
+                    <div class="md-websites-ebk-subtitle">
+                     Articles from Britannica Encyclopedias for elementary and high school students.
+                    </div>
+                    <ul class="list-unstyled bps-topic-web-sites lh-lg">
+                     <li>
+                      <a class="external" href="https://kids.britannica.com/students/article/fertilizer/274296" rel="noopener" target="_blank">
+                       fertilizer - Student Encyclopedia (Ages 11 and up)
+                      </a>
+                     </li>
+                    </ul>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+                <div class="d-none d-sm-block md-topic-tools mt-10 mb-10 qa-action-buttons" data-topic-id="205346">
+                 <button class="js-print-modal-button js-modal btn btn-xs btn-outline-blue border shadow-sm pr-10" data-modal="[data-topic-id=205346] .md-print-modal">
+                  <em class="material-icons md-icon ml-n10 my-n5 mr-5" data-icon="print">
+                  </em>
+                  Print
+                 </button>
+                 <div class="md-print-modal size-lg d-none">
+                  <div class="md-modal-body">
+                   <div class="h2 font-serif d-flex align-items-center pb-15 border-bottom">
+                    <em class="material-icons text-blue mr-10">
+                     print
+                    </em>
+                    Print
+                   </div>
+                   <div class="mt-20 mb-10">
+                    Please select which sections you would like to print:
+                   </div>
+                   <form action="/print/article/205346" method="post" rel="noopener" target="_blank">
+                    <div class="print-box-items">
+                     <ul class="list-unstyled">
+                      <li>
+                       <label>
+                        <input class="mr-10" name="sequence[]" type="checkbox" value="0"/>
+                        Table Of Contents
+                       </label>
+                      </li>
+                     </ul>
+                    </div>
+                    <input class="btn btn-blue md-disabled" type="submit" value="Print"/>
+                   </form>
+                  </div>
+                 </div>
+                 <button class="js-modal qa-cite-modal-button btn btn-xs btn-outline-blue border shadow-sm pr-10" data-modal="[data-topic-id=205346]  .md-cite-modal">
+                  <em class="material-icons md-icon ml-n10 my-n5 mr-5" data-icon="verified">
+                  </em>
+                  Cite
+                 </button>
+                 <div class="md-cite-modal size-lg d-none">
+                  <div class="md-modal-body">
+                   <div class="h2 font-serif d-flex align-items-center pb-15 border-bottom mb-15">
+                    <em class="material-icons text-blue mr-10">
+                     verified
+                    </em>
+                    Cite
+                   </div>
+                   <div class="font-serif">
+                    While every effort has been made to follow citation style rules, there may be some discrepancies.
+			Please refer to the appropriate style manual or other sources if you have any questions.
+                   </div>
+                   <div class="label mt-20 mb-10">
+                    Select Citation Style
+                   </div>
+                   <select class="js-citation-format-select form-select">
+                    <option selected="" value="mla">
+                     MLA
+                    </option>
+                    <option value="apa">
+                     APA
+                    </option>
+                    <option value="chicago">
+                     Chicago Manual of Style
+                    </option>
+                   </select>
+                   <div class="citation font-serif border rounded p-15 mt-20" data-authors="Robert E. Stewart" data-published-date="10 Mar. 2023" data-title="fertilizer" data-url="https://www.britannica.com/topic/fertilizer">
+                    <div class="citation-text">
+                    </div>
+                   </div>
+                   <button class="js-copy-citation-button mt-20 btn btn-xs btn-outline-blue border shadow-sm pr-10">
+                    <em class="material-icons md-icon ml-n10 my-n5 mr-5" data-icon="file_copy">
+                    </em>
+                    <span class="js-citation-status-text">
+                     Copy Citation
+                    </span>
+                   </button>
+                  </div>
+                 </div>
+                 <button class="js-share-modal-button js-modal btn btn-xs btn-outline-blue border shadow-sm pr-10" data-modal=" .md-share-modal">
+                  <em class="material-icons md-icon ml-n10 my-n5 mr-5" data-icon="share">
+                  </em>
+                  Share
+                 </button>
+                 <div class="md-share-modal size-lg d-none">
+                  <div class="md-modal-body">
+                   <div class="h2 font-serif d-flex align-items-center pb-15 border-bottom">
+                    <em class="material-icons text-blue mr-10" data-icon="share">
+                    </em>
+                    Share
+                   </div>
+                   <div class="label my-20">
+                    Share to social media
+                   </div>
+                   <div class="md-social-toolbar-circle d-flex align-items-start inverted" data-url="https://www.britannica.com/topic/fertilizer" data-value="share" title="fertilizer">
+                    <a class="social-icon facebook justify-content-center d-flex align-items-center align-self-center" data-provider="facebook" href="https://www.facebook.com/BRITANNICA/" rel="noopener" target="_blank">
+                     <span>
+                      Facebook
+                     </span>
+                    </a>
+                    <a class="social-icon twitter justify-content-center d-flex align-items-center align-self-center" data-provider="twitter" href="https://twitter.com/britannica" rel="noopener" target="_blank">
+                     <span>
+                      Twitter
+                     </span>
+                    </a>
+                   </div>
+                   <div class="label pt-20 mt-20 mb-5 border-top">
+                    URL
+                   </div>
+                   <a class="font-serif text-truncate d-inline-block" href="https://www.britannica.com/topic/fertilizer">
+                    https://www.britannica.com/topic/fertilizer
+                   </a>
+                  </div>
+                 </div>
+                 <button class="js-feedback js-modal btn btn-xs btn-outline-blue border shadow-sm pr-10" data-modal=".md-feedback-modal">
+                  <em class="material-icons md-icon ml-n10 my-n5 mr-5" data-icon="message">
+                  </em>
+                  Feedback
+                 </button>
+                 <button class="js-tooltip btn btn-xs btn-outline-blue border shadow-sm pr-10">
+                  <em class="material-icons md-icon ml-n5" data-icon="more_vert">
+                  </em>
+                 </button>
+                 <div class="md-more-popover popover popover-sm p-0 font-14 z-1">
+                  <button class="js-modal btn btn-sm btn-link" data-modal="[data-topic-id=205346] .md-websites-modal">
+                   <em class="material-icons md-icon ml-n5 mr-5" data-icon="link">
+                   </em>
+                   External Websites
+                  </button>
+                 </div>
+                 <div class="md-feedback-modal size-lg d-none">
+                  <div class="md-modal-body">
+                   <div class="h2 font-serif pb-15 border-bottom">
+                    Feedback
+                   </div>
+                   <form action="/submission/feedback/205346" method="post">
+                    <div class="my-20">
+                     Corrections? Updates? Omissions? Let us know if you have suggestions to improve this article (requires login).
+                    </div>
+                    <div class="type-menu">
+                     <label class="label mb-10" for="feedback-type">
+                      Feedback Type
+                     </label>
+                     <select class="form-select mb-30" id="feedback-type" name="feedbackTypeId" required="">
+                      <option selected="selected" value="">
+                       Select a type (Required)
+                      </option>
+                      <option value="1">
+                       Factual Correction
+                      </option>
+                      <option value="2">
+                       Spelling/Grammar Correction
+                      </option>
+                      <option value="3">
+                       Link Correction
+                      </option>
+                      <option value="4">
+                       Additional Information
+                      </option>
+                      <option value="5">
+                       Other
+                      </option>
+                     </select>
+                    </div>
+                    <label class="label mb-10" for="feedback">
+                     Your Feedback
+                    </label>
+                    <textarea class="form-control mb-30" id="feedback" maxlength="3000" name="feedback" required="" rows="7"></textarea>
+                    <button class="btn btn-blue" type="submit">
+                     Submit Feedback
+                    </button>
+                   </form>
+                   <div class="success-messaging d-none mt-30">
+                    <div class="title">
+                     Thank you for your feedback
+                    </div>
+                    <p>
+                     Our editors will review what you’ve submitted and determine whether to revise the article.
+                    </p>
+                   </div>
+                  </div>
+                 </div>
+                 <div class="md-websites-modal size-lg d-none">
+                  <div class="md-modal-body">
+                   <div class="h2 font-serif pb-15 border-bottom">
+                    External Websites
+                   </div>
+                   <div class="pb-20">
+                    <ul class="list-unstyled mt-20 lh-lg">
+                     <li>
+                      <a class="external" href="https://www.ctahr.hawaii.edu/mauisoil/c_material.aspx" rel="noopener" target="_blank">
+                       University of Hawai‘i at Manoa - College of Tropical Agriculture and Human Resources - College of Tropical Agriculture and Human Resources - Fertilizer material
+                      </a>
+                     </li>
+                     <li>
+                      <a class="external" href="https://www.unep.org/news-and-stories/story/fertilizers-challenges-and-solutions" rel="noopener" target="_blank">
+                       UN Environment Programme - Fertilizers: challenges and solutions
+                      </a>
+                     </li>
+                     <li>
+                      <a class="external" href="https://extension.usu.edu/waterquality/agriculturewq/fertilizer" rel="noopener" target="_blank">
+                       Utah State University Extension - Fertilizer Management
+                      </a>
+                     </li>
+                     <li>
+                      <a class="external" href="https://chem.libretexts.org/Bookshelves/Introductory_Chemistry/Chemistry_for_Changing_Times_(Hill_and_McCreary)/20%3A_Chemistry_Down_on_the_Farm/20.01%3A_Farming_and_Chemicals-_Fertilizers" rel="noopener" target="_blank">
+                       Chemistry LibreTexts - Farming and Chemicals- Fertilizers
+                      </a>
+                     </li>
+                     <li>
+                      <a class="external" href="https://extension.umn.edu/lawn-care/fertilizing-lawns" rel="noopener nofollow" target="_blank">
+                       University of Minnesota Extension - Fertilizing lawns
+                      </a>
+                     </li>
+                    </ul>
+                   </div>
+                   <div class="md-websites-ebk-title">
+                    Britannica Websites
+                   </div>
+                   <div class="md-websites-ebk-subtitle">
+                    Articles from Britannica Encyclopedias for elementary and high school students.
+                   </div>
+                   <ul class="list-unstyled bps-topic-web-sites lh-lg">
+                    <li>
+                     <a class="external" href="https://kids.britannica.com/students/article/fertilizer/274296" rel="noopener" target="_blank">
+                      fertilizer - Student Encyclopedia (Ages 11 and up)
+                     </a>
+                    </li>
+                   </ul>
+                  </div>
+                 </div>
+                </div>
+                <div class="md-byline mb-10">
+                 <div>
+                  <span class="written-by font-12 text-gray-700">
+                   Written by
+                  </span>
+                  <div class="editor-popover popover p-0">
+                   <a class="d-block p-20 gtm-byline font-12 byline-contributor" href="/contributor/Robert-E-Stewart/2859">
+                    <div class="editor-title font-16 font-weight-bold">
+                     Robert E. Stewart
+                    </div>
+                    <div class="editor-description font-12 font-serif mt-5 clamp-description text-black">
+                     Distinguished Professor of Agricultural Engineering, Texas A&amp;M University, College Station, 1968–80.
+                    </div>
+                   </a>
+                   <div data-popper-arrow="">
+                   </div>
+                  </div>
+                  <span class="btn btn-link byline-link editor-link p-0 gtm-byline font-12 byline-contributor">
+                   Robert E. Stewart
+                  </span>
+                 </div>
+                 <div class="font-sans-serif font-12 text-gray-700">
+                  <span class="qa-fact-checked-by">
+                   Fact-checked by
+                  </span>
+                  <div class="editor-popover popover p-0">
+                   <a class="d-block p-20 font-12" href="/editor/The-Editors-of-Encyclopaedia-Britannica/4419">
+                    <div class="editor-title font-16 font-weight-bold">
+                     The Editors of Encyclopaedia Britannica
+                    </div>
+                    <div class="editor-description font-12 font-serif mt-5 text-black">
+                     Encyclopaedia Britannica's editors oversee subject areas in which they have extensive knowledge, whether from years of experience gained by working on that content or via study for an advanced degree. They write new content and verify and edit content received from contributors.
+                    </div>
+                   </a>
+                   <div data-popper-arrow="">
+                   </div>
+                  </div>
+                  <span class="btn btn-link byline-link editor-link p-0 font-12">
+                   The Editors of Encyclopaedia Britannica
+                  </span>
+                 </div>
+                 <div class="last-updated font-12">
+                  <span class="text-gray-700 font-sans-serif">
+                   Last Updated:
+                   <time datetime="2023-03-10T00:00:00CST">
+                    Mar 10, 2023
+                   </time>
+                   •
+                  </span>
+                  <a class="byline-edit-history" href="https://www.britannica.com/topic/fertilizer/additional-info#history" rel="nofollow">
+                   Article History
+                  </a>
+                 </div>
+                </div>
+               </div>
+               <button class="d-flex d-lg-none btn btn-outline-blue border w-100 rounded-sm shadow-sm js-sections-inline-button my-20">
+                <em class="material-icons mr-5 ml-n10 my-n5 md-icon" data-icon="toc">
+                </em>
+                Table of Contents
+               </button>
+               <div class="topic-content pt-15">
+                <script class="page-description-json" type="application/json">
+                 {
+	"url": "/topic/fertilizer",
+    "shareUrl": "https://www.britannica.com/topic/fertilizer",
+    "browserTitle": "Fertilizer | Definition, Types, Plant Nutrients, Application, & Facts",
+    "documentGroup": "TOPIC PAGINATED LARGE_NP",
+    "firstTopicPage": true
+    }
+                </script>
+                <!-- The element for the player. -->
+                <div class="reading-channel" id="-topic-fertilizer">
+                 <div class="js-qf-module qf-module border p-20 ml-lg-20 mx-auto mb-20 font-14 bg-white">
+                  <div class="m-n10">
+                   <div class="slider js-slider position-relative d-inline-flex align-items-center mw-100 media-slider card-snap-slider col-100">
+                    <div class="slider-container js-slider-container overflow-hidden d-flex col-100">
+                     <div class="rw-track w-100">
+                      <div class="p-10 d-inline-flex col-100">
+                       <div class="card w-100">
+                        <a class="media-overlay-link card-media d-flex align-items-center justify-content-center" data-href="/media/1/205346/262434" href="https://cdn.britannica.com/24/202424-050-7AA040E8/tractor-spreading-fertilizer.jpg" style="--aspect-ratio: 4/3">
+                         <img alt="fertilizer" loading="lazy" src="https://cdn.britannica.com/24/202424-050-7AA040E8/tractor-spreading-fertilizer.jpg?w=400&amp;h=300&amp;c=crop"/>
+                         <button aria-label="Zoom in" class="btn btn-circle position-absolute shadow btn-white">
+                          <em class="material-icons link-blue" data-icon="zoom_in">
+                          </em>
+                         </button>
+                        </a>
+                        <div class="card-body p-10 font-14">
+                         fertilizer
+                        </div>
+                       </div>
+                      </div>
+                     </div>
+                    </div>
+                    <button aria-label="Previous" class="prev-button js-prev-button position-absolute btn btn-circle shadow btn-lg btn-blue" disabled="">
+                     <span class="material-icons md-24" data-icon="keyboard_arrow_left">
+                     </span>
+                    </button>
+                    <button aria-label="Next" class="next-button js-next-button position-absolute btn btn-circle shadow btn-lg btn-blue" disabled="">
+                     <span class="material-icons md-24" data-icon="keyboard_arrow_right">
+                     </span>
+                    </button>
+                   </div>
+                  </div>
+                  <div class="text-center py-10">
+                   <a class="font-weight-bold" href="https://www.britannica.com/topic/fertilizer/images-videos">
+                    See all media
+                   </a>
+                  </div>
+                  <div class="facts-list pt-20 border-top">
+                   <dl class="js-fact mb-10 position-relative">
+                    <dt class="d-inline">
+                     Key People:
+                    </dt>
+                    <dd class="d-inline">
+                     <span class="fact-item">
+                      <a href="/biography/Sir-John-Bennet-Lawes-1st-Baronet" topicid="332872">
+                       Sir John Bennet Lawes, 1st Baronet
+                      </a>
+                     </span>
+                     <span class="fact-item">
+                      <a href="/biography/Henry-Gilbert-British-chemist" topicid="233541">
+                       Sir Henry Gilbert
+                      </a>
+                     </span>
+                    </dd>
+                    <button aria-label="Toggle more/less fact data" class="js-more-btn d-none btn btn-unstyled font-12 position-absolute pr-20 bottom-0 right-0 bg-white">
+                     ...
+                     <em class="js-content link-blue">
+                      (Show more)
+                     </em>
+                    </button>
+                   </dl>
+                   <dl class="js-fact mb-0 position-relative line-clamp clamp-3">
+                    <dt class="d-inline">
+                     Related Topics:
+                    </dt>
+                    <dd class="d-inline">
+                     <span class="fact-item">
+                      <a href="/topic/manure" topicid="363236">
+                       manure
+                      </a>
+                     </span>
+                     <span class="fact-item">
+                      <a href="/topic/compost" topicid="130177">
+                       compost
+                      </a>
+                     </span>
+                     <span class="fact-item">
+                      <a href="/science/guano" topicid="247789">
+                       guano
+                      </a>
+                     </span>
+                     <span class="fact-item">
+                      <a href="/science/superphosphate" topicid="574510">
+                       superphosphate
+                      </a>
+                     </span>
+                     <span class="fact-item">
+                      <a href="/topic/bone-meal" topicid="72966">
+                       bone meal
+                      </a>
+                     </span>
+                    </dd>
+                    <button aria-label="Toggle more/less fact data" class="js-more-btn d-none btn btn-unstyled font-12 position-absolute pr-20 bottom-0 right-0 bg-white">
+                     ...
+                     <em class="js-content link-blue">
+                      (Show more)
+                     </em>
+                    </button>
+                   </dl>
+                  </div>
+                  <div class="text-center mt-20">
+                   <a class="btn btn-sm btn-outline-blue border" href="/facts/fertilizer">
+                    See all related content →
+                   </a>
+                  </div>
+                 </div>
+                 <!--[BEFORE-ARTICLE]-->
+                 <span class="marker before-article">
+                 </span>
+                 <section data-level="1" id="ref1">
+                  <p class="topic-paragraph">
+                   <strong>
+                    <span id="ref49269">
+                    </span>
+                    fertilizer
+                   </strong>
+                   ,  natural or artificial substance containing the chemical elements that improve growth and productiveness of plants. Fertilizers
+                   <a class="md-dictionary-link md-dictionary-tt-off mw" data-term="enhance" data-type="MW" href="https://www.merriam-webster.com/dictionary/enhance">
+                    enhance
+                   </a>
+                   the natural fertility of the
+                   <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/science/soil">
+                    soil
+                   </a>
+                   or replace chemical elements taken from the soil by previous crops.
+                  </p>
+                  <!--[P1]-->
+                  <span class="marker p1">
+                  </span>
+                  <!--[AM1]-->
+                  <span class="marker AM1 am-inline">
+                  </span>
+                  <!--[MOD1]-->
+                  <span class="marker MOD1 mod-inline">
+                  </span>
+                  <p class="topic-paragraph">
+                   Soil fertility is the quality of a soil that enables it to provide
+                   <a class="md-dictionary-link md-dictionary-tt-off mw" data-term="compounds" data-type="MW" href="https://www.merriam-webster.com/dictionary/compounds">
+                    compounds
+                   </a>
+                   in adequate amounts and proper balance to promote growth of plants when other factors (such as light, moisture, temperature, and soil structure) are favourable. Where fertility of the soil is not good, natural or manufactured materials may be added to supply the needed
+                   <a class="md-crosslink autoxref" data-show-preview="true" href="https://www.britannica.com/plant/plant">
+                    plant
+                   </a>
+                   nutrients. These are called fertilizers, although the term is generally applied to largely inorganic materials other than lime or
+                   <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/science/gypsum">
+                    gypsum
+                   </a>
+                   .
+                  </p>
+                  <!--[P2]-->
+                  <span class="marker p2">
+                  </span>
+                  <!--[AM2]-->
+                  <span class="marker AM2 am-inline">
+                  </span>
+                  <a class="link-module shadow-sm d-block qa-read-more-module" href="/technology/agricultural-technology/Fertilizing-and-conditioning-the-soil#ref558257">
+                   <img alt="contour farming; strip cropping" class="rounded-sm mr-15" loading="lazy" src="https://cdn.britannica.com/78/143478-050-F7EC98CE/Contour-farming-strip-farmland.jpg" width="70"/>
+                   <div class="line-clamp clamp-5">
+                    <div class="module-title bg-navy-dark">
+                     More From Britannica
+                    </div>
+                    <div class="font-weight-semi-bold mt-5">
+                     agricultural technology: Fertilizing and conditioning the soil
+                    </div>
+                   </div>
+                  </a>
+                  <!--[MOD2]-->
+                  <span class="marker MOD2 mod-inline">
+                  </span>
+                 </section>
+                 <!--[H2]-->
+                 <span class="marker h2">
+                 </span>
+                 <section data-level="1" id="ref349665">
+                  <h2 class="h1">
+                   Essential plant nutrients
+                  </h2>
+                  <div class="assemblies">
+                   <div class="w-100">
+                    <figure class="md-assembly card print-false" data-assembly-id="182947">
+                     <div class="md-assembly-wrapper card-media" data-type="video">
+                      <a class="d-flex justify-content-center" data-id="167748" href="/video/167748/overview-phosphorus-nitrogen-cycles-biosphere" style="--aspect-ratio: 16/9">
+                       <img alt="Follow the nitrogen and phosphorus cycles and learn why farmers fertilize fields to keep them productive" loading="lazy" src="https://cdn.britannica.com/48/167748-138-57766178/overview-phosphorus-nitrogen-cycles-biosphere.jpg?w=800&amp;h=450&amp;c=crop"/>
+                       <script type="application/json">
+                        {
+								"sources": [ { "file" : "//content.jwplatform.com/manifests/Rwivuf07.m3u8" } ],
+								"image": "https://cdn.britannica.com/48/167748-138-57766178/overview-phosphorus-nitrogen-cycles-biosphere.jpg",
+								
+									"tracks": [ { "file" : "//assets-jpcust.jwpsrv.com/tracks/JjTTsoWQ", "label": "English" } ]
+								
+								}
+                       </script>
+                       <div class="btn btn-xl btn-white btn-circle position-absolute shadow" style="top: 50%; transform: translateY(-50%)">
+                        <em class="material-icons" data-icon="play_arrow">
+                        </em>
+                       </div>
+                      </a>
+                     </div>
+                     <figcaption class="card-body">
+                      <div class="md-assembly-title font-weight-bold mb-5 d-inline-block font-16 font-sans-serif">
+                       Follow the nitrogen and phosphorus cycles and learn why farmers fertilize fields to keep them productive
+                      </div>
+                      <a class="font-14 mt-10 d-inline-block" href="/topic/fertilizer/images-videos">
+                       See all videos for this article
+                      </a>
+                     </figcaption>
+                    </figure>
+                   </div>
+                  </div>
+                  <p class="topic-paragraph">
+                   In total, plants need at least 16 elements, of which the most important are
+                   <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/science/carbon-chemical-element">
+                    carbon
+                   </a>
+                   ,
+                   <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/science/hydrogen">
+                    hydrogen
+                   </a>
+                   ,
+                   <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/science/oxygen">
+                    oxygen
+                   </a>
+                   ,
+                   <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/science/nitrogen">
+                    nitrogen
+                   </a>
+                   ,
+                   <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/science/phosphorus-chemical-element">
+                    phosphorus
+                   </a>
+                   ,
+                   <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/science/sulfur">
+                    sulfur
+                   </a>
+                   ,
+                   <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/science/potassium">
+                    potassium
+                   </a>
+                   ,
+                   <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/science/calcium">
+                    calcium
+                   </a>
+                   , and
+                   <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/science/magnesium">
+                    magnesium
+                   </a>
+                   . Plants obtain carbon from the atmosphere and hydrogen and oxygen from water; other nutrients are taken up from the soil. Although plants contain
+                   <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/science/sodium">
+                    sodium
+                   </a>
+                   ,
+                   <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/science/iodine">
+                    iodine
+                   </a>
+                   , and
+                   <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/science/cobalt-chemical-element">
+                    cobalt
+                   </a>
+                   , these are apparently not essential. This is also true of
+                   <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/science/silicon">
+                    silicon
+                   </a>
+                   and
+                   <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/science/aluminum">
+                    aluminum
+                   </a>
+                   .
+                  </p>
+                  <!--[P3]-->
+                  <span class="marker p3">
+                  </span>
+                  <!--[AM3]-->
+                  <span class="marker AM3 am-inline">
+                  </span>
+                  <!--[MOD3]-->
+                  <span class="marker MOD3 mod-inline">
+                  </span>
+                  <p class="topic-paragraph">
+                   Overall chemical analyses indicate that the total supply of nutrients in soils is usually high in comparison with the requirements of
+                   <a class="md-crosslink autoxref" data-show-preview="true" href="https://www.britannica.com/topic/crop-agriculture">
+                    crop
+                   </a>
+                   plants. Much of this potential supply, however, is bound tightly in forms that are not released to crops fast enough to give satisfactory growth. Because of this, the farmer is interested in measuring the available nutrient supply as contrasted to the total nutrient supply. When the available supply of a given nutrient becomes
+                   <a class="md-dictionary-link md-dictionary-tt-off eb" data-term="depleted" data-type="EB" href="https://www.britannica.com/dictionary/depleted">
+                    depleted
+                   </a>
+                   , its absence becomes a
+                   <a class="md-crosslink autoxref" data-show-preview="true" href="https://www.britannica.com/science/density-dependent-factor">
+                    limiting factor
+                   </a>
+                   in plant growth. Excessive quantities of some nutrients may cause a decrease in yield, however.
+                  </p>
+                  <!--[P4]-->
+                  <span class="marker p4">
+                  </span>
+                  <!--[AM4]-->
+                  <span class="marker AM4 am-inline">
+                  </span>
+                  <!--[MOD4]-->
+                  <span class="marker MOD4 mod-inline">
+                  </span>
+                 </section>
+                 <!--[H3]-->
+                 <span class="marker h3">
+                 </span>
+                 <section data-level="1" id="ref349666">
+                  <h2 class="h1">
+                   Determining nutrient needs
+                  </h2>
+                  <p class="topic-paragraph">
+                   Determination of a crop’s nutrient needs is an essential aspect of fertilizer
+                   <a class="md-crosslink autoxref" data-show-preview="true" href="https://www.britannica.com/technology/technology">
+                    technology
+                   </a>
+                   . The appearance of a growing crop may indicate a need for fertilizer, though in some plants the need for more or different nutrients may not be easily observable. If such a problem exists, its nature must be diagnosed, the degree of deficiency must be determined, and the amount and kind of fertilizer needed for a given yield must be found. There is no substitute for detailed examination of plants and soil conditions in the field, followed by simple fertilizer tests, quick tests of plant tissues, and analysis of soils and plants.
+                  </p>
+                  <!--[P5]-->
+                  <span class="marker p5">
+                  </span>
+                  <!--[AM5]-->
+                  <span class="marker AM5 am-inline">
+                  </span>
+                  <!--[MOD5]-->
+                  <span class="marker MOD5 mod-inline">
+                  </span>
+                  <div class="assemblies">
+                   <div class="w-100">
+                    <figure class="md-assembly card print-false" data-assembly-id="120946">
+                     <div class="md-assembly-wrapper card-media" data-type="image">
+                      <a class="position-relative d-flex align-items-center justify-content-center media-overlay-link card-media" data-href="/media/1/205346/120946" href="https://cdn.britannica.com/43/126443-004-F76C3CD7/popcorn-plant-chlorosis.jpg" style="min-height: 160px;">
+                       <img alt="chlorosis" data-height="382" data-width="550" loading="eager" src="https://cdn.britannica.com/43/126443-004-F76C3CD7/popcorn-plant-chlorosis.jpg?w=300"/>
+                       <button aria-label="Zoom in" class="magnifying-glass btn btn-circle position-absolute shadow btn-white">
+                        <em class="material-icons link-blue" data-icon="zoom_in">
+                        </em>
+                       </button>
+                      </a>
+                     </div>
+                     <figcaption class="card-body">
+                      <a class="md-assembly-title font-weight-bold mb-5 d-inline-block font-16 font-sans-serif media-overlay-link" data-href="/media/1/205346/120946" href="https://cdn.britannica.com/43/126443-004-F76C3CD7/popcorn-plant-chlorosis.jpg">
+                       chlorosis
+                      </a>
+                     </figcaption>
+                    </figure>
+                   </div>
+                  </div>
+                  <p class="topic-paragraph">
+                   Sometimes plants show symptoms of poor nutrition.
+                   <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/science/chlorosis-plant-disease">
+                    Chlorosis
+                   </a>
+                   (general yellow or pale green colour), for example, indicates lack of sulfur and nitrogen. Iron deficiency produces white or pale yellow tissue. Symptoms can be misinterpreted, however.
+                   <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/science/plant-disease">
+                    Plant disease
+                   </a>
+                   can produce appearances resembling mineral deficiency, as can various organisms. Drought or improper
+                   <a class="md-crosslink autoxref" data-show-preview="true" href="https://www.britannica.com/topic/cultivation">
+                    cultivation
+                   </a>
+                   or fertilizer application each may create deficiency symptoms.
+                  </p>
+                  <!--[P6]-->
+                  <span class="marker p6">
+                  </span>
+                  <!--[AM6]-->
+                  <span class="marker AM6 am-inline">
+                  </span>
+                  <div class="marketing-INLINE_SUBSCRIPTION marketing-content" data-marketing-id="INLINE_SUBSCRIPTION">
+                   <div class="inline-subscription mb-30 mx-sm-20 font-16 text-center">
+                    Get a Britannica Premium subscription and gain access to exclusive content.
+                    <a class="cta" href="https://premium.britannica.com/premium-membership/?utm_source=inline&amp;utm_medium=mendel&amp;utm_campaign=evergreen">
+                     Subscribe Now
+                    </a>
+                   </div>
+                  </div>
+                  <!--[MOD6]-->
+                  <span class="marker MOD6 mod-inline">
+                  </span>
+                  <p class="topic-paragraph">
+                   After field
+                   <a class="md-dictionary-link md-dictionary-tt-off mw" data-term="diagnosis" data-type="MW" href="https://www.merriam-webster.com/dictionary/diagnosis">
+                    diagnosis
+                   </a>
+                   , the conclusions may be confirmed by experiments in a
+                   <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/topic/greenhouse">
+                    greenhouse
+                   </a>
+                   or by making strip tests in the field. In strip tests, the fertilizer elements suspected of being deficient are added, singly or in combination, and the resulting plant growth observed. Next it is necessary to determine the extent of the deficiency.
+                  </p>
+                  <!--[P7]-->
+                  <span class="marker p7">
+                  </span>
+                  <!--[AM7]-->
+                  <span class="marker AM7 am-inline">
+                  </span>
+                  <!--[MOD7]-->
+                  <span class="marker MOD7 mod-inline">
+                  </span>
+                  <p class="topic-paragraph">
+                   An experiment in the field can be conducted by adding nutrients to the crop at various rates. The resulting response of
+                   <a class="md-dictionary-link md-dictionary-tt-off eb" data-term="yield" data-type="EB" href="https://www.britannica.com/dictionary/yield">
+                    yield
+                   </a>
+                   in relation to amounts of nutrients supplied will indicate the supplying power of the unfertilized soil in terms of bushels or tons of produce. If the increase in yield is large, this practice will show that the soil has too little of a given nutrient. Such field experiments may not be practical, because they can cost too much in time and money. Soil-testing laboratories are available in most areas; they conduct chemical soil tests to estimate the availability of nutrients. Commercial soil-testing kits give results that may be very inaccurate, depending on techniques and interpretation. Actually, the most accurate system consists of laboratory analysis of the nutrient content of plant parts, such as the leaf. The results, when correlated with yield response to fertilizer application in field experiments, can give the best estimate of deficiency. Further development of remote sensing techniques, such as infrared photography, are under study and may ultimately become the most valuable technique for such estimates.
+                  </p>
+                  <!--[P8]-->
+                  <span class="marker p8">
+                  </span>
+                  <!--[AM8]-->
+                  <span class="marker AM8 am-inline">
+                  </span>
+                  <!--[MOD8]-->
+                  <span class="marker MOD8 mod-inline">
+                  </span>
+                 </section>
+                 <!--[H4]-->
+                 <span class="marker h4">
+                 </span>
+                 <section data-level="1" id="ref349667">
+                  <h2 class="h1">
+                   The economics of fertilizers
+                  </h2>
+                  <p class="topic-paragraph">
+                   The practical goal is to determine how much nutrient material to add. Since the farmer wants to know how much profit to expect when buying fertilizer, the tests are interpreted as an estimation of increased crop production that will result from nutrient additions. The cost of nutrients must be balanced against the value of the crop or even against
+                   <a class="md-dictionary-link md-dictionary-tt-off mw" data-term="alternative" data-type="MW" href="https://www.merriam-webster.com/dictionary/alternative">
+                    alternative
+                   </a>
+                   procedures, such as investing the money in something else with a greater potential return. The law of
+                   <a class="md-crosslink autoxref" data-show-preview="true" href="https://www.britannica.com/topic/diminishing-returns">
+                    diminishing returns
+                   </a>
+                   is well exemplified in fertilizer technology. Past a certain point, equal inputs of chemicals produce less and less yield increase. The goal of the farmer is to use fertilizer in such a way that the most profitable application rate is employed. Ideal fertilizer application also minimizes excess and ill-timed application, which is not only wasteful for the farmer but also harmful to nearby waterways. Unfortunately,
+                   <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/science/water-pollution">
+                    water pollution
+                   </a>
+                   from fertilizer
+                   <a class="md-dictionary-link md-dictionary-tt-off eb" data-term="runoff" data-type="EB" href="https://www.britannica.com/dictionary/runoff">
+                    runoff
+                   </a>
+                   , which has a sphere of impact that extends far beyond the farmer and the fields, is a negative externality that is not accounted for in the costs and prices of the unregulated market.
+                  </p>
+                  <!--[P9]-->
+                  <span class="marker p9">
+                  </span>
+                  <!--[AM9]-->
+                  <span class="marker AM9 am-inline">
+                  </span>
+                  <!--[MOD9]-->
+                  <span class="marker MOD9 mod-inline">
+                  </span>
+                  <p class="topic-paragraph">
+                   Fertilizers can aid in making profitable changes in
+                   <a class="md-crosslink autoxref" data-show-preview="true" href="https://www.britannica.com/topic/agriculture">
+                    farming
+                   </a>
+                   . Operators can reduce costs per unit of production and increase the margin of return over
+                   <a class="md-crosslink autoxref" data-show-preview="true" href="https://www.britannica.com/topic/total-cost">
+                    total cost
+                   </a>
+                   by increasing rates of application of fertilizer on principal cash and feed crops. They are then in a position to invest in soil conservation and other improvements that are needed when shifting acreage from surplus crops to other uses.
+                  </p>
+                  <!--[P10]-->
+                  <span class="marker p10">
+                  </span>
+                  <!--[AM10]-->
+                  <span class="marker AM10 am-inline">
+                  </span>
+                  <!--[MOD10]-->
+                  <span class="marker MOD10 mod-inline">
+                  </span>
+                 </section>
+                 <!--[H5]-->
+                 <span class="marker h5">
+                 </span>
+                 <section data-level="1" id="ref349668">
+                  <h2 class="h1">
+                   Synthetic fertilizers
+                  </h2>
+                  <p class="topic-paragraph">
+                   Modern chemical fertilizers include one or more of the three elements that are most important in plant nutrition:
+                   <span id="ref49270">
+                   </span>
+                   <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/science/nitrogen">
+                    nitrogen
+                   </a>
+                   ,
+                   <span id="ref245953">
+                   </span>
+                   <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/science/phosphorus-chemical-element">
+                    phosphorus
+                   </a>
+                   , and
+                   <span id="ref245954">
+                   </span>
+                   <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/science/potassium">
+                    potassium
+                   </a>
+                   . Of secondary importance are the elements sulfur, magnesium, and calcium.
+                  </p>
+                  <!--[P11]-->
+                  <span class="marker p11">
+                  </span>
+                  <!--[AM11]-->
+                  <span class="marker AM11 am-inline">
+                  </span>
+                  <!--[MOD11]-->
+                  <span class="marker MOD11 mod-inline">
+                  </span>
+                  <div class="assemblies">
+                   <div class="w-100">
+                    <figure class="md-assembly card print-false" data-assembly-id="238186">
+                     <div class="md-assembly-wrapper card-media" data-type="image">
+                      <a class="position-relative d-flex align-items-center justify-content-center media-overlay-link card-media" data-href="/media/1/205346/238186" href="https://cdn.britannica.com/15/196315-050-F7F67BA9/Structure-ammonium-nitrate-compound-fertilizer.jpg" style="min-height: 160px;">
+                       <img alt="ammonium nitrate" data-height="960" data-width="1600" loading="eager" src="https://cdn.britannica.com/15/196315-050-F7F67BA9/Structure-ammonium-nitrate-compound-fertilizer.jpg?w=300"/>
+                       <button aria-label="Zoom in" class="magnifying-glass btn btn-circle position-absolute shadow btn-white">
+                        <em class="material-icons link-blue" data-icon="zoom_in">
+                        </em>
+                       </button>
+                      </a>
+                     </div>
+                     <figcaption class="card-body">
+                      <a class="md-assembly-title font-weight-bold mb-5 d-inline-block font-16 font-sans-serif media-overlay-link" data-href="/media/1/205346/238186" href="https://cdn.britannica.com/15/196315-050-F7F67BA9/Structure-ammonium-nitrate-compound-fertilizer.jpg">
+                       ammonium nitrate
+                      </a>
+                     </figcaption>
+                    </figure>
+                   </div>
+                  </div>
+                  <p class="topic-paragraph">
+                   Most nitrogen fertilizers are obtained from
+                   <a class="md-dictionary-link md-dictionary-tt-off mw" data-term="synthetic" data-type="MW" href="https://www.merriam-webster.com/dictionary/synthetic">
+                    synthetic
+                   </a>
+                   <span id="ref245955">
+                   </span>
+                   <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/science/ammonia">
+                    ammonia
+                   </a>
+                   ; this
+                   <a class="md-crosslink autoxref" data-show-preview="true" href="https://www.britannica.com/science/chemical-compound">
+                    chemical compound
+                   </a>
+                   (NH
+                   <sub>
+                    3
+                   </sub>
+                   ) is used either as a gas or in a water solution, or it is converted into salts such as ammonium sulfate,
+                   <a class="md-crosslink autoxref" data-show-preview="true" href="https://www.britannica.com/science/ammonium-nitrate">
+                    ammonium nitrate
+                   </a>
+                   , and ammonium phosphate, but packinghouse wastes, treated garbage, sewage, and manure are also common sources of it. Because its nitrogen content is high and is readily converted to ammonia in the soil,
+                   <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/science/urea">
+                    urea
+                   </a>
+                   is one of the most concentrated nitrogenous fertilizers. An inexpensive compound, it is incorporated in mixed fertilizers as well as being applied alone to the soil or sprayed on
+                   <a class="md-dictionary-link md-dictionary-tt-off eb" data-term="foliage" data-type="EB" href="https://www.britannica.com/dictionary/foliage">
+                    foliage
+                   </a>
+                   . With
+                   <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/science/formaldehyde">
+                    formaldehyde
+                   </a>
+                   it gives methylene-urea fertilizers, which release nitrogen slowly, continuously, and uniformly, a full year’s supply being applied at one time.
+                  </p>
+                  <!--[P12]-->
+                  <span class="marker p12">
+                  </span>
+                  <!--[AM12]-->
+                  <span class="marker AM12 am-inline">
+                  </span>
+                  <!--[MOD12]-->
+                  <span class="marker MOD12 mod-inline">
+                  </span>
+                  <p class="topic-paragraph">
+                   Phosphorus fertilizers include
+                   <span id="ref245956">
+                   </span>
+                   <a class="md-crosslink" href="https://www.britannica.com/science/calcium-phosphate">
+                    calcium phosphate
+                   </a>
+                   derived from
+                   <a class="md-crosslink autoxref" data-show-preview="true" href="https://www.britannica.com/science/phosphorite">
+                    phosphate rock
+                   </a>
+                   or bones. The more soluble superphosphate and triple superphosphate preparations are obtained by the treatment of calcium phosphate with sulfuric and
+                   <a class="md-crosslink autoxref" data-show-preview="true" href="https://www.britannica.com/science/phosphoric-acid">
+                    phosphoric acid
+                   </a>
+                   , respectively. Potassium fertilizers, namely
+                   <a class="md-crosslink autoxref" data-show-preview="true" href="https://www.britannica.com/science/potassium-chloride">
+                    potassium chloride
+                   </a>
+                   and potassium sulfate, are mined from
+                   <a class="md-crosslink autoxref" data-show-preview="true" href="https://www.britannica.com/science/potash">
+                    potash
+                   </a>
+                   deposits. Of commercially produced potassium compounds, almost 95 percent of them are used in agriculture as fertilizer.
+                  </p>
+                  <!--[P13]-->
+                  <span class="marker p13">
+                  </span>
+                  <!--[AM13]-->
+                  <span class="marker AM13 am-inline">
+                  </span>
+                  <!--[MOD13]-->
+                  <span class="marker MOD13 mod-inline">
+                  </span>
+                  <p class="topic-paragraph">
+                   Mixed fertilizers contain more than one of the three major nutrients—nitrogen, phosphorus, and potassium. Fertilizer grade is a
+                   <a class="md-dictionary-link md-dictionary-tt-off eb" data-term="conventional" data-type="EB" href="https://www.britannica.com/dictionary/conventional">
+                    conventional
+                   </a>
+                   expression that indicates the percentage of plant nutrients in a fertilizer; thus, a 10–20–10 grade contains 10 percent nitrogen, 20 percent phosphoric oxide, and 10 percent potash. Mixed fertilizers can be formulated in hundreds of ways.
+                  </p>
+                  <!--[P14]-->
+                  <span class="marker p14">
+                  </span>
+                  <!--[AM14]-->
+                  <span class="marker AM14 am-inline">
+                  </span>
+                  <!--[MOD14]-->
+                  <span class="marker MOD14 mod-inline">
+                  </span>
+                 </section>
+                 <!--[H6]-->
+                 <span class="marker h6">
+                 </span>
+                 <section data-level="1" id="ref349669">
+                  <h2 class="h1">
+                   Organic fertilizers and practices
+                  </h2>
+                  <p class="topic-paragraph">
+                   The use of
+                   <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/topic/manure">
+                    manure
+                   </a>
+                   and
+                   <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/topic/compost">
+                    compost
+                   </a>
+                   as fertilizers is probably almost as old as agriculture. Many traditional farming systems still rely on these sustainable fertilizers, and their use is vital to the productivity of certified
+                   <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/topic/organic-farming">
+                    organic farms
+                   </a>
+                   , in which synthetic fertilizers are not permitted.
+                  </p>
+                  <!--[P15]-->
+                  <span class="marker p15">
+                  </span>
+                  <!--[AM15]-->
+                  <span class="marker AM15 am-inline">
+                  </span>
+                  <!--[MOD15]-->
+                  <span class="marker MOD15 mod-inline">
+                  </span>
+                  <section data-level="2" id="ref349670">
+                   <h2 class="h2">
+                    Farm manure
+                   </h2>
+                   <div class="assemblies">
+                    <div class="w-100">
+                     <figure class="md-assembly card print-false" data-assembly-id="262435">
+                      <div class="md-assembly-wrapper card-media" data-type="image">
+                       <a class="position-relative d-flex align-items-center justify-content-center media-overlay-link card-media" data-href="/media/1/205346/262435" href="https://cdn.britannica.com/67/171767-050-757B6D03/Manure-mixture-straw-animal-excrement-field-pile.jpg" style="min-height: 160px;">
+                        <img alt="manure" data-height="1046" data-width="1600" loading="eager" src="https://cdn.britannica.com/67/171767-050-757B6D03/Manure-mixture-straw-animal-excrement-field-pile.jpg?w=300"/>
+                        <button aria-label="Zoom in" class="magnifying-glass btn btn-circle position-absolute shadow btn-white">
+                         <em class="material-icons link-blue" data-icon="zoom_in">
+                         </em>
+                        </button>
+                       </a>
+                      </div>
+                      <figcaption class="card-body">
+                       <a class="md-assembly-title font-weight-bold mb-5 d-inline-block font-16 font-sans-serif media-overlay-link" data-href="/media/1/205346/262435" href="https://cdn.britannica.com/67/171767-050-757B6D03/Manure-mixture-straw-animal-excrement-field-pile.jpg">
+                        manure
+                       </a>
+                      </figcaption>
+                     </figure>
+                    </div>
+                   </div>
+                   <p class="topic-paragraph">
+                    Among sources of organic matter and plant nutrients, farm manure has been of major importance. Manure is understood to mean the refuse from stables and barnyards, including both excreta and
+                    <a class="md-crosslink autoxref" data-show-preview="true" href="https://www.britannica.com/topic/straw">
+                     straw
+                    </a>
+                    or other bedding material. Large amounts of manure are produced by
+                    <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/animal/livestock">
+                     livestock
+                    </a>
+                    ; such manure has
+                    <a class="md-dictionary-link md-dictionary-tt-off eb" data-term="value" data-type="EB" href="https://www.britannica.com/dictionary/value">
+                     value
+                    </a>
+                    in maintaining and improving soil because of the plant nutrients,
+                    <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/science/humus-soil-component">
+                     humus
+                    </a>
+                    , and organic substances contained in it.
+                   </p>
+                   <!--[P16]-->
+                   <span class="marker p16">
+                   </span>
+                   <!--[AM16]-->
+                   <span class="marker AM16 am-inline">
+                   </span>
+                   <!--[MOD16]-->
+                   <span class="marker MOD16 mod-inline">
+                   </span>
+                   <p class="topic-paragraph">
+                    Due to the potential for harbouring human pathogens, the USDA National Organic Standards mandate that raw manure must be applied no later than 90 or 120 days before harvest, depending on whether the harvested part of the crop is in contact with the ground. Composted manure that has been turned five times in 15 days and reached temperatures between 55 and 77.2 °C (131 and 171 °F) has no restrictions on application times. As manure must be managed carefully in order to derive the most benefit from it, some farmers may be unwilling to expend the necessary time and effort. Manure must be carefully stored to minimize loss of nutrients, particularly nitrogen. It must be applied to the right kind of crop at the proper time. Also, additional fertilizer may be needed, such as phosphoric oxide, in order to gain full value of the nitrogen and potash that are contained in manure.
+                   </p>
+                   <!--[P17]-->
+                   <span class="marker p17">
+                   </span>
+                   <!--[AM17]-->
+                   <span class="marker AM17 am-inline">
+                   </span>
+                   <!--[MOD17]-->
+                   <span class="marker MOD17 mod-inline">
+                   </span>
+                   <p class="topic-paragraph">
+                    Manure is fertilizer graded as approximately 0.5–0.25–0.5 (percentages of nitrogen, phosphoric oxide, and potash), with at least two-thirds of the nitrogen in slow-acting forms. Given that these nutrients are mostly in an unmineralized form that cannot be taken up by plants, soil microbes are needed to break down organic matter and transform nutrients into a bioavailable “mineralized” state. In comparison,
+                    <a class="md-dictionary-link md-dictionary-tt-off eb" data-term="synthetic" data-type="EB" href="https://www.britannica.com/dictionary/synthetic">
+                     synthetic
+                    </a>
+                    fertilizers are already in mineralized form and can be taken up by plants directly. On properly tilled soils, the returns from synthetic fertilizer usually will be greater than from an equivalent amount of manure. However, manure provides many indirect benefits. It supplies humus, which improves the soil’s physical character by increasing its capacity to absorb and store water, by enhancement of aeration, and by favouring the activities of lower organisms. Manure incorporated into the topsoil will help prevent erosion from heavy rain and slow down evaporation of water from the surface. In effect, the value of manure as a mulching material may be greater than is its value as a source of essential plant nutrients.
+                   </p>
+                   <!--[P18]-->
+                   <span class="marker p18">
+                   </span>
+                   <!--[AM18]-->
+                   <span class="marker AM18 am-inline">
+                   </span>
+                   <!--[MOD18]-->
+                   <span class="marker MOD18 mod-inline">
+                   </span>
+                  </section>
+                  <section data-level="2" id="ref349671">
+                   <h2 class="h2">
+                    Green manuring
+                   </h2>
+                   <div class="assemblies">
+                    <div class="w-100">
+                     <figure class="md-assembly card print-false" data-assembly-id="262436">
+                      <div class="md-assembly-wrapper card-media" data-type="image">
+                       <a class="position-relative d-flex align-items-center justify-content-center media-overlay-link card-media" data-href="/media/1/205346/262436" href="https://cdn.britannica.com/32/226232-050-CFF7ECC0/nitrogen-nodules-on-fava-bean-roots.jpg" style="min-height: 160px;">
+                        <img alt="nitrogen fixation" data-height="900" data-width="1600" loading="eager" src="https://cdn.britannica.com/32/226232-050-CFF7ECC0/nitrogen-nodules-on-fava-bean-roots.jpg?w=300"/>
+                        <button aria-label="Zoom in" class="magnifying-glass btn btn-circle position-absolute shadow btn-white">
+                         <em class="material-icons link-blue" data-icon="zoom_in">
+                         </em>
+                        </button>
+                       </a>
+                      </div>
+                      <figcaption class="card-body">
+                       <a class="md-assembly-title font-weight-bold mb-5 d-inline-block font-16 font-sans-serif media-overlay-link" data-href="/media/1/205346/262436" href="https://cdn.britannica.com/32/226232-050-CFF7ECC0/nitrogen-nodules-on-fava-bean-roots.jpg">
+                        nitrogen fixation
+                       </a>
+                      </figcaption>
+                     </figure>
+                    </div>
+                   </div>
+                   <p class="topic-paragraph">
+                    In reasonably humid areas the practice of
+                    <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/topic/green-manure">
+                     green manuring
+                    </a>
+                    can improve yield and soil qualities. A green manure crop is grown and plowed under for its
+                    <a class="md-dictionary-link md-dictionary-tt-off mw" data-term="beneficial" data-type="MW" href="https://www.merriam-webster.com/dictionary/beneficial">
+                     beneficial
+                    </a>
+                    effects, although during its growth it may be grazed. These green manure crops are usually
+                    <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/science/annual">
+                     annuals
+                    </a>
+                    , either
+                    <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/plant/grass">
+                     grasses
+                    </a>
+                    or
+                    <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/science/legume">
+                     legumes
+                    </a>
+                    , whose roots bear nodule
+                    <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/science/nitrogen-fixing-bacteria">
+                     bacteria
+                    </a>
+                    capable of fixing atmospheric nitrogen. Among the advantages of green manure crops are the addition of nitrogen to the soil, an increase in general fertility, a reduction of
+                    <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/science/erosion-geology">
+                     erosion
+                    </a>
+                    , an improvement of physical condition, and a reduction of nutrient loss from leaching. Disadvantages include the chance of not obtaining satisfactory growth; the possibility that the cost of growing the manure crop may exceed the cost of applying commercial nitrogen; possible increases in
+                    <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/science/plant-disease">
+                     disease
+                    </a>
+                    , insect pests, and
+                    <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/animal/nematode">
+                     nematodes
+                    </a>
+                    (parasitic worms); and possible exhaustion of soil moisture by the crop.
+                   </p>
+                   <!--[P19]-->
+                   <span class="marker p19">
+                   </span>
+                   <!--[AM19]-->
+                   <span class="marker AM19 am-inline">
+                   </span>
+                   <!--[MOD19]-->
+                   <span class="marker MOD19 mod-inline">
+                   </span>
+                   <p class="topic-paragraph">
+                    Green manure crops are usually planted in the fall and turned under in the spring before the summer crop is sown. Their value as a source of nitrogen, particularly that of the legumes, is unquestioned for certain crops such as
+                    <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/plant/potato">
+                     potatoes
+                    </a>
+                    ,
+                    <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/topic/cotton-fibre-and-plant">
+                     cotton
+                    </a>
+                    , and
+                    <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/plant/corn-plant">
+                     corn
+                    </a>
+                    (maize); for other crops, such as
+                    <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/plant/peanut">
+                     peanuts
+                    </a>
+                    (groundnuts; themselves legumes), the practice is questionable.
+                   </p>
+                   <!--[P20]-->
+                   <span class="marker p20">
+                   </span>
+                   <!--[AM20]-->
+                   <span class="marker AM20 am-inline">
+                   </span>
+                   <!--[MOD20]-->
+                   <span class="marker MOD20 mod-inline">
+                   </span>
+                  </section>
+                  <section data-level="2" id="ref349672">
+                   <h2 class="h2">
+                    Compost
+                   </h2>
+                   <div class="assemblies">
+                    <div class="w-100">
+                     <figure class="md-assembly card print-false" data-assembly-id="235821">
+                      <div class="md-assembly-wrapper card-media" data-type="image">
+                       <a class="position-relative d-flex align-items-center justify-content-center media-overlay-link card-media" data-href="/media/1/205346/235821" href="https://cdn.britannica.com/64/171764-050-7862912C/Farmer-compost-pile-France-Compost-matter-soil.jpg" style="min-height: 160px;">
+                        <img alt="compost" data-height="1067" data-width="1600" loading="eager" src="https://cdn.britannica.com/64/171764-050-7862912C/Farmer-compost-pile-France-Compost-matter-soil.jpg?w=300"/>
+                        <button aria-label="Zoom in" class="magnifying-glass btn btn-circle position-absolute shadow btn-white">
+                         <em class="material-icons link-blue" data-icon="zoom_in">
+                         </em>
+                        </button>
+                       </a>
+                      </div>
+                      <figcaption class="card-body">
+                       <a class="md-assembly-title font-weight-bold mb-5 d-inline-block font-16 font-sans-serif media-overlay-link" data-href="/media/1/205346/235821" href="https://cdn.britannica.com/64/171764-050-7862912C/Farmer-compost-pile-France-Compost-matter-soil.jpg">
+                        compost
+                       </a>
+                      </figcaption>
+                     </figure>
+                    </div>
+                   </div>
+                   <p class="topic-paragraph">
+                    Compost is used in agriculture and
+                    <a class="md-crosslink autoxref" data-show-preview="true" href="https://www.britannica.com/science/gardening">
+                     gardening
+                    </a>
+                    primarily as a soil
+                    <a class="md-dictionary-link md-dictionary-tt-off mw" data-term="amendment" data-type="MW" href="https://www.merriam-webster.com/dictionary/amendment">
+                     amendment
+                    </a>
+                    rather than as fertilizer, because it has a low content of plant nutrients. It may be incorporated into the soil or mulched on the surface. Heavy rates of application are common.
+                   </p>
+                   <!--[P21]-->
+                   <span class="marker p21">
+                   </span>
+                   <!--[AM21]-->
+                   <span class="marker AM21 am-inline">
+                   </span>
+                   <!--[MOD21]-->
+                   <span class="marker MOD21 mod-inline">
+                   </span>
+                   <p class="topic-paragraph">
+                    <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/topic/compost">
+                     Compost
+                    </a>
+                    is basically a mass of rotted organic matter made from waste plant residues. Addition of nitrogen during decomposition is usually advisable. The result is a crumbly material that when added to soil does not compete with the crop for nitrogen. When properly prepared, it is free of obnoxious odours. Composts commonly contain about 2 percent nitrogen, 0.5 to 1 percent phosphorus, and about 2 percent potassium. The nitrogen of compost becomes available slowly and never approaches that available from inorganic sources. This slow release of nitrogen reduces leaching and extends availability over the whole
+                    <a class="md-crosslink autoxref" data-show-preview="true" href="https://www.britannica.com/topic/growing-season">
+                     growing season
+                    </a>
+                    . Composts are essentially fertilizers with low nutrient content, which explains why large amounts are applied. The maximum benefits of composts on soil structure (better aggregation, pore spacing, and water storage) and on crop yield usually occur after several years of use.
+                   </p>
+                   <!--[P22]-->
+                   <span class="marker p22">
+                   </span>
+                   <!--[AM22]-->
+                   <span class="marker AM22 am-inline">
+                   </span>
+                   <!--[MOD22]-->
+                   <span class="marker MOD22 mod-inline">
+                   </span>
+                   <p class="topic-paragraph">
+                    In practical farming, the use of composted plant residues must be compared with the use of fresh residues. More beneficial soil effects usually
+                    <a class="md-dictionary-link md-dictionary-tt-off mw" data-term="accrue" data-type="MW" href="https://www.merriam-webster.com/dictionary/accrue">
+                     accrue
+                    </a>
+                    with less labour by simply turning under fresh residues; also, since one-half the organic matter is lost in composting, fresh residues applied at the same rate will cover twice the area that composted residues would cover. In areas where commercial fertilizers are expensive, labour is cheap, and
+                    <a class="md-dictionary-link md-dictionary-tt-off mw" data-term="implements" data-type="MW" href="https://www.merriam-webster.com/dictionary/implements">
+                     implements
+                    </a>
+                    are simple, however, composting meets the need and is a logical practice.
+                   </p>
+                   <!--[P23]-->
+                   <span class="marker p23">
+                   </span>
+                   <!--[AM23]-->
+                   <span class="marker AM23 am-inline">
+                   </span>
+                   <!--[MOD23]-->
+                   <span class="marker MOD23 mod-inline">
+                   </span>
+                   <p class="topic-paragraph">
+                    Sewage sludge, the solid material remaining from the treatment of sewage, is not permitted in certified organic farming, though it is used in other, nonorganic settings. After suitable processing, it is sold as fertilizer and as a soil amendment for use on lawns, in parks, and on golf courses. Use of human biosolids in agriculture is controversial, as there are concerns that even treated sewage may harbour harmful bacteria, viruses, pharmaceutical residues, and heavy metals.
+                   </p>
+                   <!--[P24]-->
+                   <span class="marker p24">
+                   </span>
+                   <!--[AM24]-->
+                   <span class="marker AM24 am-inline">
+                   </span>
+                   <!--[MOD24]-->
+                   <span class="marker MOD24 mod-inline">
+                   </span>
+                  </section>
+                  <section data-level="2" id="ref349673">
+                   <h2 class="h2">
+                    Liming
+                   </h2>
+                   <p class="topic-paragraph">
+                    Liming to reduce soil acidity is practiced extensively in humid areas where rainfall
+                    <a class="md-dictionary-link md-dictionary-tt-off eb" data-term="leaches" data-type="EB" href="https://www.britannica.com/dictionary/leaches">
+                     leaches
+                    </a>
+                    calcium and magnesium from the soil, thus creating an acid condition. Calcium and magnesium are major plant nutrients supplied by liming materials. Ground
+                    <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/science/limestone">
+                     limestone
+                    </a>
+                    is widely used for this purpose; its active agent, calcium carbonate, reacts with the soil to reduce its acidity. The calcium is then available for plant use. The typical limestones, especially dolomitic, contain magnesium carbonate as well, thus also supplying magnesium to the plant.
+                   </p>
+                   <!--[P25]-->
+                   <span class="marker p25">
+                   </span>
+                   <!--[AM25]-->
+                   <span class="marker AM25 am-inline">
+                   </span>
+                   <!--[MOD25]-->
+                   <span class="marker MOD25 mod-inline">
+                   </span>
+                   <p class="topic-paragraph">
+                    <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/science/marl-mineral">
+                     Marl
+                    </a>
+                    and
+                    <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/science/chalk">
+                     chalk
+                    </a>
+                    are soft impure forms of limestone and are sometimes used as liming materials, as are oyster shells. Calcium sulfate (
+                    <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/science/gypsum">
+                     gypsum
+                    </a>
+                    ) and calcium chloride, however, are unsuitable for liming, for, although their calcium is readily
+                    <a class="md-dictionary-link md-dictionary-tt-off eb" data-term="soluble" data-type="EB" href="https://www.britannica.com/dictionary/soluble">
+                     soluble
+                    </a>
+                    , they leave behind a residue that is harmful. Organic standards by the
+                    <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/topic/European-Union">
+                     European Union
+                    </a>
+                    and the U.S.
+                    <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/topic/Food-and-Drug-Administration">
+                     Food and Drug Administration
+                    </a>
+                    restrict certain liming agents; burnt lime and
+                    <a class="md-crosslink autoxref" data-show-preview="true" href="https://www.britannica.com/science/calcium-hydroxide">
+                     hydrated lime
+                    </a>
+                    are not permitted for certified organic farms in the U.S., for example.
+                   </p>
+                   <!--[P26]-->
+                   <span class="marker p26">
+                   </span>
+                   <!--[AM26]-->
+                   <span class="marker AM26 am-inline">
+                   </span>
+                   <!--[MOD26]-->
+                   <span class="marker MOD26 mod-inline">
+                   </span>
+                   <p class="topic-paragraph">
+                    Lime is applied by mixing it uniformly with the surface layer of the soil. It may be applied at any time of the year on land plowed for spring crops or winter grain or on permanent pasture. After application, plowing, disking, or harrowing will mix it with the soil. Such
+                    <a class="md-crosslink autoxref" data-show-preview="true" href="https://www.britannica.com/topic/tillage">
+                     tillage
+                    </a>
+                    is usually necessary, because calcium migrates slowly downward in most soils. Lime is usually applied by trucks specially equipped and owned by custom operators.
+                   </p>
+                   <!--[P27]-->
+                   <span class="marker p27">
+                   </span>
+                   <!--[AM27]-->
+                   <span class="marker AM27 am-inline">
+                   </span>
+                   <!--[MOD27]-->
+                   <span class="marker MOD27 mod-inline">
+                   </span>
+                  </section>
+                 </section>
+                 <!--[H7]-->
+                 <span class="marker h7">
+                 </span>
+                 <section data-level="1" id="ref349674">
+                  <h2 class="h1">
+                   Methods of application
+                  </h2>
+                  <p class="topic-paragraph">
+                   Fertilizers may be added to soil in solid, liquid, or gaseous forms, the choice depending on many factors. Generally, the farmer tries to obtain satisfactory yield at minimum cost in money and labour.
+                  </p>
+                  <!--[P28]-->
+                  <span class="marker p28">
+                  </span>
+                  <!--[AM28]-->
+                  <span class="marker AM28 am-inline">
+                  </span>
+                  <!--[MOD28]-->
+                  <span class="marker MOD28 mod-inline">
+                  </span>
+                  <p class="topic-paragraph">
+                   Manure can be applied as a liquid or a solid. When accumulated as a liquid from livestock areas, it may be stored in tanks until needed and then pumped into a distributing machine or into a sprinkler
+                   <a class="md-crosslink autoxref" data-show-preview="true" href="https://www.britannica.com/technology/irrigation">
+                    irrigation
+                   </a>
+                   system. The method reduces labour, but the noxious odours are objectionable. The solid-manure spreader, which can also be used for compost, conveys the material to the field, shreds it, and spreads it uniformly over the land. The process can be carried out during convenient times, including winter, but rarely when the crop is growing.
+                  </p>
+                  <!--[P29]-->
+                  <span class="marker p29">
+                  </span>
+                  <!--[AM29]-->
+                  <span class="marker AM29 am-inline">
+                  </span>
+                  <!--[MOD29]-->
+                  <span class="marker MOD29 mod-inline">
+                  </span>
+                  <div class="assemblies">
+                   <div class="w-100">
+                    <figure class="md-assembly card print-false" data-assembly-id="262437">
+                     <div class="md-assembly-wrapper card-media" data-type="image">
+                      <a class="position-relative d-flex align-items-center justify-content-center media-overlay-link card-media" data-href="/media/1/205346/262437" href="https://cdn.britannica.com/91/118991-050-0AAF42D7/Farmers-amounts-fertilizer.jpg" style="min-height: 160px;">
+                       <img alt="fertilizer" data-height="1083" data-width="1600" loading="eager" src="https://cdn.britannica.com/91/118991-050-0AAF42D7/Farmers-amounts-fertilizer.jpg?w=300"/>
+                       <button aria-label="Zoom in" class="magnifying-glass btn btn-circle position-absolute shadow btn-white">
+                        <em class="material-icons link-blue" data-icon="zoom_in">
+                        </em>
+                       </button>
+                      </a>
+                     </div>
+                     <figcaption class="card-body">
+                      <a class="md-assembly-title font-weight-bold mb-5 d-inline-block font-16 font-sans-serif media-overlay-link" data-href="/media/1/205346/262437" href="https://cdn.britannica.com/91/118991-050-0AAF42D7/Farmers-amounts-fertilizer.jpg">
+                       fertilizer
+                      </a>
+                     </figcaption>
+                    </figure>
+                   </div>
+                  </div>
+                  <p class="topic-paragraph">
+                   Application of granulated or pelleted solid fertilizer has been aided by improved equipment design. Such devices, depending on design, can deposit fertilizer at the time of planting, side-dress a growing crop, or broadcast the material. Solid-fertilizer distributors have a wide hopper with holes in the bottom; distribution is effected by various means, such as rollers, agitators, or endless chains
+                   <a class="md-dictionary-link md-dictionary-tt-off mw" data-term="traversing" data-type="MW" href="https://www.merriam-webster.com/dictionary/traversing">
+                    traversing
+                   </a>
+                   the hopper bottom. Broadcast distributors have a tub-shaped hopper from which the material falls onto revolving disks that distribute it in a broad swath. Fertilizer attachments are available for most tractor-mounted planters and cultivators and for grain drills and some types of plows. They deposit fertilizer with the seed when planted, without damage to the seed, yet the nutrient is readily available during early growth. Placement of the fertilizer varies according to the types of crops; some crops require banding above the seed, while others are more successful when the fertilizer band is below the seed.
+                  </p>
+                  <!--[P30]-->
+                  <span class="marker p30">
+                  </span>
+                  <!--[AM30]-->
+                  <span class="marker AM30 am-inline">
+                  </span>
+                  <div class="one-good-fact-module">
+                  </div>
+                  <!--[MOD30]-->
+                  <span class="marker MOD30 mod-inline">
+                  </span>
+                  <div class="assemblies">
+                   <div class="w-100">
+                    <figure class="md-assembly card print-false" data-assembly-id="262438">
+                     <div class="md-assembly-wrapper card-media" data-type="image">
+                      <a class="position-relative d-flex align-items-center justify-content-center media-overlay-link card-media" data-href="/media/1/205346/262438" href="https://cdn.britannica.com/17/224617-050-44A85264/Aerial-view-of-a-tractor-applicator-spraying-liquid-nitrogen-fertilizer.jpg" style="min-height: 160px;">
+                       <img alt="fertilizer application" data-height="1067" data-width="1600" loading="eager" src="https://cdn.britannica.com/17/224617-050-44A85264/Aerial-view-of-a-tractor-applicator-spraying-liquid-nitrogen-fertilizer.jpg?w=300"/>
+                       <button aria-label="Zoom in" class="magnifying-glass btn btn-circle position-absolute shadow btn-white">
+                        <em class="material-icons link-blue" data-icon="zoom_in">
+                        </em>
+                       </button>
+                      </a>
+                     </div>
+                     <figcaption class="card-body">
+                      <a class="md-assembly-title font-weight-bold mb-5 d-inline-block font-16 font-sans-serif media-overlay-link" data-href="/media/1/205346/262438" href="https://cdn.britannica.com/17/224617-050-44A85264/Aerial-view-of-a-tractor-applicator-spraying-liquid-nitrogen-fertilizer.jpg">
+                       fertilizer application
+                      </a>
+                     </figcaption>
+                    </figure>
+                   </div>
+                  </div>
+                  <p class="topic-paragraph">
+                   The use of liquid and ammonia fertilizers is growing, particularly of anhydrous ammonia, which is handled as a liquid under pressure but changes to gas when released to
+                   <a class="md-crosslink autoxref" data-show-preview="true" href="https://www.britannica.com/science/atmospheric-pressure">
+                    atmospheric pressure
+                   </a>
+                   . Anhydrous ammonia, however, is highly corrosive, inflammable, and rather dangerous if not handled properly; thus, application equipment is specialized. Typically, the applicator is a chisel-shaped blade with a pipe
+                   <a class="md-dictionary-link md-dictionary-tt-off eb" data-term="mounted" data-type="EB" href="https://www.britannica.com/dictionary/mounted">
+                    mounted
+                   </a>
+                   on its rear side to conduct the ammonia 13 to 15 cm (5 to 6 inches) below the soil surface. Pipes are fed from a pressure tank mounted above. Mixed liquid fertilizers containing nitrogen, phosphorus, and potassium may be applied directly to the soil surface or as a foliar spray by field sprayers where close-growing crops are raised. Large areas can be covered rapidly by use of aircraft, which can distribute both liquid and dry fertilizer.
+                  </p>
+                  <!--[P31]-->
+                  <span class="marker p31">
+                  </span>
+                  <!--[AM31]-->
+                  <span class="marker AM31 am-inline">
+                  </span>
+                  <!--[MOD31]-->
+                  <span class="marker MOD31 mod-inline">
+                  </span>
+                 </section>
+                 <span class="md-signature">
+                  <a href="/contributor/Robert-E-Stewart/2859">
+                   Robert E. Stewart
+                  </a>
+                 </span>
+                 <span class="md-signature">
+                  <a href="/editor/The-Editors-of-Encyclopaedia-Britannica/4419">
+                   The Editors of Encyclopaedia Britannica
+                  </a>
+                 </span>
+                 <!--[END-OF-CONTENT]-->
+                 <span class="marker end-of-content">
+                 </span>
+                 <!--[AFTER-ARTICLE]-->
+                 <span class="marker after-article">
+                 </span>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </article>
+      </div>
+     </div>
+    </div>
+   </div>
+  </main>
+  <div id="md-footer">
+  </div>
+  <noscript>
+   <iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-5W6NC8" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <script id="_informizely_script_tag" type="text/javascript">
+   var IzWidget = IzWidget || {};
+(function (d)
+{ var scriptElement = d.createElement('script'); scriptElement.type = 'text/javascript'; scriptElement.async = true; scriptElement.src = "https://insitez.blob.core.windows.net/site/f780f33e-a610-4ac2-af81-3eb184037547.js"; var node = d.getElementById('_informizely_script_tag'); node.parentNode.insertBefore(scriptElement, node); }
+)(document);
+  </script>
+  <script class="marketing-page-info" type="application/json">
+   {"pageType":"Topic","templateName":"DESKTOP","pageNumber":1,"pagesTotal":1,"pageId":205346,"pageLength":2816,"initialLoad":true,"lastPageOfScroll":false}
+  </script>
+  <script class="marketing-content-info" type="application/json">
+   [{"id":1012,"name":"SUBSCRIPTION_LINK_DESKTOP","selector":"#fake"}]
+  </script>
+  <script src="https://cdn.britannica.com/mendel-resources/3-90/js/libs/jquery-3.5.0.min.js?v=3.90.6">
+  </script>
+  <script data-type="Init Mendel Code Splitting" type="text/javascript">
+   (function() {
+                $.ajax({
+                  dataType: 'script',
+                  cache: true,
+                  url: 'https://cdn.britannica.com/mendel-resources/3-90/dist/topic-page.js?v=3.90.6'
+                });
+              })();
+  </script>
+  <script class="analytics-metadata" type="application/json">
+   {"leg":"D","userType":"ANONYMOUS","pageType":"Topic","pageSubtype":null,"articleTemplateType":"LARGE","gisted":false}
+  </script>
+  <script async="async" src="https://www.googletagmanager.com/gtag/js?id=UA-6636134-11" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   function gaPageLoad(pathname, documentLocation) {
+            pathname = pathname || location.pathname;
+            documentLocation = documentLocation || document.querySelector('html').getAttribute('data-ytrk-page');
+
+            if (documentLocation) {
+                documentLocation = documentLocation.replace(/ /g, '/');
+
+                if (documentLocation.charAt(0) !== '/') {
+                    documentLocation = '/' + documentLocation;
+                }
+
+                window.dataLayer = window.dataLayer || [];
+
+                function gtag() {
+                    dataLayer.push(arguments);
+                }
+
+                gtag('js', new Date());
+
+                gtag('set', {
+                    'dimension1': 'ANONYMOUS',
+                    'dimension2': 'D',
+                });
+
+                //console.log( "*****[UA]***** -> ", documentLocation + pathname + decodeURI(location.search) );
+
+                gtag('config', 'UA-6636134-11', {
+                    'page_path': documentLocation + pathname + decodeURI(location.search),
+                    'link_attribution': true,
+                });
+            }
+        }
+
+        gaPageLoad();
+  </script>
+  <script type="text/javascript">
+   EBStat={accountId:-1,hostnameOverride:'webstats.eb.com',domain:'www.britannica.com', json:''};
+  </script>
+  <script type="text/javascript">
+   ( function() {
+                $.ajax( { dataType: 'script', cache: true, url: '//www.britannica.com/webstats/mendelstats.js?v=1' } )
+                 .done( function() {
+                     try {writeStat(null,EBStat);}
+                     catch(err){}
+                 } );
+            })();
+  </script>
+  <div id="bc-fixed-dialogue">
+  </div>
+  <script crossorigin="anonymous" data-cf-beacon='{"rayId":"7b553aed9fc2f2be","version":"2023.3.0","b":1,"token":"5cc7d7124de641b181da990fc8c9a0b6","si":100}' defer="" integrity="sha512-D/jdE0CypeVxFadTejKGTzmwyV10c1pxZk/AqjJuZbaJwGMyNHY3q/mTPWqMUnFACfCTunhZUVcd4cV78dK1pQ==" src="https://static.cloudflareinsights.com/beacon.min.js/v2b4487d741ca48dcbadcaf954e159fc61680799950996">
+  </script>
+ </body>
+</html>

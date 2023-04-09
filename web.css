@@ -1,14 +1,11 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500&display=swap');
 
 body{
-    padding: 0;
-    margin: 0;
-    overflow-x: hidden;
+    background-color: white;
+
+    overflow-x: hidden !important;
     font-family: 'Poppins', sans-serif;
-    /* background-color: #FFFB7D;
-    background-image: linear-gradient(45deg, #FFFB7D 0%, #85FFBD 77%); */
-    background-color: #FFFB7D;
-    background-image: linear-gradient(45deg, #FFFB7D 25%, #85FFBD 81%);
 }
 
 .clr:before, .clr:after, .clearfix:before, .clearfix:after {
