@@ -10,5 +10,5 @@ with open("ferti.txt", "w", encoding="utf-8") as output:
     output.write(soup.prettify())
 
 
-soil = soup.findAll('div', class_ = 'topic-content pt-15')
-print(soil)
+ferti = soup.findAll('div', class_ = 'topic-content pt-15')
+print(ferti)

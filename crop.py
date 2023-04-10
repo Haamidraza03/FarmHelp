@@ -11,5 +11,5 @@ with open("crop.txt", "w", encoding="utf-8") as output:
     output.write(soup.prettify())
 
 
-soil = soup.findAll('div' , class_ = 'mw-parser-output')
-print(soil)
+crop = soup.findAll('div' , class_ = 'mw-parser-output')
+print(crop)
