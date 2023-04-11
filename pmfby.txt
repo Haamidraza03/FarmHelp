@@ -1,0 +1,2374 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <link href="https://nationalinsurance.nic.co.in/sites/all/themes/nicl/images/apple-icon-57x57.png" rel="apple-touch-icon" sizes="57x57"/>
+  <link href="https://nationalinsurance.nic.co.in/sites/all/themes/nicl/images/apple-icon-60x60.png" rel="apple-touch-icon" sizes="60x60"/>
+  <link href="https://nationalinsurance.nic.co.in/sites/all/themes/nicl/images/apple-icon-72x72.png" rel="apple-touch-icon" sizes="72x72"/>
+  <link href="https://nationalinsurance.nic.co.in/sites/all/themes/nicl/images/apple-icon-76x76.png" rel="apple-touch-icon" sizes="76x76"/>
+  <link href="https://nationalinsurance.nic.co.in/sites/all/themes/nicl/images/apple-icon-114x114.png" rel="apple-touch-icon" sizes="114x114"/>
+  <link href="https://nationalinsurance.nic.co.in/sites/all/themes/nicl/images/apple-icon-120x120.png" rel="apple-touch-icon" sizes="120x120"/>
+  <link href="https://nationalinsurance.nic.co.in/sites/all/themes/nicl/images/apple-icon-144x144.png" rel="apple-touch-icon" sizes="144x144"/>
+  <link href="https://nationalinsurance.nic.co.in/sites/all/themes/nicl/images/apple-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+  <link href="https://nationalinsurance.nic.co.in/sites/all/themes/nicl/images/apple-icon-180x180.png" rel="apple-touch-icon" sizes="180x180"/>
+  <link href="https://nationalinsurance.nic.co.in/sites/all/themes/nicl/images/android-icon-192x192.png" rel="icon" sizes="192x192" type="image/png"/>
+  <link href="https://nationalinsurance.nic.co.in/sites/all/themes/nicl/images/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+  <link href="https://nationalinsurance.nic.co.in/sites/all/themes/nicl/images/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png"/>
+  <link href="https://nationalinsurance.nic.co.in/sites/all/themes/nicl/images/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet"/>
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900" rel="stylesheet"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <link href="https://nationalinsurance.nic.co.in/sites/default/files/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"/>
+  <link href="/en/node/1363" rel="shortlink"/>
+  <link href="/en/pradhan-mantri-fasal-bima-yojana-pmfby" rel="canonical"/>
+  <meta/>
+  <title>
+   Pradhan Mantri Fasal Bima Yojana (PMFBY) | National Insurance Company Limited
+  </title>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <meta content="" name="description"/>
+  <meta content="" name="Keywords"/>
+  <meta content="Pradhan Mantri Fasal Bima Yojana (PMFBY) | National Insurance Company Limited" name="title"/>
+  <meta content="en" name="lang"/>
+  <meta content="" name="author"/>
+  <style media="all" type="text/css">
+   @import url("https://nationalinsurance.nic.co.in/modules/system/system.base.css?rs8qzl");
+@import url("https://nationalinsurance.nic.co.in/modules/system/system.menus.css?rs8qzl");
+@import url("https://nationalinsurance.nic.co.in/modules/system/system.messages.css?rs8qzl");
+@import url("https://nationalinsurance.nic.co.in/modules/system/system.theme.css?rs8qzl");
+  </style>
+  <style media="all" type="text/css">
+   @import url("https://nationalinsurance.nic.co.in/sites/all/modules/contrib/simplenews/simplenews.css?rs8qzl");
+@import url("https://nationalinsurance.nic.co.in/modules/comment/comment.css?rs8qzl");
+@import url("https://nationalinsurance.nic.co.in/sites/all/modules/contrib/date/date_api/date.css?rs8qzl");
+@import url("https://nationalinsurance.nic.co.in/sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7.css?rs8qzl");
+@import url("https://nationalinsurance.nic.co.in/modules/field/theme/field.css?rs8qzl");
+@import url("https://nationalinsurance.nic.co.in/modules/node/node.css?rs8qzl");
+@import url("https://nationalinsurance.nic.co.in/modules/search/search.css?rs8qzl");
+@import url("https://nationalinsurance.nic.co.in/modules/user/user.css?rs8qzl");
+@import url("https://nationalinsurance.nic.co.in/sites/all/modules/contrib/views/css/views.css?rs8qzl");
+@import url("https://nationalinsurance.nic.co.in/sites/all/modules/contrib/media/modules/media_wysiwyg/css/media_wysiwyg.base.css?rs8qzl");
+  </style>
+  <style media="all" type="text/css">
+   @import url("https://nationalinsurance.nic.co.in/sites/all/modules/contrib/ctools/css/ctools.css?rs8qzl");
+@import url("https://nationalinsurance.nic.co.in/sites/all/modules/contrib/lightbox2/css/lightbox.css?rs8qzl");
+@import url("https://nationalinsurance.nic.co.in/sites/all/modules/contrib/panels/css/panels.css?rs8qzl");
+@import url("https://nationalinsurance.nic.co.in/modules/locale/locale.css?rs8qzl");
+  </style>
+  <style media="all" type="text/css">
+   @import url("https://nationalinsurance.nic.co.in/sites/all/themes/nicl/css/font-awesome.min.css?rs8qzl");
+@import url("https://nationalinsurance.nic.co.in/sites/all/themes/nicl/css/linear-icon-style.css?rs8qzl");
+@import url("https://nationalinsurance.nic.co.in/sites/all/themes/nicl/css/owl.carousel.css?rs8qzl");
+@import url("https://nationalinsurance.nic.co.in/sites/all/themes/nicl/css/owl.theme.css?rs8qzl");
+@import url("https://nationalinsurance.nic.co.in/sites/all/themes/nicl/css/bootstrap.min.css?rs8qzl");
+@import url("https://nationalinsurance.nic.co.in/sites/all/themes/nicl/css/easy-responsive-tabs.css?rs8qzl");
+@import url("https://nationalinsurance.nic.co.in/sites/all/themes/nicl/css/endlessRiver.css?rs8qzl");
+@import url("https://nationalinsurance.nic.co.in/sites/all/themes/nicl/css/site.css?rs8qzl");
+@import url("https://nationalinsurance.nic.co.in/sites/all/themes/nicl/css/site-responsive.css?rs8qzl");
+@import url("https://nationalinsurance.nic.co.in/sites/all/themes/nicl/css/style_oda.css?rs8qzl");
+  </style>
+  <style media="print" type="text/css">
+   @import url("https://nationalinsurance.nic.co.in/sites/all/themes/nicl/css/print.css?rs8qzl");
+  </style>
+  <script src="https://nationalinsurance.nic.co.in/misc/jquery.js?v=1.4.4" type="text/javascript">
+  </script>
+  <script src="https://nationalinsurance.nic.co.in/misc/jquery.once.js?v=1.2" type="text/javascript">
+  </script>
+  <script src="https://nationalinsurance.nic.co.in/misc/drupal.js?rs8qzl" type="text/javascript">
+  </script>
+  <script src="https://nationalinsurance.nic.co.in/misc/jquery.cookie.js?v=1.0" type="text/javascript">
+  </script>
+  <script src="https://nationalinsurance.nic.co.in/misc/jquery.form.js?v=2.52" type="text/javascript">
+  </script>
+  <script src="https://nationalinsurance.nic.co.in/misc/ajax.js?v=7.56" type="text/javascript">
+  </script>
+  <script src="https://nationalinsurance.nic.co.in/sites/all/modules/contrib/jquery_update/js/jquery_update.js?v=0.0.1" type="text/javascript">
+  </script>
+  <script src="https://nationalinsurance.nic.co.in/sites/all/modules/contrib/lightbox2/js/lightbox.js?1681255950" type="text/javascript">
+  </script>
+  <script src="https://nationalinsurance.nic.co.in/sites/all/modules/contrib/captcha/captcha.js?rs8qzl" type="text/javascript">
+  </script>
+  <script src="https://nationalinsurance.nic.co.in/sites/all/modules/contrib/views/js/base.js?rs8qzl" type="text/javascript">
+  </script>
+  <script src="https://nationalinsurance.nic.co.in/misc/progress.js?v=7.56" type="text/javascript">
+  </script>
+  <script src="https://nationalinsurance.nic.co.in/sites/all/modules/contrib/views/js/ajax_view.js?rs8qzl" type="text/javascript">
+  </script>
+  <script src="https://nationalinsurance.nic.co.in/sites/all/themes/nicl/js/jquery-3.0.0.min.js?rs8qzl" type="text/javascript">
+  </script>
+  <script src="https://nationalinsurance.nic.co.in/sites/all/themes/nicl/js/jquery-migrate-1.4.1.min.js?rs8qzl" type="text/javascript">
+  </script>
+  <script src="https://nationalinsurance.nic.co.in/sites/all/themes/nicl/js/html5shiv.js?rs8qzl" type="text/javascript">
+  </script>
+  <script src="https://nationalinsurance.nic.co.in/sites/all/themes/nicl/js/respond.min.js?rs8qzl" type="text/javascript">
+  </script>
+  <script src="https://nationalinsurance.nic.co.in/sites/all/themes/nicl/js/font-size.js?rs8qzl" type="text/javascript">
+  </script>
+  <script src="https://nationalinsurance.nic.co.in/sites/all/themes/nicl/js/swithcer.js?rs8qzl" type="text/javascript">
+  </script>
+  <script src="https://nationalinsurance.nic.co.in/sites/all/themes/nicl/js/slideshow.js?rs8qzl" type="text/javascript">
+  </script>
+  <script src="https://nationalinsurance.nic.co.in/sites/all/themes/nicl/js/easy-responsive-tabs.js?rs8qzl" type="text/javascript">
+  </script>
+  <script src="https://nationalinsurance.nic.co.in/sites/all/themes/nicl/js/owl.carousel.js?rs8qzl" type="text/javascript">
+  </script>
+  <script src="https://nationalinsurance.nic.co.in/sites/all/themes/nicl/js/endlessRiver.js?rs8qzl" type="text/javascript">
+  </script>
+  <script src="https://nationalinsurance.nic.co.in/sites/all/themes/nicl/js/site.js?rs8qzl" type="text/javascript">
+  </script>
+  <script src="https://nationalinsurance.nic.co.in/sites/all/themes/nicl/js/custom_oda.js?rs8qzl" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   <!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"nicl","theme_token":"itC0GJMdk_4YlS9YwPuOnbRMOjrdV5DnAeFcRMglcN8","jquery_version":"default","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/jquery.cookie.js":1,"misc\/jquery.form.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/contrib\/lightbox2\/js\/lightbox.js":1,"sites\/all\/modules\/contrib\/captcha\/captcha.js":1,"sites\/all\/modules\/contrib\/views\/js\/base.js":1,"misc\/progress.js":1,"sites\/all\/modules\/contrib\/views\/js\/ajax_view.js":1,"sites\/all\/themes\/nicl\/js\/jquery-3.0.0.min.js":1,"sites\/all\/themes\/nicl\/js\/jquery-migrate-1.4.1.min.js":1,"sites\/all\/themes\/nicl\/js\/html5shiv.js":1,"sites\/all\/themes\/nicl\/js\/respond.min.js":1,"sites\/all\/themes\/nicl\/js\/font-size.js":1,"sites\/all\/themes\/nicl\/js\/swithcer.js":1,"sites\/all\/themes\/nicl\/js\/slideshow.js":1,"sites\/all\/themes\/nicl\/js\/easy-responsive-tabs.js":1,"sites\/all\/themes\/nicl\/js\/owl.carousel.js":1,"sites\/all\/themes\/nicl\/js\/endlessRiver.js":1,"sites\/all\/themes\/nicl\/js\/site.js":1,"sites\/all\/themes\/nicl\/js\/custom_oda.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/simplenews\/simplenews.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/media\/modules\/media_wysiwyg\/css\/media_wysiwyg.base.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/lightbox2\/css\/lightbox.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"modules\/locale\/locale.css":1,"sites\/all\/themes\/nicl\/css\/font-awesome.min.css":1,"sites\/all\/themes\/nicl\/css\/linear-icon-style.css":1,"sites\/all\/themes\/nicl\/css\/owl.carousel.css":1,"sites\/all\/themes\/nicl\/css\/owl.theme.css":1,"sites\/all\/themes\/nicl\/css\/bootstrap.min.css":1,"sites\/all\/themes\/nicl\/css\/easy-responsive-tabs.css":1,"sites\/all\/themes\/nicl\/css\/endlessRiver.css":1,"sites\/all\/themes\/nicl\/css\/site.css":1,"sites\/all\/themes\/nicl\/css\/site-responsive.css":1,"sites\/all\/themes\/nicl\/css\/style_oda.css":1,"sites\/all\/themes\/nicl\/css\/print.css":1}},"encrypt_submissions":{"baseUrl":"https:\/\/nationalinsurance.nic.co.in"},"lightbox2":{"rtl":"0","file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/contrib\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":1,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":0,"disable_resize":0,"disable_zoom":0,"force_show_nav":0,"show_caption":1,"loop_items":0,"node_link_text":"View Image Details","node_link_target":0,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":0},"views":{"ajax_path":"\/en\/views\/ajax","ajaxViews":{"views_dom_id:c55de79dd3560335d7976d9ce5a9b013":{"view_name":"insurance_policies_","view_display_id":"popular_product","view_args":"1363","view_path":"node\/1363","view_base_path":null,"view_dom_id":"c55de79dd3560335d7976d9ce5a9b013","pager_element":0}}},"urlIsAjaxTrusted":{"\/en\/views\/ajax":true,"\/en\/pradhan-mantri-fasal-bima-yojana-pmfby":true}});
+//--><!]]>
+  </script>
+ </head>
+ <body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-1363 node-type-page i18n-en">
+  ﻿
+  <script src="https://code.jquery.com/ui/1.10.0/jquery-ui.js">
+  </script>
+  <script>
+   $(document).ready(function(){
+	$("li.ico-home a").attr("target", "");
+	$("a.logo-ft").attr("target", "");
+            $(".prdlst").text("View More");
+    });
+  </script>
+  <script src="https://nationalinsurance.nic.co.in/sites/all/themes/nicl/js/settings.js" type="text/javascript">
+  </script>
+  <!--<script src="https://objectstorage.ap-mumbai-1.oraclecloud.com/n/bmeuprhy8emb/b/NicOda/o/web-sdk.js" onload="initSdk('Bots')"></script>
+<script src="https://nationalinsurance.nic.co.in/sites/all/themes/nicl/js/web-sdk-20-08-02.js" onload="initSdk('Bots')"></script>-->
+  <script src="https://nationalinsurance.nic.co.in/sites/all/themes/nicl/js/custom_oda.js" type="text/javascript">
+  </script>
+  <link href="https://nationalinsurance.nic.co.in/sites/all/themes/nicl/css/style_oda.css" media="all" rel="stylesheet"/>
+  <!--====== RIGHT SIDE WIDGET ======-->
+  <div class="right-widget">
+   <div class="region region-right-widget-block">
+    <div class="block block-block" id="block-block-10">
+     <h2>
+     </h2>
+     <div class="right-widget">
+      <ul>
+       <li class="call">
+        <a>
+        </a>
+        <ul>
+         <li>
+          <a href="https://nicportal.nic.co.in/nicportal/signin/login" target="_BLANK" title="External site that opens in a new window">
+           User Login
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="garages">
+        <a>
+        </a>
+        <ul>
+         <li>
+          <a href="https://nationalinsurance.nic.co.in/en/health-insurance/city-wise-list-ppn-hospitals" target="_blank">
+           PPN Hospitals
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="hospitals">
+        <a>
+        </a>
+        <ul>
+         <li>
+          <a href="https://nationalinsurance.nic.co.in/en/list-cashless-garages" target="_blank">
+           Cashless Garages
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="help">
+        <a>
+         Help
+        </a>
+        <ul>
+         <li>
+          <a href="https://nationalinsurance.nic.co.in/en/grievance">
+           Grievance ?
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="enquiry">
+        <a>
+         Know Your Products
+        </a>
+        <ul>
+         <li>
+          <a href="https://nationalinsurance.nic.co.in/en/about-us/know-your-products">
+           Know Your Products
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="location">
+        <a>
+         Location
+        </a>
+        <ul>
+         <li>
+          <a href="https://nationalinsurance.nic.co.in/en/ouroffices?field_state_tid=1181">
+           Office Location
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="claim">
+        <a>
+         Track claim status
+        </a>
+        <ul>
+         <li>
+          <a href="https://nicportal.nic.co.in/nicportal/online/trackclaim" target="_BLANK" title="External site that opens in a new window">
+           Track claim status
+          </a>
+         </li>
+        </ul>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+  </div>
+  <!--====== RIGHT SIDE MENU ======-->
+  <div class="main-menu">
+   <div class="clearfix">
+    <span class="closeMenuBtn">
+     <span>
+      close
+     </span>
+     <i aria-hidden="true" class="lnr lnr-cross">
+     </i>
+    </span>
+   </div>
+   <div class="top-block clearfix">
+    <div class="menu-col">
+     <div class="region region-right-sidebar-block">
+      <div class="block block-block" id="block-block-8">
+       <h2>
+       </h2>
+       <ul>
+        <li>
+         <a href="https://nationalinsurance.nic.co.in/en/contacts-us" target="_blank">
+          Contact Us
+         </a>
+        </li>
+        <li>
+         <a href="https://nationalinsurance.nic.co.in/en/about-us/latest-news">
+          Latest News
+         </a>
+        </li>
+        <li>
+         <a href="https://nationalinsurance.nic.co.in/en/how-take-policy">
+          How to take a Policy?
+         </a>
+        </li>
+        <li>
+         <a href="https://nationalinsurance.nic.co.in/en/how-lodge-claim">
+          How to Lodge a Claim?
+         </a>
+        </li>
+        <li>
+         <a href="https://nationalinsuranceindia.nic.co.in/portal/page/portal/Corporate/Home/ClaimsDetailsFromEbao" target="_BLANK" title="External site that opens in a new window">
+          Track claim Status
+         </a>
+        </li>
+        <li class="e-gov">
+         <a href="https://nironline.ndml.in/NIR/onlineEiaApplicationFormEkyc.html" target="_BLANK" title="External site that opens in a new window">
+          e-INSURANCE
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="menu-col">
+     <div class="region region-main-menu-content">
+      <div class="block block-system block-menu" id="block-system-main-menu">
+       <h2>
+       </h2>
+       <ul class="menu">
+        <li class="first expanded">
+         <span class="nolink">
+          About Us
+         </span>
+         <ul class="menu">
+          <li class="first expanded">
+           <span class="nolink">
+            OVERVIEW
+           </span>
+           <ul class="menu">
+            <li class="first leaf">
+             <a href="/en/about-us/awards">
+              Awards
+             </a>
+            </li>
+            <li class="leaf">
+             <a href="/en/about-us/achievements">
+              Achievements
+             </a>
+            </li>
+            <li class="last leaf">
+             <a href="/en/about-us/corporate-social-responsibility">
+              Corporate Social Responsibility
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="expanded">
+           <span class="nolink">
+            PROFILE
+           </span>
+           <ul class="menu">
+            <li class="first leaf">
+             <a href="/en/about-us/company-profile">
+              Company Profile
+             </a>
+            </li>
+            <li class="leaf">
+             <a href="/en/ouroffices">
+              Our Offices
+             </a>
+            </li>
+            <li class="leaf">
+             <a href="https://nationalinsurance.nic.co.in/sites/default/files/Code.pdf" target="_BLANK" title="The pdf file Open in new window">
+              Code of Conduct
+             </a>
+            </li>
+            <li class="leaf">
+             <a href="/en/about-us/citizen-charter">
+              Citizen's Charter
+             </a>
+            </li>
+            <li class="last leaf">
+             <a href="https://nationalinsurance.nic.co.in/sites/default/files/Revised%20Whistle%20Blower%20Policy%20June%202022.pdf" target="_BLANK" title="The pdf file Open in new window">
+              Whistle Blower Policy
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="expanded">
+           <span class="nolink">
+            MANAGEMENT
+           </span>
+           <ul class="menu">
+            <li class="first expanded">
+             <a href="/en/about-us/board-of-directors">
+              Board Of Directors
+             </a>
+             <ul class="menu">
+              <li class="first last leaf">
+               <a href="/en/board-committees">
+                BOARD COMMITTEES
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li class="leaf">
+             <a href="/en/about-us/corporate-management">
+              Corporate Management
+             </a>
+            </li>
+            <li class="leaf">
+             <a href="/en/about-us/key-persons">
+              Key Persons
+             </a>
+            </li>
+            <li class="leaf">
+             <a href="/en/about-us/top-executives">
+              Top Executives
+             </a>
+            </li>
+            <li class="last leaf">
+             <a href="/en/independent-external-monitors-iems">
+              Independent External Monitors (IEMs)
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="expanded">
+           <span class="nolink">
+            Public Disclosures
+           </span>
+           <ul class="menu">
+            <li class="first leaf">
+             <a href="/en/about-us/public-disclosures">
+              Non- life Disclosure Forms
+             </a>
+            </li>
+            <li class="leaf">
+             <a href="/en/about-us/stewardship-policy">
+              Stewardship Policy
+             </a>
+            </li>
+            <li class="leaf">
+             <a href="/en/about-us/annual-general-meeting">
+              AGM/EGM
+             </a>
+            </li>
+            <li class="leaf">
+             <a href="/en/about-us/annualreports">
+              Annual Report
+             </a>
+            </li>
+            <li class="leaf">
+             <a href="/en/about-us/annualreturn">
+              Annual Return (MGT-7)
+             </a>
+            </li>
+            <li class="leaf">
+             <a href="/en/about-us/disclosures">
+              Disclosure under SEBI Regulations
+             </a>
+            </li>
+            <li class="leaf">
+             <a href="https://nationalinsurance.nic.co.in/en/disclosure-under-irda-health-regulations">
+              Disclosure under IRDA Health Regulations
+             </a>
+            </li>
+            <li class="last leaf">
+             <a href="/en/about-us/reservation-rosters">
+              Reservation Rosters
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="last expanded">
+           <span class="nolink">
+            OTHERS
+           </span>
+           <ul class="menu">
+            <li class="first leaf">
+             <a href="/en/about-us/financial-inclusion">
+              Financial Inclusion
+             </a>
+            </li>
+            <li class="leaf">
+             <a href="/en/about-us/latest-news">
+              Latest News
+             </a>
+            </li>
+            <li class="leaf">
+             <a href="/en/about-us/bulletin-board">
+              Bulletin Board
+             </a>
+            </li>
+            <li class="leaf">
+             <a href="/en/about-us/press-releases">
+              Press Releases
+             </a>
+            </li>
+            <li class="last leaf">
+             <a href="/en/familiarization-program">
+              FAMILIARIZATION PROGRAMME-NICL
+             </a>
+            </li>
+           </ul>
+          </li>
+         </ul>
+        </li>
+        <li class="expanded active-trail">
+         <span class="active-trail nolink">
+          Products
+         </span>
+         <ul class="menu">
+          <li class="first expanded">
+           <span class="nolink">
+            Motor
+           </span>
+           <ul class="menu">
+            <li class="first leaf">
+             <a href="https://nationalinsurance.nic.co.in/en/motor-insurance">
+              Know More
+             </a>
+            </li>
+            <li class="leaf">
+             <a href="https://nationalinsurance.nic.co.in/en/product/motor-insurance">
+              Get Quote/Buy Policy
+             </a>
+            </li>
+            <li class="last leaf">
+             <a href="https://nicportal.nic.co.in/nicportal/online/home" target="_BLANK" title="External site that opens in a new window">
+              Renew Policy
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="expanded">
+           <span class="nolink">
+            Health
+           </span>
+           <ul class="menu">
+            <li class="first leaf">
+             <a href="https://nationalinsurance.nic.co.in/en/health-insurance">
+              Know More
+             </a>
+            </li>
+            <li class="leaf">
+             <a href="https://nationalinsurance.nic.co.in/en/product/health-insurance">
+              Get Quote/Buy Policy
+             </a>
+            </li>
+            <li class="last leaf">
+             <a href="https://nicportal.nic.co.in/nicportal/online/home" target="_BLANK" title="External site that opens in a new window">
+              Renew Policy
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="expanded">
+           <span class="nolink">
+            Miscellaneous
+           </span>
+           <ul class="menu">
+            <li class="first leaf">
+             <a href="https://nationalinsurance.nic.co.in/en/miscellaneous-insurance">
+              Know More
+             </a>
+            </li>
+            <li class="leaf">
+             <a href="https://nationalinsurance.nic.co.in/en/product/others-insurance">
+              Get Quote/Buy Policy
+             </a>
+            </li>
+            <li class="last leaf">
+             <a href="https://nicportal.nic.co.in/nicportal/online/home" target="_BLANK" title="External site that opens in a new window">
+              Renew Policy
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="expanded">
+           <span class="nolink">
+            Fire
+           </span>
+           <ul class="menu">
+            <li class="first leaf">
+             <a href="https://nationalinsurance.nic.co.in/en/fire">
+              Know More
+             </a>
+            </li>
+            <li class="leaf">
+             <a href="https://nicportal.nic.co.in/nicportal/home/#msmepp" target="_BLANK" title="External site that opens in a new window">
+              Get Quote/Buy Policy
+             </a>
+            </li>
+            <li class="last leaf">
+             <a href="https://nicportal.nic.co.in/nicportal/online/home" target="_BLANK" title="External site that opens in a new window">
+              Renew Policy
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="leaf">
+           <a href="/en/marine">
+            Marine
+           </a>
+          </li>
+          <li class="leaf">
+           <a href="/en/engineering">
+            Engineering
+           </a>
+          </li>
+          <li class="leaf">
+           <a href="/en/rural-insurance">
+            Rural
+           </a>
+          </li>
+          <li class="leaf">
+           <a href="/en/about-us/pradhan-mantri-suraksha-bima-yojana">
+            PMSBY
+           </a>
+          </li>
+          <li class="leaf active-trail">
+           <a class="active-trail active" href="/en/pradhan-mantri-fasal-bima-yojana-pmfby">
+            PMFBY
+           </a>
+          </li>
+          <li class="leaf">
+           <a href="/en/List-of-Products-Withdrawn">
+            WITHDRAWN PRODUCTS
+           </a>
+          </li>
+          <li class="last leaf">
+           <a href="/en/about-us/know-your-products">
+            Know Your Product
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="collapsed new">
+         <a href="https://nicportal.nic.co.in/nicportal/online/home" target="_BLANK" title="External site that opens in a new window">
+          Quick Renewal
+         </a>
+        </li>
+        <li class="expanded">
+         <span class="nolink">
+          Customer Login
+         </span>
+         <ul class="menu">
+          <li class="first leaf">
+           <a href="https://nicportal.nic.co.in/nicportal/signin/login" target="_BLANK" title="External site that opens in a new window">
+            Login
+           </a>
+          </li>
+          <li class="last leaf">
+           <a href="https://nicportal.nic.co.in/nicportal/online/updatecontactdetails" target="_BLANK" title="External site that opens in a new window">
+            Update Contact Details
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="expanded">
+         <span class="nolink">
+          Intermediary Login
+         </span>
+         <ul class="menu">
+          <li class="first leaf">
+           <a href="https://nicportal.nic.co.in/nicportal/signin/login" target="_BLANK" title="External site that opens in a new window">
+            Agent
+           </a>
+          </li>
+          <li class="leaf">
+           <a href="https://nicportal.nic.co.in/nicportal/signin/login" target="_BLANK" title="External site that opens in a new window">
+            Broker
+           </a>
+          </li>
+          <li class="leaf">
+           <a href="https://nicportal.nic.co.in/nicportal/signin/login" target="_BLANK" title="External site that opens in a new window">
+            POS
+           </a>
+          </li>
+          <li class="leaf">
+           <a href="https://nicportal.nic.co.in/nicportal/signin/login" target="_BLANK" title="External site that opens in a new window">
+            IMF
+           </a>
+          </li>
+          <li class="leaf">
+           <a href="https://nicportal.nic.co.in/nicportal/signin/login" target="_BLANK" title="External site that opens in a new window">
+            MISP
+           </a>
+          </li>
+          <li class="leaf">
+           <a href="https://nicportal.nic.co.in/nicportal/signin/login" target="_BLANK" title="External site that opens in a new window">
+            Business Associate
+           </a>
+          </li>
+          <li class="leaf">
+           <a href="https://nicportal.nic.co.in/nicportal/signin/login" target="_BLANK" title="External site that opens in a new window">
+            Bancassurance
+           </a>
+          </li>
+          <li class="leaf">
+           <a href="https://nicportal.nic.co.in/tpaportal/" target="_BLANK" title="External site that opens in a new window">
+            TPA
+           </a>
+          </li>
+          <li class="last leaf">
+           <a href="https://nicportal.nic.co.in/nicsurveyorportal/" target="_BLANK" title="External site that opens in a new window">
+            Surveyor
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="last leaf">
+         <a href="/en/surveyor-management-policy-0">
+          SMP
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="botm-block clearfix">
+    <div class="box">
+    </div>
+   </div>
+  </div>
+  <section class="inner-header-banner">
+   <div class="inner-banner" id="inner-banner">
+    <div class="img" style="background:url('https://nationalinsurance.nic.co.in/sites/all/themes/nicl/images/inner-banner-pic.jpg') no-repeat center top; background-size:100% auto; background-attachment:fixed">
+    </div>
+   </div>
+   <div class="wrapper common-wrapper" id="header_block">
+    <div class="common-wrapper-content">
+     <div class="container" style="width:99%;">
+      <div class="row">
+       <div class="common-left">
+        <span class="callus">
+         A dedicated help line number for queries pertaining to COVID-19
+         <i aria-hidden="true" class="fa fa-map-marker" title="Contact Us">
+         </i>
+         <a href="https://nationalinsurance.nic.co.in/en/contacts-us" style="color:#d3d3d3;cursor:pointer;" title="Contact Us">
+          Contact Us
+         </a>
+        </span>
+       </div>
+       <div class="common-left">
+        <span class="callus">
+         <a href="https://nationalinsurance.nic.co.in/en/connect-with-us" style="color:#d3d3d3;cursor:pointer;" title="customer.support@nic.co.in">
+          <i class="fa fa-envelope">
+          </i>
+         </a>
+        </span>
+       </div>
+       <div class="common-left">
+        <span class="callus">
+         <i class="ico-ph lnr lnr-phone-handset">
+         </i>
+         <span class="call-no">
+          <a href="#" style="color:#d3d3d3;cursor:pointer;" title="Unresolved Grievances Bothering You? To report frauds please write to faf@nic.co.in">
+           1800-345-0330
+          </a>
+         </span>
+        </span>
+       </div>
+       <div class="common-right clearfix">
+        <ul class="header-nav">
+         <div class="region region-header-top">
+          <div class="block block-block" id="block-block-1">
+           <h2>
+           </h2>
+           <li class="ico-home">
+            <a href="https://nationalinsurance.nic.co.in" target="_BLANK" title="The in file Open in new window">
+            </a>
+           </li>
+           <!-- <li class=""><a href="https://nationalinsurance.nic.co.in/en/recruitments">Recruitment</a></li> -->
+           <li class="">
+            <a href="https://nationalinsurance.nic.co.in/en/grievance">
+             Grievance
+            </a>
+           </li>
+           <li class="">
+            <a href="https://nationalinsurance.nic.co.in/en/notification">
+             Notification
+            </a>
+           </li>
+           <li class="">
+            <a href="https://nationalinsurance.nic.co.in/en/tenders">
+             Tenders
+            </a>
+           </li>
+           <li class="">
+            <a href="https://nationalinsurance.nic.co.in/en/other-links">
+             Links
+            </a>
+           </li>
+           <li class="">
+            <a href="https://nationalinsurance.nic.co.in/en/right-to-information">
+             RTI
+            </a>
+           </li>
+           <li class="ico-skip">
+            <a href="javascript:void(0)" id="skip2" name="skipCont" target="_BLANK" title="External site that opens in a new window">
+             Skip to main content
+            </a>
+           </li>
+           <li class="ico-functions">
+            <a href="javascript:void(0)" target="_BLANK" title="External site that opens in a new window">
+             Functions
+            </a>
+            <ul class="social-wdgt">
+             <li class="fb">
+              <a href="https://www.facebook.com/nationalinsuranceindia" target="_BLANK" title="External site that opens in a new window">
+              </a>
+             </li>
+             <li class="twt">
+              <a href="https://twitter.com/niclofficial" target="_BLANK" title="External site that opens in a new window">
+              </a>
+             </li>
+             <li class="utube">
+              <a href="https://www.youtube.com/channel/UClKFySN35XeILBnYrxCPGCg" target="_BLANK" title="External site that opens in a new window">
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li class="ico-sitemap">
+            <a href="https://nationalinsurance.nic.co.in/en/site-map">
+             Site Map
+            </a>
+           </li>
+          </div>
+         </div>
+         <li class="ico-accessibility">
+          <span>
+           <a href="javascript:void(0);" onclick="set_font_size('decrease')" title="Decrease font size">
+            A
+            <sup>
+             -
+            </sup>
+           </a>
+          </span>
+          <span>
+           <a href="javascript:void(0);" onclick="set_font_size('')" title="Reset font size">
+            A
+            <sup>
+            </sup>
+           </a>
+          </span>
+          <span>
+           <a href="javascript:void(0);" onclick="set_font_size('increase')" title="Increase font size">
+            A
+            <sup>
+             +
+            </sup>
+           </a>
+          </span>
+          <span>
+           <a class="high-contrast dark" href="javascript:void(0);" title="High Contrast">
+            A
+           </a>
+          </span>
+          <span>
+           <a class="high-contrast light" href="javascript:void(0);" title="Normal Contrast">
+            A
+           </a>
+          </span>
+         </li>
+         <div class="region region-language-switcher-block">
+          <div class="block block-locale" id="block-locale-language">
+           <h2>
+           </h2>
+           <ul class="language-switcher-locale-url">
+            <li class="en first active">
+             <a class="language-link active" href="/en/pradhan-mantri-fasal-bima-yojana-pmfby" title="Pradhan Mantri Fasal Bima Yojana (PMFBY)" xml:lang="en">
+              English
+             </a>
+            </li>
+            <li class="hi last">
+             <a class="language-link" href="/hi/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A7%E0%A4%BE%E0%A4%A8%E0%A4%AE%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%80-%E0%A4%AB%E0%A4%B8%E0%A4%B2-%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE-%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE-%E0%A4%AA%E0%A5%80%E0%A4%8F%E0%A4%AE%E0%A4%8F%E0%A4%AB%E0%A4%AC%E0%A5%80%E0%A4%B5%E0%A4%BE%E0%A4%88" title="प्रधानमंत्री फसल बीमा योजना (पीएमएफबीवाई)" xml:lang="hi">
+              हिन्दी
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+         <li class="digilocker_icon">
+          <a href="https://accounts.digitallocker.gov.in/signin" target="_blank">
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="inner-main-header">
+    <div class="container" style="width: 93%;">
+     <div class="row">
+      <header class="main-header clearfix">
+       <div class="header-left pull-left">
+        <span class="logonew" style="float:left;">
+         <img alt="Logo" src="https://nationalinsurance.nic.co.in/sites/all/themes/nicl/images/Englishlogonew.jpg"/>
+        </span>
+        <span class="logonew" style="float:left; padding-left: 20px;">
+         <a href="https://www.g20.org/en/">
+          <img alt="Logo" src="https://nationalinsurance.nic.co.in/sites/all/themes/nicl/images/G20.jpg"/>
+         </a>
+        </span>
+        <span class="logo" style="float: right;padding-left: 20px;margin-top: 0px;">
+         <a href="https://nationalinsurance.nic.co.in/en/">
+          <img alt="Logo" src="https://nationalinsurance.nic.co.in/sites/all/themes/nicl/images/site-logo.jpg"/>
+         </a>
+        </span>
+       </div>
+       <div class="header-right pull-right">
+        <div class="inline-elements">
+         <nav>
+          <div class="region region-main-menu-content">
+           <div class="region region-main-menu-content">
+            <div class="block block-system block-menu" id="block-system-main-menu">
+             <h2>
+             </h2>
+             <ul class="menu">
+              <li class="first expanded">
+               <span class="nolink">
+                About Us
+               </span>
+               <ul class="menu">
+                <li class="first expanded">
+                 <span class="nolink">
+                  OVERVIEW
+                 </span>
+                 <ul class="menu">
+                  <li class="first leaf">
+                   <a href="/en/about-us/awards">
+                    Awards
+                   </a>
+                  </li>
+                  <li class="leaf">
+                   <a href="/en/about-us/achievements">
+                    Achievements
+                   </a>
+                  </li>
+                  <li class="last leaf">
+                   <a href="/en/about-us/corporate-social-responsibility">
+                    Corporate Social Responsibility
+                   </a>
+                  </li>
+                 </ul>
+                </li>
+                <li class="expanded">
+                 <span class="nolink">
+                  PROFILE
+                 </span>
+                 <ul class="menu">
+                  <li class="first leaf">
+                   <a href="/en/about-us/company-profile">
+                    Company Profile
+                   </a>
+                  </li>
+                  <li class="leaf">
+                   <a href="/en/ouroffices">
+                    Our Offices
+                   </a>
+                  </li>
+                  <li class="leaf">
+                   <a href="https://nationalinsurance.nic.co.in/sites/default/files/Code.pdf" target="_BLANK" title="The pdf file Open in new window">
+                    Code of Conduct
+                   </a>
+                  </li>
+                  <li class="leaf">
+                   <a href="/en/about-us/citizen-charter">
+                    Citizen's Charter
+                   </a>
+                  </li>
+                  <li class="last leaf">
+                   <a href="https://nationalinsurance.nic.co.in/sites/default/files/Revised%20Whistle%20Blower%20Policy%20June%202022.pdf" target="_BLANK" title="The pdf file Open in new window">
+                    Whistle Blower Policy
+                   </a>
+                  </li>
+                 </ul>
+                </li>
+                <li class="expanded">
+                 <span class="nolink">
+                  MANAGEMENT
+                 </span>
+                 <ul class="menu">
+                  <li class="first expanded">
+                   <a href="/en/about-us/board-of-directors">
+                    Board Of Directors
+                   </a>
+                   <ul class="menu">
+                    <li class="first last leaf">
+                     <a href="/en/board-committees">
+                      BOARD COMMITTEES
+                     </a>
+                    </li>
+                   </ul>
+                  </li>
+                  <li class="leaf">
+                   <a href="/en/about-us/corporate-management">
+                    Corporate Management
+                   </a>
+                  </li>
+                  <li class="leaf">
+                   <a href="/en/about-us/key-persons">
+                    Key Persons
+                   </a>
+                  </li>
+                  <li class="leaf">
+                   <a href="/en/about-us/top-executives">
+                    Top Executives
+                   </a>
+                  </li>
+                  <li class="last leaf">
+                   <a href="/en/independent-external-monitors-iems">
+                    Independent External Monitors (IEMs)
+                   </a>
+                  </li>
+                 </ul>
+                </li>
+                <li class="expanded">
+                 <span class="nolink">
+                  Public Disclosures
+                 </span>
+                 <ul class="menu">
+                  <li class="first leaf">
+                   <a href="/en/about-us/public-disclosures">
+                    Non- life Disclosure Forms
+                   </a>
+                  </li>
+                  <li class="leaf">
+                   <a href="/en/about-us/stewardship-policy">
+                    Stewardship Policy
+                   </a>
+                  </li>
+                  <li class="leaf">
+                   <a href="/en/about-us/annual-general-meeting">
+                    AGM/EGM
+                   </a>
+                  </li>
+                  <li class="leaf">
+                   <a href="/en/about-us/annualreports">
+                    Annual Report
+                   </a>
+                  </li>
+                  <li class="leaf">
+                   <a href="/en/about-us/annualreturn">
+                    Annual Return (MGT-7)
+                   </a>
+                  </li>
+                  <li class="leaf">
+                   <a href="/en/about-us/disclosures">
+                    Disclosure under SEBI Regulations
+                   </a>
+                  </li>
+                  <li class="leaf">
+                   <a href="https://nationalinsurance.nic.co.in/en/disclosure-under-irda-health-regulations">
+                    Disclosure under IRDA Health Regulations
+                   </a>
+                  </li>
+                  <li class="last leaf">
+                   <a href="/en/about-us/reservation-rosters">
+                    Reservation Rosters
+                   </a>
+                  </li>
+                 </ul>
+                </li>
+                <li class="last expanded">
+                 <span class="nolink">
+                  OTHERS
+                 </span>
+                 <ul class="menu">
+                  <li class="first leaf">
+                   <a href="/en/about-us/financial-inclusion">
+                    Financial Inclusion
+                   </a>
+                  </li>
+                  <li class="leaf">
+                   <a href="/en/about-us/latest-news">
+                    Latest News
+                   </a>
+                  </li>
+                  <li class="leaf">
+                   <a href="/en/about-us/bulletin-board">
+                    Bulletin Board
+                   </a>
+                  </li>
+                  <li class="leaf">
+                   <a href="/en/about-us/press-releases">
+                    Press Releases
+                   </a>
+                  </li>
+                  <li class="last leaf">
+                   <a href="/en/familiarization-program">
+                    FAMILIARIZATION PROGRAMME-NICL
+                   </a>
+                  </li>
+                 </ul>
+                </li>
+               </ul>
+              </li>
+              <li class="expanded active-trail">
+               <span class="active-trail nolink">
+                Products
+               </span>
+               <ul class="menu">
+                <li class="first expanded">
+                 <span class="nolink">
+                  Motor
+                 </span>
+                 <ul class="menu">
+                  <li class="first leaf">
+                   <a href="https://nationalinsurance.nic.co.in/en/motor-insurance">
+                    Know More
+                   </a>
+                  </li>
+                  <li class="leaf">
+                   <a href="https://nationalinsurance.nic.co.in/en/product/motor-insurance">
+                    Get Quote/Buy Policy
+                   </a>
+                  </li>
+                  <li class="last leaf">
+                   <a href="https://nicportal.nic.co.in/nicportal/online/home" target="_BLANK" title="External site that opens in a new window">
+                    Renew Policy
+                   </a>
+                  </li>
+                 </ul>
+                </li>
+                <li class="expanded">
+                 <span class="nolink">
+                  Health
+                 </span>
+                 <ul class="menu">
+                  <li class="first leaf">
+                   <a href="https://nationalinsurance.nic.co.in/en/health-insurance">
+                    Know More
+                   </a>
+                  </li>
+                  <li class="leaf">
+                   <a href="https://nationalinsurance.nic.co.in/en/product/health-insurance">
+                    Get Quote/Buy Policy
+                   </a>
+                  </li>
+                  <li class="last leaf">
+                   <a href="https://nicportal.nic.co.in/nicportal/online/home" target="_BLANK" title="External site that opens in a new window">
+                    Renew Policy
+                   </a>
+                  </li>
+                 </ul>
+                </li>
+                <li class="expanded">
+                 <span class="nolink">
+                  Miscellaneous
+                 </span>
+                 <ul class="menu">
+                  <li class="first leaf">
+                   <a href="https://nationalinsurance.nic.co.in/en/miscellaneous-insurance">
+                    Know More
+                   </a>
+                  </li>
+                  <li class="leaf">
+                   <a href="https://nationalinsurance.nic.co.in/en/product/others-insurance">
+                    Get Quote/Buy Policy
+                   </a>
+                  </li>
+                  <li class="last leaf">
+                   <a href="https://nicportal.nic.co.in/nicportal/online/home" target="_BLANK" title="External site that opens in a new window">
+                    Renew Policy
+                   </a>
+                  </li>
+                 </ul>
+                </li>
+                <li class="expanded">
+                 <span class="nolink">
+                  Fire
+                 </span>
+                 <ul class="menu">
+                  <li class="first leaf">
+                   <a href="https://nationalinsurance.nic.co.in/en/fire">
+                    Know More
+                   </a>
+                  </li>
+                  <li class="leaf">
+                   <a href="https://nicportal.nic.co.in/nicportal/home/#msmepp" target="_BLANK" title="External site that opens in a new window">
+                    Get Quote/Buy Policy
+                   </a>
+                  </li>
+                  <li class="last leaf">
+                   <a href="https://nicportal.nic.co.in/nicportal/online/home" target="_BLANK" title="External site that opens in a new window">
+                    Renew Policy
+                   </a>
+                  </li>
+                 </ul>
+                </li>
+                <li class="leaf">
+                 <a href="/en/marine">
+                  Marine
+                 </a>
+                </li>
+                <li class="leaf">
+                 <a href="/en/engineering">
+                  Engineering
+                 </a>
+                </li>
+                <li class="leaf">
+                 <a href="/en/rural-insurance">
+                  Rural
+                 </a>
+                </li>
+                <li class="leaf">
+                 <a href="/en/about-us/pradhan-mantri-suraksha-bima-yojana">
+                  PMSBY
+                 </a>
+                </li>
+                <li class="leaf active-trail">
+                 <a class="active-trail active" href="/en/pradhan-mantri-fasal-bima-yojana-pmfby">
+                  PMFBY
+                 </a>
+                </li>
+                <li class="leaf">
+                 <a href="/en/List-of-Products-Withdrawn">
+                  WITHDRAWN PRODUCTS
+                 </a>
+                </li>
+                <li class="last leaf">
+                 <a href="/en/about-us/know-your-products">
+                  Know Your Product
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li class="collapsed new">
+               <a href="https://nicportal.nic.co.in/nicportal/online/home" target="_BLANK" title="External site that opens in a new window">
+                Quick Renewal
+               </a>
+              </li>
+              <li class="expanded">
+               <span class="nolink">
+                Customer Login
+               </span>
+               <ul class="menu">
+                <li class="first leaf">
+                 <a href="https://nicportal.nic.co.in/nicportal/signin/login" target="_BLANK" title="External site that opens in a new window">
+                  Login
+                 </a>
+                </li>
+                <li class="last leaf">
+                 <a href="https://nicportal.nic.co.in/nicportal/online/updatecontactdetails" target="_BLANK" title="External site that opens in a new window">
+                  Update Contact Details
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li class="expanded">
+               <span class="nolink">
+                Intermediary Login
+               </span>
+               <ul class="menu">
+                <li class="first leaf">
+                 <a href="https://nicportal.nic.co.in/nicportal/signin/login" target="_BLANK" title="External site that opens in a new window">
+                  Agent
+                 </a>
+                </li>
+                <li class="leaf">
+                 <a href="https://nicportal.nic.co.in/nicportal/signin/login" target="_BLANK" title="External site that opens in a new window">
+                  Broker
+                 </a>
+                </li>
+                <li class="leaf">
+                 <a href="https://nicportal.nic.co.in/nicportal/signin/login" target="_BLANK" title="External site that opens in a new window">
+                  POS
+                 </a>
+                </li>
+                <li class="leaf">
+                 <a href="https://nicportal.nic.co.in/nicportal/signin/login" target="_BLANK" title="External site that opens in a new window">
+                  IMF
+                 </a>
+                </li>
+                <li class="leaf">
+                 <a href="https://nicportal.nic.co.in/nicportal/signin/login" target="_BLANK" title="External site that opens in a new window">
+                  MISP
+                 </a>
+                </li>
+                <li class="leaf">
+                 <a href="https://nicportal.nic.co.in/nicportal/signin/login" target="_BLANK" title="External site that opens in a new window">
+                  Business Associate
+                 </a>
+                </li>
+                <li class="leaf">
+                 <a href="https://nicportal.nic.co.in/nicportal/signin/login" target="_BLANK" title="External site that opens in a new window">
+                  Bancassurance
+                 </a>
+                </li>
+                <li class="leaf">
+                 <a href="https://nicportal.nic.co.in/tpaportal/" target="_BLANK" title="External site that opens in a new window">
+                  TPA
+                 </a>
+                </li>
+                <li class="last leaf">
+                 <a href="https://nicportal.nic.co.in/nicsurveyorportal/" target="_BLANK" title="External site that opens in a new window">
+                  Surveyor
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li class="last leaf">
+               <a href="/en/surveyor-management-policy-0">
+                SMP
+               </a>
+              </li>
+             </ul>
+            </div>
+           </div>
+          </div>
+         </nav>
+        </div>
+        <div class="inline-elements">
+        </div>
+        <div class="inline-elements">
+         <div class="top-search">
+          <span class="search-dropBtn">
+           <img alt="Search" class="open-search" src="https://nationalinsurance.nic.co.in/sites/all/themes/nicl/images/search-icon-white.png"/>
+           <img alt="Search" class="close-search" src="https://nationalinsurance.nic.co.in/sites/all/themes/nicl/images/icon-cross.png"/>
+          </span>
+          <div class="search-form">
+           <!--<form>
+                                        <input type="text" name="" value="" class="form-control"/>
+                                        <input type="submit" name="" value="" class="form-submit"/>
+                                    </form>-->
+           <div class="region region-search-block">
+            <div class="block block-search" id="block-search-form">
+             <h2>
+             </h2>
+             <form accept-charset="UTF-8" action="/en/pradhan-mantri-fasal-bima-yojana-pmfby" id="search-block-form" method="post">
+              <div>
+               <div class="container-inline">
+                <h2 class="element-invisible">
+                 Search form
+                </h2>
+                <div class="form-item form-type-textfield form-item-search-block-form">
+                 <label class="element-invisible" for="edit-search-block-form--2">
+                  Search
+                 </label>
+                 <input class="form-text" id="edit-search-block-form--2" maxlength="128" name="search_block_form" size="15" title="Enter the terms you wish to search for." type="text" value=""/>
+                </div>
+                <div class="form-actions form-wrapper" id="edit-actions--2">
+                 <input class="form-submit" id="edit-submit--2" name="op" type="submit" value="Search"/>
+                </div>
+                <input name="form_build_id" type="hidden" value="form-UInurmiv6UhmpHnj_9gjXKLSOnFV6NIlB8a0VEw6xAY"/>
+                <input name="form_id" type="hidden" value="search_block_form"/>
+               </div>
+              </div>
+             </form>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="inline-elements">
+         <span class="moreMenuBtn">
+          <span>
+           More
+          </span>
+          <span class="bar">
+           <em>
+           </em>
+           <em>
+           </em>
+           <em>
+           </em>
+          </span>
+         </span>
+        </div>
+       </div>
+      </header>
+      <div class="inner-page-heading">
+       <!--<h1></h1>-->
+      </div>
+     </div>
+    </div>
+   </div>
+  </section>
+  <section class="breadcramb">
+   <div class="container">
+    <div class="row">
+     <div class="region region-highlighted">
+      <div class="block block-easy-breadcrumb" id="block-easy-breadcrumb-easy-breadcrumb">
+       <h2>
+       </h2>
+       <ul>
+        <li>
+         <span itemprop="title">
+          <a class="easy-breadcrumb_segment easy-breadcrumb_segment-front" href="/en">
+           Home
+          </a>
+         </span>
+        </li>
+        <li>
+         <span class="easy-breadcrumb_segment easy-breadcrumb_segment-title" itemprop="title">
+          Pradhan Mantri Fasal Bima Yojana (PMFBY)
+         </span>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+   </div>
+  </section>
+  <section class="body-wrapper" id="skipCont">
+   <div class="inner-wrapper">
+    <div class="container">
+     <div class="row">
+      <div class="aside aside-left">
+       <div class="row sidebar">
+        <div class="unordr-list">
+         <div class="region region-left-sidebar-block">
+          <div class="block block-menu-block" id="block-menu-block-2">
+           <h2>
+           </h2>
+           <div class="menu-block-wrapper menu-block-2 menu-name-main-menu parent-mlid-0 menu-level-2">
+            <ul class="menu">
+             <li class="first expanded menu-mlid-962">
+              <span class="nolink">
+               Motor
+              </span>
+              <ul class="menu">
+               <li class="first leaf menu-mlid-1310">
+                <a href="https://nationalinsurance.nic.co.in/en/motor-insurance">
+                 Know More
+                </a>
+               </li>
+               <li class="leaf menu-mlid-1311">
+                <a href="https://nationalinsurance.nic.co.in/en/product/motor-insurance">
+                 Get Quote/Buy Policy
+                </a>
+               </li>
+               <li class="last leaf menu-mlid-1312">
+                <a href="https://nicportal.nic.co.in/nicportal/online/home" target="_BLANK" title="External site that opens in a new window">
+                 Renew Policy
+                </a>
+               </li>
+              </ul>
+             </li>
+             <li class="expanded menu-mlid-636">
+              <span class="nolink">
+               Health
+              </span>
+              <ul class="menu">
+               <li class="first leaf menu-mlid-1313">
+                <a href="https://nationalinsurance.nic.co.in/en/health-insurance">
+                 Know More
+                </a>
+               </li>
+               <li class="leaf menu-mlid-1314">
+                <a href="https://nationalinsurance.nic.co.in/en/product/health-insurance">
+                 Get Quote/Buy Policy
+                </a>
+               </li>
+               <li class="last leaf menu-mlid-1315">
+                <a href="https://nicportal.nic.co.in/nicportal/online/home" target="_BLANK" title="External site that opens in a new window">
+                 Renew Policy
+                </a>
+               </li>
+              </ul>
+             </li>
+             <li class="expanded menu-mlid-965">
+              <span class="nolink">
+               Miscellaneous
+              </span>
+              <ul class="menu">
+               <li class="first leaf menu-mlid-1499">
+                <a href="https://nationalinsurance.nic.co.in/en/miscellaneous-insurance">
+                 Know More
+                </a>
+               </li>
+               <li class="leaf menu-mlid-1500">
+                <a href="https://nationalinsurance.nic.co.in/en/product/others-insurance">
+                 Get Quote/Buy Policy
+                </a>
+               </li>
+               <li class="last leaf menu-mlid-1501">
+                <a href="https://nicportal.nic.co.in/nicportal/online/home" target="_BLANK" title="External site that opens in a new window">
+                 Renew Policy
+                </a>
+               </li>
+              </ul>
+             </li>
+             <li class="expanded menu-mlid-969">
+              <span class="nolink">
+               Fire
+              </span>
+              <ul class="menu">
+               <li class="first leaf menu-mlid-1332">
+                <a href="https://nationalinsurance.nic.co.in/en/fire">
+                 Know More
+                </a>
+               </li>
+               <li class="leaf menu-mlid-1333">
+                <a href="https://nicportal.nic.co.in/nicportal/home/#msmepp" target="_BLANK" title="External site that opens in a new window">
+                 Get Quote/Buy Policy
+                </a>
+               </li>
+               <li class="last leaf menu-mlid-1334">
+                <a href="https://nicportal.nic.co.in/nicportal/online/home" target="_BLANK" title="External site that opens in a new window">
+                 Renew Policy
+                </a>
+               </li>
+              </ul>
+             </li>
+             <li class="leaf menu-mlid-971">
+              <a href="/en/marine">
+               Marine
+              </a>
+             </li>
+             <li class="leaf menu-mlid-1226">
+              <a href="/en/engineering">
+               Engineering
+              </a>
+             </li>
+             <li class="leaf menu-mlid-967">
+              <a href="/en/rural-insurance">
+               Rural
+              </a>
+             </li>
+             <li class="leaf menu-mlid-659">
+              <a href="/en/about-us/pradhan-mantri-suraksha-bima-yojana">
+               PMSBY
+              </a>
+             </li>
+             <li class="leaf active-trail active menu-mlid-1135">
+              <a class="active-trail active" href="/en/pradhan-mantri-fasal-bima-yojana-pmfby">
+               PMFBY
+              </a>
+             </li>
+             <li class="leaf menu-mlid-1305">
+              <a href="/en/List-of-Products-Withdrawn">
+               WITHDRAWN PRODUCTS
+              </a>
+             </li>
+             <li class="last leaf menu-mlid-1324">
+              <a href="/en/about-us/know-your-products">
+               Know Your Product
+              </a>
+             </li>
+            </ul>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="inner-main-content">
+       <div class="row inner-content fontSize">
+        <h1>
+         Pradhan Mantri Fasal Bima Yojana (PMFBY)
+        </h1>
+        <div class="region region-content">
+         <div class="block block-system" id="block-system-main">
+          <h2>
+          </h2>
+          <div about="/en/pradhan-mantri-fasal-bima-yojana-pmfby" class="node node-page clearfix" id="node-1363" typeof="foaf:Document">
+           <span class="rdf-meta element-hidden" content="Pradhan Mantri Fasal Bima Yojana (PMFBY)" property="dc:title">
+           </span>
+           <span class="rdf-meta element-hidden" content="0" datatype="xsd:integer" property="sioc:num_replies">
+           </span>
+           <div class="content clearfix">
+            <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+             <div class="field-items">
+              <div class="field-item even" property="content:encoded">
+               <p>
+                <strong>
+                 Pradhan Mantri Fasal Bima Yojana (PMFBY)
+                </strong>
+                scheme was launched in India by Ministry of Agriculture &amp; Farmers welfare, New Delhi from Kharif 2016 season onwards. National Insurance Company started participating in PMFBY from Rabi 2016 onwards and covered 8 States and 2 Union Territories during the past 5 seasons namely, Rabi 2016-17, Kharif &amp; Rabi 2017 and Kharif &amp; Rabi 2018 covering 70,27,637 farmers. Farmers share of premium is Rs. 453 crores and with subsidy from State/Central Govts RS.1909 Crores, gross Premium is Rs.2362 Crores for the 5 seasons together. Whilst the claims of Kharif 18 and Rabi 18 are under process, we have closed the first 3 seasons with a gross premium amount of Rs.1804 Crores collected from 35,22,616 farmers and claims to the tune of Rs.1703 crores were paid, by which 17,66,455 no of farmers benefited, which shows almost 50% of the farmers insured were benefitted.
+               </p>
+               <p>
+                Revised Operational Guidelines issued by Ministry of Agriculture &amp; Farmers welfare, New Delhi are binding on all the stake holders which gives complete insight about the Scheme. Same can be downloaded from www.pmfby.gov.in .
+               </p>
+               <p>
+                There are Two Schemes under the said operational Guidelines.
+               </p>
+               <ol>
+                <li>
+                 Pradhan Mantri Fasal Bima Yojana (PMFBY) – Elaborated here under.
+                </li>
+                <li>
+                 Revised Weather Based Crop Insurance Scheme (RWBCIS) – Please refer to pmfby website for details
+                </li>
+               </ol>
+               <h3>
+                1. Objective of the Schemes
+               </h3>
+               <p>
+                Pradhan Mantri Fasal BimaYojana (PMFBY) aims at supporting sustainable production in agriculture sector by way of
+               </p>
+               <ul>
+                <li>
+                 Providing financial support to farmers suffering crop loss/damage arising out of unforeseen events
+                </li>
+                <li>
+                 Stabilizing the income of farmers to ensure their continuance in farming
+                </li>
+                <li>
+                 Encouraging farmers to adopt innovative and modern agricultural practices
+                </li>
+                <li>
+                 Ensuring flow of credit to the agriculture sector which will contribute to food security, crop diversification and enhancing growth and competitiveness of agriculture sector besides protecting farmers from production risks.
+                </li>
+               </ul>
+               <h3>
+                2. Who can be covered?
+               </h3>
+               <p>
+                All farmers who have been sanctioned Seasonal Agricultural Operations (SAO) loans (Crop Loans) from Financial Institutions (FIs), i.e.
+                <u>
+                 loanee farmers,
+                </u>
+                for the notified crop(s) season would be covered compulsorily.
+               </p>
+               <p>
+                The Scheme is optional for
+                <u>
+                 non-loanee farmers.
+                </u>
+               </p>
+               <ul>
+                <li>
+                 The insurance coverage will strictly be equivalent to sum insured/hectare, as defined in the Govt. notification or /and on National Crop Insurance Portal multiplied by sown area for notified crop.
+                </li>
+               </ul>
+               <h3>
+                3. How to enroll the farmers in the Scheme?
+               </h3>
+               <p>
+                Both Loanee and Non-Loanee farmers are to be enrolled in the National Crop Insurance Portal(NCIP) belong to Ministry of Agriculture &amp; Farmers welfare, New Delhi. Banks who are lending Seasonal Crop Loans to the farmers are responsible to upload the data in the NCIP
+               </p>
+               <p>
+                In case of Non-loanee farmers, Intermediaries, Common Service Centers (CSCs), farmers on their own and other Agencies are to upload the data in the NCIP, along with the uploading 4 documents namely,.............
+               </p>
+               <p>
+                Premium must be paid by way of NEFT only and DD or Cheques are not accepted. Similarly offline applications for enrollment are not accepted as every application needs to be filled-in online.
+               </p>
+               <h3>
+                4. Coverage of Crops
+               </h3>
+               <ol>
+                <li>
+                 Food crops (Cereals, Millets and Pulses),
+                </li>
+                <li>
+                 Oilseeds
+                </li>
+                <li>
+                 Annual Commercial / Annual Horticultural crops.
+                </li>
+               </ol>
+               <p>
+                In addition for perennial crops, pilots for coverage can be taken for those perennial horticultural crops for which standard methodology for yield estimation is available.
+               </p>
+               <h3>
+                5. Rate of Premium to be paid by the farmer to Insurance Company
+               </h3>
+               <table border="1" width="100%">
+                <thead>
+                 <tr>
+                  <th>
+                   Type of Crop
+                  </th>
+                  <th>
+                   Kharif
+                  </th>
+                  <th>
+                   Rabi
+                  </th>
+                 </tr>
+                </thead>
+                <tbody>
+                 <tr>
+                  <td>
+                   Food grains including Cereals, Pulses and Oilseeds
+                  </td>
+                  <td align="center">
+                   2%
+                  </td>
+                  <td align="center">
+                   1.5 %
+                  </td>
+                 </tr>
+                 <tr>
+                  <td>
+                   Annual Horticulture and Commercial Crops
+                  </td>
+                  <td align="center" colspan="2">
+                   5%
+                  </td>
+                 </tr>
+                </tbody>
+               </table>
+               <p>
+                After the Bidding process is finalized, if the premium rate quoted by the Insurance Company is higher than the above rates, the difference will be paid to the Insurance Company by State &amp; GOI at 50% each in the form of premium subsidy. If such rate is less than the above rates, no subsidy is payable to the Insurance Company.
+               </p>
+               <h3>
+                6. Coverage of Risks and Exclusions under PMFBY Scheme:
+               </h3>
+               <p>
+                Following stages of the crop risks leading to crop loss are covered under the Scheme. Addition of new risks by the State Govt other than the one mentioned below, by the State Govt. is not permitted.
+               </p>
+               <ol type="a">
+                <li>
+                 <strong>
+                  Prevented Sowing/Planting/Germination Risk:
+                 </strong>
+                 Insured area is prevented from sowing / planting / germination due to deficit rainfall or adverse seasonal/weather conditions. 25% of the sum insured will be paid and the Policy will be terminated.
+                </li>
+                <li>
+                 <strong>
+                  Standing Crop (Sowing to Harvesting):
+                 </strong>
+                 Comprehensive risk insurance is provided to cover yield losses due to non-preventable risks, viz. Drought, Dry spell, Flood, Inundation, widespread Pests and Disease attack, Landslides, Fire due to natural causes ,Lightening, Storm, Hailstorm and Cyclone.
+                </li>
+                <li>
+                 <strong>
+                  Post-Harvest Losses:
+                 </strong>
+                 Coverage is available only upto a maximum period of two weeks from harvesting, for those crops which are required to be dried in cut and spread / small bundled condition in the field after harvesting against specific perils of Hailstorm, Cyclone, Cyclonic rains and Unseasonal rains.
+                </li>
+                <li>
+                 <strong>
+                  Localized Calamities:
+                 </strong>
+                 Loss/damage to notified insured crops resulting from occurrence of identified localized risks of Hailstorm, Landslide, Inundation, Cloud burst and Natural fire due to lightening affecting isolated farms in the notified area.
+                </li>
+                <li>
+                 <strong>
+                  Add-on coverage for crop loss due to attack by wild animals:
+                 </strong>
+                 The States may consider providing add- on coverage for crop loss due to attack by wild animals wherever the risk is perceived to be substantial and is identifiable.
+                </li>
+               </ol>
+               <p>
+                <strong>
+                 General Exclusions:
+                </strong>
+                Losses arising out of war and nuclear risks, malicious damage and other preventable risks shall be excluded.
+               </p>
+               <h3>
+                7. How to intimate the claim?
+               </h3>
+               <table border="1" width="100%">
+                <thead>
+                 <tr>
+                  <th>
+                   Risks Covered
+                  </th>
+                  <th>
+                   Provision of Indemnity/Claim
+                  </th>
+                  <th>
+                   Intimation of Loss
+                  </th>
+                 </tr>
+                </thead>
+                <tbody>
+                 <tr>
+                  <td>
+                   <strong>
+                    Prevented Sowing/ Planting / Germination Risk
+                   </strong>
+                  </td>
+                  <td>
+                   Prevented from planting/germination (Area Based) sowing/
+                  </td>
+                  <td rowspan="2">
+                   Applicable on area-based approach. Individual farmer need not to intimate. Loss to be estimated by state government based on the proxy indicators etc
+                  </td>
+                 </tr>
+                 <tr>
+                  <td>
+                   <strong>
+                    Mid-Season Adversity
+                   </strong>
+                  </td>
+                  <td>
+                   25% of likely claims as ad-hoc payment. (Area Based)
+                  </td>
+                 </tr>
+                 <tr>
+                  <td>
+                   <strong>
+                    Post-Harvest Losses
+                   </strong>
+                  </td>
+                  <td>
+                   Up-to a maximum period of two weeks from harvesting, for those crops which are required to be dried in cut and spread / small bundled condition in the field after harvesting against specific perils of Hailstorm, Cyclone, Cyclonic rains and Unseasonal rains
+                  </td>
+                  <td rowspan="2">
+                   Yield loss damage for localized calamities and post- harvest losses will be assessed on the basis of individual insured farm level and hence lodging of loss information by farmer/designated agencies is essential. Intimation may be given within 72 hours by farmer either directly to the insurance company, concerned bank, local agriculture department Govt. /district officials or through our toll free number (1800 200 7710) or on National Crop Insurance Portal. Additional 24 hours for agency/department to register with concerned insurance company
+                  </td>
+                 </tr>
+                 <tr>
+                  <td>
+                   <strong>
+                    Localized Calamities
+                   </strong>
+                  </td>
+                  <td>
+                   Loss/damage due to identified localized risks of Hailstorm, Landslide, Inundation, Cloud burst and Natural fire due to lightening affecting isolated farms in the notified area
+                  </td>
+                 </tr>
+                </tbody>
+               </table>
+               <h3>
+                Responsibility of the Farmers:
+               </h3>
+               <ul>
+                <li>
+                 Timely Information/claim lodging for damage of crops due to localized calamities and post-harvest losses.
+                </li>
+                <li>
+                 To ensure that the insured crop is same as the crop sown.
+                </li>
+               </ul>
+               <p>
+                <strong>
+                 Change of insured crops:
+                </strong>
+                The change may be informed to KCC/ Crop-loan sanctioning bank branch immediately but not later than 2 days prior to cut off date for debit of premium/date of enrolment. This should be accompanied with sowing certificate.
+               </p>
+               <p>
+                <a href="/sites/default/files/Revised_Operational_Guidelines%20%281%29%20PMFBY.pdf" target="_BLANK" title="The pdf file Open in new window">
+                 Click Here to Download Operational Guideline
+                </a>
+               </p>
+               <p>
+               </p>
+               <p>
+                <a href="https://nationalinsurance.nic.co.in/en/pmfby" target="_blank">
+                 Click Here to Know More
+                </a>
+               </p>
+               <p>
+               </p>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="link-wrapper">
+            <ul class="links inline">
+             <li class="translation_hi first last">
+              <a class="translation-link" href="/hi/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A7%E0%A4%BE%E0%A4%A8%E0%A4%AE%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%80-%E0%A4%AB%E0%A4%B8%E0%A4%B2-%E0%A4%AC%E0%A5%80%E0%A4%AE%E0%A4%BE-%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE-%E0%A4%AA%E0%A5%80%E0%A4%8F%E0%A4%AE%E0%A4%8F%E0%A4%AB%E0%A4%AC%E0%A5%80%E0%A4%B5%E0%A4%BE%E0%A4%88" title="प्रधानमंत्री फसल बीमा योजना (पीएमएफबीवाई)" xml:lang="hi">
+               हिन्दी
+              </a>
+             </li>
+            </ul>
+           </div>
+          </div>
+         </div>
+        </div>
+        <hr/>
+        <h2>
+         Related Information
+        </h2>
+        <div class="region region-related-information-block">
+         <div class="block block-block" id="block-block-19">
+          <h2>
+          </h2>
+          <div class="relatedinform-carousel owl-carousel owl-theme">
+           <div class="item">
+            <figure>
+             <a href="https://nicportal.nic.co.in/nicportal/signin/login" target="_BLANK" title="External site that opens in a new window">
+              <span class="icon-holder">
+               <img alt="Buy Policy Online" src="https://nationalinsurance.nic.co.in/sites/all/themes/nicl/images/icon-buy_policy_online.png"/>
+              </span>
+             </a>
+             <figcaption>
+              <h4>
+               <a href="https://nicportal.nic.co.in/nicportal/signin/login" target="_BLANK" title="External site that opens in a new window">
+                Buy Policy Online
+               </a>
+              </h4>
+             </figcaption>
+             <a href="javascript:void(0)" target="_BLANK" title="External site that opens in a new window">
+             </a>
+            </figure>
+           </div>
+           <div class="item">
+            <figure>
+             <a href="https://nicportal.nic.co.in/nicportal/online/home" target="_BLANK" title="External site that opens in a new window">
+              <span class="icon-holder">
+               <img alt="Renew Existing Policy" src="https://nationalinsurance.nic.co.in/sites/all/themes/nicl/images/icon-renew_exist_policy.png"/>
+              </span>
+             </a>
+             <figcaption>
+              <h4>
+               <a href="https://nicportal.nic.co.in/nicportal/online/home" target="_BLANK" title="External site that opens in a new window">
+                Renew Existing Policy
+               </a>
+              </h4>
+             </figcaption>
+             <a href="javascript:void(0)" target="_BLANK" title="External site that opens in a new window">
+             </a>
+            </figure>
+           </div>
+           <div class="item">
+            <figure>
+             <a href="https://nationalinsurance.nic.co.in/about-us/latest-news">
+              <span class="icon-holder">
+               <img alt="NICL Latest News" src="https://nationalinsurance.nic.co.in/sites/all/themes/nicl/images/icon-nicl_lst_news.png"/>
+              </span>
+             </a>
+             <figcaption>
+              <h4>
+               <a href="https://nationalinsurance.nic.co.in/en/about-us/know-your-products">
+                Know your Products
+               </a>
+              </h4>
+             </figcaption>
+             <a href="javascript:void(0)" target="_BLANK" title="External site that opens in a new window">
+             </a>
+            </figure>
+           </div>
+           <div class="item">
+            <figure>
+             <a href="https://nationalinsurance.nic.co.in/how-take-policy">
+              <span class="icon-holder">
+               <img alt="How to take a Policy?" src="https://nationalinsurance.nic.co.in/sites/all/themes/nicl/images/icon-take_policy.png"/>
+              </span>
+             </a>
+             <figcaption>
+              <h4>
+               <a href="https://nicportal.nic.co.in/nicportal/online/trackclaim" target="_BLANK" title="External site that opens in a new window">
+                Track Claim status
+               </a>
+              </h4>
+             </figcaption>
+             <a href="javascript:void(0)" target="_BLANK" title="External site that opens in a new window">
+             </a>
+            </figure>
+           </div>
+           <div class="item">
+            <figure>
+             <a href="https://nationalinsurance.nic.co.in/en/how-lodge-claim">
+              <span class="icon-holder">
+               <img alt="How to Lodge a Claim?" src="https://nationalinsurance.nic.co.in/sites/all/themes/nicl/images/icon-lodge_claim.png"/>
+              </span>
+             </a>
+             <figcaption>
+              <h4>
+               <a href="https://nationalinsurance.nic.co.in/en/how-lodge-claim">
+                How to Lodge a Claim?
+               </a>
+              </h4>
+             </figcaption>
+             <a href="javascript:void(0)" target="_BLANK" title="External site that opens in a new window">
+             </a>
+            </figure>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </section>
+  <footer class="main-footer">
+   <div class="ft-top">
+    <div class="container">
+     <div class="row">
+      <div class="">
+       <div class="subscribe-field">
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="container">
+    <div class="row">
+     <div class="ft-botm">
+      <div class="col">
+       <h3>
+        Contact Us
+       </h3>
+       <div class="region region-contact-us-block">
+        <div class="block block-block" id="block-block-3">
+         <h2>
+         </h2>
+         <p>
+          3, Middleton Street,
+          <br/>
+          Prafulla Chandra Sen Sarani ,
+          <br/>
+          Kolkata, West Bengal, 700071
+         </p>
+         <p>
+          Telephone: 033-22831705
+         </p>
+         <p>
+          Fax: 22831740.
+         </p>
+         <p>
+          CIN - U10200WB1906GOI001713
+         </p>
+        </div>
+       </div>
+      </div>
+      <div class="col">
+       <h3>
+        About NICL
+       </h3>
+       <div class="region region-about-nicl-block">
+        <div class="block block-block" id="block-block-4">
+         <h2>
+         </h2>
+         <ul>
+          <li>
+           <a href="https://nationalinsurance.nic.co.in/en/about-us/board-of-directors">
+            Board of Directors
+           </a>
+          </li>
+          <li>
+           <a href="https://nationalinsurance.nic.co.in/en/about-us/corporate-management">
+            Corporate Management
+           </a>
+          </li>
+          <li>
+           <a href="https://nationalinsurance.nic.co.in/en/about-us/key-persons">
+            Key Persons
+           </a>
+          </li>
+          <li>
+           <a href="https://nationalinsurance.nic.co.in/en/about-us/top-executives">
+            Top Executives
+           </a>
+          </li>
+          <li>
+           <a href="https://nationalinsurance.nic.co.in/en/retirees-corner">
+            Retirees Corner
+           </a>
+          </li>
+          <!--<li><a onclick="return myFunction();" style="cursor:pointer;">Retirees Corner</a></li>-->
+          <!--<li><a href="https://nationalinsurance.nic.co.in/sites/default/files/List%20of%20RO%20coordinators.pdf" target="_blank" >List of RO coordinators</a></li>-->
+          <!--<li><a href="https://nationalinsurance.nic.co.in/en/retiree-s-corner-alert">Retirees Corner</a></li>-->
+         </ul>
+         <script type="text/javascript">
+          $(document).ready(function(){   $('#myPopup .sp1').html('<a href="https://nationalinsurance.nic.co.in/sites/default/files/Life%20Certificate%202021%20RECEIVED%20REPORT%20AS%20ON%202.2.21_F%20%281%29.pdf" target="_blank">Pensioners who have submitted Life certificate -2021 upto 02.02.2021.Click here to view the list.</a>');     $("#myPopup .sp1").replaceWith('<a href="https://nationalinsurance.nic.co.in/sites/default/files/Life%20Certificate%202021%20RECEIVED%20REPORT%20AS%20ON%202.2.21_F%20%281%29.pdf" target="_blank">Pensioners who have submitted Life certificate -2021 upto 02.02.2021.Click here to view the list.</a>');  }); function myFunction() {    $('#myPopup .sp1').html('<a href="https://nationalinsurance.nic.co.in/sites/default/files/Life%20Certificate%202021%20RECEIVED%20REPORT%20AS%20ON%202.2.21_F%20%281%29.pdf" target="_blank">Pensioners who have submitted Life certificate -2021 upto 02.02.2021.Click here to view the list.</a>');  }
+         </script>
+        </div>
+       </div>
+      </div>
+      <div class="col">
+       <h3>
+        Insurance
+       </h3>
+       <div class="region region-insurance-block">
+        <div class="block block-block" id="block-block-5">
+         <h2>
+         </h2>
+         <ul>
+          <li>
+           <a href="motor-insurance">
+            Motor Insurance
+           </a>
+          </li>
+          <li>
+           <a href="health-insurance">
+            Health Insurance
+           </a>
+          </li>
+          <li>
+           <a href="miscellaneous-insurance">
+            Miscellaneous
+           </a>
+          </li>
+          <li>
+           <a href="marine">
+            Marine
+           </a>
+          </li>
+          <li>
+           <a href="engineering">
+            Engineering
+           </a>
+          </li>
+          <li>
+           <a href="rural-insurance">
+            Rural Insurance
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+      <div class="col">
+       <h3>
+        Important Links
+       </h3>
+       <div class="region region-important-links-block">
+        <div class="block block-block" id="block-block-6">
+         <h2>
+         </h2>
+         <ul>
+          <li>
+           <a href="https://nationalinsurance.nic.co.in/en/about-us/public-disclosures">
+            Public Disclosures
+           </a>
+          </li>
+          <li>
+           <a href="https://nationalinsurance.nic.co.in/en/anti-money-laundering-policy">
+            Anti Money Laundering Policy
+           </a>
+          </li>
+          <li>
+           <a href="https://nationalinsurance.nic.co.in/en/recruitments">
+            Recruitment
+           </a>
+          </li>
+          <li>
+           <a href="https://nationalinsurance.nic.co.in/en/about-us/e-magazine">
+            E-Magazine
+           </a>
+          </li>
+          <!--<li><a href="https://nationalinsurance.nic.co.in/en/about-us/annual-general-meeting">AGM</a></li>-->
+          <!--li class="e-gov"><a href="javascript:void(0)">e-Governance</a></li-->
+          <!-- <li><a href="https://nationalinsurance.nic.co.in/en/photo-gallery">Photo Gallery</a></li> -->
+          <li>
+           <a href="https://nationalinsurance.nic.co.in/en/about-us/press-releases">
+            Press Releases
+           </a>
+          </li>
+          <li>
+           <a href="https://nationalinsurance.nic.co.in/en/about-us/financial-inclusion">
+            Financial Inclusion
+           </a>
+          </li>
+          <!-- <li><a href="https://nationalinsurance.nic.co.in/en/feedback">Feedback</a></li> -->
+         </ul>
+        </div>
+       </div>
+      </div>
+      <div class="col">
+       <h3>
+        Get Connected
+       </h3>
+       <div class="region region-get-connected-block">
+        <div class="block block-block" id="block-block-7">
+         <h2>
+         </h2>
+         <ul class="social-ft">
+          <li class="fb">
+           <a href="https://www.facebook.com/nationalinsuranceindia" target="_BLANK" title="External site that opens in a new window">
+            <i aria-hidden="true" class="fa fa-facebook">
+            </i>
+           </a>
+          </li>
+          <li class="twt">
+           <a href="https://twitter.com/niclofficial" target="_BLANK" title="External site that opens in a new window">
+            <i aria-hidden="true" class="fa fa-twitter">
+            </i>
+           </a>
+          </li>
+          <li class="utube">
+           <a href="https://www.youtube.com/channel/UClKFySN35XeILBnYrxCPGCg" target="_BLANK" title="External site that opens in a new window">
+            <i aria-hidden="true" class="fa fa-youtube">
+            </i>
+           </a>
+          </li>
+         </ul>
+         <a class="logo-ft" href="https://nationalinsurance.nic.co.in/en">
+          <img alt="Logo" src="https://nationalinsurance.nic.co.in/sites/all/themes/nicl/images/site-logo.jpg"/>
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="botm-link">
+    <div class="container">
+     <div class="row">
+      <div class="region region-footer-top">
+       <div class="block block-menu" id="block-menu-menu-footer">
+        <h2>
+        </h2>
+        <ul class="menu">
+         <li class="first leaf">
+          <a href="/en/tenders">
+           Tenders
+          </a>
+         </li>
+         <li class="leaf">
+          <a href="/en/right-to-information">
+           Right to Information Act
+          </a>
+         </li>
+         <li class="leaf">
+          <a href="/en/other-links">
+           Links
+          </a>
+         </li>
+         <li class="leaf">
+          <a href="https://nationalinsurance.nic.co.in/sites/default/files/Privacy%20Policy%20V1.0%20.pdf" target="_BLANK" title="The pdf file Open in new window">
+           Privacy Policy
+          </a>
+         </li>
+         <li class="leaf">
+          <a href="/en/disclaimer">
+           Disclaimer
+          </a>
+         </li>
+         <li class="leaf">
+          <a href="/en/site-map">
+           Site Map
+          </a>
+         </li>
+         <li class="leaf">
+          <a href="/en/feedback">
+           Feedback
+          </a>
+         </li>
+         <li class="last leaf">
+          <a href="/en/photo-gallery">
+           Photo Gallery
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class="region region-footer">
+       <div class="block block-block" id="block-block-2">
+        <h2>
+        </h2>
+        <p>
+         IRDA Registration Number: 58  |  National Insurance Company Limited. All rights reserved  |  Insurance is a subject matter of solicitation
+         <br/>
+         Powered By : Indus Net Technologies Pvt. Ltd.
+        </p>
+        <script>
+         $(document).ready(function(){ $('.call-no a').html(''); $('.call-no a').html('18003450330'); })
+        </script>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </footer>
+  <div id="GOOD_DIV_ID" style="visibility: hidden;">
+   <a class="menu-icon" href="javascript:goToHome();">
+    <img alt="home" src="https://nationalinsurance.nic.co.in/sites/all/themes/nicl/images/Oda_images/Oda_images/home-run.png"/>
+   </a>
+  </div>
+  <a class="inr-scrollup" href="javascript:void(0)" id="inrToTop">
+   Top
+  </a>
+  <script type="text/javascript">
+   var x =  Math.round((window.innerWidth/19)*5);
+	document.getElementById("inner-banner").style.height = x +"px";
+	
+	window.onresize = function(event) {
+	  var x =  Math.round((window.innerWidth/19)*5);
+	document.getElementById("inner-banner").style.height = x +"px";
+	};
+  </script>
+  <!-- Start of LiveChat (www.livechatinc.com) code -->
+  <!-- <script type="text/javascript">
+window.__lc = window.__lc || {};
+window.__lc.license = 3287732;
+window.__lc.group = 39;
+(function() {
+  var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
+  lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
+})();
+</script>
+<custom-chat data-url="115.110.182.89/SocialConnectorHelperAPI/api/customchat/getWidgetConfiguration?widgetId='4c669550-4822-ea11-80c5-1866da9837cc'"></custom-chat>
+
+<script src="https://10.80.76.199/PS.CustomChat/js/app.js"></script> -->
+  <!-- End of LiveChat code -->
+  <!--<link rel="stylesheet" href="https://nationalinsurance.nic.co.in/sites/all/themes/nicl/css/jquery-ui.css">-->
+  <!--<script src="https://nationalinsurance.nic.co.in/sites/all/themes/nicl/js/jquery-ui.js"></script>-->
+  <script>
+   jQuery( function() {
+    jQuery( "#edit-created" ).datepicker();
+  } );
+  </script>
+  <!--Added by Atanu for Retire Corner-->
+  <style>
+   /* Popup container - can be anything you want */
+.popup {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* The actual popup */
+.popup .popuptext {
+  visibility: hidden;
+  width: 90%;
+  background-color: #fff;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 30px 18px;
+  position: fixed;
+  z-index: 10;
+  left: 50%;
+  top: 50%;
+  transform:translate(-50%,-50%);
+  box-shadow:0 0 10px rgba(0,0,0,0.3);
+  /*animation: blinker 6s infinite;*/
+}
+ 
+
+/* Popup arrow */
+.popup .popuptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  /*left: 50%;*/
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+/* Toggle this class - hide and show the popup */
+.popup .show {
+  visibility: visible;
+  /*-webkit-animation: fadeIn 1s;
+  animation: fadeIn 1s;
+  position:relative;*/
+}
+
+/* Add animation (fade in the popup) */
+@-webkit-keyframes fadeIn {
+  from {opacity: 0;} 
+  to {opacity: 1;}
+}
+
+@keyframes fadeIn {
+  from {opacity: 0;}
+  to {opacity:1 ;}
+}
+
+.blink_me {
+  
+} 
+
+@keyframes blinker {  
+  0%{     color: green;    }
+    49%{    color: transparent; }
+    50%{    color: transparent; }
+    99%{    color:transparent;  }
+    100%{   color: green;    }
+}
+.sp1{ color:#500050; }
+.sp2{ color:#0000FF; }
+.sp3{ color:#9900FF; }
+.sp4{ color:#009900; }
+.sp5{ color:#CC0000; }
+  </style>
+  <div class="popup" onclick="myFunction()">
+   <span class="popuptext" id="myPopup">
+    <p>
+     <strong>
+      <span class="sp1">
+       <a href="https://nationalinsurance.nic.co.in/sites/default/files/Copy%20of%20LC%2021_COORDINATORS.pdf" target="_blank">
+        IIn case of any difficulty while submitting Life certificate 2021 please feel free to contact the Co-ordinators of your Service RO for further guidance. Their contact details will be displayed on clicking this message.
+       </a>
+      </span>
+     </strong>
+    </p>
+    <a class="view-more" href="https://nationalinsurance.nic.co.in/en/retirees-corner" style="display:inline-block;">
+     Close
+    </a>
+   </span>
+  </div>
+  <script>
+   // When the user clicks on div, open the popup
+function myFunction() {
+  var popup = document.getElementById("myPopup");
+  popup.classList.toggle("show");
+}
+  </script>
+  <script>
+   jQuery(window).ready(function() {
+if(jQuery("div").hasClass("messages error")){
+
+jQuery(".element-invisible").css("display: none");
+ 
+}
+else{
+//console.log("not getting rebuild");
+}
+});
+  </script>
+  <script src="https://code.jquery.com/ui/1.10.0/jquery-ui.js">
+  </script>
+  <!--END-->
+ </body>
+</html>
