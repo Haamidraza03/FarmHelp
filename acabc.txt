@@ -1,0 +1,2075 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width" name="viewport"/>
+  <link as="image" imagesrcset="/_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2Flogos%2Fg20.png&amp;w=96&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2Flogos%2Fg20.png&amp;w=256&amp;q=75 2x" rel="preload"/>
+  <link as="image" imagesizes="100vw" imagesrcset="https://cdn.myscheme.in/images/emblem-black.svg 640w, https://cdn.myscheme.in/images/emblem-black.svg 750w, https://cdn.myscheme.in/images/emblem-black.svg 828w, https://cdn.myscheme.in/images/emblem-black.svg 1080w, https://cdn.myscheme.in/images/emblem-black.svg 1200w, https://cdn.myscheme.in/images/emblem-black.svg 1920w, https://cdn.myscheme.in/images/emblem-black.svg 2048w, https://cdn.myscheme.in/images/emblem-black.svg 3840w" rel="preload"/>
+  <link as="image" imagesizes="100vw" imagesrcset="https://cdn.myscheme.in/images/myscheme-logo.svg 640w, https://cdn.myscheme.in/images/myscheme-logo.svg 750w, https://cdn.myscheme.in/images/myscheme-logo.svg 828w, https://cdn.myscheme.in/images/myscheme-logo.svg 1080w, https://cdn.myscheme.in/images/myscheme-logo.svg 1200w, https://cdn.myscheme.in/images/myscheme-logo.svg 1920w, https://cdn.myscheme.in/images/myscheme-logo.svg 2048w, https://cdn.myscheme.in/images/myscheme-logo.svg 3840w" rel="preload"/>
+  <link as="image" imagesrcset="/_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2Flogos%2Fg20.png&amp;w=64&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2Flogos%2Fg20.png&amp;w=128&amp;q=75 2x" rel="preload"/>
+  <title>
+   Agri-Clinics And Agri-Business Centres Scheme
+  </title>
+  <link href="/images/favico/apple-icon-60x60.png" rel="apple-touch-icon" sizes="60x60"/>
+  <link href="/images/favico/apple-icon-72x72.png" rel="apple-touch-icon" sizes="72x72"/>
+  <link href="/images/favico/apple-icon-76x76.png" rel="apple-touch-icon" sizes="76x76"/>
+  <link href="/images/favico/apple-icon-114x114.png" rel="apple-touch-icon" sizes="114x114"/>
+  <link href="/images/favico/apple-icon-120x120.png" rel="apple-touch-icon" sizes="120x120"/>
+  <link href="/images/favico/apple-icon-144x144.png" rel="apple-touch-icon" sizes="144x144"/>
+  <link href="/images/favico/apple-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+  <link href="/images/favico/apple-icon-180x180.png" rel="apple-touch-icon" sizes="180x180"/>
+  <link href="/images/favico/android-icon-192x192.png" rel="icon" sizes="192x192" type="image/png"/>
+  <link href="/images/favico/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+  <link href="/images/favico/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png"/>
+  <link href="/images/favico/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+  <link href="/images/favico/manifest.json" rel="manifest"/>
+  <meta content="https://myscheme.gov.in" property="og:url"/>
+  <meta content="Agri-Clinics And Agri-Business Centres Scheme" property="og:title"/>
+  <meta content="website" property="og:type"/>
+  <meta content="https://cdn.myscheme.in/images/logo.png" property="og:image"/>
+  <meta content="https://cdn.myscheme.in/images/logo.png" property="og:image:secure_url"/>
+  <meta content="image/png" property="og:image:type"/>
+  <meta content="475" property="og:image:width"/>
+  <meta content="86" property="og:image:height"/>
+  <meta content="myScheme - One-stop search and discovery platform of the Government schemes" property="og:image:alt"/>
+  <meta content="myScheme - One-stop search and discovery platform of the Government schemes" property="og:site_name"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="A welfare scheme by the Ministry of Agriculture and Farmers' Welfare was launched in 2002. AC&amp;ABC aims at agricultural development, supplementing the efforts of public extension by providing extension and other services to farmers either on a payment basis or free of cost as per the business model." property="og:description"/>
+  <meta content="summary" name="twitter:card"/>
+  <meta content="yes" name="apple-mobile-web-app-capable"/>
+  <meta content="A welfare scheme by the Ministry of Agriculture and Farmers' Welfare was launched in 2002. AC&amp;ABC aims at agricultural development, supplementing the efforts of public extension by providing extension and other services to farmers either on a payment basis or free of cost as per the business model." name="description" url=""/>
+  <meta content="Agri-Clinics And Agri-Business Centres Scheme, acandabc, Business, Entrepreneur, Student, Training, Agriculture, Employment, myScheme, Government Schemes, Government Scheme, GovernmentScheme, GovernmentSchemes, Find Government Scheme, Gov Scheme Platform, Gov Scheme" name="keywords"/>
+  <meta content="#16A34A" name="theme-color"/>
+  <link as="image" imagesizes="100vw" imagesrcset="https://cdn.myscheme.in/images/myscheme-logo-white.svg 640w, https://cdn.myscheme.in/images/myscheme-logo-white.svg 750w, https://cdn.myscheme.in/images/myscheme-logo-white.svg 828w, https://cdn.myscheme.in/images/myscheme-logo-white.svg 1080w, https://cdn.myscheme.in/images/myscheme-logo-white.svg 1200w, https://cdn.myscheme.in/images/myscheme-logo-white.svg 1920w, https://cdn.myscheme.in/images/myscheme-logo-white.svg 2048w, https://cdn.myscheme.in/images/myscheme-logo-white.svg 3840w" rel="preload"/>
+  <meta content="38" name="next-head-count"/>
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-GG57J0N1P4">
+  </script>
+  <script>
+   window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+                gtag('config', 'G-GG57J0N1P4', {
+                  page_path: window.location.pathname,
+                });
+  </script>
+  <link as="style" href="https://cdn.myscheme.in/_next/static/css/103b68edc0b27197.css" rel="preload"/>
+  <link data-n-g="" href="https://cdn.myscheme.in/_next/static/css/103b68edc0b27197.css" rel="stylesheet"/>
+  <noscript data-n-css="">
+  </noscript>
+  <script defer="" nomodule="" src="https://cdn.myscheme.in/_next/static/chunks/polyfills-0d1b80a048d4787e.js">
+  </script>
+  <script defer="" src="https://cdn.myscheme.in/_next/static/chunks/webpack-f76d73d027b010b9.js">
+  </script>
+  <script defer="" src="https://cdn.myscheme.in/_next/static/chunks/framework-d51ece3d757c7ed2.js">
+  </script>
+  <script defer="" src="https://cdn.myscheme.in/_next/static/chunks/main-52141f3a00732611.js">
+  </script>
+  <script defer="" src="https://cdn.myscheme.in/_next/static/chunks/pages/_app-62ee4a29c8d2d348.js">
+  </script>
+  <script defer="" src="https://cdn.myscheme.in/_next/static/chunks/d64684d8-c305f7806461d27f.js">
+  </script>
+  <script defer="" src="https://cdn.myscheme.in/_next/static/chunks/0c428ae2-46327973ed5e2705.js">
+  </script>
+  <script defer="" src="https://cdn.myscheme.in/_next/static/chunks/1bfc9850-c20047adaed413d0.js">
+  </script>
+  <script defer="" src="https://cdn.myscheme.in/_next/static/chunks/d3048c20-1523d9ac332b033f.js">
+  </script>
+  <script defer="" src="https://cdn.myscheme.in/_next/static/chunks/8987-39e0693d689eb426.js">
+  </script>
+  <script defer="" src="https://cdn.myscheme.in/_next/static/chunks/5155-88c7d5142673c586.js">
+  </script>
+  <script defer="" src="https://cdn.myscheme.in/_next/static/chunks/1977-b3a8f05e4b8a553c.js">
+  </script>
+  <script defer="" src="https://cdn.myscheme.in/_next/static/chunks/3282-989b75a52529b873.js">
+  </script>
+  <script defer="" src="https://cdn.myscheme.in/_next/static/chunks/pages/schemes/%5Bslug%5D-70c644758e6130a6.js">
+  </script>
+  <script defer="" src="https://cdn.myscheme.in/_next/static/llXcuuOJcWVcn5Ut8YSQY/_buildManifest.js">
+  </script>
+  <script defer="" src="https://cdn.myscheme.in/_next/static/llXcuuOJcWVcn5Ut8YSQY/_ssgManifest.js">
+  </script>
+ </head>
+ <body>
+  <div id="__next">
+   <div class="h-screen w-screen bg-black/20 fixed top-0 left-0 z-[50] opacity-0 hidden transform transition-all ease-in-out">
+    <div class="relative flex flex-col items-center justify-center h-full">
+     <div class="relative bg-white rounded-lg shadow w-[90%] md:w-auto md:max-w-[60%] lg:min-w-[30%] max-h-[80vh] overflow-auto">
+      <div class="p-6 text-center">
+       <svg class="mx-auto w-10 h-10 mb-3 text-red-600" fill="currentColor" height="1em" stroke="currentColor" stroke-width="0" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+        <path d="M0 0h24v24H0z" fill="none">
+        </path>
+        <path d="M17 7l-1.41 1.41L18.17 11H8v2h10.17l-2.58 2.58L17 17l5-5zM4 5h8V3H4c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h8v-2H4V5z">
+        </path>
+       </svg>
+       <h3 class="font-normal text-gray-800">
+       </h3>
+       <p class="font-mono">
+        Are you sure you want to logout?
+       </p>
+      </div>
+      <div class="bg-gray-100 p-4 flex justify-center rounded-b-lg">
+       <div class="flex gap-2 justify-between w-full">
+        <button aria-label="White Button" class="px-5 py-2.5 text-base rounded-md undefined undefined white border-solid border border-cyan-200 !text-gray-800 hover:border-cyan-400 hover:shadow bg-secondary text-white hover:bg-primary transition ease-in-out font-medium leading-none flex-1 undefined" title="" type="button">
+         Cancel
+        </button>
+        <button aria-label="Success Button" class="px-5 py-2.5 text-base rounded-md undefined undefined green bg-secondary text-white hover:bg-primary transition ease-in-out font-medium leading-none flex-1 undefined" title="" type="button">
+         Logout
+        </button>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <nav class="fixed top-0 z-30 w-full lg:flex flex-wrap items-center justify-between lg:px-2 py-2.5 navbar-expand-lg pt-4 shadow shadow-none">
+    <div class="container px-4 lg:px-0 mx-auto relative">
+     <div class="gap-4 grid grid-cols-1 !grid-cols-3 md:grid-cols-2 lg:grid-cols-4 undefined">
+      <div class="flex items-center gap-4 justify-between items-center col-span-2 sm:col-span-1 justify-between flex-1 lg:justify-start !gap-8">
+       <div class="flex items-center gap-4 justify-between items-center !justify-start !gap-2">
+        <a class="undefined relative h-8 lg:h-10 w-5 lg:w-6 normal-case" href="/">
+         <span style="box-sizing:border-box;display:block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:absolute;top:0;left:0;bottom:0;right:0">
+          <img alt="Ministry of Electronics and Information Technology" class="border-0" data-nimg="fill" decoding="async" sizes="100vw" src="https://cdn.myscheme.in/images/emblem-black.svg" srcset="https://cdn.myscheme.in/images/emblem-black.svg 640w, https://cdn.myscheme.in/images/emblem-black.svg 750w, https://cdn.myscheme.in/images/emblem-black.svg 828w, https://cdn.myscheme.in/images/emblem-black.svg 1080w, https://cdn.myscheme.in/images/emblem-black.svg 1200w, https://cdn.myscheme.in/images/emblem-black.svg 1920w, https://cdn.myscheme.in/images/emblem-black.svg 2048w, https://cdn.myscheme.in/images/emblem-black.svg 3840w" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" title="Ministry of Electronics and Information Technology"/>
+         </span>
+        </a>
+        <h1 class="relative">
+         <button aria-label="Button" class="px-5 py-2.5 text-base rounded-md undefined undefined border-0 bg-transparent !p-0 text-secondary hover:text-primary blue text-secondary hover:text-primary transition ease-in-out font-medium leading-none px-2 border-0 border-l rounded-none border-solid border-gray-100 block relative h-6 w-36 lg:h-8 lg:w-48 undefined" title="">
+          <span style="box-sizing:border-box;display:block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:absolute;top:0;left:0;bottom:0;right:0">
+           <img alt="myScheme" class="border-0 mx-auto" data-nimg="fill" decoding="async" sizes="100vw" src="https://cdn.myscheme.in/images/myscheme-logo.svg" srcset="https://cdn.myscheme.in/images/myscheme-logo.svg 640w, https://cdn.myscheme.in/images/myscheme-logo.svg 750w, https://cdn.myscheme.in/images/myscheme-logo.svg 828w, https://cdn.myscheme.in/images/myscheme-logo.svg 1080w, https://cdn.myscheme.in/images/myscheme-logo.svg 1200w, https://cdn.myscheme.in/images/myscheme-logo.svg 1920w, https://cdn.myscheme.in/images/myscheme-logo.svg 2048w, https://cdn.myscheme.in/images/myscheme-logo.svg 3840w" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" title="myScheme"/>
+          </span>
+         </button>
+        </h1>
+        <a class="undefined md:block normal-case" href="https://www.g20.org/en/" target="_blank">
+         <span style="box-sizing:border-box;display:inline-block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative;max-width:100%">
+          <span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;max-width:100%">
+           <img alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2770%27%20height=%2730%27/%3e" style="display:block;max-width:100%;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0"/>
+          </span>
+          <img alt="G-20 Summit" class="border-0" data-nimg="intrinsic" decoding="async" src="/_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2Flogos%2Fg20.png&amp;w=256&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2Flogos%2Fg20.png&amp;w=96&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2Flogos%2Fg20.png&amp;w=256&amp;q=75 2x" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:contain"/>
+         </span>
+        </a>
+       </div>
+       <ul class="relative z-10 flex flex-wrap text-sm items-center hidden lg:flex sm:ml-6 mt-3 gap-2">
+       </ul>
+      </div>
+      <div class="md:col-span-2 flex flex-row items-center flex-1 gap-3 justify-end">
+       <ul class="grid grid-cols-1 w-full md:w-[80%] lg:w-3/5 !flex flex-none lg:!flex-1 justify-end items-center lg:justify-start gap-2">
+       </ul>
+       <form class="group hidden md:flex flex-wrap items-center focus:outline-none w-full mr-3">
+        <div class="relative flex w-full items-center">
+         <input class="h-11 px-3 py-2 border-1 border-gray-300 placeholder-gray-300 font-mono bg-white rounded-lg outline-none focus:outline-none focus:shadow-outline w-full pr-10 group-hover:border-teal-800 focus:border-teal-800 focus:ring-none hover:border-teal-800 hover:outline-none focus:shadow-none" id="searchBar" placeholder="Enter scheme name to search..." type="text" value=""/>
+         <button aria-label="Green Button" class="px-5 py-2.5 text-base rounded-md undefined undefined border-0 bg-transparent !p-0 text-secondary hover:text-primary green transition ease-in-out font-medium leading-none absolute z-10 right-2 w-12 h-12 !text-darkIndigo-900 undefined" title="" type="button">
+          <svg class="ml-2 inline-block w-6 h-6" fill="currentColor" height="1em" stroke="currentColor" stroke-width="0" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+           <path d="M0 0h24v24H0z" fill="none">
+           </path>
+           <path d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0016 9.5 6.5 6.5 0 109.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z">
+           </path>
+          </svg>
+         </button>
+        </div>
+       </form>
+       <svg class="cursor-pointer block md:hidden" fill="currentColor" height="25" stroke="currentColor" stroke-width="0" viewbox="0 0 24 24" width="25" xmlns="http://www.w3.org/2000/svg">
+        <path d="M0 0h24v24H0z" fill="none">
+        </path>
+        <path d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0016 9.5 6.5 6.5 0 109.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z">
+        </path>
+       </svg>
+       <div class="flex items-center gap-4 justify-between items-center flex-1 !justify-end !gap-1">
+        <ul class="relative z-10 flex flex-wrap text-sm items-center gap-1">
+         <li class="" title="List Item">
+          <button aria-label="Dark Button" class="px-5 py-2.5 text-base rounded-md undefined undefined border-0 bg-transparent !p-0 text-secondary hover:text-primary dark transition ease-in-out font-medium leading-none lg:hidden undefined" title="" type="button">
+           <svg class="ml-2 inline-block w-8 h-8 !m-0" fill="currentColor" height="1em" stroke="currentColor" stroke-width="0" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+            <path d="M4 6h16v2H4zm4 5h12v2H8zm5 5h7v2h-7z">
+            </path>
+           </svg>
+          </button>
+         </li>
+         <li class="relative hidden lg:block" title="List Item">
+          <div class="cursor-pointer">
+           <span class="cursor-pointer green bg-secondary group-hover:bg-white text-white group-hover:text-secondary mr-1 lg:mr-2 inline-block rounded-full p-1 lg:p-2 align-middle">
+            <svg fill="currentColor" height="1em" stroke="currentColor" stroke-width="0" viewbox="0 0 512 512" width="1em" xmlns="http://www.w3.org/2000/svg">
+             <path d="M478.33 433.6l-90-218a22 22 0 00-40.67 0l-90 218a22 22 0 1040.67 16.79L316.66 406h102.67l18.33 44.39A22 22 0 00458 464a22 22 0 0020.32-30.4zM334.83 362L368 281.65 401.17 362zm-66.99-19.08a22 22 0 00-4.89-30.7c-.2-.15-15-11.13-36.49-34.73 39.65-53.68 62.11-114.75 71.27-143.49H330a22 22 0 000-44H214V70a22 22 0 00-44 0v20H54a22 22 0 000 44h197.25c-9.52 26.95-27.05 69.5-53.79 108.36-31.41-41.68-43.08-68.65-43.17-68.87a22 22 0 00-40.58 17c.58 1.38 14.55 34.23 52.86 83.93.92 1.19 1.83 2.35 2.74 3.51-39.24 44.35-77.74 71.86-93.85 80.74a22 22 0 1021.07 38.63c2.16-1.18 48.6-26.89 101.63-85.59 22.52 24.08 38 35.44 38.93 36.1a22 22 0 0030.75-4.9z">
+             </path>
+            </svg>
+           </span>
+           <span class="green text-primary text-base inline-block font-mono">
+            Eng.
+           </span>
+          </div>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="relative flex">
+     <div class="hidden lg:hidden bg-black/50 fixed z-20 top-0 left-0 w-full h-screen">
+     </div>
+     <div class="-translate-x-full lg:hidden bg-white z-50 fixed h-full transform transition-all ease-in-out top-0 w-4/5 left-0 overflow-y-auto h-screen">
+      <div class="flex items-center gap-4 justify-between items-center px-2 py-2 shadow-md mb-2 bg-white sticky top-0 z-10">
+       <div class="flex items-center gap-4 justify-between items-center !justify-start !gap-1 md:!gap-2">
+        <a class="undefined block relative w-6 h-12 normal-case" href="/">
+         <span style="box-sizing:border-box;display:block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:absolute;top:0;left:0;bottom:0;right:0">
+          <img alt="Ministry of Electronics and Information Technology" class="border-0" data-nimg="fill" decoding="async" sizes="100vw" src="https://cdn.myscheme.in/images/emblem-black.svg" srcset="https://cdn.myscheme.in/images/emblem-black.svg 640w, https://cdn.myscheme.in/images/emblem-black.svg 750w, https://cdn.myscheme.in/images/emblem-black.svg 828w, https://cdn.myscheme.in/images/emblem-black.svg 1080w, https://cdn.myscheme.in/images/emblem-black.svg 1200w, https://cdn.myscheme.in/images/emblem-black.svg 1920w, https://cdn.myscheme.in/images/emblem-black.svg 2048w, https://cdn.myscheme.in/images/emblem-black.svg 3840w" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:contain" title="Ministry of Electronics and Information Technology"/>
+         </span>
+        </a>
+        <button aria-label="Button" class="px-5 py-2.5 text-base rounded-md undefined undefined border-0 bg-transparent !p-0 text-secondary hover:text-primary blue text-secondary hover:text-primary transition ease-in-out font-medium leading-none px-2 border-0 border-l border-solid border-gray-100 block relative h-6 w-36 undefined" title="">
+         <span style="box-sizing:border-box;display:block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:absolute;top:0;left:0;bottom:0;right:0">
+          <img alt="myScheme" class="border-0 mx-auto" data-nimg="fill" decoding="async" sizes="100vw" src="https://cdn.myscheme.in/images/myscheme-logo.svg" srcset="https://cdn.myscheme.in/images/myscheme-logo.svg 640w, https://cdn.myscheme.in/images/myscheme-logo.svg 750w, https://cdn.myscheme.in/images/myscheme-logo.svg 828w, https://cdn.myscheme.in/images/myscheme-logo.svg 1080w, https://cdn.myscheme.in/images/myscheme-logo.svg 1200w, https://cdn.myscheme.in/images/myscheme-logo.svg 1920w, https://cdn.myscheme.in/images/myscheme-logo.svg 2048w, https://cdn.myscheme.in/images/myscheme-logo.svg 3840w" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" title="myScheme"/>
+         </span>
+        </button>
+        <a class="undefined block normal-case" href="https://www.g20.org/en/" target="_blank">
+         <span style="box-sizing:border-box;display:inline-block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative;max-width:100%">
+          <span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;max-width:100%">
+           <img alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2750%27%20height=%2725%27/%3e" style="display:block;max-width:100%;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0"/>
+          </span>
+          <img alt="G-20 Summit" class="border-0" data-nimg="intrinsic" decoding="async" src="/_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2Flogos%2Fg20.png&amp;w=128&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2Flogos%2Fg20.png&amp;w=64&amp;q=75 1x, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2Flogos%2Fg20.png&amp;w=128&amp;q=75 2x" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:contain"/>
+         </span>
+        </a>
+       </div>
+       <div>
+        <button aria-label="Dark Button" class="px-5 py-2.5 text-base rounded-md undefined undefined border-0 bg-transparent !p-0 text-secondary hover:text-primary dark transition ease-in-out font-medium leading-none undefined" title="" type="button">
+         <svg class="ml-2 inline-block w-8 h-8" fill="currentColor" height="1em" stroke="currentColor" stroke-width="0" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+          <path d="m16.192 6.344-4.243 4.242-4.242-4.242-1.414 1.414L10.535 12l-4.242 4.242 1.414 1.414 4.242-4.242 4.243 4.242 1.414-1.414L13.364 12l4.242-4.242z">
+          </path>
+         </svg>
+        </button>
+       </div>
+      </div>
+      <div class="border-0 border-b border-solid border-green-50 p-3 bg-green-50">
+       <div class="cursor-pointer">
+        <span class="cursor-pointer bg-green-800 group-hover:bg-white text-white group-hover:text-blue-800 mr-1 lg:mr-2 inline-block rounded-full p-1 lg:p-2 align-middle">
+         <svg fill="currentColor" height="1em" stroke="currentColor" stroke-width="0" viewbox="0 0 512 512" width="1em" xmlns="http://www.w3.org/2000/svg">
+          <path d="M478.33 433.6l-90-218a22 22 0 00-40.67 0l-90 218a22 22 0 1040.67 16.79L316.66 406h102.67l18.33 44.39A22 22 0 00458 464a22 22 0 0020.32-30.4zM334.83 362L368 281.65 401.17 362zm-66.99-19.08a22 22 0 00-4.89-30.7c-.2-.15-15-11.13-36.49-34.73 39.65-53.68 62.11-114.75 71.27-143.49H330a22 22 0 000-44H214V70a22 22 0 00-44 0v20H54a22 22 0 000 44h197.25c-9.52 26.95-27.05 69.5-53.79 108.36-31.41-41.68-43.08-68.65-43.17-68.87a22 22 0 00-40.58 17c.58 1.38 14.55 34.23 52.86 83.93.92 1.19 1.83 2.35 2.74 3.51-39.24 44.35-77.74 71.86-93.85 80.74a22 22 0 1021.07 38.63c2.16-1.18 48.6-26.89 101.63-85.59 22.52 24.08 38 35.44 38.93 36.1a22 22 0 0030.75-4.9z">
+          </path>
+         </svg>
+        </span>
+        <button aria-label="Dark Button" class="px-7 py-3 text-lg rounded-md undefined undefined border-0 bg-transparent !p-0 text-secondary hover:text-primary dark transition ease-in-out font-medium leading-none !text-green-600 !font-mono undefined" title="English">
+         English
+        </button>
+        <!-- -->
+        /
+        <!-- -->
+        <button aria-label="Dark Button" class="px-7 py-3 text-lg rounded-md undefined undefined border-0 bg-transparent !p-0 text-secondary hover:text-primary dark transition ease-in-out font-medium leading-none false !font-mono undefined" title="हिंदी">
+         हिंदी
+        </button>
+       </div>
+      </div>
+      <ul class="grid grid-cols-1 p-4 space-y-2 gap-2">
+      </ul>
+     </div>
+    </div>
+   </nav>
+   <main class="">
+    <div class="absolute top-0">
+    </div>
+    <div class="container px-4 lg:px-0 mx-auto pb-24 pt-4">
+     <button aria-label="Indigo Button" class="flex items-center px-5 py-2.5 text-base rounded-md undefined undefined border-0 bg-transparent !p-0 text-secondary hover:text-primary indigo transition ease-in-out font-medium leading-none my-2 opacity-80 mb-2 mt-14 sm:mt-20 undefined" title="">
+      <svg class="mr-2 inline-block opacity-80 w-5 h-5 !mr-1" fill="currentColor" height="1em" stroke="currentColor" stroke-width="0" viewbox="0 0 16 16" width="1em" xmlns="http://www.w3.org/2000/svg">
+       <path d="M12 8a.5.5 0 0 1-.5.5H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H11.5a.5.5 0 0 1 .5.5z" fill-rule="evenodd">
+       </path>
+      </svg>
+      Back
+     </button>
+     <div class="hidden lg:block">
+      <div>
+       <div class="gap-4 grid grid-cols-1 lg:!grid-cols-5 !gap-x-6 md:grid-cols-2 lg:grid-cols-4 undefined">
+        <div class="flex-1">
+         <div class="sticky top-24">
+          <ul class="">
+           <li class="side-tabs rounded-md text-opacity-100 op-full-imp cursor-pointer bg-gray-100/50 font-semibold text-gray-800">
+            <span class="flex w-full px-4 py-2 mb-5 bg-opacity-70 text-txt-menu">
+             Details
+            </span>
+           </li>
+           <li class="side-tabs rounded-md text-opacity-100 op-full-imp cursor-pointer hover:bg-gray-100">
+            <span class="flex w-full px-4 py-2 mb-5 bg-opacity-70 text-txt-menu">
+             Benefits
+            </span>
+           </li>
+           <li class="side-tabs rounded-md text-opacity-100 op-full-imp cursor-pointer hover:bg-gray-100">
+            <span class="flex w-full px-4 py-2 mb-5 bg-opacity-70 text-txt-menu">
+             Eligibility
+            </span>
+           </li>
+           <li class="side-tabs rounded-md text-opacity-100 op-full-imp cursor-pointer hover:bg-gray-100">
+            <span class="flex w-full px-4 py-2 mb-5 bg-opacity-70 text-txt-menu">
+             Exclusions
+            </span>
+           </li>
+           <li class="side-tabs rounded-md text-opacity-100 op-full-imp cursor-pointer hover:bg-gray-100">
+            <span class="flex w-full px-4 py-2 mb-5 bg-opacity-70 text-txt-menu">
+             Application Process
+            </span>
+           </li>
+           <li class="side-tabs rounded-md text-opacity-100 op-full-imp cursor-pointer hover:bg-gray-100">
+            <span class="flex w-full px-4 py-2 mb-5 bg-opacity-70 text-txt-menu">
+             Documents Required
+            </span>
+           </li>
+           <li class="side-tabs rounded-md text-opacity-100 op-full-imp cursor-pointer hover:bg-gray-100">
+            <span class="flex w-full px-4 py-2 mb-5 bg-opacity-70 text-txt-menu">
+             Frequently Asked Questions
+            </span>
+           </li>
+           <li class="side-tabs rounded-md text-opacity-100 op-full-imp cursor-pointer hover:bg-gray-100">
+            <span class="flex w-full px-4 py-2 mb-5 bg-opacity-70 text-txt-menu">
+             Sources And References
+            </span>
+           </li>
+           <li class="side-tabs rounded-md text-opacity-100 op-full-imp cursor-pointer hover:bg-gray-100">
+            <span class="flex w-full px-4 py-2 mb-5 bg-opacity-70 text-txt-menu">
+             Feedback
+            </span>
+           </li>
+          </ul>
+         </div>
+        </div>
+        <div class="col-span-5 md:col-span-3">
+         <div id="scrollDiv">
+          <div>
+           <div class="h-screen w-screen bg-black/20 fixed top-0 left-0 z-[50] opacity-0 hidden transform transition-all ease-in-out">
+            <div class="relative flex flex-col items-center justify-center h-full">
+             <div class="relative bg-white rounded-lg shadow w-[90%] md:w-auto md:max-w-[60%] lg:min-w-[30%] max-h-[80vh] overflow-auto">
+              <button aria-label="Button" class="px-5 py-2.5 text-base rounded-md undefined undefined border-0 bg-transparent !p-0 text-secondary hover:text-primary blue text-secondary hover:text-primary transition ease-in-out font-medium leading-none absolute top-5 right-5 undefined" title="">
+               <svg aria-hidden="true" class="svg-inline--fa fa-xmark fa-lg" data-icon="xmark" data-prefix="fas" focusable="false" role="img" viewbox="0 0 384 512" xmlns="http://www.w3.org/2000/svg">
+                <path d="M342.6 150.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L192 210.7 86.6 105.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L146.7 256 41.4 361.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L192 301.3 297.4 406.6c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L237.3 256 342.6 150.6z" fill="currentColor">
+                </path>
+               </svg>
+              </button>
+              <div class="p-6 text-center">
+               <h3 class="font-normal text-gray-800">
+                <div class="w-full">
+                 <div class="h-screen w-screen bg-black/20 fixed top-0 left-0 z-[50] opacity-0 hidden transform transition-all ease-in-out">
+                  <div class="relative flex flex-col items-center justify-center h-full">
+                   <div class="relative bg-white rounded-lg shadow w-[90%] md:w-auto md:max-w-[60%] lg:min-w-[30%] max-h-[80vh] overflow-auto">
+                    <div class="p-6 text-center">
+                     <svg class="mx-auto w-10 h-10 mb-3 text-red-600" fill="currentColor" height="1em" stroke="currentColor" stroke-width="0" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+                      <path d="M0 0h24v24H0z" fill="none">
+                      </path>
+                      <path d="M10.09 15.59L11.5 17l5-5-5-5-1.41 1.41L12.67 11H3v2h9.67l-2.58 2.59zM19 3H5a2 2 0 00-2 2v4h2V5h14v14H5v-4H3v4a2 2 0 002 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z">
+                      </path>
+                     </svg>
+                     <h3 class="font-normal text-gray-800">
+                      You need to login before applying for schemes
+                     </h3>
+                    </div>
+                    <div class="bg-gray-100 p-4 flex justify-center rounded-b-lg">
+                     <div class="flex gap-2 justify-between w-full">
+                      <button aria-label="White Button" class="px-5 py-2.5 text-base rounded-md undefined undefined white border-solid border border-cyan-200 !text-gray-800 hover:border-cyan-400 hover:shadow bg-secondary text-white hover:bg-primary transition ease-in-out font-medium leading-none flex-1 undefined" title="" type="button">
+                       Cancel
+                      </button>
+                      <button aria-label="Success Button" class="px-5 py-2.5 text-base rounded-md undefined undefined green bg-secondary text-white hover:bg-primary transition ease-in-out font-medium leading-none flex-1 undefined" title="" type="button">
+                       Login
+                      </button>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                 <h3 class="font-bold font-heading mb-4 text-left pb-2 border-0 border-b border-solid border-gray-200">
+                  Apply Via:
+                 </h3>
+                 <div class="grid grid-cols-1 md:flex flex-wrap gap-4 justify-between items-center !justify-start">
+                 </div>
+                </div>
+               </h3>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="h-screen w-screen bg-black/20 fixed top-0 left-0 z-50 transform transition-all ease-in-out translate-x-full">
+            <div class="relative h-full w-full right-0 overflow-y-auto">
+             <div class="absolute w-full h-full md:w-[70%] lg:w-[60%] xl:w-[50%] overflow-y-auto right-0 bg-white px-6 pt-4 pb-6 rounded-tl-lg rounded-bl-lg translate-x-full">
+              <div class="flex flex-row items-center justify-between border-0 border-solid border-b-2 border-b-cyan-300 pb-2">
+               <h3 class="font-bold text-lg sm:text-xl">
+                Check Eligibility
+               </h3>
+               <svg class="text-green-600 cursor-pointer font-bold" fill="currentColor" height="25" stroke="currentColor" stroke-width="0" viewbox="0 0 24 24" width="25" xmlns="http://www.w3.org/2000/svg">
+                <path d="M0 0h24v24H0z" fill="none">
+                </path>
+                <path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z">
+                </path>
+               </svg>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="gap-0 grid grid-cols-1 !grid-cols-1 bg-white border border-solid border-gray-200 rounded-md w-full gap-0rounded-2xl md:grid-cols-2 lg:grid-cols-4 undefined">
+            <div class="grid grid-cols-1 md:flex flex-wrap gap-4 justify-between items-center p-3 md:px-6 pt-6 pb-0 !items-start relative">
+             <div class="w-full pb-6">
+              <div class="w-full flex flex-row justify-between items-start mb-5">
+               <div class="flex-1">
+                <h2 class="text-darkIndigo-900 text-sm">
+                 Ministry Of Agriculture and Farmers Welfare
+                </h2>
+                <h1 class="font-bold text-green-600 text-xl sm:text-2xl mt-1" title="Agri-Clinics And Agri-Business Centres Scheme">
+                 Agri-Clinics And Agri-Business Centres Scheme
+                </h1>
+               </div>
+               <div class="grid grid-cols-1 md:flex flex-wrap gap-4 justify-between items-center hidden !gap-1">
+                <div class="relative">
+                 <div class="flex flex-wrap">
+                  <div class="w-full text-center">
+                   <button class="active:bg-indigo-600 border border-solid w-8 h-8 flex justify-center items-center rounded-full hover:shadow-lg outline-none focus:outline-none ease-linear transition-all duration-150 bg-transparent border-amber-200 hover:border-amber-300 text-amber-600" id="popContainer1" title="Copy" type="button">
+                    <svg fill="none" height="16" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="16" xmlns="http://www.w3.org/2000/svg">
+                     <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71">
+                     </path>
+                     <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71">
+                     </path>
+                    </svg>
+                   </button>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+              <div class="grid grid-cols-1 md:flex flex-wrap gap-4 justify-between items-center !items-start">
+               <div class="mb-2 md:mb-0 w-full">
+                <div class="text-gray-800 bg-gray-200 rounded inline-block font-semibold leading-none py-2 px-3.5 text-sm text-left md:text-center rounded hover:shadow-md mr-2 mt-1 cursor-pointer" title="Agriculture">
+                 Agriculture
+                </div>
+                <div class="text-gray-800 bg-gray-200 rounded inline-block font-semibold leading-none py-2 px-3.5 text-sm text-left md:text-center rounded hover:shadow-md mr-2 mt-1 cursor-pointer" title="Business">
+                 Business
+                </div>
+                <div class="text-gray-800 bg-gray-200 rounded inline-block font-semibold leading-none py-2 px-3.5 text-sm text-left md:text-center rounded hover:shadow-md mr-2 mt-1 cursor-pointer" title="Employment">
+                 Employment
+                </div>
+                <div class="text-gray-800 bg-gray-200 rounded inline-block font-semibold leading-none py-2 px-3.5 text-sm text-left md:text-center rounded hover:shadow-md mr-2 mt-1 cursor-pointer" title="Entrepreneur">
+                 Entrepreneur
+                </div>
+                <div class="text-gray-800 bg-gray-200 rounded inline-block font-semibold leading-none py-2 px-3.5 text-sm text-left md:text-center rounded hover:shadow-md mr-2 mt-1 cursor-pointer" title="Student">
+                 Student
+                </div>
+                <div class="text-gray-800 bg-gray-200 rounded inline-block font-semibold leading-none py-2 px-3.5 text-sm text-left md:text-center rounded hover:shadow-md mr-2 mt-1 cursor-pointer" title="Training">
+                 Training
+                </div>
+               </div>
+               <div class="flex-none md:w-1/3 sm:hidden">
+                <div class="flex items-center gap-4 justify-between items-center md:justify-end">
+                 <div class="flex flex-row items-center justify-center sm:hidden !gap-2">
+                  <div class="relative">
+                   <div class="flex flex-wrap">
+                    <div class="w-full text-center">
+                     <button class="active:bg-indigo-600 border border-solid w-8 h-8 flex justify-center items-center rounded-full hover:shadow-lg outline-none focus:outline-none ease-linear transition-all duration-150 bg-transparent border-amber-200 hover:border-amber-300 text-amber-600" id="popContainer1" title="Copy" type="button">
+                      <svg fill="none" height="16" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="16" xmlns="http://www.w3.org/2000/svg">
+                       <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71">
+                       </path>
+                       <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71">
+                       </path>
+                      </svg>
+                     </button>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="pt-10" id="details">
+           <h3 class="text-lg md:text-2xl sm:text-xl text-blue-900 font-semibold font-heading undefined">
+            Details
+           </h3>
+           <div class="grid grid-cols-1 md:flex flex-wrap gap-4 justify-between items-center !items-start w-full mt-6 bg-white rounded-2xl p-8 !gap-8 shadow">
+            <div class="flex-1">
+             <div class="markdown-options" contenteditable="false" data-slate-editor="true" data-slate-node="value" style="position:relative;outline:none;white-space:pre-wrap;word-wrap:break-word" zindex="-1">
+              <div class="mb-2" data-slate-node="element">
+               <span data-slate-node="text">
+                <span data-slate-leaf="true">
+                 <span data-slate-string="true">
+                  A welfare scheme by the Ministry of Agriculture and Farmers' Welfare was launched in 2002. AC&amp;ABC aims at agricultural development by supplementing the efforts of public extension by providing extension and other services to farmers either on a payment basis or free of cost as per the business model of agri-preneur, local needs, and affordability of the target group of farmers. AC&amp;ABC creates gainful self-employment opportunities for unemployed agricultural graduates, agricultural diploma holders, intermediate in agriculture, and biological science graduates with PG in agri-related courses.
+                 </span>
+                </span>
+               </span>
+              </div>
+              <div class="mb-2" data-slate-node="element">
+               <span data-slate-node="text">
+                <span data-slate-leaf="true">
+                 <span data-slate-string="true">
+                  NABARD is acting as a subsidy channelizing agency for this scheme.
+                 </span>
+                </span>
+               </span>
+              </div>
+              <div class="mb-2" data-slate-node="element">
+               <span data-slate-node="text">
+                <span data-slate-leaf="true">
+                 <span data-slate-length="0" data-slate-zero-width="n">
+                  ﻿
+                  <br/>
+                 </span>
+                </span>
+               </span>
+              </div>
+              <div class="mb-2" data-slate-node="element">
+               <span data-slate-node="text">
+                <span data-slate-leaf="true">
+                 <span data-slate-string="true">
+                  Committed to this program, the Government is now also providing start-up training to graduates in Agriculture, or any subject allied to Agriculture like Horticulture, Sericulture, Veterinary Sciences, Forestry, Dairy, Poultry Farming, Fisheries, etc. Those completing the training can apply for special start-up loans for ventures.
+                 </span>
+                </span>
+               </span>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="pt-10" id="benefits">
+           <h3 class="text-lg md:text-2xl sm:text-xl text-blue-900 font-semibold font-heading undefined">
+            Benefits
+           </h3>
+           <div class="grid grid-cols-1 md:flex flex-wrap gap-4 justify-between items-center !items-start w-full mt-6 bg-white rounded-2xl p-8 !gap-8 shadow">
+            <div>
+             <span style="box-sizing:border-box;display:inline-block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative;max-width:100%">
+              <span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;max-width:100%">
+               <img alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2740%27%20height=%2740%27/%3e" style="display:block;max-width:100%;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0"/>
+              </span>
+              <img alt="Benefits Icon" class="border-0 opacity-60" data-nimg="intrinsic" decoding="async" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" title="Benefits Icon"/>
+              <noscript>
+               <img alt="Benefits Icon" class="border-0 opacity-60" data-nimg="intrinsic" decoding="async" loading="lazy" src="https://cdn.myscheme.in/images/icons/benefits.svg" srcset="https://cdn.myscheme.in/images/icons/benefits.svg 1x, https://cdn.myscheme.in/images/icons/benefits.svg 2x" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" title="Benefits Icon"/>
+              </noscript>
+             </span>
+            </div>
+            <div class="flex-1">
+             <div class="markdown-options" contenteditable="false" data-slate-editor="true" data-slate-node="value" style="position:relative;outline:none;white-space:pre-wrap;word-wrap:break-word" zindex="-1">
+              <div class="mb-2" data-slate-node="element">
+               <span data-slate-node="text">
+                <span data-slate-leaf="true">
+                 <strong>
+                  <span data-slate-string="true">
+                   Agri-Clinics -
+                  </span>
+                 </strong>
+                </span>
+               </span>
+              </div>
+              <div class="mb-2" data-slate-node="element">
+               <span data-slate-node="text">
+                <span data-slate-leaf="true">
+                 <span data-slate-string="true">
+                  Agri-Clinics are envisaged to provide expert advice and services to farmers on various aspects to enhance the productivity of crops/animals and increase the incomes of farmers. Agri-Clinics provide support in the following areas:
+                 </span>
+                </span>
+               </span>
+              </div>
+              <ol data-slate-node="element" type="1">
+               <li data-slate-node="element">
+                <span data-slate-node="text">
+                 <span data-slate-leaf="true">
+                  <span data-slate-string="true">
+                   Soil health
+                  </span>
+                 </span>
+                </span>
+               </li>
+               <li data-slate-node="element">
+                <span data-slate-node="text">
+                 <span data-slate-leaf="true">
+                  <span data-slate-string="true">
+                   Cropping practices
+                  </span>
+                 </span>
+                </span>
+               </li>
+               <li data-slate-node="element">
+                <span data-slate-node="text">
+                 <span data-slate-leaf="true">
+                  <span data-slate-string="true">
+                   Plant protection
+                  </span>
+                 </span>
+                </span>
+               </li>
+               <li data-slate-node="element">
+                <span data-slate-node="text">
+                 <span data-slate-leaf="true">
+                  <span data-slate-string="true">
+                   Crop insurance post-harvest technology clinical services for animals, feed and fodder management prices of various crops in the market, etc.
+                  </span>
+                 </span>
+                </span>
+               </li>
+              </ol>
+              <div class="mb-2" data-slate-node="element">
+               <span data-slate-node="text">
+                <span data-slate-leaf="true">
+                 <span data-slate-length="0" data-slate-zero-width="n">
+                  ﻿
+                  <br/>
+                 </span>
+                </span>
+               </span>
+              </div>
+              <div class="mb-2" data-slate-node="element">
+               <span data-slate-node="text">
+                <span data-slate-leaf="true">
+                 <strong>
+                  <span data-slate-string="true">
+                   Agri-Business Centres -
+                  </span>
+                 </strong>
+                </span>
+               </span>
+              </div>
+              <div class="mb-2" data-slate-node="element">
+               <span data-slate-node="text">
+                <span data-slate-leaf="true">
+                 <span data-slate-string="true">
+                  Agri-Business Centres are commercial units of agri-ventures established by trained agriculture professionals. These ventures may include maintenance and custom hiring of farm equipment, sale of inputs, and other services in agriculture and allied areas, including post-harvest management and market linkages for income generation and entrepreneurship development.
+                 </span>
+                </span>
+               </span>
+              </div>
+              <div class="mb-2" data-slate-node="element">
+               <span data-slate-node="text">
+                <span data-slate-leaf="true">
+                 <span data-slate-length="0" data-slate-zero-width="n">
+                  ﻿
+                  <br/>
+                 </span>
+                </span>
+               </span>
+              </div>
+              <div class="mb-2" data-slate-node="element">
+               <span data-slate-node="text">
+                <span data-slate-leaf="true">
+                 <span data-slate-string="true">
+                  The scheme covers full financial support for training and handholding, provision of loans, and credit-linked back-end composite subsidy.
+                 </span>
+                </span>
+               </span>
+              </div>
+              <div class="mb-2" data-slate-node="element">
+               <span data-slate-node="text">
+                <span data-slate-leaf="true">
+                 <span data-slate-length="0" data-slate-zero-width="n">
+                  ﻿
+                  <br/>
+                 </span>
+                </span>
+               </span>
+              </div>
+              <div class="mb-2" data-slate-node="element">
+               <span data-slate-node="text">
+                <span data-slate-leaf="true">
+                 <strong>
+                  <span data-slate-string="true">
+                   Project activities -
+                  </span>
+                 </strong>
+                </span>
+               </span>
+              </div>
+              <ol data-slate-node="element" type="1">
+               <li data-slate-node="element">
+                <span data-slate-node="text">
+                 <span data-slate-leaf="true">
+                  <span data-slate-string="true">
+                   Extension consultancy services
+                  </span>
+                 </span>
+                </span>
+               </li>
+               <li data-slate-node="element">
+                <span data-slate-node="text">
+                 <span data-slate-leaf="true">
+                  <span data-slate-string="true">
+                   Soil and water quality cum inputs testing laboratories (with Atomic Absorption Spectrophotometers)
+                  </span>
+                 </span>
+                </span>
+               </li>
+               <li data-slate-node="element">
+                <span data-slate-node="text">
+                 <span data-slate-leaf="true">
+                  <span data-slate-string="true">
+                   Pest surveillance, diagnostic and control services
+                  </span>
+                 </span>
+                </span>
+               </li>
+               <li data-slate-node="element">
+                <span data-slate-node="text">
+                 <span data-slate-leaf="true">
+                  <span data-slate-string="true">
+                   Maintenance, repairs, and custom hiring of agricultural implements and machinery including micro-irrigation systems (sprinkler and drip)
+                  </span>
+                 </span>
+                </span>
+               </li>
+               <li data-slate-node="element">
+                <span data-slate-node="text">
+                 <span data-slate-leaf="true">
+                  <span data-slate-string="true">
+                   Agri Service Centres include the three activities mentioned above (Group Activity).
+                  </span>
+                 </span>
+                </span>
+               </li>
+               <li data-slate-node="element">
+                <span data-slate-node="text">
+                 <span data-slate-leaf="true">
+                  <span data-slate-string="true">
+                   Seed Processing Units
+                  </span>
+                 </span>
+                </span>
+               </li>
+               <li data-slate-node="element">
+                <span data-slate-node="text">
+                 <span data-slate-leaf="true">
+                  <span data-slate-string="true">
+                   Micro-propagation through Plant Tissue Culture Labs and Hardening Units
+                  </span>
+                 </span>
+                </span>
+               </li>
+               <li data-slate-node="element">
+                <span data-slate-node="text">
+                 <span data-slate-leaf="true">
+                  <span data-slate-string="true">
+                   Setting up of Vermiculture units, production of bio-fertilizers, bio-pesticides, and bio-control agents.
+                  </span>
+                 </span>
+                </span>
+               </li>
+               <li data-slate-node="element">
+                <span data-slate-node="text">
+                 <span data-slate-leaf="true">
+                  <span data-slate-string="true">
+                   Setting up of Apiaries (bee-keeping) and honey &amp; bee products' processing units
+                  </span>
+                 </span>
+                </span>
+               </li>
+               <li data-slate-node="element">
+                <span data-slate-node="text">
+                 <span data-slate-leaf="true">
+                  <span data-slate-string="true">
+                   Provision of Extension Consultancy Services
+                  </span>
+                 </span>
+                </span>
+               </li>
+               <li data-slate-node="element">
+                <span data-slate-node="text">
+                 <span data-slate-leaf="true">
+                  <span data-slate-string="true">
+                   Hatcheries and production of fish fingerlings for aquaculture
+                  </span>
+                 </span>
+                </span>
+               </li>
+               <li data-slate-node="element">
+                <span data-slate-node="text">
+                 <span data-slate-leaf="true">
+                  <span data-slate-string="true">
+                   Provision of livestock health cover, setting up veterinary dispensaries &amp; services including frozen semen banks and liquid nitrogen supply
+                  </span>
+                 </span>
+                </span>
+               </li>
+               <li data-slate-node="element">
+                <span data-slate-node="text">
+                 <span data-slate-leaf="true">
+                  <span data-slate-string="true">
+                   Setting up of Information Technology Kiosks in rural areas for access to various agriculture-related portals
+                  </span>
+                 </span>
+                </span>
+               </li>
+               <li data-slate-node="element">
+                <span data-slate-node="text">
+                 <span data-slate-leaf="true">
+                  <span data-slate-string="true">
+                   Feed Processing and testing units
+                  </span>
+                 </span>
+                </span>
+               </li>
+               <li data-slate-node="element">
+                <span data-slate-node="text">
+                 <span data-slate-leaf="true">
+                  <span data-slate-string="true">
+                   Value Addition Centres
+                  </span>
+                 </span>
+                </span>
+               </li>
+               <li data-slate-node="element">
+                <span data-slate-node="text">
+                 <span data-slate-leaf="true">
+                  <span data-slate-string="true">
+                   Setting up of Cool Chain from the farm level onwards (Group Activity)
+                  </span>
+                 </span>
+                </span>
+               </li>
+               <li data-slate-node="element">
+                <span data-slate-node="text">
+                 <span data-slate-leaf="true">
+                  <span data-slate-string="true">
+                   Retail marketing outlets for processed agri-products
+                  </span>
+                 </span>
+                </span>
+               </li>
+               <li data-slate-node="element">
+                <span data-slate-node="text">
+                 <span data-slate-leaf="true">
+                  <span data-slate-string="true">
+                   Rural marketing dealerships of farm inputs and outputs
+                  </span>
+                 </span>
+                </span>
+               </li>
+              </ol>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="pt-10" id="eligibility">
+           <h3 class="text-lg md:text-2xl sm:text-xl text-blue-900 font-semibold font-heading undefined">
+            Eligibility
+           </h3>
+           <div class="grid grid-cols-1 md:flex flex-wrap gap-4 justify-between items-center !items-start w-full mt-6 bg-white rounded-2xl p-8 !gap-8 shadow">
+            <div>
+             <span style="box-sizing:border-box;display:inline-block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative;max-width:100%">
+              <span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;max-width:100%">
+               <img alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2740%27%20height=%2740%27/%3e" style="display:block;max-width:100%;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0"/>
+              </span>
+              <img alt="Benefits Icon" class="border-0 opacity-60" data-nimg="intrinsic" decoding="async" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" title="Benefits Icon"/>
+              <noscript>
+               <img alt="Benefits Icon" class="border-0 opacity-60" data-nimg="intrinsic" decoding="async" loading="lazy" src="https://cdn.myscheme.in/images/icons/eligibility.svg" srcset="https://cdn.myscheme.in/images/icons/eligibility.svg 1x, https://cdn.myscheme.in/images/icons/eligibility.svg 2x" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" title="Benefits Icon"/>
+              </noscript>
+             </span>
+            </div>
+            <div class="flex-1">
+             <div class="markdown-options" contenteditable="false" data-slate-editor="true" data-slate-node="value" style="position:relative;outline:none;white-space:pre-wrap;word-wrap:break-word" zindex="-1">
+              <ol data-slate-node="element" type="1">
+               <li data-slate-node="element">
+                <span data-slate-node="text">
+                 <span data-slate-leaf="true">
+                  <span data-slate-string="true">
+                   The age of the applicant must be between 18 and 60 years.
+                  </span>
+                 </span>
+                </span>
+               </li>
+               <li data-slate-node="element">
+                <span data-slate-node="text">
+                 <span data-slate-leaf="true">
+                  <span data-slate-string="true">
+                   The applicant must qualify as one of the following -
+                  </span>
+                 </span>
+                </span>
+               </li>
+              </ol>
+              <ul data-slate-node="element">
+               <li data-slate-node="element">
+                <span data-slate-node="text">
+                 <span data-slate-leaf="true">
+                  <span data-slate-string="true">
+                   Graduates in agriculture and allied subjects from SAUs/ Central Agricultural Universities/ Universities recognized by ICAR/ UGC. Degree in Agriculture and allied subjects offered by other agencies are also considered subject to the approval of the Department of Agriculture &amp; Cooperation, Government of India on the recommendation of the State Government.
+                  </span>
+                 </span>
+                </span>
+               </li>
+               <li data-slate-node="element">
+                <span data-slate-node="text">
+                 <span data-slate-leaf="true">
+                  <span data-slate-string="true">
+                   Diploma (with at least 50% marks)/ Post Graduate Diploma holders in Agriculture and allied subjects from State Agricultural Universities, State Agriculture and Allied Departments, and State Department of Technical Education.
+                  </span>
+                 </span>
+                </span>
+               </li>
+               <li data-slate-node="element">
+                <span data-slate-node="text">
+                 <span data-slate-leaf="true">
+                  <span data-slate-string="true">
+                   Diplomas in Agriculture and allied subjects offered by other agencies are also considered subject to the approval of the Department of Agriculture &amp; Cooperation, Government of India on the recommendation of the State Government.
+                  </span>
+                 </span>
+                </span>
+               </li>
+               <li data-slate-node="element">
+                <span data-slate-node="text">
+                 <span data-slate-leaf="true">
+                  <span data-slate-string="true">
+                   Biological Science Graduates with Post Graduation in Agriculture &amp; allied subjects.
+                  </span>
+                 </span>
+                </span>
+               </li>
+               <li data-slate-node="element">
+                <span data-slate-node="text">
+                 <span data-slate-leaf="true">
+                  <span data-slate-string="true">
+                   Degree courses recognized by UGC have more than 60 percent of the course content in Agriculture and allied subjects.
+                  </span>
+                 </span>
+                </span>
+               </li>
+               <li data-slate-node="element">
+                <span data-slate-node="text">
+                 <span data-slate-leaf="true">
+                  <span data-slate-string="true">
+                   Diploma/Post-graduate Diploma courses with more than 60 percent of course content in Agriculture and allied subjects, after B.Sc. with Biological Sciences, from recognized colleges and universities.
+                  </span>
+                 </span>
+                </span>
+               </li>
+               <li data-slate-node="element">
+                <span data-slate-node="text">
+                 <span data-slate-leaf="true">
+                  <span data-slate-string="true">
+                   Agriculture-related courses at intermediate (i.e. plus two) level, with at least 55% marks.
+                  </span>
+                 </span>
+                </span>
+               </li>
+              </ul>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="pt-10" id="exclusions">
+           <h3 class="text-lg md:text-2xl sm:text-xl text-blue-900 font-semibold font-heading undefined">
+            Exclusions
+           </h3>
+           <div class="grid grid-cols-1 md:flex flex-wrap gap-4 justify-between items-center !items-start w-full mt-6 bg-white rounded-2xl p-8 !gap-8 shadow">
+            <div>
+             <span style="box-sizing:border-box;display:inline-block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative;max-width:100%">
+              <span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;max-width:100%">
+               <img alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2740%27%20height=%2740%27/%3e" style="display:block;max-width:100%;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0"/>
+              </span>
+              <img alt="Benefits Icon" class="border-0 opacity-60" data-nimg="intrinsic" decoding="async" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" title="Benefits Icon"/>
+              <noscript>
+               <img alt="Benefits Icon" class="border-0 opacity-60" data-nimg="intrinsic" decoding="async" loading="lazy" src="https://cdn.myscheme.in/images/icons/exclusions.svg" srcset="https://cdn.myscheme.in/images/icons/exclusions.svg 1x, https://cdn.myscheme.in/images/icons/exclusions.svg 2x" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" title="Benefits Icon"/>
+              </noscript>
+             </span>
+            </div>
+            <div class="flex-1">
+             <div class="markdown-options" contenteditable="false" data-slate-editor="true" data-slate-node="value" style="position:relative;outline:none;white-space:pre-wrap;word-wrap:break-word" zindex="-1">
+              <div class="mb-2" data-slate-node="element">
+               <span data-slate-node="text">
+                <span data-slate-leaf="true">
+                 <span data-slate-string="true">
+                  Retired Employees Getting Pensionary Benefits Are Not Eligible For Subsidy. However, They Can Undergo Training And Establish Self Financed Projects.
+                 </span>
+                </span>
+               </span>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="pt-10" id="applicationProcess">
+           <h3 class="text-lg md:text-2xl sm:text-xl text-blue-900 font-semibold font-heading undefined">
+            Application Process
+           </h3>
+           <div class="grid grid-cols-1 md:flex flex-wrap gap-4 justify-between items-center !items-start w-full mt-6 bg-white rounded-2xl p-8 !gap-8 shadow">
+            <div class="flex-1">
+             <div class="undefined">
+              <div class="overflow-x-auto overflow-y-hidden flex flex-row items-center mb-2 border-0 border-b border-solid border-gray-200 px-2 md:px-4 no-scrollbar">
+               <div class="px-4 py-2 flex items-start justify-center bg-white capitalize border-0 border-b-3 border-solid border-green-600 undefined">
+                <span class="text-md leading-8 text-gray-700 capitalize font-heading whitespace-nowrap font-semibold">
+                 Online
+                </span>
+               </div>
+              </div>
+              <div>
+               <div class="rounded py-4 px-4">
+                <div class="markdown-options" contenteditable="false" data-slate-editor="true" data-slate-node="value" style="position:relative;outline:none;white-space:pre-wrap;word-wrap:break-word" zindex="-1">
+                 <div class="mb-2" data-slate-node="element">
+                  <span data-slate-node="text">
+                   <span data-slate-leaf="true">
+                    <strong>
+                     <span data-slate-string="true">
+                      Step 1:
+                     </span>
+                    </strong>
+                   </span>
+                  </span>
+                  <span data-slate-node="text">
+                   <span data-slate-leaf="true">
+                    <span data-slate-string="true">
+                     The desirous applicant must visit the following link to apply for the scheme -
+                    </span>
+                   </span>
+                  </span>
+                 </div>
+                 <div class="mb-2" data-slate-node="element">
+                  <span data-slate-node="text">
+                   <span data-slate-leaf="true">
+                    <span data-slate-length="0" data-slate-zero-width="z">
+                     ﻿
+                    </span>
+                   </span>
+                  </span>
+                  <a class="inline-block !text-sky-600 break-all" href="https://acabcmis.gov.in/ApplicantReg.aspx" rel="noreferrer noopener" target="_blank">
+                   <span data-slate-node="text">
+                    <span data-slate-leaf="true">
+                     <span data-slate-string="true">
+                      https://acabcmis.gov.in/ApplicantReg.aspx
+                     </span>
+                    </span>
+                   </span>
+                  </a>
+                  <span data-slate-node="text">
+                   <span data-slate-leaf="true">
+                    <span data-slate-length="0" data-slate-zero-width="z">
+                     ﻿
+                    </span>
+                   </span>
+                  </span>
+                 </div>
+                 <div class="mb-2" data-slate-node="element">
+                  <span data-slate-node="text">
+                   <span data-slate-leaf="true">
+                    <strong>
+                     <span data-slate-string="true">
+                      Step 2:
+                     </span>
+                    </strong>
+                   </span>
+                  </span>
+                  <span data-slate-node="text">
+                   <span data-slate-leaf="true">
+                    <span data-slate-string="true">
+                     Fill in the mandatory fields correctly. Upload the required documents in the said format and size.
+                    </span>
+                   </span>
+                  </span>
+                 </div>
+                 <div class="mb-2" data-slate-node="element">
+                  <span data-slate-node="text">
+                   <span data-slate-leaf="true">
+                    <strong>
+                     <span data-slate-string="true">
+                      Step 3:
+                     </span>
+                    </strong>
+                   </span>
+                  </span>
+                  <span data-slate-node="text">
+                   <span data-slate-leaf="true">
+                    <span data-slate-string="true">
+                     Click "Submit" to complete the application process.
+                    </span>
+                   </span>
+                  </span>
+                 </div>
+                 <div class="mb-2" data-slate-node="element">
+                  <span data-slate-node="text">
+                   <span data-slate-leaf="true">
+                    <span data-slate-length="0" data-slate-zero-width="n">
+                     ﻿
+                     <br/>
+                    </span>
+                   </span>
+                  </span>
+                 </div>
+                 <div class="mb-2" data-slate-node="element">
+                  <span data-slate-node="text">
+                   <span data-slate-leaf="true">
+                    <span data-slate-string="true">
+                     The applicant can check his/her application status by visiting this link -
+                    </span>
+                   </span>
+                  </span>
+                  <a class="inline-block !text-sky-600 break-all" href="https://acabcmis.gov.in/ApplicationStatus_new.aspx" rel="noreferrer noopener" target="_blank">
+                   <span data-slate-node="text">
+                    <span data-slate-leaf="true">
+                     <span data-slate-string="true">
+                      https://acabcmis.gov.in/ApplicationStatus_new.aspx
+                     </span>
+                    </span>
+                   </span>
+                  </a>
+                  <span data-slate-node="text">
+                   <span data-slate-leaf="true">
+                    <span data-slate-length="0" data-slate-zero-width="z">
+                     ﻿
+                    </span>
+                   </span>
+                  </span>
+                  <a class="inline-block !text-sky-600 break-all" href="https://acabcmis.gov.in/ApplicantReg.aspx" rel="noreferrer noopener" target="_blank">
+                   <span data-slate-node="text">
+                    <span data-slate-leaf="true">
+                     <span data-slate-length="0" data-slate-zero-width="n">
+                      ﻿
+                      <br/>
+                     </span>
+                    </span>
+                   </span>
+                  </a>
+                  <span data-slate-node="text">
+                   <span data-slate-leaf="true">
+                    <span data-slate-length="0" data-slate-zero-width="z">
+                     ﻿
+                    </span>
+                   </span>
+                  </span>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="pt-10" id="documentsRequired">
+           <h3 class="text-lg md:text-2xl sm:text-xl text-blue-900 font-semibold font-heading undefined">
+            Documents Required
+           </h3>
+           <div class="grid grid-cols-1 md:flex flex-wrap gap-4 justify-between items-center !items-start w-full mt-6 bg-white rounded-2xl p-8 !gap-8 shadow">
+            <div>
+             <span style="box-sizing:border-box;display:inline-block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative;max-width:100%">
+              <span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;max-width:100%">
+               <img alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2740%27%20height=%2740%27/%3e" style="display:block;max-width:100%;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0"/>
+              </span>
+              <img alt="Benefits Icon" class="border-0 opacity-60" data-nimg="intrinsic" decoding="async" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" title="Benefits Icon"/>
+              <noscript>
+               <img alt="Benefits Icon" class="border-0 opacity-60" data-nimg="intrinsic" decoding="async" loading="lazy" src="https://cdn.myscheme.in/images/icons/documents.svg" srcset="https://cdn.myscheme.in/images/icons/documents.svg 1x, https://cdn.myscheme.in/images/icons/documents.svg 2x" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" title="Benefits Icon"/>
+              </noscript>
+             </span>
+            </div>
+            <div class="flex-1">
+             <div class="markdown-options" contenteditable="false" data-slate-editor="true" data-slate-node="value" style="position:relative;outline:none;white-space:pre-wrap;word-wrap:break-word" zindex="-1">
+              <div class="mb-2" data-slate-node="element">
+               <span data-slate-node="text">
+                <span data-slate-leaf="true">
+                 <span data-slate-string="true">
+                  1. Applicant Aadhaar Number.
+                 </span>
+                </span>
+               </span>
+              </div>
+              <div class="mb-2" data-slate-node="element">
+               <span data-slate-node="text">
+                <span data-slate-leaf="true">
+                 <span data-slate-string="true">
+                  2. Email ID.
+                 </span>
+                </span>
+               </span>
+              </div>
+              <div class="mb-2" data-slate-node="element">
+               <span data-slate-node="text">
+                <span data-slate-leaf="true">
+                 <span data-slate-string="true">
+                  3. Latest Educational Qualification.
+                 </span>
+                </span>
+               </span>
+              </div>
+              <div class="mb-2" data-slate-node="element">
+               <span data-slate-node="text">
+                <span data-slate-leaf="true">
+                 <span data-slate-string="true">
+                  4. Applicant's Bank Account Details.
+                 </span>
+                </span>
+               </span>
+              </div>
+              <div class="mb-2" data-slate-node="element">
+               <span data-slate-node="text">
+                <span data-slate-leaf="true">
+                 <span data-slate-string="true">
+                  5. Applicant photo
+                 </span>
+                </span>
+               </span>
+              </div>
+              <div class="mb-2" data-slate-node="element">
+               <span data-slate-node="text">
+                <span data-slate-leaf="true">
+                 <span data-slate-length="0" data-slate-zero-width="n">
+                  ﻿
+                  <br/>
+                 </span>
+                </span>
+               </span>
+              </div>
+              <div class="mb-2" data-slate-node="element">
+               <span data-slate-node="text">
+                <span data-slate-leaf="true">
+                 <strong>
+                  <span data-slate-string="true">
+                   Till such time as Aadhaar is assigned to an individual, she/he can avail the benefit of the scheme on the production of the following documents:
+                  </span>
+                 </strong>
+                </span>
+               </span>
+              </div>
+              <div class="mb-2" data-slate-node="element">
+               <span data-slate-node="text">
+                <span data-slate-leaf="true">
+                 <span data-slate-string="true">
+                  Aadhaar enrolment ID slip/ Copy of request for Aadhaar enrolment and Voter Identity Card/ PAN/ Passport/ Ration Card/ Employee Government ID/ Passbook of Bank or Post Office/ MGNREGS Card/ Kisan Photo Passport/ Driving Licenses/ any other document as specified by State/ UT.
+                 </span>
+                </span>
+               </span>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="pt-10" id="faqs">
+           <h3 class="text-lg md:text-2xl sm:text-xl text-blue-900 font-semibold font-heading undefined">
+            Frequently Asked Questions
+           </h3>
+           <div class="grid grid-cols-1 md:flex flex-wrap gap-4 justify-between items-center !items-start w-full mt-6 bg-white rounded-2xl p-8 !gap-8 shadow">
+            <div class="flex-1">
+             <div class="py-4 first:pt-0 last:pb-0 undefined">
+              <div class="cursor-pointer undefined">
+               <div class="flex flex-row items-center justify-between">
+                <p class="font-bold w-11/12">
+                 How much is a crop loan per acre?
+                </p>
+                <svg aria-hidden="true" class="ml-1" fill="currentColor" height="25" stroke="currentColor" stroke-width="0" viewbox="0 0 20 20" width="25" xmlns="http://www.w3.org/2000/svg">
+                 <path clip-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" fill-rule="evenodd">
+                 </path>
+                </svg>
+               </div>
+              </div>
+              <div class="rounded-b mt-3 hidden">
+               <p class="text-base leading-relaxed">
+                DBT will be given at the rate of Rs 4,000 per acre per season for cropping while zero-interest loan will be at the rate of Rs 50,000 per hectare to be capped at Rs 1 lakh per farmer, sources told BusinessToday.In. The crop loan is already offered to farmers at a subsidized rate of 4 percent only.
+               </p>
+              </div>
+             </div>
+             <div class="py-4 first:pt-0 last:pb-0 undefined">
+              <div class="cursor-pointer undefined">
+               <div class="flex flex-row items-center justify-between">
+                <p class="font-bold w-11/12">
+                 What is the lock in period for bank loans?
+                </p>
+                <svg aria-hidden="true" class="ml-1" fill="currentColor" height="25" stroke="currentColor" stroke-width="0" viewbox="0 0 20 20" width="25" xmlns="http://www.w3.org/2000/svg">
+                 <path clip-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" fill-rule="evenodd">
+                 </path>
+                </svg>
+               </div>
+              </div>
+              <div class="rounded-b mt-3 hidden">
+               <p class="text-base leading-relaxed">
+                A beneficiary cannot close the bank loans within three years from the date of availing loans.
+               </p>
+              </div>
+             </div>
+             <div class="py-4 first:pt-0 last:pb-0 undefined">
+              <div class="cursor-pointer undefined">
+               <div class="flex flex-row items-center justify-between">
+                <p class="font-bold w-11/12">
+                 What is the subsidy pattern?
+                </p>
+                <svg aria-hidden="true" class="ml-1" fill="currentColor" height="25" stroke="currentColor" stroke-width="0" viewbox="0 0 20 20" width="25" xmlns="http://www.w3.org/2000/svg">
+                 <path clip-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" fill-rule="evenodd">
+                 </path>
+                </svg>
+               </div>
+              </div>
+              <div class="rounded-b mt-3 hidden">
+               <p class="text-base leading-relaxed">
+                The subsidy is 36% of the Total Financial Outlay (TFO) for General Category candidates and 44% for Women, SC/ST/NE and Hilly State Candidates.
+               </p>
+              </div>
+             </div>
+             <div class="py-4 first:pt-0 last:pb-0 undefined">
+              <div class="cursor-pointer undefined">
+               <div class="flex flex-row items-center justify-between">
+                <p class="font-bold w-11/12">
+                 Is there any other condition for eligibility?
+                </p>
+                <svg aria-hidden="true" class="ml-1" fill="currentColor" height="25" stroke="currentColor" stroke-width="0" viewbox="0 0 20 20" width="25" xmlns="http://www.w3.org/2000/svg">
+                 <path clip-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" fill-rule="evenodd">
+                 </path>
+                </svg>
+               </div>
+              </div>
+              <div class="rounded-b mt-3 hidden">
+               <p class="text-base leading-relaxed">
+                Yes, retired employees getting pensionary benefits are not eligible for subsidy. However, they can undergo training and establish self financed projects.
+               </p>
+              </div>
+             </div>
+             <div class="py-4 first:pt-0 last:pb-0 undefined">
+              <div class="cursor-pointer undefined">
+               <div class="flex flex-row items-center justify-between">
+                <p class="font-bold w-11/12">
+                 Is there any upper ceiling for the project cost?
+                </p>
+                <svg aria-hidden="true" class="ml-1" fill="currentColor" height="25" stroke="currentColor" stroke-width="0" viewbox="0 0 20 20" width="25" xmlns="http://www.w3.org/2000/svg">
+                 <path clip-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" fill-rule="evenodd">
+                 </path>
+                </svg>
+               </div>
+              </div>
+              <div class="rounded-b mt-3 hidden">
+               <p class="text-base leading-relaxed">
+                Yes, the upper ceiling for the project cost eligible for subsidy is Rs. 20 Lakhs for individual projects and Rs. 100 Lakh for group projects. For extremely successful individual projects the ceiling is Rs. 25 Lakh.
+               </p>
+              </div>
+             </div>
+             <div class="py-4 first:pt-0 last:pb-0 undefined">
+              <div class="cursor-pointer undefined">
+               <div class="flex flex-row items-center justify-between">
+                <p class="font-bold w-11/12">
+                 Can the candidates undertake group projects?
+                </p>
+                <svg aria-hidden="true" class="ml-1" fill="currentColor" height="25" stroke="currentColor" stroke-width="0" viewbox="0 0 20 20" width="25" xmlns="http://www.w3.org/2000/svg">
+                 <path clip-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" fill-rule="evenodd">
+                 </path>
+                </svg>
+               </div>
+              </div>
+              <div class="rounded-b mt-3 hidden">
+               <p class="text-base leading-relaxed">
+                Yes, the candidates are allowed to undertake group projects, if the group consists of a total of five or more persons trained under the scheme.
+               </p>
+              </div>
+             </div>
+             <div class="py-4 first:pt-0 last:pb-0 undefined">
+              <div class="cursor-pointer undefined">
+               <div class="flex flex-row items-center justify-between">
+                <p class="font-bold w-11/12">
+                 What will happen if the project is not completed?
+                </p>
+                <svg aria-hidden="true" class="ml-1" fill="currentColor" height="25" stroke="currentColor" stroke-width="0" viewbox="0 0 20 20" width="25" xmlns="http://www.w3.org/2000/svg">
+                 <path clip-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" fill-rule="evenodd">
+                 </path>
+                </svg>
+               </div>
+              </div>
+              <div class="rounded-b mt-3 hidden">
+               <p class="text-base leading-relaxed">
+                If the project is not completed within the stipulated period, benefit of subsidy shall not be available and advance subsidy placed with the participating bank, if any, will have to be refunded forthwith to NABARD.
+               </p>
+              </div>
+             </div>
+             <div class="py-4 first:pt-0 last:pb-0 undefined">
+              <div class="cursor-pointer undefined">
+               <div class="flex flex-row items-center justify-between">
+                <p class="font-bold w-11/12">
+                 What is the duration of the training?
+                </p>
+                <svg aria-hidden="true" class="ml-1" fill="currentColor" height="25" stroke="currentColor" stroke-width="0" viewbox="0 0 20 20" width="25" xmlns="http://www.w3.org/2000/svg">
+                 <path clip-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" fill-rule="evenodd">
+                 </path>
+                </svg>
+               </div>
+              </div>
+              <div class="rounded-b mt-3 hidden">
+               <p class="text-base leading-relaxed">
+                45 days of residential training for the students who are desirous of setting up agri-clinics and agri-business centers.
+               </p>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="pt-10" id="sources">
+           <h3 class="text-lg md:text-2xl sm:text-xl text-blue-900 font-semibold font-heading undefined">
+            Sources And References
+           </h3>
+           <div class="grid grid-cols-1 md:flex flex-wrap gap-4 justify-between items-center !items-start w-full mt-6 bg-white rounded-2xl p-8 !gap-8 shadow">
+            <div class="flex-1">
+             <div class="w-full rounded-md bg-white">
+              <div class="border-0 border-b border-solid border-gray-300 w-full last:border-0 group">
+               <a class="flex flex-row items-center py-4 justify-start hover:underline underline-offset-2" href="https://agricoop.nic.in/sites/default/files/ACABC.pdf" target="_blank">
+                <p class="text-sm md:text-base sm:text-base mr-1 mb-0">
+                 Guidelines
+                </p>
+                <span class="text-sky-500 cursor-pointer group-hover:text-red-900 text-center ml-5">
+                 <svg aria-hidden="true" class="svg-inline--fa fa-arrow-up-right-from-square fa-lg" data-icon="arrow-up-right-from-square" data-prefix="fas" focusable="false" role="img" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z" fill="currentColor">
+                  </path>
+                 </svg>
+                </span>
+               </a>
+              </div>
+              <div class="border-0 border-b border-solid border-gray-300 w-full last:border-0 group">
+               <a class="flex flex-row items-center py-4 justify-start hover:underline underline-offset-2" href="https://www.nabard.org/auth/writereaddata/File/ACABC%20-%20Revised%20guidelines.pdf" target="_blank">
+                <p class="text-sm md:text-base sm:text-base mr-1 mb-0">
+                 Scheme Brief By NABARD
+                </p>
+                <span class="text-sky-500 cursor-pointer group-hover:text-red-900 text-center ml-5">
+                 <svg aria-hidden="true" class="svg-inline--fa fa-arrow-up-right-from-square fa-lg" data-icon="arrow-up-right-from-square" data-prefix="fas" focusable="false" role="img" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z" fill="currentColor">
+                  </path>
+                 </svg>
+                </span>
+               </a>
+              </div>
+              <div class="border-0 border-b border-solid border-gray-300 w-full last:border-0 group">
+               <a class="flex flex-row items-center py-4 justify-start hover:underline underline-offset-2" href="https://acabcmis.gov.in/Institute.aspx" target="_blank">
+                <p class="text-sm md:text-base sm:text-base mr-1 mb-0">
+                 List Of Nodal Institutes
+                </p>
+                <span class="text-sky-500 cursor-pointer group-hover:text-red-900 text-center ml-5">
+                 <svg aria-hidden="true" class="svg-inline--fa fa-arrow-up-right-from-square fa-lg" data-icon="arrow-up-right-from-square" data-prefix="fas" focusable="false" role="img" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z" fill="currentColor">
+                  </path>
+                 </svg>
+                </span>
+               </a>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="pt-10" id="feedback">
+           <div class="flex flex-row items-center justify-center w-full">
+            <div class="h-screen w-screen bg-black/20 fixed top-0 left-0 z-[50] opacity-0 hidden transform transition-all ease-in-out">
+             <div class="relative flex flex-col items-center justify-center h-full">
+              <div class="relative bg-white rounded-lg shadow w-[90%] md:w-auto md:max-w-[60%] lg:min-w-[30%] max-h-[80vh] overflow-auto">
+               <div class="p-6 text-center">
+                <svg class="mx-auto w-10 h-10 mb-3 text-red-600" fill="currentColor" height="1em" stroke="currentColor" stroke-width="0" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+                 <path d="M0 0h24v24H0z" fill="none">
+                 </path>
+                 <path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z">
+                 </path>
+                </svg>
+                <h3 class="font-normal text-gray-800">
+                </h3>
+               </div>
+               <div class="bg-gray-100 p-4 flex justify-center rounded-b-lg">
+                <div class="flex gap-2 justify-center w-full">
+                 <button aria-label="White Button" class="px-5 py-2.5 text-base rounded-md undefined undefined white border-solid border border-cyan-200 !text-gray-800 hover:border-cyan-400 hover:shadow bg-secondary text-white hover:bg-primary transition ease-in-out font-medium leading-none flex-none undefined" title="" type="button">
+                  Ok
+                 </button>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="flex flex-col items-center justify-center w-full mx-6">
+             <span class="font-heading text-sm sm:text-base text-darkIndigo-900">
+              Was this helpful?
+             </span>
+             <div class="flex flex-row items-center">
+              <button class="`border-0 cursor-pointer transform transition duration-300 hover:scale-125 mx-2 my-2" type="button">
+               <svg class="text-green-600" fill="currentColor" height="25" stroke="currentColor" stroke-width="0" viewbox="0 0 576 512" width="25" xmlns="http://www.w3.org/2000/svg">
+                <path d="M528.1 171.5L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6zM388.6 312.3l23.7 138.4L288 385.4l-124.3 65.3 23.7-138.4-100.6-98 139-20.2 62.2-126 62.2 126 139 20.2-100.6 98z">
+                </path>
+               </svg>
+              </button>
+              <button class="`border-0 cursor-pointer transform transition duration-300 hover:scale-125 mx-2 my-2" type="button">
+               <svg class="text-green-600" fill="currentColor" height="25" stroke="currentColor" stroke-width="0" viewbox="0 0 576 512" width="25" xmlns="http://www.w3.org/2000/svg">
+                <path d="M528.1 171.5L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6zM388.6 312.3l23.7 138.4L288 385.4l-124.3 65.3 23.7-138.4-100.6-98 139-20.2 62.2-126 62.2 126 139 20.2-100.6 98z">
+                </path>
+               </svg>
+              </button>
+              <button class="`border-0 cursor-pointer transform transition duration-300 hover:scale-125 mx-2 my-2" type="button">
+               <svg class="text-green-600" fill="currentColor" height="25" stroke="currentColor" stroke-width="0" viewbox="0 0 576 512" width="25" xmlns="http://www.w3.org/2000/svg">
+                <path d="M528.1 171.5L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6zM388.6 312.3l23.7 138.4L288 385.4l-124.3 65.3 23.7-138.4-100.6-98 139-20.2 62.2-126 62.2 126 139 20.2-100.6 98z">
+                </path>
+               </svg>
+              </button>
+              <button class="`border-0 cursor-pointer transform transition duration-300 hover:scale-125 mx-2 my-2" type="button">
+               <svg class="text-green-600" fill="currentColor" height="25" stroke="currentColor" stroke-width="0" viewbox="0 0 576 512" width="25" xmlns="http://www.w3.org/2000/svg">
+                <path d="M528.1 171.5L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6zM388.6 312.3l23.7 138.4L288 385.4l-124.3 65.3 23.7-138.4-100.6-98 139-20.2 62.2-126 62.2 126 139 20.2-100.6 98z">
+                </path>
+               </svg>
+              </button>
+              <button class="`border-0 cursor-pointer transform transition duration-300 hover:scale-125 mx-2 my-2" type="button">
+               <svg class="text-green-600" fill="currentColor" height="25" stroke="currentColor" stroke-width="0" viewbox="0 0 576 512" width="25" xmlns="http://www.w3.org/2000/svg">
+                <path d="M528.1 171.5L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6zM388.6 312.3l23.7 138.4L288 385.4l-124.3 65.3 23.7-138.4-100.6-98 139-20.2 62.2-126 62.2 126 139 20.2-100.6 98z">
+                </path>
+               </svg>
+              </button>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="flex-1">
+         <div class="sticky top-24">
+          <div class="p-4 bg-gray-50 rounded-lg mb-6">
+           <h4 class="font-semibold font-heading text-gray-500 mb-3 pb-2 border-0 border-b border-solid border-gray-200">
+            Share
+           </h4>
+          </div>
+          <div class="p-4 bg-gray-50 rounded-lg">
+           <h4 class="font-semibold font-heading text-gray-500 mb-2 pb-2 border-0 border-b border-solid border-gray-200">
+            News and Updates
+           </h4>
+           <div class="flex flex-col">
+            <p class="text-sm opacity-80 font-semibold mb-1">
+             No new news and updates available
+            </p>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="block lg:hidden">
+      <div>
+       <div class="h-screen w-screen bg-black/20 fixed top-0 left-0 z-[50] opacity-0 hidden transform transition-all ease-in-out">
+        <div class="relative flex flex-col items-center justify-center h-full">
+         <div class="relative bg-white rounded-lg shadow w-[90%] md:w-auto md:max-w-[60%] lg:min-w-[30%] max-h-[80vh] overflow-auto">
+          <button aria-label="Button" class="px-5 py-2.5 text-base rounded-md undefined undefined border-0 bg-transparent !p-0 text-secondary hover:text-primary blue text-secondary hover:text-primary transition ease-in-out font-medium leading-none absolute top-5 right-5 undefined" title="">
+           <svg aria-hidden="true" class="svg-inline--fa fa-xmark fa-lg" data-icon="xmark" data-prefix="fas" focusable="false" role="img" viewbox="0 0 384 512" xmlns="http://www.w3.org/2000/svg">
+            <path d="M342.6 150.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L192 210.7 86.6 105.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L146.7 256 41.4 361.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L192 301.3 297.4 406.6c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L237.3 256 342.6 150.6z" fill="currentColor">
+            </path>
+           </svg>
+          </button>
+          <div class="p-6 text-center">
+           <h3 class="font-normal text-gray-800">
+            <div class="w-full">
+             <div class="h-screen w-screen bg-black/20 fixed top-0 left-0 z-[50] opacity-0 hidden transform transition-all ease-in-out">
+              <div class="relative flex flex-col items-center justify-center h-full">
+               <div class="relative bg-white rounded-lg shadow w-[90%] md:w-auto md:max-w-[60%] lg:min-w-[30%] max-h-[80vh] overflow-auto">
+                <div class="p-6 text-center">
+                 <svg class="mx-auto w-10 h-10 mb-3 text-red-600" fill="currentColor" height="1em" stroke="currentColor" stroke-width="0" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M0 0h24v24H0z" fill="none">
+                  </path>
+                  <path d="M10.09 15.59L11.5 17l5-5-5-5-1.41 1.41L12.67 11H3v2h9.67l-2.58 2.59zM19 3H5a2 2 0 00-2 2v4h2V5h14v14H5v-4H3v4a2 2 0 002 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z">
+                  </path>
+                 </svg>
+                 <h3 class="font-normal text-gray-800">
+                  You need to login before applying for schemes
+                 </h3>
+                </div>
+                <div class="bg-gray-100 p-4 flex justify-center rounded-b-lg">
+                 <div class="flex gap-2 justify-between w-full">
+                  <button aria-label="White Button" class="px-5 py-2.5 text-base rounded-md undefined undefined white border-solid border border-cyan-200 !text-gray-800 hover:border-cyan-400 hover:shadow bg-secondary text-white hover:bg-primary transition ease-in-out font-medium leading-none flex-1 undefined" title="" type="button">
+                   Cancel
+                  </button>
+                  <button aria-label="Success Button" class="px-5 py-2.5 text-base rounded-md undefined undefined green bg-secondary text-white hover:bg-primary transition ease-in-out font-medium leading-none flex-1 undefined" title="" type="button">
+                   Login
+                  </button>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+             <h3 class="font-bold font-heading mb-4 text-left pb-2 border-0 border-b border-solid border-gray-200">
+              Apply Via:
+             </h3>
+             <div class="grid grid-cols-1 md:flex flex-wrap gap-4 justify-between items-center !justify-start">
+             </div>
+            </div>
+           </h3>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="h-screen w-screen bg-black/20 fixed top-0 left-0 z-50 transform transition-all ease-in-out translate-x-full">
+        <div class="relative h-full w-full right-0 overflow-y-auto">
+         <div class="absolute w-full h-full md:w-[70%] lg:w-[60%] xl:w-[50%] overflow-y-auto right-0 bg-white px-6 pt-4 pb-6 rounded-tl-lg rounded-bl-lg translate-x-full">
+          <div class="flex flex-row items-center justify-between border-0 border-solid border-b-2 border-b-cyan-300 pb-2">
+           <h3 class="font-bold text-lg sm:text-xl">
+            Check Eligibility
+           </h3>
+           <svg class="text-green-600 cursor-pointer font-bold" fill="currentColor" height="25" stroke="currentColor" stroke-width="0" viewbox="0 0 24 24" width="25" xmlns="http://www.w3.org/2000/svg">
+            <path d="M0 0h24v24H0z" fill="none">
+            </path>
+            <path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z">
+            </path>
+           </svg>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="gap-0 grid grid-cols-1 !grid-cols-1 bg-white border border-solid border-gray-200 rounded-md w-full gap-0 md:grid-cols-2 lg:grid-cols-4 undefined">
+        <div class="grid grid-cols-1 md:flex flex-wrap gap-4 justify-between items-center p-3 md:px-6 pt-6 pb-0 !items-start relative">
+         <div class="w-full pb-6">
+          <div class="w-full flex flex-row justify-between items-start mb-5">
+           <div class="flex-1">
+            <h2 class="text-darkIndigo-900 text-sm">
+             Ministry Of Agriculture and Farmers Welfare
+            </h2>
+            <h1 class="font-bold text-green-600 text-xl sm:text-2xl mt-1" title="Agri-Clinics And Agri-Business Centres Scheme">
+             Agri-Clinics And Agri-Business Centres Scheme
+            </h1>
+           </div>
+           <div class="grid grid-cols-1 md:flex flex-wrap gap-4 justify-between items-center hidden !gap-1">
+            <div class="relative">
+             <div class="flex flex-wrap">
+              <div class="w-full text-center">
+               <button class="active:bg-indigo-600 border border-solid w-8 h-8 flex justify-center items-center rounded-full hover:shadow-lg outline-none focus:outline-none ease-linear transition-all duration-150 bg-transparent border-amber-200 hover:border-amber-300 text-amber-600" id="popContainer1" title="Copy" type="button">
+                <svg fill="none" height="16" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="16" xmlns="http://www.w3.org/2000/svg">
+                 <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71">
+                 </path>
+                 <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71">
+                 </path>
+                </svg>
+               </button>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="grid grid-cols-1 md:flex flex-wrap gap-4 justify-between items-center !items-start">
+           <div class="mb-2 md:mb-0 w-full">
+            <div class="text-gray-800 bg-gray-200 rounded inline-block font-semibold leading-none py-2 px-3.5 text-sm text-left md:text-center rounded hover:shadow-md mr-2 mt-1 cursor-pointer" title="Agriculture">
+             Agriculture
+            </div>
+            <div class="text-gray-800 bg-gray-200 rounded inline-block font-semibold leading-none py-2 px-3.5 text-sm text-left md:text-center rounded hover:shadow-md mr-2 mt-1 cursor-pointer" title="Business">
+             Business
+            </div>
+            <div class="text-gray-800 bg-gray-200 rounded inline-block font-semibold leading-none py-2 px-3.5 text-sm text-left md:text-center rounded hover:shadow-md mr-2 mt-1 cursor-pointer" title="Employment">
+             Employment
+            </div>
+            <div class="text-gray-800 bg-gray-200 rounded inline-block font-semibold leading-none py-2 px-3.5 text-sm text-left md:text-center rounded hover:shadow-md mr-2 mt-1 cursor-pointer" title="Entrepreneur">
+             Entrepreneur
+            </div>
+            <div class="text-gray-800 bg-gray-200 rounded inline-block font-semibold leading-none py-2 px-3.5 text-sm text-left md:text-center rounded hover:shadow-md mr-2 mt-1 cursor-pointer" title="Student">
+             Student
+            </div>
+            <div class="text-gray-800 bg-gray-200 rounded inline-block font-semibold leading-none py-2 px-3.5 text-sm text-left md:text-center rounded hover:shadow-md mr-2 mt-1 cursor-pointer" title="Training">
+             Training
+            </div>
+           </div>
+           <div class="flex-none md:w-1/3 sm:hidden">
+            <div class="flex items-center gap-4 justify-between items-center md:justify-end">
+             <div class="flex flex-row items-center justify-center sm:hidden !gap-2">
+              <div class="relative">
+               <div class="flex flex-wrap">
+                <div class="w-full text-center">
+                 <button class="active:bg-indigo-600 border border-solid w-8 h-8 flex justify-center items-center rounded-full hover:shadow-lg outline-none focus:outline-none ease-linear transition-all duration-150 bg-transparent border-amber-200 hover:border-amber-300 text-amber-600" id="popContainer1" title="Copy" type="button">
+                  <svg fill="none" height="16" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="16" xmlns="http://www.w3.org/2000/svg">
+                   <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71">
+                   </path>
+                   <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71">
+                   </path>
+                  </svg>
+                 </button>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="h-2">
+       </div>
+       <div class="grid grid-cols-4 gap-2">
+        <div class="col-span-4 shadow-md rounded-md bg-white py-4">
+         <div class="undefined">
+          <div class="overflow-x-auto overflow-y-hidden flex flex-row items-center mb-2 border-0 border-b border-solid border-gray-200 px-2 md:px-4 no-scrollbar">
+           <div class="px-4 py-2 flex items-start justify-center bg-white capitalize border-0 border-b-3 border-solid border-green-600 undefined">
+            <span class="text-md leading-8 text-gray-700 capitalize font-heading whitespace-nowrap font-semibold">
+             Details
+            </span>
+           </div>
+           <div class="px-4 py-2 flex items-start justify-center bg-white capitalize undefined">
+            <span class="text-md leading-8 text-gray-700 capitalize font-heading whitespace-nowrap font-medium">
+             Benefits
+            </span>
+           </div>
+           <div class="px-4 py-2 flex items-start justify-center bg-white capitalize undefined">
+            <span class="text-md leading-8 text-gray-700 capitalize font-heading whitespace-nowrap font-medium">
+             Eligibility
+            </span>
+           </div>
+           <div class="px-4 py-2 flex items-start justify-center bg-white capitalize undefined">
+            <span class="text-md leading-8 text-gray-700 capitalize font-heading whitespace-nowrap font-medium">
+             Exclusions
+            </span>
+           </div>
+           <div class="px-4 py-2 flex items-start justify-center bg-white capitalize undefined">
+            <span class="text-md leading-8 text-gray-700 capitalize font-heading whitespace-nowrap font-medium">
+             Application Process
+            </span>
+           </div>
+           <div class="px-4 py-2 flex items-start justify-center bg-white capitalize undefined">
+            <span class="text-md leading-8 text-gray-700 capitalize font-heading whitespace-nowrap font-medium">
+             Documents Required
+            </span>
+           </div>
+           <div class="px-4 py-2 flex items-start justify-center bg-white capitalize undefined">
+            <span class="text-md leading-8 text-gray-700 capitalize font-heading whitespace-nowrap font-medium">
+             Frequently Asked Questions
+            </span>
+           </div>
+          </div>
+          <div style="min-height:60vh">
+           <div class="px-3 md:px-6 my-4">
+            <div class="markdown-options" contenteditable="false" data-slate-editor="true" data-slate-node="value" style="position:relative;outline:none;white-space:pre-wrap;word-wrap:break-word" zindex="-1">
+             <div class="mb-2" data-slate-node="element">
+              <span data-slate-node="text">
+               <span data-slate-leaf="true">
+                <span data-slate-string="true">
+                 A welfare scheme by the Ministry of Agriculture and Farmers' Welfare was launched in 2002. AC&amp;ABC aims at agricultural development by supplementing the efforts of public extension by providing extension and other services to farmers either on a payment basis or free of cost as per the business model of agri-preneur, local needs, and affordability of the target group of farmers. AC&amp;ABC creates gainful self-employment opportunities for unemployed agricultural graduates, agricultural diploma holders, intermediate in agriculture, and biological science graduates with PG in agri-related courses.
+                </span>
+               </span>
+              </span>
+             </div>
+             <div class="mb-2" data-slate-node="element">
+              <span data-slate-node="text">
+               <span data-slate-leaf="true">
+                <span data-slate-string="true">
+                 NABARD is acting as a subsidy channelizing agency for this scheme.
+                </span>
+               </span>
+              </span>
+             </div>
+             <div class="mb-2" data-slate-node="element">
+              <span data-slate-node="text">
+               <span data-slate-leaf="true">
+                <span data-slate-length="0" data-slate-zero-width="n">
+                 ﻿
+                 <br/>
+                </span>
+               </span>
+              </span>
+             </div>
+             <div class="mb-2" data-slate-node="element">
+              <span data-slate-node="text">
+               <span data-slate-leaf="true">
+                <span data-slate-string="true">
+                 Committed to this program, the Government is now also providing start-up training to graduates in Agriculture, or any subject allied to Agriculture like Horticulture, Sericulture, Veterinary Sciences, Forestry, Dairy, Poultry Farming, Fisheries, etc. Those completing the training can apply for special start-up loans for ventures.
+                </span>
+               </span>
+              </span>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="shadow-md rounded-md bg-white py-4 px-4 hidden">
+         <div class="h-full w-full flex items-center justify-center">
+         </div>
+        </div>
+       </div>
+       <div class="h-4">
+       </div>
+       <div class="flex flex-row items-center justify-center w-full">
+        <div class="h-screen w-screen bg-black/20 fixed top-0 left-0 z-[50] opacity-0 hidden transform transition-all ease-in-out">
+         <div class="relative flex flex-col items-center justify-center h-full">
+          <div class="relative bg-white rounded-lg shadow w-[90%] md:w-auto md:max-w-[60%] lg:min-w-[30%] max-h-[80vh] overflow-auto">
+           <div class="p-6 text-center">
+            <svg class="mx-auto w-10 h-10 mb-3 text-red-600" fill="currentColor" height="1em" stroke="currentColor" stroke-width="0" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+             <path d="M0 0h24v24H0z" fill="none">
+             </path>
+             <path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z">
+             </path>
+            </svg>
+            <h3 class="font-normal text-gray-800">
+            </h3>
+           </div>
+           <div class="bg-gray-100 p-4 flex justify-center rounded-b-lg">
+            <div class="flex gap-2 justify-center w-full">
+             <button aria-label="White Button" class="px-5 py-2.5 text-base rounded-md undefined undefined white border-solid border border-cyan-200 !text-gray-800 hover:border-cyan-400 hover:shadow bg-secondary text-white hover:bg-primary transition ease-in-out font-medium leading-none flex-none undefined" title="" type="button">
+              Ok
+             </button>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="flex flex-col items-center justify-center w-full mx-6">
+         <span class="font-heading text-sm sm:text-base text-darkIndigo-900">
+          Was this helpful?
+         </span>
+         <div class="flex flex-row items-center">
+          <button class="`border-0 cursor-pointer transform transition duration-300 hover:scale-125 mx-2 my-2" type="button">
+           <svg class="text-green-600" fill="currentColor" height="25" stroke="currentColor" stroke-width="0" viewbox="0 0 576 512" width="25" xmlns="http://www.w3.org/2000/svg">
+            <path d="M528.1 171.5L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6zM388.6 312.3l23.7 138.4L288 385.4l-124.3 65.3 23.7-138.4-100.6-98 139-20.2 62.2-126 62.2 126 139 20.2-100.6 98z">
+            </path>
+           </svg>
+          </button>
+          <button class="`border-0 cursor-pointer transform transition duration-300 hover:scale-125 mx-2 my-2" type="button">
+           <svg class="text-green-600" fill="currentColor" height="25" stroke="currentColor" stroke-width="0" viewbox="0 0 576 512" width="25" xmlns="http://www.w3.org/2000/svg">
+            <path d="M528.1 171.5L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6zM388.6 312.3l23.7 138.4L288 385.4l-124.3 65.3 23.7-138.4-100.6-98 139-20.2 62.2-126 62.2 126 139 20.2-100.6 98z">
+            </path>
+           </svg>
+          </button>
+          <button class="`border-0 cursor-pointer transform transition duration-300 hover:scale-125 mx-2 my-2" type="button">
+           <svg class="text-green-600" fill="currentColor" height="25" stroke="currentColor" stroke-width="0" viewbox="0 0 576 512" width="25" xmlns="http://www.w3.org/2000/svg">
+            <path d="M528.1 171.5L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6zM388.6 312.3l23.7 138.4L288 385.4l-124.3 65.3 23.7-138.4-100.6-98 139-20.2 62.2-126 62.2 126 139 20.2-100.6 98z">
+            </path>
+           </svg>
+          </button>
+          <button class="`border-0 cursor-pointer transform transition duration-300 hover:scale-125 mx-2 my-2" type="button">
+           <svg class="text-green-600" fill="currentColor" height="25" stroke="currentColor" stroke-width="0" viewbox="0 0 576 512" width="25" xmlns="http://www.w3.org/2000/svg">
+            <path d="M528.1 171.5L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6zM388.6 312.3l23.7 138.4L288 385.4l-124.3 65.3 23.7-138.4-100.6-98 139-20.2 62.2-126 62.2 126 139 20.2-100.6 98z">
+            </path>
+           </svg>
+          </button>
+          <button class="`border-0 cursor-pointer transform transition duration-300 hover:scale-125 mx-2 my-2" type="button">
+           <svg class="text-green-600" fill="currentColor" height="25" stroke="currentColor" stroke-width="0" viewbox="0 0 576 512" width="25" xmlns="http://www.w3.org/2000/svg">
+            <path d="M528.1 171.5L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6zM388.6 312.3l23.7 138.4L288 385.4l-124.3 65.3 23.7-138.4-100.6-98 139-20.2 62.2-126 62.2 126 139 20.2-100.6 98z">
+            </path>
+           </svg>
+          </button>
+         </div>
+        </div>
+       </div>
+       <div class="h-4">
+       </div>
+       <div class="p-4 bg-gray-50 rounded-lg mb-6">
+        <h4 class="font-semibold font-heading text-gray-500 mb-3 pb-2 border-0 border-b border-solid border-gray-200">
+         Share
+        </h4>
+       </div>
+       <div class="p-4 bg-gray-50 rounded-lg">
+        <h4 class="font-semibold font-heading text-gray-500 mb-2 pb-2 border-0 border-b border-solid border-gray-200">
+         News and Updates
+        </h4>
+        <div class="flex flex-col">
+         <p class="text-sm opacity-80 font-semibold mb-1">
+          No new news and updates available
+         </p>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </main>
+   <section class="bg-darkIndigo-900 relative z-0 after:absolute after:-top-3 lg:after:-top-6 after:-left-1 after:w-full after:h-0 after:border-darkIndigo-900 after:border-[50px] after:border-solid after:-z-10 after:rotate-[3deg] lg:after:rotate-[2deg] after:transform mt-20" id="contact">
+    <div class="container mx-auto px-8 lg:px-0 2xl:w-3/5 lg:w-5/6 relative z-0">
+     <div class="gap-4 grid grid-cols-1 py-12 !items-start !gap-8 md:grid-cols-2 lg:grid-cols-4 undefined">
+      <div class="flex-1">
+       <div class="relative h-6 w-36 lg:h-8 lg:w-48">
+        <a class="undefined block normal-case" href="/">
+         <span style="box-sizing:border-box;display:block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:absolute;top:0;left:0;bottom:0;right:0">
+          <img alt="myScheme" class="border-0" data-nimg="fill" decoding="async" sizes="100vw" src="https://cdn.myscheme.in/images/myscheme-logo-white.svg" srcset="https://cdn.myscheme.in/images/myscheme-logo-white.svg 640w, https://cdn.myscheme.in/images/myscheme-logo-white.svg 750w, https://cdn.myscheme.in/images/myscheme-logo-white.svg 828w, https://cdn.myscheme.in/images/myscheme-logo-white.svg 1080w, https://cdn.myscheme.in/images/myscheme-logo-white.svg 1200w, https://cdn.myscheme.in/images/myscheme-logo-white.svg 1920w, https://cdn.myscheme.in/images/myscheme-logo-white.svg 2048w, https://cdn.myscheme.in/images/myscheme-logo-white.svg 3840w" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" title="myScheme"/>
+         </span>
+        </a>
+       </div>
+       <p class="text-white text-white/80 hover:text-white">
+        <span>
+         ©
+         <!-- -->
+         2023
+        </span>
+        <a class="undefined text-white normal-case" href="/">
+         <!-- -->
+         myScheme
+         <!-- -->
+         .
+         <!-- -->
+        </a>
+       </p>
+       <div class="flex flex-row items-center mt-4">
+        <span class="text-sm text-white mr-2">
+         Powered by
+        </span>
+        <span style="box-sizing:border-box;display:inline-block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:relative;max-width:100%">
+         <span style="box-sizing:border-box;display:block;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;max-width:100%">
+          <img alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2780%27%20height=%2740%27/%3e" style="display:block;max-width:100%;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0"/>
+         </span>
+         <img alt="Digital India" class="border-0" data-nimg="intrinsic" decoding="async" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%"/>
+         <noscript>
+          <img alt="Digital India" class="border-0" data-nimg="intrinsic" decoding="async" loading="lazy" src="https://cdn.myscheme.in/images/logos/digital-india.svg" srcset="https://cdn.myscheme.in/images/logos/digital-india.svg 1x, https://cdn.myscheme.in/images/logos/digital-india.svg 2x" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%"/>
+         </noscript>
+        </span>
+       </div>
+       <div class="flex flex-col text-white text-white/80 text-sm hover:text-white mt-1 mb-0">
+        <span class="cursor-pointer">
+         Digital India Corporation(DIC)
+        </span>
+        <span class="cursor-pointer">
+         Ministry of Electronics &amp; IT (MeitY)
+        </span>
+        <span class="cursor-pointer">
+         Government of India
+         <sup>
+          ®
+         </sup>
+        </span>
+       </div>
+      </div>
+      <div class="flex-1">
+       <h2 class="text-white text-2xl font-heading font-semibold mb-6">
+        Quick Links
+       </h2>
+       <ul class="grid grid-cols-1 text-white items-center !gap-4 gap-2">
+        <li class="flex hover:pl-1 duration-500 gap-2 opacity-80 hover:opacity-100 transition-all ease-in-out text-sm" title="List Item">
+         <svg fill="currentColor" height="18" stroke="currentColor" stroke-width="0" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg">
+          <path d="M10.707 17.707 16.414 12l-5.707-5.707-1.414 1.414L13.586 12l-4.293 4.293z">
+          </path>
+         </svg>
+         <a class="undefined block normal-case" href="/about">
+          About Us
+         </a>
+        </li>
+        <li class="flex hover:pl-1 duration-500 gap-2 opacity-80 hover:opacity-100 transition-all ease-in-out text-sm" title="List Item">
+         <svg fill="currentColor" height="18" stroke="currentColor" stroke-width="0" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg">
+          <path d="M10.707 17.707 16.414 12l-5.707-5.707-1.414 1.414L13.586 12l-4.293 4.293z">
+          </path>
+         </svg>
+         <a class="undefined block normal-case" href="/contact">
+          Contact Us
+         </a>
+        </li>
+        <li class="flex hover:pl-1 duration-500 gap-2 opacity-80 hover:opacity-100 transition-all ease-in-out text-sm" title="List Item">
+         <svg fill="currentColor" height="18" stroke="currentColor" stroke-width="0" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg">
+          <path d="M10.707 17.707 16.414 12l-5.707-5.707-1.414 1.414L13.586 12l-4.293 4.293z">
+          </path>
+         </svg>
+         <a class="undefined block normal-case" href="/screen-reader">
+          Screen Reader
+         </a>
+        </li>
+        <li class="flex hover:pl-1 duration-500 gap-2 opacity-80 hover:opacity-100 transition-all ease-in-out text-sm" title="List Item">
+         <svg fill="currentColor" height="18" stroke="currentColor" stroke-width="0" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg">
+          <path d="M10.707 17.707 16.414 12l-5.707-5.707-1.414 1.414L13.586 12l-4.293 4.293z">
+          </path>
+         </svg>
+         <a class="undefined block normal-case" href="/accessibility-statement">
+          Accessibility Statement
+         </a>
+        </li>
+        <li class="flex hover:pl-1 duration-500 gap-2 opacity-80 hover:opacity-100 transition-all ease-in-out text-sm" title="List Item">
+         <svg fill="currentColor" height="18" stroke="currentColor" stroke-width="0" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg">
+          <path d="M10.707 17.707 16.414 12l-5.707-5.707-1.414 1.414L13.586 12l-4.293 4.293z">
+          </path>
+         </svg>
+         <a class="undefined block normal-case" href="/faqs">
+          Frequently Asked Questions
+         </a>
+        </li>
+        <li class="flex hover:pl-1 duration-500 gap-2 opacity-80 hover:opacity-100 transition-all ease-in-out text-sm" title="List Item">
+         <svg fill="currentColor" height="18" stroke="currentColor" stroke-width="0" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg">
+          <path d="M10.707 17.707 16.414 12l-5.707-5.707-1.414 1.414L13.586 12l-4.293 4.293z">
+          </path>
+         </svg>
+         <a class="undefined block normal-case" href="/disclaimer">
+          Disclaimer
+         </a>
+        </li>
+        <li class="flex hover:pl-1 duration-500 gap-2 opacity-80 hover:opacity-100 transition-all ease-in-out text-sm" title="List Item">
+         <svg fill="currentColor" height="18" stroke="currentColor" stroke-width="0" viewbox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg">
+          <path d="M10.707 17.707 16.414 12l-5.707-5.707-1.414 1.414L13.586 12l-4.293 4.293z">
+          </path>
+         </svg>
+         <a class="undefined block normal-case" href="/terms-conditions">
+          Terms &amp; Conditions
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="flex-1">
+       <h2 class="text-white text-2xl font-heading font-semibold mb-6">
+        Useful Links
+       </h2>
+       <ul class="grid grid-cols-1 text-white items-center !grid !grid-cols-3 !gap-1 gap-2">
+        <li class="bg-white p-1 rounded-md duration-500 border-3 border-solid border-darkIndigo-900 hover:border-gray-500 transition-all ease-in-out text-sm cursor-pointer" title="List Item">
+         <div class="relative w-full h-10">
+          <span style="box-sizing:border-box;display:block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:absolute;top:0;left:0;bottom:0;right:0">
+           <img alt="di" class="border-0" data-nimg="fill" decoding="async" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:contain" title="di"/>
+           <noscript>
+            <img alt="di" class="border-0" data-nimg="fill" decoding="async" loading="lazy" sizes="100vw" src="/_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2Fdi.png&amp;w=3840&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2Fdi.png&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2Fdi.png&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2Fdi.png&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2Fdi.png&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2Fdi.png&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2Fdi.png&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2Fdi.png&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2Fdi.png&amp;w=3840&amp;q=75 3840w" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:contain" title="di"/>
+           </noscript>
+          </span>
+         </div>
+        </li>
+        <li class="bg-white p-1 rounded-md duration-500 border-3 border-solid border-darkIndigo-900 hover:border-gray-500 transition-all ease-in-out text-sm cursor-pointer" title="List Item">
+         <div class="relative w-full h-10">
+          <span style="box-sizing:border-box;display:block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:absolute;top:0;left:0;bottom:0;right:0">
+           <img alt="digilocker" class="border-0" data-nimg="fill" decoding="async" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:contain" title="digilocker"/>
+           <noscript>
+            <img alt="digilocker" class="border-0" data-nimg="fill" decoding="async" loading="lazy" sizes="100vw" src="/_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2Fdigilocker.png&amp;w=3840&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2Fdigilocker.png&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2Fdigilocker.png&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2Fdigilocker.png&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2Fdigilocker.png&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2Fdigilocker.png&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2Fdigilocker.png&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2Fdigilocker.png&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2Fdigilocker.png&amp;w=3840&amp;q=75 3840w" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:contain" title="digilocker"/>
+           </noscript>
+          </span>
+         </div>
+        </li>
+        <li class="bg-white p-1 rounded-md duration-500 border-3 border-solid border-darkIndigo-900 hover:border-gray-500 transition-all ease-in-out text-sm cursor-pointer" title="List Item">
+         <div class="relative w-full h-10">
+          <span style="box-sizing:border-box;display:block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:absolute;top:0;left:0;bottom:0;right:0">
+           <img alt="umang" class="border-0" data-nimg="fill" decoding="async" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:contain" title="umang"/>
+           <noscript>
+            <img alt="umang" class="border-0" data-nimg="fill" decoding="async" loading="lazy" sizes="100vw" src="/_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2Fumang.png&amp;w=3840&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2Fumang.png&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2Fumang.png&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2Fumang.png&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2Fumang.png&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2Fumang.png&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2Fumang.png&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2Fumang.png&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2Fumang.png&amp;w=3840&amp;q=75 3840w" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:contain" title="umang"/>
+           </noscript>
+          </span>
+         </div>
+        </li>
+        <li class="bg-white p-1 rounded-md duration-500 border-3 border-solid border-darkIndigo-900 hover:border-gray-500 transition-all ease-in-out text-sm cursor-pointer" title="List Item">
+         <div class="relative w-full h-10">
+          <span style="box-sizing:border-box;display:block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:absolute;top:0;left:0;bottom:0;right:0">
+           <img alt="indiaGov" class="border-0" data-nimg="fill" decoding="async" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:contain" title="indiaGov"/>
+           <noscript>
+            <img alt="indiaGov" class="border-0" data-nimg="fill" decoding="async" loading="lazy" sizes="100vw" src="/_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2FindiaGov.png&amp;w=3840&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2FindiaGov.png&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2FindiaGov.png&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2FindiaGov.png&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2FindiaGov.png&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2FindiaGov.png&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2FindiaGov.png&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2FindiaGov.png&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2FindiaGov.png&amp;w=3840&amp;q=75 3840w" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:contain" title="indiaGov"/>
+           </noscript>
+          </span>
+         </div>
+        </li>
+        <li class="bg-white p-1 rounded-md duration-500 border-3 border-solid border-darkIndigo-900 hover:border-gray-500 transition-all ease-in-out text-sm cursor-pointer" title="List Item">
+         <div class="relative w-full h-10">
+          <span style="box-sizing:border-box;display:block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:absolute;top:0;left:0;bottom:0;right:0">
+           <img alt="myGov" class="border-0" data-nimg="fill" decoding="async" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:contain" title="myGov"/>
+           <noscript>
+            <img alt="myGov" class="border-0" data-nimg="fill" decoding="async" loading="lazy" sizes="100vw" src="/_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2FmyGov.png&amp;w=3840&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2FmyGov.png&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2FmyGov.png&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2FmyGov.png&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2FmyGov.png&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2FmyGov.png&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2FmyGov.png&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2FmyGov.png&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2FmyGov.png&amp;w=3840&amp;q=75 3840w" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:contain" title="myGov"/>
+           </noscript>
+          </span>
+         </div>
+        </li>
+        <li class="bg-white p-1 rounded-md duration-500 border-3 border-solid border-darkIndigo-900 hover:border-gray-500 transition-all ease-in-out text-sm cursor-pointer" title="List Item">
+         <div class="relative w-full h-10">
+          <span style="box-sizing:border-box;display:block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:absolute;top:0;left:0;bottom:0;right:0">
+           <img alt="dataGov" class="border-0" data-nimg="fill" decoding="async" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:contain" title="dataGov"/>
+           <noscript>
+            <img alt="dataGov" class="border-0" data-nimg="fill" decoding="async" loading="lazy" sizes="100vw" src="/_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2FdataGov.png&amp;w=3840&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2FdataGov.png&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2FdataGov.png&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2FdataGov.png&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2FdataGov.png&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2FdataGov.png&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2FdataGov.png&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2FdataGov.png&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2FdataGov.png&amp;w=3840&amp;q=75 3840w" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:contain" title="dataGov"/>
+           </noscript>
+          </span>
+         </div>
+        </li>
+        <li class="bg-white p-1 rounded-md duration-500 border-3 border-solid border-darkIndigo-900 hover:border-gray-500 transition-all ease-in-out text-sm cursor-pointer" title="List Item">
+         <div class="relative w-full h-10">
+          <span style="box-sizing:border-box;display:block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:absolute;top:0;left:0;bottom:0;right:0">
+           <img alt="igod" class="border-0" data-nimg="fill" decoding="async" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:contain" title="igod"/>
+           <noscript>
+            <img alt="igod" class="border-0" data-nimg="fill" decoding="async" loading="lazy" sizes="100vw" src="/_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2Figod.png&amp;w=3840&amp;q=75" srcset="/_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2Figod.png&amp;w=640&amp;q=75 640w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2Figod.png&amp;w=750&amp;q=75 750w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2Figod.png&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2Figod.png&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2Figod.png&amp;w=1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2Figod.png&amp;w=1920&amp;q=75 1920w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2Figod.png&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Fcdn.myscheme.in%2Fimages%2FusefulLinks%2Figod.png&amp;w=3840&amp;q=75 3840w" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:contain" title="igod"/>
+           </noscript>
+          </span>
+         </div>
+        </li>
+       </ul>
+      </div>
+      <div class="flex-1">
+       <h2 class="text-white text-2xl font-heading font-semibold mb-6">
+        Get in touch
+       </h2>
+       <p class="text-white/80 text-sm leading-relaxed flex gap-1 items-start">
+        <span>
+         4th Floor, NeGD, Electronics Niketan, 6 CGO Complex, Lodhi Road, New Delhi - 110003, India
+        </span>
+       </p>
+       <div class="mb-4">
+        <p class="text-white/80 hover:text-white underline text-sm font-normal mb-0">
+         support-myscheme[at]digitalindia[dot]gov[dot]in
+        </p>
+        <p class="text-white/80 text-sm font-normal my-4">
+         (011) 24303714
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+   </section>
+   <footer class="relative bg-darkIndigo-900 py-2 border border-t border-solid border-darkIndigo-800">
+    <div class="container mx-auto px-8 lg:px-0 2xl:w-3/5 lg:w-5/6 relative">
+     <div class="text-sm text-white/50 text-left font-normal py-1 md:flex items-start justify-between gap-2">
+      Last Updated On
+      <!-- -->
+      :
+      <!-- -->
+      11/04/2023
+      <!-- -->
+      | v-
+      <!-- -->
+      1.2.13
+     </div>
+    </div>
+   </footer>
+  </div>
+  <script id="__NEXT_DATA__" type="application/json">
+   {"props":{"pageProps":{"schemeData":{"_id":"62a96601f038bd8499a71b0a","eligibilityCriteria":{"eligibilityDescriptionMarkdown":"\n1. The age of the applicant must be between 18 and 60 years.\n1. The applicant must qualify as one of the following -\n\n\n- Graduates in agriculture and allied subjects from SAUs/ Central Agricultural Universities/ Universities recognized by ICAR/ UGC. Degree in Agriculture and allied subjects offered by other agencies are also considered subject to the approval of the Department of Agriculture \u0026amp; Cooperation, Government of India on the recommendation of the State Government.\n- Diploma (with at least 50% marks)/ Post Graduate Diploma holders in Agriculture and allied subjects from State Agricultural Universities, State Agriculture and Allied Departments, and State Department of Technical Education.\n- Diplomas in Agriculture and allied subjects offered by other agencies are also considered subject to the approval of the Department of Agriculture \u0026amp; Cooperation, Government of India on the recommendation of the State Government.\n- Biological Science Graduates with Post Graduation in Agriculture \u0026amp; allied subjects.\n- Degree courses recognized by UGC have more than 60 percent of the course content in Agriculture and allied subjects.\n- Diploma/Post-graduate Diploma courses with more than 60 percent of course content in Agriculture and allied subjects, after B.Sc. with Biological Sciences, from recognized colleges and universities.\n- Agriculture-related courses at intermediate (i.e. plus two) level, with at least 55% marks.\n\n","eligibilityDescription":[{"type":"ol_list","children":[{"type":"list_item","children":[{"text":"The age of the applicant must be between 18 and 60 years."}]},{"type":"list_item","children":[{"text":"The applicant must qualify as one of the following -"}]}]},{"type":"ul_list","children":[{"type":"list_item","children":[{"text":"Graduates in agriculture and allied subjects from SAUs/ Central Agricultural Universities/ Universities recognized by ICAR/ UGC. Degree in Agriculture and allied subjects offered by other agencies are also considered subject to the approval of the Department of Agriculture \u0026 Cooperation, Government of India on the recommendation of the State Government."}]},{"type":"list_item","children":[{"text":"Diploma (with at least 50% marks)/ Post Graduate Diploma holders in Agriculture and allied subjects from State Agricultural Universities, State Agriculture and Allied Departments, and State Department of Technical Education."}]},{"type":"list_item","children":[{"text":"Diplomas in Agriculture and allied subjects offered by other agencies are also considered subject to the approval of the Department of Agriculture \u0026 Cooperation, Government of India on the recommendation of the State Government."}]},{"type":"list_item","children":[{"text":"Biological Science Graduates with Post Graduation in Agriculture \u0026 allied subjects."}]},{"type":"list_item","children":[{"text":"Degree courses recognized by UGC have more than 60 percent of the course content in Agriculture and allied subjects."}]},{"type":"list_item","children":[{"text":"Diploma/Post-graduate Diploma courses with more than 60 percent of course content in Agriculture and allied subjects, after B.Sc. with Biological Sciences, from recognized colleges and universities."}]},{"type":"list_item","children":[{"text":"Agriculture-related courses at intermediate (i.e. plus two) level, with at least 55% marks."}]}]}]},"schemeStatus":"PUBLISHED","slug":"acandabc","en":{"basicDetails":{"schemeOpenDate":"2002-04-01","schemeCloseDate":null,"nodalDepartmentName":{"value":513,"label":"Department of Agriculture Research and Education"},"otherMinistryName":null,"otherDepartmentNames":null,"targetBeneficiaries":[{"value":"individual","label":"Individual"}],"schemeSubCategory":[{"value":"Setting up / start-up / entrepreneurship","label":"Setting up / start-up / entrepreneurship"},{"value":"Training and Skill Up-gradation","label":"Training and Skill Up-gradation"},{"value":"Entrepreneurship development","label":"Entrepreneurship development"}],"dbtScheme":true,"implementingAgency":"National Bank For Agriculture And Rural Development (NABARD)","tags":["Agriculture","Business","Employment","Entrepreneur","Student","Training"],"schemeName":"Agri-Clinics And Agri-Business Centres Scheme","schemeShortTitle":"AC\u0026ABC","level":{"value":"central","label":"Central"},"nodalMinistryName":{"value":498,"label":"Ministry Of Agriculture and Farmers Welfare"},"schemeCategory":[{"value":"628ce6ead6d1a3bde4685252","label":"Agriculture,Rural \u0026 Environment"},{"value":"628ce733d6d1a3bde4685278","label":"Business \u0026 Entrepreneurship"},{"value":"628ce85cd6d1a3bde4685304","label":"Skills \u0026 Employment"}]},"schemeContent":{"references":[{"title":"Guidelines","url":"https://agricoop.nic.in/sites/default/files/ACABC.pdf"},{"title":"Scheme Brief By NABARD","url":"https://www.nabard.org/auth/writereaddata/File/ACABC%20-%20Revised%20guidelines.pdf"},{"title":"List Of Nodal Institutes","url":"https://acabcmis.gov.in/Institute.aspx"}],"schemeImageUrl":"","detailedDescriptionMarkdown":"A welfare scheme by the Ministry of Agriculture and Farmers\u0026#39; Welfare was launched in 2002. AC\u0026amp;ABC aims at agricultural development by supplementing the efforts of public extension by providing extension and other services to farmers either on a payment basis or free of cost as per the business model of agri-preneur, local needs, and affordability of the target group of farmers. AC\u0026amp;ABC creates gainful self-employment opportunities for unemployed agricultural graduates, agricultural diploma holders, intermediate in agriculture, and biological science graduates with PG in agri-related courses. \nNABARD is acting as a subsidy channelizing agency for this scheme.\n\u003cbr\u003e\n\nCommitted to this program, the Government is now also providing start-up training to graduates in Agriculture, or any subject allied to Agriculture like Horticulture, Sericulture, Veterinary Sciences, Forestry, Dairy, Poultry Farming, Fisheries, etc. Those completing the training can apply for special start-up loans for ventures.\n","briefDescription":"A welfare scheme by the Ministry of Agriculture and Farmers' Welfare was launched in 2002. AC\u0026ABC aims at agricultural development, supplementing the efforts of public extension by providing extension and other services to farmers either on a payment basis or free of cost as per the business model.","detailedDescription":[{"type":"paragraph","children":[{"text":"A welfare scheme by the Ministry of Agriculture and Farmers' Welfare was launched in 2002. AC\u0026ABC aims at agricultural development by supplementing the efforts of public extension by providing extension and other services to farmers either on a payment basis or free of cost as per the business model of agri-preneur, local needs, and affordability of the target group of farmers. AC\u0026ABC creates gainful self-employment opportunities for unemployed agricultural graduates, agricultural diploma holders, intermediate in agriculture, and biological science graduates with PG in agri-related courses. "}]},{"type":"paragraph","children":[{"text":"NABARD is acting as a subsidy channelizing agency for this scheme."}]},{"type":"paragraph","children":[{"text":""}]},{"type":"paragraph","children":[{"text":"Committed to this program, the Government is now also providing start-up training to graduates in Agriculture, or any subject allied to Agriculture like Horticulture, Sericulture, Veterinary Sciences, Forestry, Dairy, Poultry Farming, Fisheries, etc. Those completing the training can apply for special start-up loans for ventures."}]}],"benefitTypes":{"value":"composite","label":"Composite"},"benefits":[{"type":"paragraph","children":[{"text":"Agri-Clinics - ","bold":true}]},{"type":"paragraph","children":[{"text":"Agri-Clinics are envisaged to provide expert advice and services to farmers on various aspects to enhance the productivity of crops/animals and increase the incomes of farmers. Agri-Clinics provide support in the following areas:"}]},{"type":"ol_list","children":[{"type":"list_item","children":[{"text":"Soil health"}]},{"type":"list_item","children":[{"text":"Cropping practices"}]},{"type":"list_item","children":[{"text":"Plant protection"}]},{"type":"list_item","children":[{"text":"Crop insurance post-harvest technology clinical services for animals, feed and fodder management prices of various crops in the market, etc."}]}]},{"type":"paragraph","children":[{"text":""}]},{"type":"paragraph","children":[{"text":"Agri-Business Centres - ","bold":true}]},{"type":"paragraph","children":[{"text":"Agri-Business Centres are commercial units of agri-ventures established by trained agriculture professionals. These ventures may include maintenance and custom hiring of farm equipment, sale of inputs, and other services in agriculture and allied areas, including post-harvest management and market linkages for income generation and entrepreneurship development."}]},{"type":"paragraph","children":[{"text":""}]},{"type":"paragraph","children":[{"text":"The scheme covers full financial support for training and handholding, provision of loans, and credit-linked back-end composite subsidy."}]},{"type":"paragraph","children":[{"text":""}]},{"type":"paragraph","children":[{"text":"Project activities - ","bold":true}]},{"type":"ol_list","children":[{"type":"list_item","children":[{"text":"Extension consultancy services"}]},{"type":"list_item","children":[{"text":"Soil and water quality cum inputs testing laboratories (with Atomic Absorption Spectrophotometers)"}]},{"type":"list_item","children":[{"text":"Pest surveillance, diagnostic and control services"}]},{"type":"list_item","children":[{"text":"Maintenance, repairs, and custom hiring of agricultural implements and machinery including micro-irrigation systems (sprinkler and drip)"}]},{"type":"list_item","children":[{"text":"Agri Service Centres include the three activities mentioned above (Group Activity)."}]},{"type":"list_item","children":[{"text":"Seed Processing Units"}]},{"type":"list_item","children":[{"text":"Micro-propagation through Plant Tissue Culture Labs and Hardening Units"}]},{"type":"list_item","children":[{"text":"Setting up of Vermiculture units, production of bio-fertilizers, bio-pesticides, and bio-control agents."}]},{"type":"list_item","children":[{"text":"Setting up of Apiaries (bee-keeping) and honey \u0026 bee products' processing units"}]},{"type":"list_item","children":[{"text":"Provision of Extension Consultancy Services"}]},{"type":"list_item","children":[{"text":"Hatcheries and production of fish fingerlings for aquaculture"}]},{"type":"list_item","children":[{"text":"Provision of livestock health cover, setting up veterinary dispensaries \u0026 services including frozen semen banks and liquid nitrogen supply"}]},{"type":"list_item","children":[{"text":"Setting up of Information Technology Kiosks in rural areas for access to various agriculture-related portals"}]},{"type":"list_item","children":[{"text":"Feed Processing and testing units"}]},{"type":"list_item","children":[{"text":"Value Addition Centres"}]},{"type":"list_item","children":[{"text":"Setting up of Cool Chain from the farm level onwards (Group Activity)"}]},{"type":"list_item","children":[{"text":"Retail marketing outlets for processed agri-products"}]},{"type":"list_item","children":[{"text":"Rural marketing dealerships of farm inputs and outputs"}]}]}],"exclusions":[{"type":"paragraph","children":[{"text":"Retired Employees Getting Pensionary Benefits Are Not Eligible For Subsidy. However, They Can Undergo Training And Establish Self Financed Projects."}]}]},"applicationProcess":[{"mode":"Online","url":"https://acabcmis.gov.in/ApplicantReg.aspx","process":[{"type":"paragraph","children":[{"text":"Step 1:","bold":true},{"text":" The desirous applicant must visit the following link to apply for the scheme -"}]},{"type":"paragraph","children":[{"text":""},{"type":"link","link":"https://acabcmis.gov.in/ApplicantReg.aspx","children":[{"text":"https://acabcmis.gov.in/ApplicantReg.aspx"}]},{"text":""}]},{"type":"paragraph","children":[{"text":"Step 2: ","bold":true},{"text":" Fill in the mandatory fields correctly. Upload the required documents in the said format and size."}]},{"type":"paragraph","children":[{"text":"Step 3:","bold":true},{"text":" Click \"Submit\" to complete the application process."}]},{"type":"paragraph","children":[{"text":""}]},{"type":"paragraph","children":[{"text":"The applicant can check his/her application status by visiting this link - "},{"type":"link","link":"https://acabcmis.gov.in/ApplicationStatus_new.aspx","children":[{"text":"https://acabcmis.gov.in/ApplicationStatus_new.aspx"}]},{"text":""},{"type":"link","link":"https://acabcmis.gov.in/ApplicantReg.aspx","children":[{"text":""}]},{"text":""}]}]}],"schemeDefinitions":[]}},"schemeDataHi":{"_id":"62a96601f038bd8499a71b0a","eligibilityCriteria":{"eligibilityDescriptionMarkdown":"\n1. The age of the applicant must be between 18 and 60 years.\n1. The applicant must qualify as one of the following -\n\n\n- Graduates in agriculture and allied subjects from SAUs/ Central Agricultural Universities/ Universities recognized by ICAR/ UGC. Degree in Agriculture and allied subjects offered by other agencies are also considered subject to the approval of the Department of Agriculture \u0026amp; Cooperation, Government of India on the recommendation of the State Government.\n- Diploma (with at least 50% marks)/ Post Graduate Diploma holders in Agriculture and allied subjects from State Agricultural Universities, State Agriculture and Allied Departments, and State Department of Technical Education.\n- Diplomas in Agriculture and allied subjects offered by other agencies are also considered subject to the approval of the Department of Agriculture \u0026amp; Cooperation, Government of India on the recommendation of the State Government.\n- Biological Science Graduates with Post Graduation in Agriculture \u0026amp; allied subjects.\n- Degree courses recognized by UGC have more than 60 percent of the course content in Agriculture and allied subjects.\n- Diploma/Post-graduate Diploma courses with more than 60 percent of course content in Agriculture and allied subjects, after B.Sc. with Biological Sciences, from recognized colleges and universities.\n- Agriculture-related courses at intermediate (i.e. plus two) level, with at least 55% marks.\n\n","eligibilityDescription":[{"type":"ol_list","children":[{"type":"list_item","children":[{"text":"The age of the applicant must be between 18 and 60 years."}]},{"type":"list_item","children":[{"text":"The applicant must qualify as one of the following -"}]}]},{"type":"ul_list","children":[{"type":"list_item","children":[{"text":"Graduates in agriculture and allied subjects from SAUs/ Central Agricultural Universities/ Universities recognized by ICAR/ UGC. Degree in Agriculture and allied subjects offered by other agencies are also considered subject to the approval of the Department of Agriculture \u0026 Cooperation, Government of India on the recommendation of the State Government."}]},{"type":"list_item","children":[{"text":"Diploma (with at least 50% marks)/ Post Graduate Diploma holders in Agriculture and allied subjects from State Agricultural Universities, State Agriculture and Allied Departments, and State Department of Technical Education."}]},{"type":"list_item","children":[{"text":"Diplomas in Agriculture and allied subjects offered by other agencies are also considered subject to the approval of the Department of Agriculture \u0026 Cooperation, Government of India on the recommendation of the State Government."}]},{"type":"list_item","children":[{"text":"Biological Science Graduates with Post Graduation in Agriculture \u0026 allied subjects."}]},{"type":"list_item","children":[{"text":"Degree courses recognized by UGC have more than 60 percent of the course content in Agriculture and allied subjects."}]},{"type":"list_item","children":[{"text":"Diploma/Post-graduate Diploma courses with more than 60 percent of course content in Agriculture and allied subjects, after B.Sc. with Biological Sciences, from recognized colleges and universities."}]},{"type":"list_item","children":[{"text":"Agriculture-related courses at intermediate (i.e. plus two) level, with at least 55% marks."}]}]}]},"schemeStatus":"PUBLISHED","slug":"acandabc","hi":{"basicDetails":{"targetBeneficiaries":[{"label":"व्‍यक्‍ितगत"}],"schemeSubCategory":[{"label":"स्थापना / स्टार्ट-अप / उद्यमिता"},{"label":"प्रशिक्षण एवं कौशल उन्नयन"},{"label":"उद्यमिता विकास"}],"tags":["व्यवसाय","उद्यमी","विद्यार्थी","प्रशिक्षण","कृषि","रोज़गार"],"schemeName":"कृषि-चिकित्‍सालय और कृषि-व्यवसाय केंद्र योजना","schemeShortTitle":" ए.सी.एंड ए.बी.सी.","level":{"label":"केंद्रीय"},"schemeCategory":[{"label":"कृषि, ग्रामीण और पर्यावरण"},{"label":"व्यापार और उद्यमिता"},{"label":"कौशल और रोजगार"}],"nodalMinistryName":{"label":"कृषि एवं किसान कल्याण मंत्रालय"}},"eligibilityCriteria":{"eligibilityDescription":[{"type":"ol_list","children":[{"type":"list_item","children":[{"text":"आवेदक की आयु 18 से 60 वर्ष के बीच होनी चाहिए।"}]},{"type":"list_item","children":[{"text":"आवेदक को निम्नलिखित में से एक के रूप में अर्हता प्राप्त करनी चाहिए-"}]}]},{"type":"ul_list","children":[{"type":"list_item","children":[{"text":"आई.सी.ए.आर. / यू.जी.सी. द्वारा मान्यता प्राप्त एस.ए.यू. / केंद्रीय कृषि विश्वविद्यालयों / विश्वविद्यालयों से कृषि और संबद्ध विषयों में स्नातक। अन्य एजेंसियों द्वारा प्रस्तावित कृषि और संबद्ध विषयों में डिग्री को भी राज्य सरकार की सिफारिश पर कृषि और सहकारिता विभाग, भारत सरकार के अनुमोदन के अधीन माना जाता है।"}]},{"type":"list_item","children":[{"text":"राज्य कृषि विश्वविद्यालयों, राज्य कृषि और संबद्ध विभागों और राज्य तकनीकी शिक्षा विभाग से कृषि और संबद्ध विषयों में डिप्लोमा (कम से कम 50% अंकों के साथ) / स्नातकोत्तर डिप्लोमा धारक।"}]},{"type":"list_item","children":[{"text":"अन्य एजेंसियों द्वारा प्रस्तावित कृषि और संबद्ध विषयों में डिप्लोमा भी राज्य सरकार की सिफारिश पर कृषि और सहकारिता विभाग, भारत सरकार के अनुमोदन के अधीन माना जाता है।."}]},{"type":"list_item","children":[{"text":"कृषि और संबद्ध विषयों में स्नातकोत्तर के साथ जैविक विज्ञान स्नातक।"}]},{"type":"list_item","children":[{"text":"यू.जी.सी. द्वारा मान्यता प्राप्त डिग्री पाठ्यक्रमों में कृषि और संबद्ध विषयों में पाठ्यक्रम सामग्री का 60 प्रतिशत से अधिक हो।"}]},{"type":"list_item","children":[{"text":"मान्यता प्राप्त कॉलेजों और विश्वविद्यालयों से जीव विज्ञान में बी.एससी. के बाद कृषि और संबद्ध विषयों में 60 प्रतिशत से अधिक पाठ्यक्रम सामग्री के साथ डिप्लोमा/स्नातकोत्तर डिप्लोमा पाठ्यक्रम। "}]},{"type":"list_item","children":[{"text":"कम से कम 55% अंकों के साथ इंटरमीडिएट (यानी बारहवीं)  स्तर पर कृषि से संबंधित पाठ्यक्रम।"}]}]}]},"schemeContent":{"references":[{"title":"दिशानिर्देश","url":"https://agricoop.nic.in/sites/default/files/ACABC.pdf"},{"title":"नाबार्ड द्वारा योजना का संक्षिप्त विवरण","url":"https://www.nabard.org/auth/writereaddata/File/ACABC%20-%20Revised%20guidelines.pdf"},{"title":"नोडल संस्थानों की सूची","url":"https://acabcmis.gov.in/Institute.aspx"}],"briefDescription":"कृषि और किसान कल्याण मंत्रालय द्वारा 2002 में एक कल्याणकारी योजना शुरू की गई थी। ए.सी. और ए.बी.सी. का उद्देश्य किसानों को भुगतान के आधार पर या व्यवसाय के अनुसार मुफ्त में विस्तार और अन्य सेवाएं प्रदान करके सार्वजनिक विस्तार के प्रयासों को पूरक बनाना है।","detailedDescription":[{"type":"paragraph","children":[{"text":"कृषि और किसान कल्याण मंत्रालय द्वारा 2002 में एक कल्याणकारी योजना शुरू की गई थी। ए.सी. और ए.बी.सी. का उद्देश्य किसानों को कृषि-उद्यमी, स्थानीय जरूरतों और किसानों के लक्षित समूह की सामर्थ्य का मॉडल पर भुगतान के आधार पर या व्यवसाय के अनुसार मुफ्त में विस्तार और अन्य सेवाएं प्रदान करके सार्वजनिक विस्तार के प्रयासों को पूरक बनाना है।  ए.सी. और ए.बी.सी. बेरोजगार कृषि स्नातकों, कृषि डिप्लोमा धारकों, कृषि में इंटरमीडिएट और कृषि से संबंधित पाठ्यक्रमों में पीजी के साथ जैविक विज्ञान स्नातकों के लिए लाभकारी स्वरोजगार के अवसर देता है।"}]},{"type":"paragraph","children":[{"text":"नाबार्ड इस योजना के लिए एक सब्सिडी चैनलाइजिंग एजेंसी के रूप में कार्य कर रहा है।"}]},{"type":"paragraph","children":[{"text":""}]},{"type":"paragraph","children":[{"text":"इस कार्यक्रम के लिए प्रतिबद्ध, सरकार अब कृषि में स्नातकों को या बागवानी, रेशम उत्पादन, पशु चिकित्सा विज्ञान, वानिकी, डेयरी, पोल्ट्री फार्मिंग, मत्स्य पालन आदि जैसे कृषि से संबद्ध किसी भी विषय में स्टार्ट-अप प्रशिक्षण प्रदान कर रही है। प्रशिक्षण पूरा करने वाले उद्यमों के लिए विशेष स्टार्ट-अप ऋण के लिए आवेदन कर सकते हैं।"}]}],"benefits":[{"type":"paragraph","children":[{"text":"कृषि चिकित्‍सक - ","bold":true}]},{"type":"paragraph","children":[{"text":"कृषि चिकित्‍सालयों की परिकल्पना किसानों को फसलों/जानवरों की उत्पादकता बढ़ाने और किसानों की आय बढ़ाने के लिए विभिन्न पहलुओं पर विशेषज्ञ सलाह और सेवाएं प्रदान करने के लिए की गई है। कृषि-चिकित्‍सालय निम्नलिखित क्षेत्रों में सहायता प्रदान करते हैं:"}]},{"type":"ol_list","children":[{"type":"list_item","children":[{"text":"मृदा स्वास्थ्य"}]},{"type":"list_item","children":[{"text":"फसल संबंधी प्रथाएं"}]},{"type":"list_item","children":[{"text":"पौधों की सुरक्षा"}]},{"type":"list_item","children":[{"text":" कटाई के बाद प्रौद्योगिकी पशुओं के लिए नैदानिक सेवाएं, बाजार में विभिन्न फसलों के चारा और चारा प्रबंधन मूल्य आदि के लिए फसल बीमा होता है।"}]}]},{"type":"paragraph","children":[{"text":""}]},{"type":"paragraph","children":[{"text":"कृषि-व्यवसाय केंद्र - ","bold":true}]},{"type":"paragraph","children":[{"text":"कृषि-व्यवसाय केंद्र प्रशिक्षित कृषि पेशेवरों द्वारा स्थापित कृषि-उद्यमों की व्यावसायिक इकाइयाँ हैं। इन उपक्रमों में कृषि उपकरणों के रखरखाव और कस्टम हायरिंग, इनपुट की बिक्री, और कृषि और संबद्ध क्षेत्रों में अन्य सेवाएं शामिल हो सकती हैं, जिसमें फसल के बाद प्रबंधन और आय सृजन और उद्यमिता विकास के लिए बाजार लिंकेज शामिल हैं।"}]},{"type":"paragraph","children":[{"text":""}]},{"type":"paragraph","children":[{"text":"इस योजना में प्रशिक्षण और हैंडहोल्डिंग, ऋण के प्रावधान और क्रेडिट-लिंक्ड बैक-एंड समग्र सब्सिडी के लिए पूर्ण वित्तीय सहायता शामिल है।"}]},{"type":"paragraph","children":[{"text":""}]},{"type":"paragraph","children":[{"text":"परियोजना की गतिविधियाँ- ","bold":true}]},{"type":"ol_list","children":[{"type":"list_item","children":[{"text":"विस्तार परामर्श सेवाएं"}]},{"type":"list_item","children":[{"text":"मिट्टी और पानी की गुणवत्ता सह इनपुट परीक्षण प्रयोगशालाएं (परमाणु अवशोषण स्पेक्ट्रोफोटोमीटर के साथ))"}]},{"type":"list_item","children":[{"text":"कीट की निगरानी, निदान और नियंत्रण सेवाएं"}]},{"type":"list_item","children":[{"text":"सूक्ष्म सिंचाई प्रणाली (स्प्रिंकलर और ड्रिप) सहित कृषि उपकरणों और मशीनरी का रखरखाव, मरम्मत और कस्टम हायरिंग"}]},{"type":"list_item","children":[{"text":"कृषि सेवा केंद्रों में ऊपर वर्णित तीन गतिविधियां (सामूहिक गतिविधि) शामिल हैं।"}]},{"type":"list_item","children":[{"text":"बीज प्रसंस्करण इकाइयाँ"}]},{"type":"list_item","children":[{"text":"प्लांट टिश्यू कल्चर लैब्स और हार्डनिंग यूनिट्स के माध्यम से सूक्ष्म प्रसार"}]},{"type":"list_item","children":[{"text":"वर्मीकल्चर इकाइयों की स्थापना, जैव-उर्वरक, जैव-कीटनाशकों और जैव-नियंत्रण एजेंटों का उत्पादन।"}]},{"type":"list_item","children":[{"text":"मधुमक्खियों (मधुमक्खी पालन) और शहद और मधुमक्खी उत्पादों की प्रसंस्करण इकाइयों की स्थापना"}]},{"type":"list_item","children":[{"text":"विस्तार परामर्श सेवाओं का प्रावधान"}]},{"type":"list_item","children":[{"text":"जलीय कृषि(एक्वाकल्चर) में मछली पालने के लिए हैचरी और मछली के बच्‍चों का उत्पादन"}]},{"type":"list_item","children":[{"text":"पशुधन स्वास्थ्य कवर का प्रावधान, फ्रोजन वीर्य बैंकों और तरल नाइट्रोजन आपूर्ति सहित पशु चिकित्सा औषधालयों और सेवाओं की स्थापना"}]},{"type":"list_item","children":[{"text":"कृषि से संबंधित विभिन्न पोर्टलों तक पहुंच के लिए ग्रामीण क्षेत्रों में सूचना प्रौद्योगिकी कियोस्क की स्थापना"}]},{"type":"list_item","children":[{"text":"फ़ीड प्रसंस्करण और परीक्षण इकाइयां"}]},{"type":"list_item","children":[{"text":"मूल्य संवर्धन केंद्र"}]},{"type":"list_item","children":[{"text":"फार्म स्तर से कूल चेन की स्थापना (सामूहिक गतिविधि)"}]},{"type":"list_item","children":[{"text":"प्रसंस्कृत कृषि उत्पादों के लिए खुदरा विपणन केंद्र"}]},{"type":"list_item","children":[{"text":"कृषि इनपुट और आउटपुट के ग्रामीण मार्केटिंग डीलरशिप"}]}]}],"exclusions":[{"type":"paragraph","children":[{"text":"पेंशन लाभ प्राप्त करने वाले सेवानिवृत्त कर्मचारी सब्सिडी के लिए पात्र नहीं हैं। हालांकि, वे प्रशिक्षण प्राप्त कर सकते हैं और स्व-वित्तपोषित परियोजनाओं की स्थापना कर सकते हैं।"}]}]},"applicationProcess":[{"mode":"Online","url":"https://acabcmis.gov.in/ApplicantReg.aspx","process":[{"type":"paragraph","children":[{"text":"पहला चरण:","bold":true},{"text":" इच्छुक आवेदक को योजना के लिए आवेदन करने के लिए निम्नलिखित लिंक पर जाना होगा -"}]},{"type":"paragraph","children":[{"type":"लिंक","link":"https://acabcmis.gov.in/ApplicantReg.aspx","children":[{"text":"https://acabcmis.gov.in/ApplicantReg.aspx"}]}]},{"type":"paragraph","children":[{"text":"दूसरा चरण: ","bold":true},{"text":" अनिवार्य क्षेत्रों को सही ढंग से भरें। उक्त प्रारूप और आकार में आवश्यक दस्तावेज अपलोड करें"}]},{"type":"paragraph","children":[{"text":"तीसरा चरण:","bold":true},{"text":" आवेदन प्रक्रिया को पूरा करने के लिए \"सबमिट\" पर क्लिक करें।"}]},{"type":"paragraph","children":[{"text":""}]},{"type":"paragraph","children":[{"text":"आवेदक इस लिंक पर जाकर अपने आवेदन की स्थिति की जांच कर सकता है - "},{"type":"लिंक","link":"https://acabcmis.gov.in/ApplicationStatus_new.aspx","children":[{"text":"https://acabcmis.gov.in/ApplicationStatus_new.aspx"}]},{"type":"लिंक","link":"https://acabcmis.gov.in/ApplicantReg.aspx","children":[{"text":""}]}]}]}]}},"faqs":{"status":"Success","statusCode":200,"errorDescription":"","error":"{}","data":{"_id":"62b2c2df10f3bed66162e3da","schemeId":"62a96601f038bd8499a71b0a","en":{"faqs":[{"question":"How much is a crop loan per acre?","answer":"DBT will be given at the rate of Rs 4,000 per acre per season for cropping while zero-interest loan will be at the rate of Rs 50,000 per hectare to be capped at Rs 1 lakh per farmer, sources told BusinessToday.In. The crop loan is already offered to farmers at a subsidized rate of 4 percent only."},{"question":"What is the lock in period for bank loans?","answer":"A beneficiary cannot close the bank loans within three years from the date of availing loans."},{"question":"What is the subsidy pattern?","answer":"The subsidy is 36% of the Total Financial Outlay (TFO) for General Category candidates and 44% for Women, SC/ST/NE and Hilly State Candidates."},{"question":"Is there any other condition for eligibility?","answer":"Yes, retired employees getting pensionary benefits are not eligible for subsidy. However, they can undergo training and establish self financed projects."},{"question":"Is there any upper ceiling for the project cost?","answer":"Yes, the upper ceiling for the project cost eligible for subsidy is Rs. 20 Lakhs for individual projects and Rs. 100 Lakh for group projects. For extremely successful individual projects the ceiling is Rs. 25 Lakh."},{"question":"Can the candidates undertake group projects?","answer":"Yes, the candidates are allowed to undertake group projects, if the group consists of a total of five or more persons trained under the scheme."},{"question":"What will happen if the project is not completed?","answer":"If the project is not completed within the stipulated period, benefit of subsidy shall not be available and advance subsidy placed with the participating bank, if any, will have to be refunded forthwith to NABARD."},{"question":"What is the duration of the training?","answer":"45 days of residential training for the students who are desirous of setting up agri-clinics and agri-business centers."}]}}},"faqsHi":{"status":"Success","statusCode":200,"errorDescription":"","error":"{}","data":{"_id":"62b2c2df10f3bed66162e3da","schemeId":"62a96601f038bd8499a71b0a","hi":{"en":{"faqs":[{"question":"एक एकड़ भूमि के लिए मुझे कितना “फसल ऋण“ मिल सकता है?","answer":"फसल के लिए प्रति सीजन ₹4,000 प्रति एकड़ की दर से प्रत्यक्ष लाभ अंतरण (डीबीटी) दिया जाएगा। शून्य-ब्याज ऋण ₹50,000 प्रति हेक्टेयर (प्रति किसान ₹1,00,000 पर सीमित) की दर से दिया जाएगा। किसानों को पहले से ही 4% की रियायती दर पर फसल ऋण दिया जा रहा है। Source: Businesstoday.in"},{"question":"बैंक ऋणों के लिए लॉक-इन की अवधि कितनी है?","answer":"एक लाभार्थी ऋण लेने की तारीख से तीन साल से पहले बैंक ऋण बंद नहीं कर सकता है।"},{"question":"इस योजना के तहत सब्सिडी पैटर्न कैसा है?","answer":"सामान्य श्रेणी के उम्मीदवारों के लिए, सब्सिडी कुल वित्तीय परिव्यय (T.F.O.) का 36% है। महिलाओं, अनुसूचित जाति/अनुसूचित जनजाति/पूर्वोत्तर, और पहाड़ी राज्यों के उम्मीदवारों के लिए, सब्सिडी कुल वित्तीय परिव्यय (T.F.O.) का 44% है।"},{"question":"क्या इस योजना के तहत पात्रता के लिए कोई अन्य शर्तें हैं?","answer":"हां, इस योजना के तहत पेंशन लाभ प्राप्त करने वाले सेवानिवृत्त कर्मचारी सब्सिडी के पात्र नहीं हैं। हालांकि, सेवानिवृत्त कर्मचारी इस योजना के तहत प्रशिक्षण प्राप्त कर सकते हैं और स्व-वित्तपोषित परियोजनाएं भी स्थापित कर सकते हैं।"},{"question":"क्या इस योजना के तहत परियोजना की लागत के लिए कोई ऊपरी सीमा है?","answer":"हां, इस योजना के तहत, सब्सिडी के लिए पात्र परियोजना लागत की ऊपरी सीमा ₹20,00,000 (व्यक्तिगत परियोजनाओं के लिए) और ₹1,00,00,000 (समूह परियोजनाओं के लिए) है। अत्यंत सफल व्यक्तिगत परियोजनाओं के लिए अधिकतम सीमा ₹25,00,000 है।"},{"question":"क्या उम्मीदवार सामूहिक परियोजनाएं कर सकते हैं?","answer":"हां, उम्मीदवारों को समूह परियोजनाएं करने की अनुमति है, यदि समूह में प्रशिक्षित पांच या अधिक व्यक्ति शामिल हैं।"},{"question":"अगर इस योजना के तहत परियोजना पूरी नहीं हुई तो क्या होगा?","answer":"यदि परियोजना निर्धारित अवधि के भीतर पूरी नहीं होती है, तो सब्सिडी का लाभ उपलब्ध नहीं होगा, और संबंधित बैंक के पास दी गई अग्रिम सब्सिडी, यदि कोई हो, को तुरंत नाबार्ड को वापस करना होगा"},{"question":"इस योजना के तहत प्रशिक्षण की अवधि क्या है?","answer":"इस योजना के तहत कृषि क्लीनिक और कृषि व्यवसाय केंद्र स्थापित करने के इच्छुक छात्रों के लिए 45 दिनों के लिए आवासीय प्रशिक्षण उपलब्ध है।"}]}}}},"docs":{"status":"Success","statusCode":200,"errorDescription":"","error":"{}","data":{"_id":"62b2bd2510f3bed66162e343","schemeId":"62a96601f038bd8499a71b0a","en":{"documents_required":[{"type":"paragraph","children":[{"text":"1. Applicant Aadhaar Number."}]},{"type":"paragraph","children":[{"text":"2. Email ID."}]},{"type":"paragraph","children":[{"text":"3. Latest Educational Qualification."}]},{"type":"paragraph","children":[{"text":"4. Applicant's Bank Account Details."}]},{"type":"paragraph","children":[{"text":"5. Applicant photo"}]},{"type":"paragraph","children":[{"text":""}]},{"type":"paragraph","children":[{"text":"Till such time as Aadhaar is assigned to an individual, she/he can avail the benefit of the scheme on the production of the following documents: ","bold":true}]},{"type":"paragraph","children":[{"text":"Aadhaar enrolment ID slip/ Copy of request for Aadhaar enrolment and Voter Identity Card/ PAN/ Passport/ Ration Card/ Employee Government ID/ Passbook of Bank or Post Office/ MGNREGS Card/ Kisan Photo Passport/ Driving Licenses/ any other document as specified by State/ UT."}]}]}}},"docsHi":{"status":"Success","statusCode":200,"errorDescription":"","error":"{}","data":{"_id":"62b2bd2510f3bed66162e343","schemeId":"62a96601f038bd8499a71b0a","hi":{"documents_required":[{"type":"paragraph","children":[{"text":"1. आवेदक का आधार नंबर"}]},{"type":"paragraph","children":[{"text":"2. आवेदक की ईमेल आईडी"}]},{"type":"paragraph","children":[{"text":"3. आवेदक की नवीनतम शैक्षिक योग्यता को प्रमाणित करने वाले दस्तावेज"}]},{"type":"paragraph","children":[{"text":"4. आवेदक के बैंक खाते का विवरण"}]},{"type":"paragraph","children":[{"text":"5. आवेदक का फोटो"}]},{"type":"paragraph","children":[{"text":""}]},{"type":"paragraph","children":[{"text":"जब तक आधार संख्या निर्दिष्ट नहीं हो जाती, तब तक आवेदन करने के इच्छुक व्यक्ति निम्नलिखित दस्तावेजों को प्रस्तुत करके योजना का लाभ उठा सकते हैं।","bold":true}]},{"type":"paragraph","children":[{"text":"आधार नामांकन पर्ची / आधार नामांकन के लिए अनुरोध की प्रति / मतदाता पहचान पत्र / पी.ए.एन. / पासपोर्ट / राशन कार्ड / कर्मचारी की सरकारी आईडी / बैंक या डाकघर की पासबुक / मनरेगा कार्ड / किसान का पासपोर्ट आकार का फोटो / ड्राइविंग लाइसेंस / राज्य / केंद्रशासित प्रदेश द्वारा निर्दिष्ट कोई अन्य दस्तावेज।"}]}]}}},"applicationChannels":[]},"__N_SSG":true},"page":"/schemes/[slug]","query":{"slug":"acandabc"},"buildId":"llXcuuOJcWVcn5Ut8YSQY","assetPrefix":"https://cdn.myscheme.in","isFallback":false,"gsp":true,"locale":"en","locales":["en","hi"],"defaultLocale":"en","scriptLoader":[]}
+  </script>
+ </body>
+</html>

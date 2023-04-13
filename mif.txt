@@ -1,0 +1,975 @@
+<!DOCTYPE html>
+<html class="h-100" dir="ltr" lang="en" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+ <head>
+  <meta charset="utf-8"/>
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-17149932-39">
+  </script>
+  <script>
+   window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "UA-17149932-39", {"groups":"default","anonymize_ip":true,"page_placeholder":"PLACEHOLDER_page_path"});
+  </script>
+  <meta content="Drupal 9 (https://www.drupal.org)" name="Generator"/>
+  <meta content="width" name="MobileOptimized"/>
+  <meta content="true" name="HandheldFriendly"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <link href="/sites/default/files/govtschemeslogo.png" rel="icon" type="image/png"/>
+  <link href="https://govtschemes.in/micro-irrigation-fund" hreflang="en" rel="alternate"/>
+  <link href="https://govtschemes.in/hi/sauukasama-saincaai-kaosa" hreflang="hi" rel="alternate"/>
+  <link href="https://govtschemes.in/micro-irrigation-fund" rel="canonical"/>
+  <link href="https://govtschemes.in/node/191" rel="shortlink"/>
+  <script>
+   window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};
+  </script>
+  <title>
+   Micro Irrigation Fund | Govt Schemes India
+  </title>
+  <link href="/sites/default/files/css/css_f3yZhb3HR1t44dBNdcUo8RMzWJd-1x-gqQXUvTZc030.css" media="all" rel="stylesheet"/>
+  <link href="/sites/default/files/css/css_aGHZtLNAprKHds7COYDnYDuD8c_BNnD-4Ykic7F7uJk.css" media="all" rel="stylesheet"/>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.css" media="all" rel="stylesheet"/>
+  <script async="" crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9965229067562548">
+  </script>
+ </head>
+ <body class="node-191 path-node page-node-type-scheme d-flex flex-column h-100">
+  <a class="visually-hidden focusable skip-link" href="#main-content">
+   Skip to main content
+  </a>
+  <div class="dialog-off-canvas-main-canvas d-flex flex-column h-100" data-off-canvas-main-canvas="">
+   <header>
+    <nav class="navbar navbar-expand-lg">
+     <div class="container d-flex">
+      <div class="region region-nav-branding">
+       <div class="block block-system block-system-branding-block" id="block-b5subtheme-branding">
+        <div class="navbar-brand d-flex align-items-center">
+         <a class="site-logo d-block" href="/" rel="home" title="Home">
+          <img alt="Home" src="/sites/default/files/pmmodi.png"/>
+         </a>
+         <div>
+          <a class="site-title" href="/" rel="home" title="Home">
+           Govt Schemes India
+          </a>
+         </div>
+        </div>
+       </div>
+       <div class="block block-block-content block-block-content77c869bd-f075-42c4-9c48-b17b0532ca5c" id="block-anucsc">
+        <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item">
+         <script async="" src="https://cse.google.com/cse.js?cx=90947792da95f4be0">
+         </script>
+         <div class="gcse-search">
+         </div>
+        </div>
+       </div>
+      </div>
+      <button aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler collapsed" data-bs-target="#navbarSupportedContent" data-bs-toggle="collapse" type="button">
+       <span class="navbar-toggler-icon">
+       </span>
+      </button>
+      <div class="collapse navbar-collapse justify-content-md-end flex-wrap" id="navbarSupportedContent">
+       <div class="region region-nav-main">
+        <nav aria-labelledby="block-b5subtheme-main-navigation-menu" class="block block-menu navigation menu--main" id="block-b5subtheme-main-navigation">
+         <h5 class="visually-hidden" id="block-b5subtheme-main-navigation-menu">
+          Main navigation
+         </h5>
+         <ul class="navbar-nav mr-auto">
+          <li class="nav-item">
+           <a class="nav-item nav-link" data-drupal-link-system-path="&lt;front&gt;" href="/">
+            Home
+           </a>
+          </li>
+          <li class="nav-item">
+           <a class="nav-item nav-link" href="https://www.facebook.com/Government-Schemes-India-111965564847391">
+            Facebook
+           </a>
+          </li>
+          <li class="nav-item">
+           <a class="nav-item nav-link" data-drupal-link-system-path="webform/contact_us" href="/contact" title="Contact us and send your questions">
+            Contact Us
+           </a>
+          </li>
+         </ul>
+        </nav>
+       </div>
+      </div>
+     </div>
+    </nav>
+   </header>
+   <main role="main">
+    <a id="main-content" tabindex="-1">
+    </a>
+    <div class="container">
+     <div class="region region-breadcrumb">
+      <div class="block block-system block-system-breadcrumb-block" id="block-b5subtheme-breadcrumbs">
+       <nav aria-label="breadcrumb">
+        <h2 class="visually-hidden" id="system-breadcrumb">
+         Breadcrumb
+        </h2>
+        <ol class="breadcrumb">
+         <li class="breadcrumb-item">
+          <a href="/">
+           Home
+          </a>
+         </li>
+        </ol>
+       </nav>
+      </div>
+     </div>
+     <div class="row g-0">
+      <div class="order-1 order-lg-2 col-12">
+       <div class="region region-content">
+        <div class="hidden" data-drupal-messages-fallback="">
+        </div>
+        <div class="block block-core block-page-title-block" id="block-b5subtheme-page-title">
+         <h1 class="display-4 text-center page-title">
+          <span class="field field--name-title field--type-string field--label-hidden">
+           Micro Irrigation Fund
+          </span>
+         </h1>
+        </div>
+        <div class="block block-system block-system-main-block" id="block-b5subtheme-content">
+         <article about="/micro-irrigation-fund" data-history-node-id="191" role="article">
+          <footer>
+           <article about="/user/2" class="profile" typeof="schema:Person">
+            <div class="field field--name-user-picture field--type-image field--label-hidden field__item">
+             <a href="/user/2" hreflang="en">
+              <img alt="Profile picture for user shahrukh" class="img-fluid image-style-thumbnail" height="38" loading="lazy" src="/sites/default/files/styles/thumbnail/public/pictures/2022-04/sharukh2.jpg?itok=bzilfIIk" typeof="foaf:Image" width="33"/>
+             </a>
+            </div>
+           </article>
+           <div>
+            Submitted by
+            <span class="field field--name-uid field--type-entity-reference field--label-hidden">
+             <span about="/user/2" datatype="" lang="" property="schema:name" typeof="schema:Person">
+              shahrukh
+             </span>
+            </span>
+            on
+            <span class="field field--name-created field--type-created field--label-hidden">
+             Fri, 21/10/2022 - 15:28
+            </span>
+           </div>
+          </footer>
+          <div data="abc">
+           <span class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-title="Micro Irrigation Fund" data-a2a-url="https://govtschemes.in/micro-irrigation-fund">
+            <a class="a2a_dd addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fgovtschemes.in%2Fmicro-irrigation-fund&amp;title=Micro%20Irrigation%20Fund">
+            </a>
+            <a class="a2a_button_facebook">
+            </a>
+            <a class="a2a_button_twitter">
+            </a>
+            <a class="a2a_button_email">
+            </a>
+           </span>
+           <div class="field field--name-field-leader field--type-viewfield field--label-hidden">
+            <div class="field__item field__item-label-hidden">
+             <div class="views-element-container">
+              <div class="view view-cmphoto view-id-cmphoto view-display-id-block_1 js-view-dom-id-693956cd8f3f6cc6ddf57468eac868915fe29e8e014351fe1d52a4906212849d">
+               <div class="view-content">
+                <div class="views-row">
+                 <div class="views-field views-field-field-leader">
+                  <div class="field-content">
+                   <img alt="Prime Minister of India" class="img-fluid" height="144" loading="lazy" src="/sites/default/files/2022-04/pm.JPG" title="Prime Minister of India" typeof="foaf:Image" width="131"/>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div id="sticky-anchor">
+           </div>
+           <div class="toc-js" data-back-to-top="0" data-back-to-top-label="Back to top" data-container=".field--name-body" data-highlight-offset="100" data-highlight-on-scroll="1" data-list-type="ul" data-prefix="toc" data-scroll-to-offset="0" data-selectors="h2, h3" data-selectors-minimum="0" data-smooth-scrolling="1" data-sticky="0" data-sticky-offset="0" data-sticky-stop="" data-sticky-stop-padding="0" id="toc-js-node-191">
+            <div class="toc-title h2">
+             Table of contents
+            </div>
+            <nav aria-label="Table of contents" role="navigation">
+            </nav>
+           </div>
+           <div class="node__links">
+            <ul class="links inline">
+             <li class="comment-add">
+              <a href="/micro-irrigation-fund#comment-form" hreflang="en" title="Share your thoughts and opinions.">
+               Add new comment
+              </a>
+             </li>
+            </ul>
+           </div>
+           <div class="field field--name-field-image field--type-image field--label-hidden field__item">
+            <img alt="Micro Irrigation Fund Logo" class="img-fluid image-style-max-width-500px" height="300" loading="lazy" src="/sites/default/files/styles/max_width_500px/public/2022-10/Micro%20irrigation%20Fund%20Logo.jpg?itok=DI10XWVc" title="Micro Irrigation Fund Logo" typeof="foaf:Image" width="295"/>
+           </div>
+           <div class="clearfix text-formatted field field--name-field-highlights field--type-text-long field--label-above">
+            <div class="field__label">
+             Highlights
+            </div>
+            <div class="field__item">
+             <ul>
+              <li>
+               Central government created Rs.5000 crore Micro Irrigation fund for farmers to encourage micro irrigation.
+              </li>
+              <li>
+               Farmers can install micro irrigation system with extra subsidy with the help of state government through Micro irrigation fund.
+              </li>
+              <li>
+               Central government will provide 55% subsidy on micro irrigation system to small and marginal farmer and state government will provide extra subsidy for same through Micro Irrigation Fund.
+              </li>
+              <li>
+               Central government will provide 45% subsidy to other farmers for micro irrigation on which state will provide additional subsidy for micro irrigation enhancement.
+              </li>
+              <li>
+               Small and marginal farmers are mainly going to benefit through the scheme.
+              </li>
+              <li>
+               Farmers will get three years of free service for micro irrigation system after installation.
+              </li>
+             </ul>
+            </div>
+           </div>
+           <div class="field field--name-field-website field--type-link field--label-above">
+            <div class="field__label">
+             Website
+            </div>
+            <div class="field__items">
+             <div class="field__item">
+              <a href="https://www.nabard.org">
+               National Bank for Agriculture and Rural Development
+              </a>
+             </div>
+             <div class="field__item">
+              <a href="https://agricoop.nic.in/en">
+               Ministry of Agriculture and Farmer Welfare
+              </a>
+             </div>
+            </div>
+           </div>
+           <div id="icc">
+            <div style="font-size:1.2em;font-weight:bold;margin:1em auto ">
+             Customer Care
+            </div>
+            <div>
+             <ul>
+              <li>
+               Support and Query on PMKSY (Pradhan Mantri Krishi Sinchayee Yojana)  support.pmksy-dac@gov.in
+              </li>
+              <li>
+               Kisan Call Center Number 1800-180-1551
+              </li>
+              <li>
+               Secretary
+               <br/>
+               Ministry of Agriculture &amp; Farmers Welfare,
+               <br/>
+               Department of Agriculture &amp; Farmers Welfare,
+               <br/>
+               Krishi Bhawan, New Delhi-110001
+              </li>
+              <li>
+               Helpdesk no: 022 26539895, 022 26539896, 022 26539899.
+              </li>
+              <li>
+               NABARD (National  Bank for Agriculture and Rural Development) Address
+               <br/>
+               Plot C-24, G Block, Bandra Kurla Complex, BKC Road
+               <br/>
+               Bandra East, Mumbai, Maharashtra 400051
+              </li>
+              <li>
+               NABARD Helpline Phone No :- 011 25842836.
+              </li>
+              <li>
+               NABARD Helpline E-Mail:  nraapc2007@gmail.com
+              </li>
+             </ul>
+            </div>
+           </div>
+           <div class="field field--name-field-information-brochure field--type-file field--label-above">
+            <div class="field__label">
+             Information Brochure
+            </div>
+            <div class="field__items">
+             <div class="field__item">
+              <span class="file file--mime-application-pdf file--application-pdf">
+               <a href="/sites/default/files/2022-10/Micro%20Irrigation%20Fund%20Guidelines.pdf" title="Micro Irrigation Fund Guidelines.pdf" type="application/pdf">
+                Micro Irrigation Fund Guidelines
+               </a>
+              </span>
+             </div>
+             <div class="field__item">
+              <span class="file file--mime-application-pdf file--application-pdf">
+               <a href="/sites/default/files/2022-10/Pradhan%20Mantri%20Krishi%20Sinchayee%20Yojana%20Guidelines.pdf" title="Pradhan Mantri Krishi Sinchayee Yojana Guidelines.pdf" type="application/pdf">
+                Pradhan Mantri Krishi Sinchayee Yojana Guidelines
+               </a>
+              </span>
+             </div>
+            </div>
+           </div>
+           <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item">
+            <table>
+             <tbody>
+              <tr>
+               <th colspan="2">
+                <div align="center">
+                 Overview of the Scheme
+                </div>
+               </th>
+              </tr>
+              <tr>
+               <td>
+                Name of the Scheme
+               </td>
+               <td>
+                Micro Irrigation Fund.
+               </td>
+              </tr>
+              <tr>
+               <td>
+                Launched on
+               </td>
+               <td>
+                16.05.2018.
+               </td>
+              </tr>
+              <tr>
+               <td>
+                Launched by
+               </td>
+               <td>
+                Central Government.
+               </td>
+              </tr>
+              <tr>
+               <td>
+                Nodal Agency
+               </td>
+               <td>
+                <a href="https://agricoop.nic.in/en">
+                 Ministry of Agriculture and Farmers Welfare.
+                </a>
+               </td>
+              </tr>
+              <tr>
+               <td>
+                Beneficiaries
+               </td>
+               <td>
+                Farmers
+               </td>
+              </tr>
+              <tr>
+               <td>
+                Benefits
+               </td>
+               <td>
+                <ul>
+                 <li>
+                  Higher subsidy on micro irrigation system.
+                 </li>
+                 <li>
+                  Free service for 3 years after installation of micro irrigation system.
+                 </li>
+                 <li>
+                  Water use efficiency.
+                 </li>
+                 <li>
+                  Higher production.
+                 </li>
+                </ul>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+            <h2>
+             Introduction
+            </h2>
+            <ul>
+             <li>
+              Central government is committed to provide access to irrigation for agriculture farm by prioritising water conservation and its management.
+             </li>
+             <li>
+              Agriculture in India is largely monsoon dependent. Distribution of monsoon is not uniform and also the climate is changing which is largely going to affect rainfed farming.
+             </li>
+             <li>
+              Agriculture is possible only in regions where rainfall distribution ensures continuing availability of soil moisture during the critical growing periods for the crops. This availability of water can be made possible by micro irrigation for better agriculture results.
+             </li>
+             <li>
+              Micro Irrigation Fund (MIF) has been created with NABARD (National Bank for Agriculture and Rural Development) by Government of India.
+             </li>
+             <li>
+              Ministry of Agriculture and Farmers Welfare approves Rs.5000 crore for setting up MIF (Micro Irrigation Fund) with NABARD (National Bank for Agriculture and Rural Development) under PMKSY (Pradhan Mantri Krishi Sinchayee Yojana).
+             </li>
+             <li>
+              Micro Irrigation Fund will help to disperse Rs. 5000 crore among states for promoting micro irrigation.
+             </li>
+             <li>
+              States can avail the fund in form of loan from NABARD (National Bank for Agriculture and Rural Development) at 3% below the cost of funds and the 3% being compensated by central government.
+             </li>
+             <li>
+              MIF (Micro Irrigation Fund) will help the states to avail loan at lower interest rate for short period to implement Micro Irrigation technologies to enhance water use efficiency.
+             </li>
+             <li>
+              Central government under PMKSY (Pradhan Mantri Krishi Sinchayee Yojana) will provide subsidy @55% of the indicative unit cost to small and marginal farmers and @45% to other farmer for encouraging them to install Drip and Sprinkler system.
+             </li>
+             <li>
+              State shall provide top up subsidies in addition to subsidy by PMKSY for encouraging micro irrigation through MIF.
+             </li>
+             <li>
+              States shall invest Micro Irrigation Fund on special innovative projects, integrated projects and on projects including public private partnership (PPP) mode also on providing subsidies for micro irrigation setups.
+             </li>
+             <li>
+              It will help in seeking private partnership in managing and boosting micro irrigation across India.
+             </li>
+             <li>
+              State government shall pay back the loan in 7 years.
+             </li>
+             <li>
+              Central government plans to bring 69.55 million hectare area under micro irrigation by adding 2 million hectare of agriculture land under micro irrigation every year through MIF (Micro Irrigation Fund).
+             </li>
+             <li>
+              Micro Irrigation Funds can be availed by FPOs (Farmers Producers Organisation), Cooperatives and State level Agencies with a state level guarantee or by other equivalent bodies.
+             </li>
+             <li>
+              ICAR (Indian Council of Agriculture Research) shall impart training and field demonstration through KVK (Kisan Vikas Kendra) to promote micro irrigation.
+             </li>
+             <li>
+              State will ensure energy support for micro irrigation.
+             </li>
+             <li>
+              All monitoring and evaluation requirements set down for the PMKSY shall also apply to the MIF scheme.
+             </li>
+             <li>
+              All activities under micro irrigation will be geo tagged with unique code on PMKSY Bhuvan platform.
+             </li>
+            </ul>
+            <h2>
+             Objective
+            </h2>
+            <ul>
+             <li>
+              The main objective of the MIF (Micro Irrigation Fund) is to help and support the state government to prepare and organise resources for Micro Irrigation expansion by setting special and innovative projects.
+             </li>
+             <li>
+              It includes providing special subsidies on micro irrigation setups beyond the provision available under PMKSY (Pradhan Mantri Krishi Sinchayee Yojana) to encourage farmers to install micro irrigation system.
+             </li>
+            </ul>
+            <h2>
+             Benefits of Scheme for Farmers
+            </h2>
+            <ul>
+             <li>
+              Farmers can avail higher subsidy on micro irrigation system.
+             </li>
+             <li>
+              They shall get free service for 3 years after installation of micro irrigation system.
+             </li>
+             <li>
+              Micro Irrigation will provide higher crop production.
+             </li>
+             <li>
+              It will help in reduction of labour cost.
+             </li>
+             <li>
+              Less water consumption will provide availability of water resources for longer duration.
+             </li>
+             <li>
+              Lower power consumption will reduce financial burden of farmers.
+             </li>
+             <li>
+              It will help to reduce use of fertilizers and benefit by increased soil fertility.
+             </li>
+             <li>
+              Micro Irrigation will be ensuring better result in farm practices.
+             </li>
+             <li>
+              Judicious use of available water will help in better water management.
+             </li>
+             <li>
+              Micro Irrigation will improve livelihood of the farmers.
+             </li>
+            </ul>
+            <h2>
+             Benefits of Scheme for State Government
+            </h2>
+            <ul>
+             <li>
+              Scheme will help the state government to have short term loan at lower interest rate.
+             </li>
+             <li>
+              State government can approach public private partnership for Micro Irrigation depending on state specific requirement.
+             </li>
+             <li>
+              Private partnership will help state to bring new idea and resources for micro irrigation.
+             </li>
+             <li>
+              On farm water use efficiency (storage, distribution and use of water) will be implemented by states helping in achieving ‘Per Drop More Crop’  concept of PMKSY (Pradhan Mantri Krishi Sinchayee Yojana).
+             </li>
+             <li>
+              It will ensure sustainable agricultural development and food security.
+             </li>
+             <li>
+              Utilisation of available water resources in states will be done wisely in effective manner.
+             </li>
+             <li>
+              It will help to cover rainfed area with assured irrigation.
+             </li>
+             <li>
+              It will help states to provide extra subsidies for encouraging farmer to implement Micro Irrigation System.
+             </li>
+             <li>
+              State will get opportunity of generating employment.
+             </li>
+             <li>
+              It will decrease dependency on ground water and hence prevent further depletion of ground water.
+             </li>
+            </ul>
+            <h2>
+             How farmers can apply
+            </h2>
+            <ul>
+             <li>
+              Farmers can apply for the loans in form of FPOs (Farmers Producers Organisations)/ Cooperatives/ WUA (Water User Association)/ State Level Agencies or equivalent bodies for innovative cluster based community Irrigation projects.
+             </li>
+             <li>
+              Cluster Size: 20 Hectare or more for Northeast and Himalayan states Cluster Size: 50 Hectare or more for other states
+             </li>
+             <li>
+              Above organisations will submit their proposals/projects to SLSC ( State Level Sanction Committee) of PMKSY (Pradhan Mantri Krishi Sinchayee Yojana).
+             </li>
+             <li>
+              Sanction Committee will submit it to Steering Committee which is going to examine and approve projects from state government. Steering Committee will then recommend it to NABARD for loan grant.
+             </li>
+            </ul>
+            <h2>
+             Important Links
+            </h2>
+            <ul>
+             <li>
+              <a href="https://www.nabard.org">
+               National  Bank for Agriculture and Rural Development  Official Website
+              </a>
+             </li>
+             <li>
+              <a href="https://pmksy.gov.in">
+               Pradhan Mantri Krishi Sinchayee Yojana (PMKKSY) Website.
+              </a>
+             </li>
+             <li>
+              <a href="https://govtschemes.in/sites/default/files/2022-10/Micro%20Irrigation%20Fund%20Guidelines.pdf">
+               Micro Irrigation Fund Guidelines.
+              </a>
+             </li>
+             <li>
+              <a href="https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1695228">
+               Press Information Bureau on PMKSY.
+              </a>
+             </li>
+             <li>
+              <a href="https://govtschemes.in/sites/default/files/2022-10/Pradhan%20Mantri%20Krishi%20Sinchayee%20Yojana%20Guidelines.pdf">
+               Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) Guidelines.
+              </a>
+             </li>
+            </ul>
+            <h2>
+             Contact Details
+            </h2>
+            <ul>
+             <li>
+              Support and Query on PMKSY (Pradhan Mantri Krishi Sinchayee Yojana)  support.pmksy-dac@gov.in
+             </li>
+             <li>
+              Kisan Call Center Number 1800-180-1551
+             </li>
+             <li>
+              Secretary
+              <br/>
+              Ministry of Agriculture &amp; Farmers Welfare,
+              <br/>
+              Department of Agriculture &amp; Farmers Welfare,
+              <br/>
+              Krishi Bhawan, New Delhi-110001
+             </li>
+             <li>
+              Helpdesk no: 022 26539895, 022 26539896, 022 26539899.
+             </li>
+             <li>
+              NABARD (National  Bank for Agriculture and Rural Development) Address
+              <br/>
+              Plot C-24, G Block, Bandra Kurla Complex, BKC Road
+              <br/>
+              Bandra East, Mumbai, Maharashtra 400051
+             </li>
+             <li>
+              NABARD Helpline Phone No :- 011 25842836.
+             </li>
+             <li>
+              NABARD Helpline E-Mail:  nraapc2007@gmail.com
+             </li>
+            </ul>
+           </div>
+           <div class="field field--name-field-also-see field--type-entity-reference field--label-above">
+            <div class="field__label">
+             Also see
+            </div>
+            <div class="field__items">
+             <div class="field__item">
+              <a href="/pradhan-mantri-kisan-samman-nidhi-pm-kisan" hreflang="en">
+               Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)
+              </a>
+             </div>
+             <div class="field__item">
+              <a href="/kisan-call-center-kcc" hreflang="en">
+               Kisan Call Center (KCC)
+              </a>
+             </div>
+             <div class="field__item">
+              <a href="/pradhan-mantri-kisan-maandhan-yojana" hreflang="en">
+               Pradhan Mantri Kisan Maandhan Yojana
+              </a>
+             </div>
+            </div>
+           </div>
+           <div class="field field--name-field-person-type field--type-entity-reference field--label-above">
+            <div class="field__label">
+             Person Type
+            </div>
+            <div class="field__items">
+             <div class="field__item">
+              <a href="/taxonomy/term/111" hreflang="en">
+               Farmer
+              </a>
+             </div>
+            </div>
+           </div>
+           <div class="field field--name-field-scheme-type field--type-entity-reference field--label-above">
+            <div class="field__label">
+             Scheme Type
+            </div>
+            <div class="field__items">
+             <div class="field__item">
+              <a href="/taxonomy/term/59" hreflang="en">
+               Agriculture
+              </a>
+             </div>
+            </div>
+           </div>
+           <div>
+            <div>
+             Govt
+            </div>
+            <div>
+             <a href="/allschemes/CENTRAL GOVT">
+              CENTRAL GOVT
+             </a>
+            </div>
+           </div>
+           <section class="field field--name-field-comments field--type-comment field--label-above comment-wrapper">
+            <h2 class="title">
+             Comments
+            </h2>
+            <article about="/comment/3110" class="comment js-comment by-anonymous" data-comment-user-id="0" id="comment-3110" typeof="schema:Comment">
+             <mark class="hidden" data-comment-timestamp="1680204207">
+             </mark>
+             <footer class="comment__meta">
+              <article about="/user/0" class="profile" typeof="schema:Person">
+              </article>
+              <p class="comment__submitted">
+               <span rel="schema:author">
+                Submitted by
+                <span datatype="" lang="" property="schema:name" typeof="schema:Person">
+                 MATHACHAN MN (not verified)
+                </span>
+                on Sat, 25/03/2023 - 13:11
+               </span>
+               <span class="rdf-meta hidden" content="2023-03-25T07:41:05+00:00" property="schema:dateCreated">
+               </span>
+              </p>
+              <a href="/comment/3110#comment-3110" hreflang="en">
+               Permalink
+              </a>
+             </footer>
+             <div class="content">
+              <h3 datatype="" property="schema:name">
+               <a class="permalink" href="/comment/3110#comment-3110" hreflang="en" rel="bookmark">
+                Irrigation
+               </a>
+              </h3>
+              <div class="clearfix text-formatted field field--name-comment-body field--type-text-long field--label-hidden field__item" property="schema:text">
+               <p>
+                I am from Cochin. I am a marginal farmer having 5 acres of land doing agriculture of Coconut, Banana, Jathy and vegetables. I want to install electric motor and piping system.Kindly advise the govt subsidies and procedures
+               </p>
+              </div>
+              <ul class="links inline">
+               <li class="comment-reply">
+                <a href="/comment/reply/node/191/field_comments/3110">
+                 Reply
+                </a>
+               </li>
+              </ul>
+             </div>
+            </article>
+            <h2 class="title comment-form__title">
+             Add new comment
+            </h2>
+            <form accept-charset="UTF-8" action="/comment/reply/node/191/field_comments" class="comment-comment-form comment-form" data-drupal-selector="comment-form" id="comment-form" method="post">
+             <div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-name form-item-name">
+              <label for="edit-name">
+               Your name
+              </label>
+              <input class="form-text form-control" data-drupal-default-value="Anonymous" data-drupal-selector="edit-name" id="edit-name" maxlength="60" name="name" size="30" type="text" value=""/>
+             </div>
+             <input autocomplete="off" data-drupal-selector="form-db58rzlxuo7dp1zwyktjz-vvweoapfzq0hb1d9rwfnk" name="form_build_id" type="hidden" value="form-Db58rZLXUo7dP1zwyktjZ_vVWEOAPfzQ0Hb1D9RWfnk"/>
+             <input data-drupal-selector="edit-comment-comment-form" name="form_id" type="hidden" value="comment_comment_form"/>
+             <div class="field--type-string field--name-subject field--widget-string-textfield js-form-wrapper form-wrapper" data-drupal-selector="edit-subject-wrapper" id="edit-subject-wrapper">
+              <div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-subject-0-value form-item-subject-0-value">
+               <label for="edit-subject-0-value">
+                Subject
+               </label>
+               <input class="js-text-full text-full form-text form-control" data-drupal-selector="edit-subject-0-value" id="edit-subject-0-value" maxlength="64" name="subject[0][value]" placeholder="" size="60" type="text" value=""/>
+              </div>
+             </div>
+             <div class="field--type-text-long field--name-comment-body field--widget-text-textarea js-form-wrapper form-wrapper" data-drupal-selector="edit-comment-body-wrapper" id="edit-comment-body-wrapper">
+              <div class="js-text-format-wrapper text-format-wrapper js-form-item form-item">
+               <div class="js-form-item form-item js-form-type-textarea form-type-textarea js-form-item-comment-body-0-value form-item-comment-body-0-value">
+                <label class="js-form-required form-required" for="edit-comment-body-0-value">
+                 Comment
+                </label>
+                <div class="form-textarea-wrapper">
+                 <textarea aria-required="true" class="js-text-full text-full form-textarea required form-control resize-vertical" cols="60" data-drupal-selector="edit-comment-body-0-value" id="edit-comment-body-0-value" name="comment_body[0][value]" placeholder="" required="required" rows="5"></textarea>
+                </div>
+               </div>
+               <div class="js-filter-wrapper filter-wrapper js-form-wrapper form-wrapper" data-drupal-selector="edit-comment-body-0-format" id="edit-comment-body-0-format">
+                <div class="filter-help js-form-wrapper form-wrapper" data-drupal-selector="edit-comment-body-0-format-help" id="edit-comment-body-0-format-help">
+                 <a data-drupal-selector="edit-comment-body-0-format-help-about" href="/filter/tips" id="edit-comment-body-0-format-help-about" target="_blank">
+                  About text formats
+                 </a>
+                </div>
+                <div class="js-filter-guidelines filter-guidelines js-form-wrapper form-wrapper" data-drupal-selector="edit-comment-body-0-format-guidelines" id="edit-comment-body-0-format-guidelines">
+                 <div class="filter-guidelines-item filter-guidelines-plain_text" data-drupal-format-id="plain_text">
+                  <h4 class="label">
+                   Plain text
+                  </h4>
+                  <ul class="tips">
+                   <li>
+                    No HTML tags allowed.
+                   </li>
+                   <li>
+                    Lines and paragraphs break automatically.
+                   </li>
+                  </ul>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="form-actions js-form-wrapper form-wrapper" data-drupal-selector="edit-actions" id="edit-actions">
+              <input class="button button--primary js-form-submit form-submit btn btn-primary" data-drupal-selector="edit-submit" id="edit-submit" name="op" type="submit" value="Save"/>
+              <input class="button js-form-submit form-submit btn btn-primary" data-drupal-selector="edit-preview" id="edit-preview" name="op" type="submit" value="Preview"/>
+             </div>
+            </form>
+           </section>
+          </div>
+          <span>
+           <a class="quarter-circle" href="/hi/sauukasama-saincaai-kaosa">
+            हिन्दी
+           </a>
+          </span>
+         </article>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </main>
+   <footer class="mt-auto">
+    <div class="container">
+     <div class="region region-footer">
+      <div class="block block-block-example block-matching-schemes-sector" id="block-matchingschemes">
+       <div class="matchscm" id="siblk59:127">
+        <h2>
+         Matching schemes for sector:Agriculture
+        </h2>
+        <table>
+         <tr>
+          <th>
+           Sno
+          </th>
+          <th>
+           CM
+          </th>
+          <th>
+           Scheme
+          </th>
+          <th>
+           Govt
+          </th>
+         </tr>
+         <tr>
+          <td>
+           1
+          </td>
+          <td>
+           <img alt="" class="img-fluid image-style-small" src="/sites/default/files/styles/small/public/2022-04/pm.JPG?itok=APf2z09C" typeof="foaf:Image"/>
+          </td>
+          <td>
+           <a href="/node/114">
+            Kisan Call Center (KCC)
+           </a>
+          </td>
+          <td>
+           CENTRAL GOVT
+          </td>
+         </tr>
+         <tr>
+          <td>
+           2
+          </td>
+          <td>
+           <img alt="" class="img-fluid image-style-small" src="/sites/default/files/styles/small/public/2022-04/pm.JPG?itok=APf2z09C" typeof="foaf:Image"/>
+          </td>
+          <td>
+           <a href="/node/131">
+            Fertilizer Subsidy Scheme 2022
+           </a>
+          </td>
+          <td>
+           CENTRAL GOVT
+          </td>
+         </tr>
+         <tr>
+          <td>
+           3
+          </td>
+          <td>
+           <img alt="" class="img-fluid image-style-small" src="/sites/default/files/styles/small/public/2022-04/pm.JPG?itok=APf2z09C" typeof="foaf:Image"/>
+          </td>
+          <td>
+           <a href="/node/36">
+            Pradhan Mantri Fasal Bima Yojana (PMFBY)
+           </a>
+          </td>
+          <td>
+           CENTRAL GOVT
+          </td>
+         </tr>
+         <tr>
+          <td>
+           4
+          </td>
+          <td>
+           <img alt="" class="img-fluid image-style-small" src="/sites/default/files/styles/small/public/2022-04/pm.JPG?itok=APf2z09C" typeof="foaf:Image"/>
+          </td>
+          <td>
+           <a href="/node/189">
+            National Agriculture Market (e-NAM)
+           </a>
+          </td>
+          <td>
+           CENTRAL GOVT
+          </td>
+         </tr>
+         <tr>
+          <td>
+           5
+          </td>
+          <td>
+           <img alt="" class="img-fluid image-style-small" src="/sites/default/files/styles/small/public/2022-04/pm.JPG?itok=APf2z09C" typeof="foaf:Image"/>
+          </td>
+          <td>
+           <a href="/node/190">
+            Pradhan Mantri Kisan Maandhan Yojana
+           </a>
+          </td>
+          <td>
+           CENTRAL GOVT
+          </td>
+         </tr>
+         <tr>
+          <td>
+           6
+          </td>
+          <td>
+           <img alt="" class="img-fluid image-style-small" src="/sites/default/files/styles/small/public/2022-04/pm.JPG?itok=APf2z09C" typeof="foaf:Image"/>
+          </td>
+          <td>
+           <a href="/node/196">
+            Kisan Credit Card
+           </a>
+          </td>
+          <td>
+           CENTRAL GOVT
+          </td>
+         </tr>
+         <tr>
+          <td>
+           7
+          </td>
+          <td>
+           <img alt="" class="img-fluid image-style-small" src="/sites/default/files/styles/small/public/2022-04/pm.JPG?itok=APf2z09C" typeof="foaf:Image"/>
+          </td>
+          <td>
+           <a href="/node/318">
+            ग्रामीण भण्डारण योजना
+           </a>
+          </td>
+          <td>
+           CENTRAL GOVT
+          </td>
+         </tr>
+        </table>
+       </div>
+      </div>
+      <div class="block block-block-content block-block-contenteff8f2c1-1afa-475f-a3c9-62ef55b85052" id="block-anufblike">
+       <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item">
+        <div style="width:400px;margin:auto auto">
+         <div id="fb-root">
+         </div>
+         <script async="" crossorigin="anonymous" defer="defer" nonce="5Xg7PSqc" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v13.0&amp;appId=1520067771595069&amp;autoLogAppEvents=1">
+         </script>
+         <div class="fb-page" data-adapt-container-width="true" data-height="280" data-hide-cover="false" data-href="https://www.facebook.com/govschemesindia" data-show-facepile="true" data-small-header="false" data-tabs="timeline" data-width="400">
+          <blockquote cite="https://www.facebook.com/govschemesindia" class="fb-xfbml-parse-ignore">
+           <a href="https://www.facebook.com/govschemesindia">
+            Government Schemes India
+           </a>
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="block block-block-content block-block-content4ecbe3ae-a356-42b5-b602-b313644fbd58" id="block-copyright">
+       <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item">
+        <div class="justify-content-center" id="crt99" style="width;400px;margin:auto auto">
+         Govt Schemes India(©). All rights reserved.
+         <br/>
+         <a href="/contact">
+          Contact
+         </a>
+         |
+         <a href="/about">
+          About
+         </a>
+         |
+         <a href="/term">
+          Terms
+         </a>
+         |
+         <a href="/privacy">
+          Privacy Policy
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <script data-drupal-selector="drupal-settings-json" type="application/json">
+   {"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/191","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"google_analytics":{"account":{},"trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"data":{"extlink":{"extTarget":false,"extTargetNoOverride":false,"extNofollow":false,"extNoreferrer":true,"extFollowNoOverride":false,"extClass":"ext","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"mailto","mailtoLabel":"(link sends email)","extUseFontAwesome":false,"extIconPlacement":"append","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","whitelistedDomains":[]}},"ajaxTrustedUrl":{"\/comment\/reply\/node\/191\/field_comments":true},"user":{"uid":0,"permissionsHash":"3221175ccf632c877a340c5fed0f90275548c09e076612b7a835c5c34b75e031"}}
+  </script>
+  <script src="/sites/default/files/js/js_ka2i-4mlmalzyG3BYxlyBZJIWPXD8_8hvjedOAknp5s.js">
+  </script>
+  <script async="" src="https://static.addtoany.com/menu/page.js">
+  </script>
+  <script src="/sites/default/files/js/js_pJoU4xCVZOJsub9sQFm8U3TC0o6s3HQnixvOD6eUADQ.js">
+  </script>
+  <script async="" src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js">
+  </script>
+  <script src="/sites/default/files/js/js_rUEFAQ0rzGhPBnzZ1MFEw7sLOfJXB_VxcR860iuKIl4.js">
+  </script>
+ </body>
+</html>

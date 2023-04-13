@@ -1,0 +1,2516 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!-->
+<html dir="ltr" lang="en" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+ <!--<![endif]-->
+ <head>
+  <meta charset="utf-8"/>
+  <link href="https://dahd.nic.in/sites/default/filess/favicon_0.png" rel="shortcut icon" type="image/png"/>
+  <link href="/node/86783" rel="shortlink"/>
+  <link href="/related-links/livestock-insurance" rel="canonical"/>
+  <meta content="Drupal 7 (http://drupal.org)" name="Generator"/>
+  <!--<meta http-equiv="X-UA-Compatible" content="IE=edge" />-->
+  <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
+  <meta content="7XBuQ1wPa0ow74l2tG-ZIY-PvMtBh4rXSNPCp6H0ro" name="_globalsign-domain-verification"/>
+  <title>
+   Livestock Insurance | Department of Animal Husbandry &amp; Dairying
+  </title>
+  <meta content="Livestock Insurance" name="keywords"/>
+  <meta content="Livestock Insurance" name="description"/>
+  <!-- <meta name="title" content="Department of Animal Husbandry & Dairying"> -->
+  <meta content="en" name="lang"/>
+  <meta content="width" name="MobileOptimized"/>
+  <meta content="true" name="HandheldFriendly"/>
+  <!--  <meta http-equiv="cleartype" content="on"> -->
+  <style>
+   @import url("https://dahd.nic.in/modules/system/system.base.css?rsw14v");
+  </style>
+  <style>
+   @import url("https://dahd.nic.in/sites/all/modules/contributed/jquery_update/replace/ui/themes/base/minified/jquery.ui.core.min.css?rsw14v");
+@import url("https://dahd.nic.in/sites/all/modules/contributed/jquery_update/replace/ui/themes/base/minified/jquery.ui.theme.min.css?rsw14v");
+  </style>
+  <style>
+   @import url("https://dahd.nic.in/sites/all/modules/contributed/calendar/css/calendar_multiday.css?rsw14v");
+@import url("https://dahd.nic.in/modules/comment/comment.css?rsw14v");
+@import url("https://dahd.nic.in/sites/all/modules/contributed/date/date_api/date.css?rsw14v");
+@import url("https://dahd.nic.in/sites/all/modules/contributed/date/date_popup/themes/datepicker.1.7.css?rsw14v");
+@import url("https://dahd.nic.in/modules/field/theme/field.css?rsw14v");
+@import url("https://dahd.nic.in/modules/node/node.css?rsw14v");
+@import url("https://dahd.nic.in/modules/search/search.css?rsw14v");
+@import url("https://dahd.nic.in/modules/user/user.css?rsw14v");
+@import url("https://dahd.nic.in/sites/all/modules/contributed/views/css/views.css?rsw14v");
+@import url("https://dahd.nic.in/sites/all/modules/back_to_top/css/back_to_top.css?rsw14v");
+  </style>
+  <style>
+   @import url("https://dahd.nic.in/sites/all/modules/cmf/cmf_content/assets/css/base.css?rsw14v");
+@import url("https://dahd.nic.in/sites/all/modules/cmf/cmf_content/assets/css/font.css?rsw14v");
+@import url("https://dahd.nic.in/sites/all/modules/cmf/cmf_content/assets/css/flexslider.css?rsw14v");
+@import url("https://dahd.nic.in/sites/all/modules/cmf/cmf_content/assets/css/base-responsive.css?rsw14v");
+@import url("https://dahd.nic.in/sites/all/modules/cmf/cmf_content/assets/css/font-awesome.min.css?rsw14v");
+@import url("https://dahd.nic.in/sites/all/modules/cmf/content_statistic/css/content_statistic.css?rsw14v");
+@import url("https://dahd.nic.in/sites/all/modules/contributed/ctools/css/ctools.css?rsw14v");
+@import url("https://dahd.nic.in/sites/all/modules/cmf/goisearch/css/custom_result.css?rsw14v");
+@import url("https://dahd.nic.in/sites/all/modules/cmf/google_search/css/result.css?rsw14v");
+@import url("https://dahd.nic.in/sites/all/modules/contributed/panels/css/panels.css?rsw14v");
+@import url("https://dahd.nic.in/sites/all/modules/contributed/megamenu/megamenu.css?rsw14v");
+@import url("https://dahd.nic.in/sites/all/modules/contributed/megamenu/megamenu-skins.css?rsw14v");
+  </style>
+  <style>
+   @import url("https://dahd.nic.in/sites/all/themes/animal_husbandry/css/site-responsive.css?rsw14v");
+@import url("https://dahd.nic.in/sites/all/themes/animal_husbandry/css/site.css?rsw14v");
+@import url("https://dahd.nic.in/sites/all/themes/animal_husbandry/css/style.css?rsw14v");
+@import url("https://dahd.nic.in/sites/all/themes/animal_husbandry/css/sur/sur.css?rsw14v");
+@import url("https://dahd.nic.in/sites/all/themes/animal_husbandry/css/sur/example.css?rsw14v");
+@import url("https://dahd.nic.in/sites/all/themes/animal_husbandry/css/sur/marquee.css?rsw14v");
+@import url("https://dahd.nic.in/sites/all/themes/animal_husbandry/css/sur/jquery.smartmarquee.css?rsw14v");
+@import url("https://dahd.nic.in/sites/all/themes/animal_husbandry/bootstrap/css/bootstrap.min.css?rsw14v");
+@import url("https://dahd.nic.in/sites/all/themes/animal_husbandry/Contents/fontawesome/css/all.css?rsw14v");
+  </style>
+  <style media="print">
+   @import url("https://dahd.nic.in/sites/all/themes/animal_husbandry/css/print.css?rsw14v");
+  </style>
+  <script src="//code.jquery.com/jquery-2.2.4.min.js">
+  </script>
+  <script>
+   window.jQuery
+  </script>
+  <script src="https://dahd.nic.in/misc/jquery.once.js?v=1.2">
+  </script>
+  <script src="https://dahd.nic.in/misc/drupal.js?rsw14v">
+  </script>
+  <script src="//code.jquery.com/ui/1.10.2/jquery-ui.min.js">
+  </script>
+  <script>
+   window.jQuery.ui
+  </script>
+  <script src="https://dahd.nic.in/misc/form.js?v=7.59">
+  </script>
+  <script src="https://dahd.nic.in/sites/all/modules/contributed/admin_menu/admin_devel/admin_devel.js?rsw14v">
+  </script>
+  <script src="https://dahd.nic.in/sites/all/modules/back_to_top/js/back_to_top.js?rsw14v">
+  </script>
+  <script>
+   var _paq = _paq || [];
+		_paq.push(["trackPageView"]);
+		_paq.push(["enableLinkTracking"]);
+		(function() {
+			var u="https://analytics.wrc.nic.in/cmfanalytics/";
+			_paq.push(["setTrackerUrl", u+"analytics"]);
+			var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0];
+			g.type="text/javascript"; g.async=true; g.defer=true; g.src=u+"js/piwik.js"; s.parentNode.insertBefore(g,s);
+		}
+	)();
+  </script>
+  <script>
+   var base_url ="https://dahd.nic.in"; var themePath = "sites/all/themes/animal_husbandry"; var modulePath = "sites/all/modules/cmf/cmf_content";
+  </script>
+  <script src="https://dahd.nic.in/sites/all/modules/cmf/cmf_content/assets/js/font-size.js?rsw14v">
+  </script>
+  <script src="https://dahd.nic.in/sites/all/modules/cmf/cmf_content/assets/js/framework.js?rsw14v">
+  </script>
+  <script src="https://dahd.nic.in/sites/all/modules/cmf/cmf_content/assets/js/swithcer.js?rsw14v">
+  </script>
+  <script src="https://dahd.nic.in/sites/all/modules/contributed/floating_block/floating_block.js?rsw14v">
+  </script>
+  <script src="https://dahd.nic.in/sites/all/modules/cmf/goisearch/js/custom_result_jsversion.js?rsw14v">
+  </script>
+  <script src="https://dahd.nic.in/sites/all/modules/cmf/goisearch/js/auto_jsversion.js?rsw14v">
+  </script>
+  <script>
+   jQuery(document).ready(function(){
+			var searchStr = "";
+			if(searchStr != ""){
+				fetchResult();
+			}
+		});	
+		var currentKey = 0;
+		settings = new Array();
+		settings["searchServer"] = "http://goisearch.gov.in";
+		settings["textBoxId"] = "q";
+		settings["callBackFunction"] = "callBack";
+		loadSuggestionControls(settings);
+
+		function callBack() {
+			settings["q"] = document.getElementById("search_key").value;
+			settings["count"] = "10";
+			settings["site"] = "https://dahd.nic.in/";
+			loadResultControls(settings);
+		}
+
+		settings = new Array();
+		settings["searchServer"] = "http://goisearch.gov.in";
+		settings["textBoxId"] = "search_key";
+		settings["site"] = "https://dahd.nic.in/";
+		settings["q"] = "";
+		loadResultControls(settings);
+
+		function modifySettings(key1) {
+			if (document.getElementById("search_key").value != null) {
+				settings[key1] = document.getElementById("search_key").value;
+				settings["count"] = "10";
+				settings["site"] = "https://dahd.nic.in/";
+				loadResultControls(settings);
+			}
+			hideAutoComplete();
+		}
+
+		function fetchResult() {
+			var str = window.document.URL.toString();
+			str=escape(str);
+			var q = str.indexOf("?search_key=") + 12;
+			settings["q"] = str.slice(q);
+			settings["count"] = "10";
+			settings["site"] = "https://dahd.nic.in/";
+			loadResultControls(settings);
+		}
+
+		function escape(string) {
+				return ("" + string).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/"/g, "&#x27;").replace(/\//g, "&#x2F;").replace(/\+/g," ");
+		};
+  </script>
+  <script src="https://dahd.nic.in/sites/all/modules/cmf/guidelines/js/script.js?rsw14v">
+  </script>
+  <script src="https://dahd.nic.in/sites/all/modules/contributed/megamenu/megamenu.js?rsw14v">
+  </script>
+  <script src="https://dahd.nic.in/misc/collapse.js?v=7.59">
+  </script>
+  <script src="https://dahd.nic.in/sites/all/themes/animal_husbandry/js/jquery.flexslider.js?rsw14v">
+  </script>
+  <script src="https://dahd.nic.in/sites/all/themes/animal_husbandry/js/custom.js?rsw14v">
+  </script>
+  <script src="https://dahd.nic.in/sites/all/themes/animal_husbandry/js/jquery.marquee.js?rsw14v">
+  </script>
+  <script src="https://dahd.nic.in/sites/all/themes/animal_husbandry/js/responsive.js?rsw14v">
+  </script>
+  <script src="https://dahd.nic.in/sites/all/themes/animal_husbandry/bootstrap/js/popper.min.js?rsw14v">
+  </script>
+  <script src="https://dahd.nic.in/sites/all/themes/animal_husbandry/bootstrap/js/bootstrap.min.js?rsw14v">
+  </script>
+  <script>
+   jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"animal_husbandry","theme_token":"BsDZqtET8vHPXgLb8OyK53iGZLYgVIEE6rljFzuacw8","js":{"\/\/code.jquery.com\/jquery-2.2.4.min.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/code.jquery.com\/ui\/1.10.2\/jquery-ui.min.js":1,"1":1,"misc\/form.js":1,"sites\/all\/modules\/contributed\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/back_to_top\/js\/back_to_top.js":1,"2":1,"3":1,"sites\/all\/modules\/cmf\/cmf_content\/assets\/js\/font-size.js":1,"sites\/all\/modules\/cmf\/cmf_content\/assets\/js\/framework.js":1,"sites\/all\/modules\/cmf\/cmf_content\/assets\/js\/swithcer.js":1,"sites\/all\/modules\/contributed\/floating_block\/floating_block.js":1,"sites\/all\/modules\/cmf\/goisearch\/js\/custom_result_jsversion.js":1,"sites\/all\/modules\/cmf\/goisearch\/js\/auto_jsversion.js":1,"4":1,"sites\/all\/modules\/cmf\/guidelines\/js\/script.js":1,"sites\/all\/modules\/contributed\/megamenu\/megamenu.js":1,"misc\/collapse.js":1,"sites\/all\/themes\/animal_husbandry\/js\/jquery.flexslider.js":1,"sites\/all\/themes\/animal_husbandry\/js\/custom.js":1,"sites\/all\/themes\/animal_husbandry\/js\/jquery.marquee.js":1,"sites\/all\/themes\/animal_husbandry\/js\/responsive.js":1,"sites\/all\/themes\/animal_husbandry\/bootstrap\/js\/popper.min.js":1,"sites\/all\/themes\/animal_husbandry\/bootstrap\/js\/bootstrap.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"sites\/all\/modules\/contributed\/calendar\/css\/calendar_multiday.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contributed\/date\/date_api\/date.css":1,"sites\/all\/modules\/contributed\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contributed\/views\/css\/views.css":1,"sites\/all\/modules\/back_to_top\/css\/back_to_top.css":1,"sites\/all\/modules\/cmf\/cmf_content\/assets\/css\/base.css":1,"sites\/all\/modules\/cmf\/cmf_content\/assets\/css\/font.css":1,"sites\/all\/modules\/cmf\/cmf_content\/assets\/css\/flexslider.css":1,"sites\/all\/modules\/cmf\/cmf_content\/assets\/css\/base-responsive.css":1,"sites\/all\/modules\/cmf\/cmf_content\/assets\/css\/font-awesome.min.css":1,"sites\/all\/modules\/cmf\/content_statistic\/css\/content_statistic.css":1,"sites\/all\/modules\/contributed\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/cmf\/goisearch\/css\/custom_result.css":1,"http:\/\/goisas.nic.in\/content\/scripts\/jquery.1.8.7\/themes\/base\/jquery.ui.all.css":1,"sites\/all\/modules\/cmf\/goisearch\/css\/add-css.css":1,"sites\/all\/modules\/cmf\/google_search\/css\/result.css":1,"sites\/all\/modules\/contributed\/panels\/css\/panels.css":1,"sites\/all\/modules\/contributed\/megamenu\/megamenu.css":1,"sites\/all\/modules\/contributed\/megamenu\/megamenu-skins.css":1,"sites\/all\/themes\/animal_husbandry\/system.menus.css":1,"sites\/all\/themes\/animal_husbandry\/system.messages.css":1,"sites\/all\/themes\/animal_husbandry\/system.theme.css":1,"sites\/all\/themes\/animal_husbandry\/css\/jquery.smartmarquee.css":1,"sites\/all\/themes\/animal_husbandry\/css\/site-responsive.css":1,"sites\/all\/themes\/animal_husbandry\/css\/site.css":1,"sites\/all\/themes\/animal_husbandry\/css\/style.css":1,"sites\/all\/themes\/animal_husbandry\/css\/sur\/sur.css":1,"sites\/all\/themes\/animal_husbandry\/css\/sur\/example.css":1,"sites\/all\/themes\/animal_husbandry\/css\/sur\/marquee.css":1,"sites\/all\/themes\/animal_husbandry\/css\/sur\/jquery.smartmarquee.css":1,"sites\/all\/themes\/animal_husbandry\/bootstrap\/css\/bootstrap.min.css":1,"sites\/all\/themes\/animal_husbandry\/Contents\/fontawesome\/css\/all.css":1,"sites\/all\/themes\/animal_husbandry\/css\/print.css":1}},"encrypt_submissions":{"baseUrl":"https:\/\/dahd.nic.in"},"floating_block":{"settings":{"ANINMAL HUSBANDRY INFRASTRUCTURE DEVELOPMENT FUND":[]},"minWidth":"0"},"back_to_top":{"back_to_top_button_trigger":"100","back_to_top_button_text":"Back to top","#attached":{"library":[["system","ui"]]}},"megamenu":{"timeout":"500","sizewait":"250","hoverwait":"400"}});
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  <!-- <noscript>
+  <link href="https://dahd.nic.in/sites/all/themes/animal_husbandry/css/no-js.css" type="text/css" rel="stylesheet">
+</noscript> -->
+ </head>
+ <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-86783 node-type-related-links i18n-en section-related-links page-panels" style="width:100%;">
+  <header>
+   <!--Top-Header Section start-->
+   <div class="accessibility_top_nav">
+    <div class="wrapper">
+     <div class="region region-header-top">
+      <div class="block block-block first odd" id="block-block-17">
+       <script type="text/javascript">
+        jQuery( document ).ready(function() {
+    jQuery("iframe").prop("title", "iframe Video");
+});
+       </script>
+      </div>
+      <div class="block block-block last even" id="block-block-25">
+       <div class="region region-header-top">
+        <div class="block block-cmf-content contextual-links-region first odd" id="block-cmf-content-header-region-block">
+         <div class="wrapper common-wrapper">
+          <div class="container common-container four_content">
+           <div class="common-left clearfix">
+            <ul>
+             <li class="gov-india">
+              <span class="responsive_go_hindi" lang="hi" xml:lang="hi">
+               <a href="https://india.gov.in/hi/" role="link" target="_blank" title="भारत सरकार ( बाहरी वेबसाइट जो एक नई विंडो में खुलती है)">
+                भारत सरकार
+               </a>
+              </span>
+              <span class="li_eng responsive_go_eng">
+               <a href="https://india.gov.in/" role="link" target="_blank" title=" GOVERNMENT OF INDIA,External Link that opens in a new window">
+                GOVERNMENT OF INDIA
+               </a>
+              </span>
+             </li>
+             <li class="ministry">
+              <span class="responsive_minis_hi" lang="hi" xml:lang="hi">
+               मत्स्यपालन, पशुपालन और डेयरी मंत्रालय
+              </span>
+              <span class="li_eng responsive_minis_eng">
+               MINISTRY OF FISHERIES, ANIMAL HUSBANDRY &amp; DAIRYING
+              </span>
+             </li>
+            </ul>
+           </div>
+           <div class="common-right clearfix">
+            <ul id="header-nav">
+             <li class="ico-skip cf">
+              <a href="#skipCont" role="link" title="">
+               Skip to main content
+              </a>
+             </li>
+             <li class="ico-site-search cf">
+              <a href="/search/node">
+               <img alt="Site Search" class="top" src="/sites/all/modules/cmf/cmf_content/assets/images/ico-site-search.png"/>
+              </a>
+             </li>
+             <li class="ico-accessibility cf">
+              <a href="javascript:void(0);" id="toggle" role="link" title="Accessibility Dropdown">
+               <br/>
+               <img alt="Accessibility Dropdown" class="top" src="/sites/all/modules/cmf/cmf_content/assets/images/ico-accessibility.png"/>
+               <br/>
+              </a>
+              <ul>
+               <li>
+                <a href="javascript:void(0);" onclick="set_font_size('increase')" title="Increase font size">
+                 A
+                 <sup>
+                  +
+                 </sup>
+                 <br/>
+                </a>
+               </li>
+              </ul>
+             </li>
+             <li class="ico-accessibility cf">
+              <a href="javascript:void(0);" id="toggleAccessibility" role="link" title="Accessibility Dropdown">
+               <br/>
+               <img alt="Accessibility Dropdown" class="top" src="/sites/all/modules/cmf/cmf_content/assets/images/ico-accessibility.png"/>
+               <br/>
+              </a>
+              <ul>
+               <li>
+                <a href="javascript:void(0);" onclick="set_font_size('decrease')" role="link" title="Decrease font size">
+                 A
+                 <sup>
+                  -
+                 </sup>
+                </a>
+               </li>
+              </ul>
+             </li>
+             <li class="ico-social cf">
+              <a href="javascript:void(0);" id="toggleSocial" role="link" title="Social Medias">
+               <br/>
+               <img alt="Social Medias" class="top" src="/sites/all/modules/cmf/cmf_content/assets/images/ico-social.png"/>
+              </a>
+              <ul style="visibility: hidden;">
+               <li class="">
+                <a href="https://www.facebook.com/DeptofAHD/" role="link" target="_blank" title="External Link that opens in a new window">
+                 <img alt="Facebook Page" src="/sites/all/modules/cmf/cmf_content/assets/images/ico-facebook.png"/>
+                </a>
+               </li>
+               <li class="">
+                <a href="https://twitter.com/Dept_of_AHD" role="link" target="_blank" title="External Link that opens in a new window">
+                 <img alt="Twitter Page" src="/sites/all/modules/cmf/cmf_content/assets/images/ico-twitter.png"/>
+                </a>
+               </li>
+               <li class="">
+                <a href="https://www.youtube.com/channel/UCPm_E7HnLJRsRhwGUq-Ihig" role="link" target="_blank" title="External Link that opens in a new window">
+                 <img alt="youtube Page" src="/sites/all/modules/cmf/cmf_content/assets/images/ico-youtube.png"/>
+                </a>
+               </li>
+               <li class="">
+                <a href="https://www.kooapp.com/profile/dept_of_ahd" role="link" target="_blank" title="External Link that opens in a new window">
+                 <img alt="Koo Profile Page" src="/sites/all/modules/cmf/cmf_content/assets/images/koo.png"/>
+                </a>
+               </li>
+              </ul>
+             </li>
+             <li class="ico-sitemap cf">
+              <a href="/site-map" role="link" title="Sitemap">
+               <p>
+                <img alt="Sitemap" class="top" src="/sites/all/modules/cmf/cmf_content/assets/images/ico-sitemap.png"/>
+               </p>
+              </a>
+             </li>
+             <li class="hindi cmf_lan">
+              <a href="javascript:;" role="link" title="Select Language">
+               Language
+              </a>
+              <br/>
+              <ul style="visibility: hidden;">
+               <li class="">
+                <a class="alink" href="/hi" lang="hi" role="link" target="_blank" title="Click here for हिन्दी version." xml:lang="hi">
+                 हिन्दी
+                </a>
+               </li>
+              </ul>
+             </li>
+            </ul>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="block block-block contextual-links-region last even">
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <!--Top-Header Section end-->
+   <!--Header Section start here-->
+   <section class="wrapper header-wrapper">
+    <div class="container header-container">
+     <div class="logo1">
+      <div class="region region-department-logo">
+       <div class="block block-block first last odd" id="block-block-33">
+        <h1 class="logo">
+         <a class="header__logo" href="" id="logo" rel="home" title="Home">
+          <img alt="national emblem" class="national_emblem" src="/sites/all/themes/animal_husbandry/images/emblem-dark.png"/>
+          <strong lang="hi">
+           पशुपालन और डेयरी विभाग
+          </strong>
+          <span>
+           DEPARTMENT OF Animal Husbandry And Dairying
+          </span>
+         </a>
+        </h1>
+        <a class="toggle-nav-bar" href="javascript:void(0);">
+         <span class="menu-icon">
+         </span>
+         <span class="menu-text">
+          Menu
+         </span>
+        </a>
+        <div class="header-right clearfix">
+         <div class="right-content clearfix">
+          <div class="float-element">
+           <a class="sw-logo externalLink" href="https://swachhbharat.mygov.in/" target="_blank" title="Swachh Bharat, External link">
+            <img alt="Swachh Bharat Abhiyaan: Ek Kadam Swachhata Ki Ore" src="/sites/all/themes/cmf/images/swach-bharat.png"/>
+           </a>
+           <a class="sw-logo externalLink" href="https://amritmahotsav.nic.in/" target="_blank" title="AKAM, External link">
+            <img alt="AKAM" src="/sites/all/themes/animal_husbandry/images/akam.png"/>
+           </a>
+           <a class="sw-logo externalLink" href="https://www.g20.org/en/ " target="_blank" title="G20, External link">
+            <img alt="G20" src="/sites/all/themes/animal_husbandry/images/g20-logo.png"/>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <a class="toggle-nav-bar" href="javascript:void(0);">
+      <span class="menu-icon">
+      </span>
+      <span class="menu-text">
+       Menu
+      </span>
+     </a>
+    </div>
+   </section>
+   <!--Header Section end here-->
+   <hr style="border: 3px solid #bf5d02;"/>
+   <!--Page Navigation goes here -->
+   <nav class="wrapper nav-wrapper" style="margin-top:-20px;">
+    <div class="container nav-container">
+     <!--Main nav goes here-->
+     <div id="main-menu">
+      <div class="menu-block-wrapper menu-block-main-menu menu-name-main-menu parent-mlid-0 menu-level-1">
+       <ul class="menu">
+        <li class="menu__item is-leaf first leaf menu-mlid-218">
+         <a class="menu__link" href="https://dahd.nic.in/">
+          Home.
+         </a>
+        </li>
+        <li class="menu__item is-expanded expanded menu-mlid-2535">
+         <span>
+          About Us +
+         </span>
+         <ul class="menu">
+          <li class="menu__item is-leaf first leaf menu-mlid-4462">
+           <a class="menu__link" href="/about-us/about-department">
+            About Department
+           </a>
+          </li>
+          <li class="menu__item is-leaf leaf menu-mlid-6119">
+           <a class="menu__link" href="/about-us/allocation-business-rules">
+            Allocation Of Business Rules
+           </a>
+          </li>
+          <li class="menu__item is-leaf leaf menu-mlid-6252">
+           <a class="menu__link" href="/about-us/vision-mission-objective">
+            Vision, Mission &amp; Objective
+           </a>
+          </li>
+          <li class="menu__item is-leaf leaf menu-mlid-2943">
+           <a class="menu__link" href="/about-us/organizational-structure" title="Organizational Structure">
+            Organizational Structure
+           </a>
+          </li>
+          <li class="menu__item is-leaf last leaf menu-mlid-6255">
+           <a class="menu__link" href="/about-us/list-attachedsubordinate-offices-department">
+            Subordinate Offices
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu__item is-leaf leaf menu-mlid-2725">
+         <a class="menu__link" href="/whoiswho">
+          Who's  Who
+         </a>
+        </li>
+        <li class="menu__item is-expanded expanded menu-mlid-3030">
+         <span class="menu__link nolink">
+          Documents
+         </span>
+         <ul class="menu">
+          <li class="menu__item is-leaf first leaf menu-mlid-3844">
+           <a class="menu__link" href="/document/office_orders">
+            Office Orders/Circulars
+           </a>
+          </li>
+          <li class="menu__item is-leaf leaf menu-mlid-2534">
+           <a class="menu__link" href="/document/annual_report">
+            Annual Reports
+           </a>
+          </li>
+          <li class="menu__item is-leaf leaf menu-mlid-3061">
+           <a class="menu__link" href="/document/acts-rules-notifications">
+            Acts/Rules/Regulations
+           </a>
+          </li>
+          <li class="menu__item is-leaf leaf menu-mlid-5887">
+           <a class="menu__link" href="/document/assets-dahd">
+            Assets of DAHD
+           </a>
+          </li>
+          <li class="menu__item is-leaf leaf menu-mlid-5906">
+           <a class="menu__link" href="/documents/procurement-projections-dahd" target="_blank">
+            Procurement Projections of DAHD for next 5 Years
+           </a>
+          </li>
+          <li class="menu__item is-leaf leaf menu-mlid-5722">
+           <a class="menu__link" href="/monthly-summary">
+            Monthly Cabinet Report
+           </a>
+          </li>
+          <li class="menu__item is-leaf leaf menu-mlid-5991">
+           <a class="menu__link" href="/documents/accounts-glance">
+            Budget/Accounts
+           </a>
+          </li>
+          <li class="menu__item is-leaf leaf menu-mlid-4601">
+           <a class="menu__link" href="/document/demand-grants">
+            Detailed Demands for Grants
+           </a>
+          </li>
+          <li class="menu__item is-leaf leaf menu-mlid-5874">
+           <a class="menu__link" href="/document/citizen-charter">
+            Citizens' Charter
+           </a>
+          </li>
+          <li class="menu__item is-leaf last leaf menu-mlid-3961">
+           <a class="menu__link" href="/document/tenders">
+            Tenders
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu__item is-leaf leaf menu-mlid-6075">
+         <a class="menu__link" href="/schemes-programmes">
+          Schemes/Programmes
+         </a>
+        </li>
+        <li class="menu__item is-expanded expanded menu-mlid-6256">
+         <span class="menu__link nolink">
+          Divisions
+         </span>
+         <ul class="menu">
+          <li class="menu__item is-leaf first leaf menu-mlid-6257">
+           <a class="menu__link" href="/about-us/division/international-cooperation">
+            International Cooperation
+           </a>
+          </li>
+          <li class="menu__item is-expanded expanded menu-mlid-6258">
+           <span class="menu__link nolink">
+            Administration
+           </span>
+           <ul class="menu">
+            <li class="menu__item is-leaf first leaf menu-mlid-2627">
+             <a class="menu__link" href="/divisions/administration/admin-i">
+              Establishment(Hqrs)
+             </a>
+            </li>
+            <li class="menu__item is-leaf leaf menu-mlid-6259">
+             <a class="menu__link" href="/divisions/administration/admin-II">
+              General Administration
+             </a>
+            </li>
+            <li class="menu__item is-leaf leaf menu-mlid-6037">
+             <a class="menu__link" href="https://dahd.nic.in/rti">
+              RTI
+             </a>
+            </li>
+            <li class="menu__item is-leaf leaf menu-mlid-2628">
+             <a class="menu__link" href="/division/administration/cash-section">
+              Cash Section
+             </a>
+            </li>
+            <li class="menu__item is-leaf leaf menu-mlid-6260">
+             <a class="menu__link" href="/division/administration/vigilance-apar-cell">
+              Vigilance / APAR Cell
+             </a>
+            </li>
+            <li class="menu__item is-leaf leaf menu-mlid-6261">
+             <a class="menu__link" href="/division/e-office">
+              E-Office
+             </a>
+            </li>
+            <li class="menu__item is-leaf last leaf menu-mlid-6287">
+             <a class="menu__link" href="/division/administration/aparcell/forms">
+              Forms
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="menu__item is-leaf leaf menu-mlid-6018">
+           <a class="menu__link" href="/trade">
+            Trade
+           </a>
+          </li>
+          <li class="menu__item is-leaf last leaf menu-mlid-6254">
+           <a class="menu__link" href="/kcc">
+            Kisan Credit Cards
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu__item is-expanded expanded menu-mlid-6078">
+         <span class="menu__link nolink">
+          Extension and Publicity
+         </span>
+         <ul class="menu">
+          <li class="menu__item is-expanded first expanded menu-mlid-6079">
+           <span class="menu__link nolink">
+            Entrepreneurial Activities
+           </span>
+           <ul class="menu">
+            <li class="menu__item is-leaf first leaf menu-mlid-6084">
+             <a class="menu__link" href="/poultry">
+              Poultry
+             </a>
+            </li>
+            <li class="menu__item is-leaf leaf menu-mlid-6085">
+             <a class="menu__link" href="/pig">
+              Pig
+             </a>
+            </li>
+            <li class="menu__item is-leaf leaf menu-mlid-6086">
+             <a class="menu__link" href="/sheep-goat">
+              Sheep/Goat
+             </a>
+            </li>
+            <li class="menu__item is-leaf leaf menu-mlid-6087">
+             <a class="menu__link" href="/feed-fodder">
+              Feed and Fodder
+             </a>
+            </li>
+            <li class="menu__item is-leaf last leaf menu-mlid-6088">
+             <a class="menu__link" href="/breed-multiplication-farm">
+              Breed Multiplication Farm
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="menu__item is-expanded expanded menu-mlid-6080">
+           <span class="menu__link nolink">
+            Handbook of Schemes
+           </span>
+           <ul class="menu">
+            <li class="menu__item is-leaf first last leaf menu-mlid-6090">
+             <a class="menu__link" href="/english-handbook-scheme">
+              Handbook English
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="menu__item is-expanded expanded menu-mlid-6081">
+           <span class="menu__link nolink">
+            Scheme Brochure
+           </span>
+           <ul class="menu">
+            <li class="menu__item is-leaf first leaf menu-mlid-6117">
+             <a class="menu__link" href="/ahidf-scheme-brochure">
+              AHIDF Scheme Brochure
+             </a>
+            </li>
+            <li class="menu__item is-leaf leaf menu-mlid-6092">
+             <a class="menu__link" href="/lhdcp-scheme-brochure">
+              LHDCP
+             </a>
+            </li>
+            <li class="menu__item is-leaf leaf menu-mlid-6091">
+             <a class="menu__link" href="/nlm-scheme-brochure">
+              NLM
+             </a>
+            </li>
+            <li class="menu__item is-leaf leaf menu-mlid-6093">
+             <a class="menu__link" href="/npdd-scheme-brochure">
+              NPDD
+             </a>
+            </li>
+            <li class="menu__item is-leaf leaf menu-mlid-6094">
+             <a class="menu__link" href="/rgm-scheme-brochure">
+              RGM
+             </a>
+            </li>
+            <li class="menu__item is-leaf last leaf menu-mlid-6116">
+             <a class="menu__link" href="/kcc-scheme-brochure">
+              KCC
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="menu__item is-expanded expanded menu-mlid-6082">
+           <span class="menu__link nolink">
+            Success Story
+           </span>
+           <ul class="menu">
+            <li class="menu__item is-leaf first leaf menu-mlid-6098">
+             <a class="menu__link" href="/breed-multiplication-farm-1">
+              Breed Multiplications Farm
+             </a>
+            </li>
+            <li class="menu__item is-leaf leaf menu-mlid-6096">
+             <a class="menu__link" href="/pig-breeder-farm">
+              Pig Breeder Farm
+             </a>
+            </li>
+            <li class="menu__item is-leaf leaf menu-mlid-6095">
+             <a class="menu__link" href="/breed-development-rural-poultry">
+              Breed Development of Rural Poultry
+             </a>
+            </li>
+            <li class="menu__item is-leaf leaf menu-mlid-6097">
+             <a class="menu__link" href="/sheep-goat-breeder-farm">
+              Sheep/Goat Breeder Farm
+             </a>
+            </li>
+            <li class="menu__item is-leaf last leaf menu-mlid-6115">
+             <a class="menu__link" href="/gopal-ratna-awards-2021-winners">
+              Gopal Ratna Award
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="menu__item is-expanded expanded menu-mlid-6083">
+           <span class="menu__link nolink">
+            Credit
+           </span>
+           <ul class="menu">
+            <li class="menu__item is-leaf first last leaf menu-mlid-6100">
+             <a class="menu__link" href="/ahidf-credit">
+              AHIDF Credit
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="menu__item is-expanded expanded menu-mlid-6276">
+           <span>
+            Booklet For Entrepreneurs
+           </span>
+           <ul class="menu">
+            <li class="menu__item is-leaf first last leaf menu-mlid-6278">
+             <a class="menu__link" href="https://dahd.nic.in/sites/default/filess/2910-Booklet%20on%20AH%20Schemes-E-Web.pdf" target="_blank">
+              English
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li class="menu__item is-leaf last leaf menu-mlid-6281">
+           <span class="menu__link nolink">
+            Scheme Videos
+           </span>
+          </li>
+         </ul>
+        </li>
+        <li class="menu__item is-expanded expanded menu-mlid-3062">
+         <span class="menu__link nolink">
+          Media
+         </span>
+         <ul class="menu">
+          <li class="menu__item is-leaf first last leaf menu-mlid-3080">
+           <a class="menu__link" href="/media/gallery">
+            Photo Gallery
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu__item is-leaf leaf menu-mlid-6023">
+         <a class="menu__link" href="/pashupdia">
+          Pashupedia
+         </a>
+        </li>
+        <li class="menu__item is-leaf leaf menu-mlid-5881">
+         <a class="menu__link" href="http://dadfonline.gov.in/Login.aspx" target="_blank">
+          DAHD Dashboard
+         </a>
+        </li>
+        <li class="menu__item is-leaf leaf menu-mlid-6263">
+         <a class="menu__link" href="/ndlm-blue-print" target="_blank">
+          NDLM blue print
+         </a>
+        </li>
+        <li class="menu__item is-leaf last leaf menu-mlid-6292">
+         <a class="menu__link" href="/faq" target="_blank">
+          FAQ
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+   </nav>
+   <!--Page Navigation End here-->
+  </header>
+  <section class="wrapper banner-wrapper">
+   <div class="flexslider" id="flexSlider">
+    <div class="inner-banner">
+    </div>
+   </div>
+  </section>
+  <div class="wrapper" id="skipCont">
+  </div>
+  <!--container created by sonu START API -->
+  <div class="container-fluid">
+   <div class="col-sm-12">
+   </div>
+  </div>
+  <!--container created by sonu END API -->
+  <section class="wrapper body-wrapper">
+   <div class="bg-wrapper top-bg-wrapper" id="fontSize">
+    <div class="container">
+     <div class="breadcam clearfix">
+     </div>
+     <div class="about-min-container">
+      <div class="about-minleft-container">
+       <ul>
+       </ul>
+      </div>
+      <div class="about-minright-container">
+       <div id="messages">
+        <div class="section clearfix">
+        </div>
+       </div>
+       <!-- /.section, /#messages -->
+       <h1 class="heading">
+        Livestock Insurance
+       </h1>
+       <article about="/related-links/livestock-insurance" class="node-86783 node node-related-links view-mode-full clearfix" typeof="sioc:Item foaf:Document">
+        <header>
+         <span class="rdf-meta element-hidden" content="Livestock Insurance" property="dc:title">
+         </span>
+         <span class="rdf-meta element-hidden" content="0" datatype="xsd:integer" property="sioc:num_replies">
+         </span>
+        </header>
+        <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+         <div class="field-items">
+          <div class="field-item even" property="content:encoded">
+           <p>
+           </p>
+           <style>
+            <!--/*--><![CDATA[/* ><!--*/  . .Government{text-align:center;}  /*--><!]]>*/
+           </style>
+           <p>
+            <br/>
+           </p>
+           <p class="”" government="">
+            Government of India
+            <br/>
+            Ministry of Agriculture
+            <br/>
+            Department of Animal Husbandry, Dairying &amp; Fisheries
+           </p>
+           <p>
+            <b>
+             Livestock Insurance Scheme:
+            </b>
+            <br/>
+            The Livestock Insurance Scheme, a centrally sponsored scheme, which was implemented on a pilot basis during 2005-06 and 2006-07 of the 10th Five Year Plan and 2007-08 of the 11th Five Year Plan in 100 selected districts. The scheme is being implemented on a regular basis from 2008-09 in 100 newly selected districts of the country. Under the scheme, the crossbred and high yielding cattle and buffaloes are being insured at maximum of their current market price. The premium of the insurance is subsidized to the tune of 50%. The entire cost of the subsidy is being borne by the Central Government. The benefit of subsidy is being provided to a maximum of 2 animals per beneficiary for a policy of maximum of three years. The scheme is being implemented in all states except Goa through the State Livestock Development Boards of respective states. The scheme is proposed to be extended to 100 old districts covered during pilot period and more species of livestock including indigenous cattle, yak &amp; mithun.
+           </p>
+           <p>
+            The Livestock Insurance Scheme has been formulated with the twin objective of providing protection mechanizm to the farmers and cattle rearers against any eventual loss of their animals due to death and to demonstrate the benefit of the insurance of livestock to the people and popularize it with the ultimate goal of attaining qualitative improvement in livestock and their products.
+           </p>
+           <p>
+            <b>
+             Guidelines for Implementation of Livestock Insurance Scheme:
+            </b>
+            <br/>
+            Livestock Sector is an important sector of national, especially rural economy. The supplemental income derived from rearing of livestock is a great source of support to the farmers facing uncertainties of crop production, apart from providing sustenance to poor and landless farmers.
+           </p>
+           <p>
+            For promotion of the livestock sector, it has been felt that along with providing more effective steps for disease control and improvement of genetic quality of animals, a mechanism of assured protection to the farmers and cattle rearers needs to be devised against eventual losses of such animals. In this direction, the Government approved a new centrally sponsored scheme on Livestock Insurance which was implemented on pilot basis during the 10th Plan. From 2008-09 onwards, the scheme is being implemented as a regular scheme in the100 newly selected districts till the end of 11th Five Year Plan i.e. 2011-12. The broad guidelines, subject to the plausible discretion of the Chief Executive Officers to be followed by the States for implementing the scheme are detailed below:-
+           </p>
+           <ul>
+            <li>
+             <b>
+              Implementing Agency:
+             </b>
+             <br/>
+             Department of Animal Husbandry, Dairying &amp; Fisheries is implementing the Centrally Sponsored Scheme of National Project for Cattle and Buffalo Breeding (NPCBB) with the objective of bringing about genetic up-gradation of cattle and buffaloes by artificial insemination as well as acquisition of proven indigenous animals. NPCBB is implemented through State Implementing Agencies (SIAs) like State Livestock Development Boards. In order to bring about synergy between NPCBB and Livestock Insurance, the latter scheme will also be implemented through the SIAs. Almost all the states have opted for NPCBB. In states which are not implementing NPCBB or where there are no SIAs, the livestock insurance scheme will be implemented through the State Animal Husbandry Departments.
+            </li>
+            <li>
+             <b>
+              Executive Authority:
+             </b>
+             <br/>
+             The Chief Executive Officer of the State Livestock Development Board will also be the executive authority for this scheme. In those states where no such Boards are in place, the Director, Department of Animal Husbandry will be the Executive Authority of the scheme. The CEO will have to get the scheme implemented in various districts through the senior most officer of the Animal Husbandry Department in the district; the necessary instructions for this purpose will have to be issued by the State Government. The Central funds for premium subsidy, payment of honorarium to the Veterinary Practitioners, awareness creation through Panchayats etc. will be placed with the S.I.A. As Executive Authority of the scheme, the Chief Executive Officers will be responsible for execution, and monitoring of the scheme. The main functions of the CEO will be:-
+             <ol>
+              <li>
+               Managing the Central funds carefully and in accordance with instructions issued by the Department of Animal Husbandry, Dairying and Fisheries, Government of India.
+              </li>
+              <li>
+               Calling quotations from the insurance companies for implementing the scheme, carrying out negotiations with them and selecting suitable company (companies).
+              </li>
+              <li>
+               Signing the contract with the selected insurance company/companies.
+              </li>
+              <li>
+               Payment of subsidy premium to the Insurance Company (including advance, if any and its subsequent adjustment).
+              </li>
+              <li>
+               Preparing district wise list of veterinary practitioners (Government/Private) and providing the same to the insurance company and also to concerned Panchayati Raj bodies.
+              </li>
+              <li>
+               Creating awareness among the general public as well as the officials whose services may be required for implementation of the scheme.
+              </li>
+              <li>
+               Carrying out field inspections and also facilitating field inspections by Central teams.
+              </li>
+              <li>
+               Release of funds to the District Officers in charge of the Department of Animal Husbandry for payment of honorarium to the Veterinary Practitioners.
+              </li>
+              <li>
+               Regular monitoring and preparation of reports for submission to the Central/State Governments.
+              </li>
+              <li>
+               Such other functions necessarily required for efficient implementation of the scheme.
+              </li>
+             </ol>
+             <p>
+              The Principal Secretary/Secretary in-charge Animal Husbandry of the State Governments/Director of State Animal Husbandry Department will ensure availability of sufficient infrastructure in terms of manpower and other logistic support to the CEO/District level officer, needed for effective implementation of the scheme. (The exact name, designation, address of CEO/District Officer in-charge for Insurance work will be made available to Central Government and same will be prominently displayed on important places within the district and especially in the rural areas of the district. Any change in the name and designation of CEO will also be properly communicated to all concerned.). For effective implementation and monitoring of the scheme, if states feel necessity, a district committee could be formed suitably involving the officers/organizations having interest in the field of Animal Husbandry. The Dairy Cooperative Societies, if interested, could also be involved and given responsibility of implementing the scheme wherever possible.
+             </p>
+            </li>
+            <li>
+             <b>
+              Districts in which the scheme will be implemented:
+             </b>
+            </li>
+            <p>
+             The scheme is to be implemented on regular basis in 100 newly selected districts of the country. The scheme will be restricted to crossbred and high yielding cattle and buffaloes only. The list of districts selected for this purpose is given in Annexure-I. The scheme is to be implemented in these districts only.
+            </p>
+            <li>
+             <b>
+              Selection of Insurance Companies:
+             </b>
+            </li>
+            <p>
+             In order to get the maximum benefit in terms of competitive premium rates, easier procedures of issue of policy and settlement of claims, Chief Executive Officer will be empowered to decide upon the Insurance company(s) and the terms and conditions. While selecting Insurance Company, besides premium rates offered, their capacity to provide services, terms and conditions and service efficiency should also be taken in to account. The CEO will invite quotations in writing from those public and private general insurance companies having a fairly wide network in the state or a considerable part of the state. The CEO should select the Insurance Company/Companies after negotiating with the insurance companies for successful and efficient implementation of the scheme and popularizing the scheme amongst the livestock owners. If any Insurance Company is offering cover for any type of disability in addition to death of the insured animal, such offer could be considered, however, no subsidy in the premium for such additional risk coverage will be provided. The entire cost of premium on account of the risk coverage other than death of the animal has to be borne by the beneficiaries. As mentioned above, the CEO has to ensure that the premium rate agreed to is competitive. Under no circumstances, the rate of premium should exceed 4.5% for annual policies and 12% for three year policies. Normally, a single insurance company should be entrusted for insurance with the work in a district. However, for the purposes of encouraging competition and popularizing the scheme more than one insurance company may be allowed to operate in a district, if other terms and conditions are remaining same. Default in settlement of claim or any types of deficiency in services on part of Insurance Companies could be brought to the notice of the Insurance Regulatory and Development Authority which is a nodal authority in the country in this regard.
+            </p>
+            <li>
+             <b>
+              Involvement of Veterinary practitioners:
+             </b>
+            </li>
+            <li>
+             The active involvement of the veterinary practitioners at the village level is required for the successful implementation of the scheme. They are to be associated with the work of identification and examination of the animals to be covered under the scheme, determination of their market price, tagging of the insured animals and finally issuing veterinary certificates as and when a claim is made. Besides, being in touch with the farmers and cattle-rearers, they may also help in promoting and popularizing the scheme. As far as possible, only the veterinary practitioners working with the state government may be involved. Private veterinary practitioners who are registered with Veterinary Council of India may be involved only if Government veterinary practitioners are not available. A list of such veterinary practitioners will be prepared for every district by the district officer of the Department of Animal Husbandry. The list of veterinary practitioners will be made available with the insurance company selected for the district as well as to the concerned Panchayati Raj bodies.
+            </li>
+            <li>
+             <b>
+              Commencement of Insurance policy cover and adjustment of premium subsidy:
+             </b>
+            </li>
+            <p>
+             In order to generate confidence among the cattle owners about the efficacy of the scheme, it is important that the policy cover should take effect once the basic formalities like identification of animal, its examination by the veterinary practitioner, assessment of its value and its tagging along with payment of 50% of the premium to the insurance company or its agent by the cattle owner. The selected insurance company will have to agree to this. However, it is possible that the insurance company may point out a provision in the Insurance Act that insurance cover can take effect only after the whole premium is paid in advance. In order to take care of this problem, there could be an arrangement by which certain amount is paid in advance to the insurance company directly by the CEO. This amount should not exceed 50% of the premium of the number of animals expected to be insured in a period of 3 months. The insurance company, on its part, should issue instructions to their branches that as and when 50% of the premium is paid by the cattle owner, they should issue the policy by suitably adjusting the balance 50% from this advance. The insurance company should prepare monthly statements of the policies issued indicating the assessed value of each animal and the Government share for each district duly countersigned by the district officer of the Animal Husbandry Department and submit to the CEO so that, that much amount can be recouped to the insurance company by the CEO. Target of getting the number of animals insured in a three months period for payment of advance to the Insurance Company should be on realistic basis and recouping of the advance fund should be on the basis of subsequent progress made by the concerned insurance Company.
+            </p>
+            <li>
+             <b>
+              Animals to be covered under the scheme and selection of beneficiaries:
+             </b>
+            </li>
+            <p>
+             All those female cattle/buffalo yielding at least 1500 litre of milk per lactation are to be considered high yielding and hence can be insured under the scheme for maximum of their current market value. Animals covered under any other insurance scheme/plan scheme will not be covered under this scheme. Benefit of subsidy is to be restricted to two animals per beneficiary and is to be given for one time insurance of an animal up to a maximum period of three years. The farmers will have to be encouraged to go for a three-year policy which is likely to be more economical and useful for getting the real benefit of insurance on occurrence of natural calamities like flood and drought etc. However, if a livestock owner prefers to have an insurance policy for less than three years period for valid reasons, benefit of the subsidy under the scheme would be available to them also, with the restriction that no subsidy would be available for further extension of the policy. Field performance recorders of the NPCBB could also be involved for identification of beneficiaries. The Gram Panchayats will assist the Insurance Companies in identifying the beneficiaries.
+            </p>
+            <li>
+             <b>
+              Determination of market price of the animal:
+             </b>
+            </li>
+            <p>
+             An animal will be insured for the maximum of its current market price. The market price of the animal to be insured will be assessed jointly by the beneficiary, authorized veterinary practitioner and the insurance agent.
+            </p>
+            <li>
+             <b>
+              Identification of insured animal:
+             </b>
+            </li>
+            <p>
+             The animal insured will have to be properly and uniquely identified at the time of insurance claim. The ear tagging should, therefore, be fool proof as far as possible. The traditional method of ear tagging or the recent technology of fixing microchips could be used at the time of taking the policy. The cost of fixing the identification mark will be borne by the Insurance companies and responsibility of its maintenance will lie on the concerned beneficiaries. The nature and quality of tagging materials will be mutually agreed by the beneficiaries and the Insurance Company. The Veterinary Practitioners may guide the beneficiaries about the need and importance of the tags fixed for settlement of their claim so that they take proper care for maintenance of the tags.
+            </p>
+            <li>
+             <b>
+              Change of owner during the validity period of insurance:
+             </b>
+            </li>
+            <p>
+             <br/>
+             In case of sale of the animal or otherwise transfer of animal from one owner to other, before expiry of the Insurance Policy, the authority of beneficiary for the remaining period of policy will have to be transferred to the new owner. The modalities for transfer of livestock policy and fees and sale deed etc required for transfer, should be decided while entering into contract with the insurance company.
+            </p>
+            <li>
+             <b>
+              Settlement of Claims:
+             </b>
+            </li>
+            <p>
+             The method of settlement of claim should be very simple and expeditious to avoid unnecessary hardship to the insured. While entering into contract with the insurance company, the procedure to be adopted/documents needed for settlement of claim should be clearly spelt out. In case of claim becoming due, the payment of insured amount should be made within 15 days positively after submission of requisite documents. While insuring the animal, CEOs must ensure that clear cut procedures are put in place for settlement of claims and the required documents are listed and the same is made available to concerned beneficiaries along with the policy documents.
+            </p>
+            <li>
+             <b>
+              Effective monitoring of the scheme:
+             </b>
+            </li>
+            <p>
+             In order to effectively implement the scheme, there is need of strict monitoring at different stages. The monitoring should be in terms of financial releases, number of animals insured and type of insurance. Monitoring at the Central and State levels is extremely important. CEO will be required to make special efforts for effective monitoring. Secretary in-charge Animal Husbandry in State Government/Director of state animal Husbandry will take periodic review of the implementation of the scheme.
+            </p>
+            <li>
+             <b>
+              Payment of honorarium to the veterinary practitioners:
+             </b>
+            </li>
+            <p>
+             The involvement of veterinary officer in the scheme is from beginning to end. His active interest and support is essential for success of the scheme. In view of this it is essential to provide some incentive to the veterinary practitioners to motivate them to carry out these activities wholeheartedly. It has been decided to pay an honorarium of Rs 50/- per animal at the stage of insuring the animal and Rs100/- per animal at the stage of issuing veterinary certificate (including conducting post-mortem, if any) in case of any insurance claim. Central Government will provide the amount needed for payment of honorarium to the S.I.As. The CEOs should ensure that Boards will pay to Veterinary Practitioners at end of each quarter depending on number of animals insured and veterinary certificates issued by them in that quarter.
+            </p>
+            <li>
+             <b>
+              Publicity:
+             </b>
+            </li>
+            <p>
+             The scheme is new and people inclusive of the concerned officials are not much aware of the scheme. Therefore, public as well as the machinery involved in this have to be made aware of the scheme and benefits thereof. Pamphlets, posters, wall paintings, radio talks, TV clippings etc. will help in creating awareness among the farmers about the benefits of insuring their high yielding animals under the scheme. Publicity campaigns on special occasions like animal fairs etc. will also be taken up for wide publicity. The Panchayati Raj institutions will be involved in publicity in a big way. The task of disseminating information on the scheme and inviting farmers to offer their animals for identification for insurance will be entrusted to the Intermediate Panchayats. For this purpose the CEOs are empowered to provide assistance not exceeding Rs 5000/- for each intermediate Panchayat (in both cash and in the form of publicity material).
+            </p>
+            <li>
+             <b>
+              Commission to Insurance Agents:
+             </b>
+            </li>
+            <p>
+             The active and dedicated involvement of insurance agent is most essential for efficient implementation of the scheme. The insurance company should be persuaded to pay at least 15% of the premium amount to the agent out of their premium income. While entering into contract with the Insurance Company, this has to be ensured by the implementing agency.
+            </p>
+            <p>
+             <b>
+              Annexure-I
+             </b>
+            </p>
+            <p>
+             <b>
+              List of 100 districts covered under Livestock Insurance Scheme during 2008-09 to 2011-12
+             </b>
+            </p>
+            <table>
+             <tbody>
+              <tr>
+               <th>
+                Sr. No.
+               </th>
+               <th>
+                Name of the State/District
+               </th>
+              </tr>
+              <tr>
+               <th>
+                1
+               </th>
+               <th colspan="2">
+                Andhra Pradesh (8)
+               </th>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                1
+               </td>
+               <td>
+                Khammam *#
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                2
+               </td>
+               <td>
+                Anantpur *
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                3
+               </td>
+               <td>
+                Adilabad *
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                4
+               </td>
+               <td>
+                Kurnool *
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                5
+               </td>
+               <td>
+                Nellore *
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                6
+               </td>
+               <td>
+                Cuddapah *
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                7
+               </td>
+               <td>
+                Mahboobnagar *
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                8
+               </td>
+               <td>
+                Warangal *
+               </td>
+              </tr>
+              <tr>
+               <th>
+                2
+               </th>
+               <th colspan="2">
+                Arunachal Pradesh (2)
+               </th>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                9
+               </td>
+               <td>
+                West Siang
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                10
+               </td>
+               <td>
+                East Siang
+               </td>
+              </tr>
+              <tr>
+               <th>
+                3
+               </th>
+               <th colspan="2">
+                Assam (2)
+               </th>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                11
+               </td>
+               <td>
+                Nagoan
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                12
+               </td>
+               <td>
+                Kamrup
+               </td>
+              </tr>
+              <tr>
+               <th>
+                4
+               </th>
+               <th colspan="2">
+                Bihar (5)
+               </th>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                13
+               </td>
+               <td>
+                Gaya #
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                14
+               </td>
+               <td>
+                Bhojpur
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                15
+               </td>
+               <td>
+                Nalanda
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                16
+               </td>
+               <td>
+                Vaishali
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                17
+               </td>
+               <td>
+                Chhapra
+               </td>
+              </tr>
+              <tr>
+               <th>
+                5
+               </th>
+               <th colspan="2">
+                Chhatisgarh (2)
+               </th>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                18
+               </td>
+               <td>
+                Dhamtari
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                19
+               </td>
+               <td>
+                Rajnandgaon #
+               </td>
+              </tr>
+              <tr>
+               <th>
+                6
+               </th>
+               <th colspan="2">
+                Gujarat (6)
+               </th>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                20
+               </td>
+               <td>
+                Vadodara
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                21
+               </td>
+               <td>
+                Junagadh
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                22
+               </td>
+               <td>
+                Rajkot
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                23
+               </td>
+               <td>
+                Bhavnagar
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                24
+               </td>
+               <td>
+                Ahmedabad
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                25
+               </td>
+               <td>
+                Katchch
+               </td>
+              </tr>
+              <tr>
+               <th>
+                7
+               </th>
+               <th colspan="2">
+                Haryana (5)
+               </th>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                26
+               </td>
+               <td>
+                Karnal
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                27
+               </td>
+               <td>
+                Faridabad
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                28
+               </td>
+               <td>
+                Sirsa
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                29
+               </td>
+               <td>
+                Kaithal
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                30
+               </td>
+               <td>
+                Sonepat
+               </td>
+              </tr>
+              <tr>
+               <th>
+                8
+               </th>
+               <th colspan="2">
+                Himachal Pradesh (2)
+               </th>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                31
+               </td>
+               <td>
+                Shimla
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                32
+               </td>
+               <td>
+                Hamirpur
+               </td>
+              </tr>
+              <tr>
+               <th>
+                9
+               </th>
+               <th colspan="2">
+                Jammu &amp; Kashmir (2)
+               </th>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                33
+               </td>
+               <td>
+                Udhampur
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                34
+               </td>
+               <td>
+                Anantnag
+               </td>
+              </tr>
+              <tr>
+               <th>
+                10
+               </th>
+               <th colspan="2">
+                Jharkhand (2)
+               </th>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                35
+               </td>
+               <td>
+                Godda
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                36
+               </td>
+               <td>
+                Hazaribagh #
+               </td>
+              </tr>
+              <tr>
+               <th>
+                11
+               </th>
+               <th colspan="2">
+                Karnataka (4)
+               </th>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                37
+               </td>
+               <td>
+                Belgaum *
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                38
+               </td>
+               <td>
+                Gulbarga
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                39
+               </td>
+               <td>
+                Mysore
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                40
+               </td>
+               <td>
+                Hassan *
+               </td>
+              </tr>
+              <tr>
+               <th>
+                12
+               </th>
+               <th colspan="2">
+                Kerala (2)
+               </th>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                41
+               </td>
+               <td>
+                Kollam
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                42
+               </td>
+               <td>
+                Idduki
+               </td>
+              </tr>
+              <tr>
+               <th>
+                13
+               </th>
+               <th colspan="2">
+                Madhya Pradesh (6)
+               </th>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                43
+               </td>
+               <td>
+                Sidhi
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                44
+               </td>
+               <td>
+                Rewa
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                45
+               </td>
+               <td>
+                Balaghat #
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                46
+               </td>
+               <td>
+                Sehore
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                47
+               </td>
+               <td>
+                Dewas
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                48
+               </td>
+               <td>
+                Indore
+               </td>
+              </tr>
+              <tr>
+               <th>
+                14
+               </th>
+               <th colspan="2">
+                Maharashtra (6)
+               </th>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                49
+               </td>
+               <td>
+                Gondia #
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                50
+               </td>
+               <td>
+                Nagpur
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                51
+               </td>
+               <td>
+                Bhandara
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                52
+               </td>
+               <td>
+                Yavatmal *
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                53
+               </td>
+               <td>
+                Jalna
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                54
+               </td>
+               <td>
+                Wardha
+               </td>
+              </tr>
+              <tr>
+               <th>
+                15
+               </th>
+               <th colspan="2">
+                Manipur (2)
+               </th>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                55
+               </td>
+               <td>
+                Thoubal
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                56
+               </td>
+               <td>
+                West Imphal
+               </td>
+              </tr>
+              <tr>
+               <th>
+                16
+               </th>
+               <th colspan="2">
+                Meghalaya (2)
+               </th>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                57
+               </td>
+               <td>
+                West Garo Hills
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                58
+               </td>
+               <td>
+                Jaintia Hills
+               </td>
+              </tr>
+              <tr>
+               <th>
+                17
+               </th>
+               <th colspan="2">
+                Mizoram (2)
+               </th>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                59
+               </td>
+               <td>
+                Saiha
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                60
+               </td>
+               <td>
+                Kolasib
+               </td>
+              </tr>
+              <tr>
+               <th>
+                18
+               </th>
+               <th colspan="2">
+                Nagaland (2)
+               </th>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                61
+               </td>
+               <td>
+                Kohima
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                62
+               </td>
+               <td>
+                Wokha
+               </td>
+              </tr>
+              <tr>
+               <th>
+                19
+               </th>
+               <th colspan="2">
+                Orissa (2)
+               </th>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                63
+               </td>
+               <td>
+                Puri
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                64
+               </td>
+               <td>
+                Sambalpur #
+               </td>
+              </tr>
+              <tr>
+               <th>
+                20
+               </th>
+               <th colspan="2">
+                Punjab (6)
+               </th>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                65
+               </td>
+               <td>
+                Gurdaspur
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                66
+               </td>
+               <td>
+                Jalandhar
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                67
+               </td>
+               <td>
+                Hoshiarpur
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                68
+               </td>
+               <td>
+                Bathinda
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                69
+               </td>
+               <td>
+                Moga
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                70
+               </td>
+               <td>
+                Mansa
+               </td>
+              </tr>
+              <tr>
+               <th>
+                21
+               </th>
+               <th colspan="2">
+                Rajasthan (6)
+               </th>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                71
+               </td>
+               <td>
+                Chittorgarh
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                72
+               </td>
+               <td>
+                Nagaur
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                73
+               </td>
+               <td>
+                Bhilwara
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                74
+               </td>
+               <td>
+                Jodhpur
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                75
+               </td>
+               <td>
+                Bikaner
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                76
+               </td>
+               <td>
+                Sri Ganganagar
+               </td>
+              </tr>
+              <tr>
+               <th>
+                22
+               </th>
+               <th colspan="2">
+                Sikkim (2)
+               </th>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                77
+               </td>
+               <td>
+                West Sikkim
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                78
+               </td>
+               <td>
+                North Sikkim
+               </td>
+              </tr>
+              <tr>
+               <th>
+                23
+               </th>
+               <th colspan="2">
+                Tamilnadu (5)
+               </th>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                79
+               </td>
+               <td>
+                Villupuram
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                80
+               </td>
+               <td>
+                Tirunelveli
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                81
+               </td>
+               <td>
+                Thirucharapalli
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                82
+               </td>
+               <td>
+                Dharmapuri
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                83
+               </td>
+               <td>
+                Thiruvannamalai
+               </td>
+              </tr>
+              <tr>
+               <th>
+                24
+               </th>
+               <th colspan="2">
+                Tripura (1)
+               </th>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                84
+               </td>
+               <td>
+                South Tripura
+               </td>
+              </tr>
+              <tr>
+               <th>
+                25
+               </th>
+               <th colspan="2">
+                Uttar Pradesh (12)
+               </th>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                85
+               </td>
+               <td>
+                Mathura
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                86
+               </td>
+               <td>
+                Deoria
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                87
+               </td>
+               <td>
+                Jaunpur
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                88
+               </td>
+               <td>
+                Sitapur
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                89
+               </td>
+               <td>
+                Sultanpur
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                90
+               </td>
+               <td>
+                Hardoi
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                91
+               </td>
+               <td>
+                Gonda
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                92
+               </td>
+               <td>
+                Kheri
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                93
+               </td>
+               <td>
+                Bijnor
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                94
+               </td>
+               <td>
+                Ghazipur
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                95
+               </td>
+               <td>
+                Raebareli
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                96
+               </td>
+               <td>
+                Sonebhadra #
+               </td>
+              </tr>
+              <tr>
+               <th>
+                26
+               </th>
+               <th colspan="2">
+                Uttarakhand (2)
+               </th>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                97
+               </td>
+               <td>
+                Dehradun
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                98
+               </td>
+               <td>
+                Nainital
+               </td>
+              </tr>
+              <tr>
+               <th>
+                27
+               </th>
+               <th colspan="2">
+                West Bengal (2)
+               </th>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                99
+               </td>
+               <td>
+                Hooghly
+               </td>
+              </tr>
+              <tr>
+               <td>
+               </td>
+               <td>
+                100
+               </td>
+               <td>
+                Jalpaiguri
+               </td>
+              </tr>
+             </tbody>
+            </table>
+            <p>
+             * Suicide prone districts
+             <br/>
+             # LWE Districts
+            </p>
+           </ul>
+          </div>
+         </div>
+        </div>
+       </article>
+      </div>
+      <div class="clear">
+      </div>
+     </div>
+    </div>
+   </div>
+  </section>
+  <!--/.body-wrapper-->
+  <section class="wrapper carousel-wrapper">
+   <div class="container carousel-container">
+    <div class="flexslider carousel" id="flexCarousel">
+     <div class="region region-featured">
+      <div class="block block-views first last odd" id="block-views-footer-banner-block">
+       <div class="view view-footer-banner view-id-footer_banner view-display-id-block nbs-flexisel-container view-dom-id-c75ea0ad55790414505dce4477e6c123">
+        <div class="view-content">
+         <ul class="slides">
+          <li class="">
+           <div class="views-field views-field-field-image">
+            <a href="https://dahd.nic.in/website-quality-certificate-dahdnicin ">
+             <img alt="STQC Certificate of dahd.nic.in" height="363" src="https://dahd.nic.in/sites/default/filess/stqc_1.jpg" title="DAHD STQC " typeof="foaf:Image" width="348"/>
+            </a>
+           </div>
+          </li>
+          <li class="">
+           <div class="views-field views-field-field-image">
+            <a href="https://india.gov.in/ " target="_BLANK" title="External site that opens in a new window">
+             <img alt="National Portal of India" height="150" src="https://dahd.nic.in/sites/default/filess/india-portal.png" title="National Portal of India, External site that opens in new window" typeof="foaf:Image" width="200"/>
+            </a>
+           </div>
+          </li>
+          <li class="">
+           <div class="views-field views-field-field-image">
+            <a href="http://pgportal.gov.in/ " target="_BLANK" title="External site that opens in a new window">
+             <img alt="Portal for public Grievances" height="150" src="https://dahd.nic.in/sites/default/filess/pg-portal.png" title="Portal for public Grievances, External site that open in new window" typeof="foaf:Image" width="200"/>
+            </a>
+           </div>
+          </li>
+          <li class="">
+           <div class="views-field views-field-field-image">
+            <a href="http://evisitors.nic.in/ " target="_BLANK" title="External site that opens in a new window">
+             <img alt="MyVisit" height="150" src="https://dahd.nic.in/sites/default/filess/myvisit-logo.png" title="MyVisit, External site that open in new window" typeof="foaf:Image" width="200"/>
+            </a>
+           </div>
+          </li>
+          <li class="">
+           <div class="views-field views-field-field-image">
+            <a href="http://egazette.nic.in/ " target="_BLANK" title="External site that opens in a new window">
+             <img alt="eGazzete" height="150" src="https://dahd.nic.in/sites/default/filess/e-gazette.png" title="eGazzete, External site that open in new window" typeof="foaf:Image" width="200"/>
+            </a>
+           </div>
+          </li>
+          <li class="">
+           <div class="views-field views-field-field-image">
+            <a href="https://eci.gov.in/ " target="_BLANK" title="External site that opens in a new window">
+             <img alt="Election Commission of India" height="150" src="https://dahd.nic.in/sites/default/filess/eci_5.png" title="Election Commission of India, External site that open in new window" typeof="foaf:Image" width="200"/>
+            </a>
+           </div>
+          </li>
+          <li class="">
+           <div class="views-field views-field-field-image">
+            <a href="https://pmnrf.gov.in/ " target="_BLANK" title="External site that opens in a new window">
+             <img alt="Prime Minister's National Relief Fund" height="75" src="https://dahd.nic.in/sites/default/filess/pmnrf_0.png" title="Prime Minister's National Relief Fund, External site that open in new window" typeof="foaf:Image" width="100"/>
+            </a>
+           </div>
+          </li>
+          <li class="">
+           <div class="views-field views-field-field-image">
+            <a href="http://www.goidirectory.gov.in/ " target="_BLANK" title="External site that opens in a new window">
+             <img alt="Goiweb Directory" height="150" src="https://dahd.nic.in/sites/default/filess/goe-directory.png" title="Goiweb Directory, External site that open in new window" typeof="foaf:Image" width="200"/>
+            </a>
+           </div>
+          </li>
+          <li class="">
+           <div class="views-field views-field-field-image">
+            <a href="http://www.digitalindia.gov.in/ " target="_BLANK" title="External site that opens in a new window">
+             <img alt="Digital India" height="150" src="https://dahd.nic.in/sites/default/filess/pvmewoke_0.png" title="Digital India, External site that open in new window" typeof="foaf:Image" width="200"/>
+            </a>
+           </div>
+          </li>
+          <li class="">
+           <div class="views-field views-field-field-image">
+            <a href="http://mygov.in/ " target="_BLANK" title="External site that opens in a new window">
+             <img alt="MyGov" height="150" src="https://dahd.nic.in/sites/default/filess/mygov.png" title="MyGov, External site that open in new window" typeof="foaf:Image" width="200"/>
+            </a>
+           </div>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </section>
+  <footer class="region region-footer" id="footer">
+   <div class="block block-cmf-content first last odd" id="block-cmf-content-footer-region-block">
+    <div class="wrapper footer-wrapper">
+     <div class="footer-top-wrapper">
+      <div class="container footer-top-container">
+       <ul class="menu">
+        <li class="menu__item is-leaf first leaf">
+         <a class="menu__link" href="/feedback">
+          Feedback
+         </a>
+        </li>
+        <li class="menu__item is-leaf leaf">
+         <a class="menu__link" href="/website-policy">
+          Website Policies
+         </a>
+        </li>
+        <li class="menu__item is-leaf leaf">
+         <a class="menu__link" href="/whoiswho">
+          Contact Us
+         </a>
+        </li>
+        <li class="menu__item is-leaf leaf">
+         <a class="menu__link" href="/help">
+          Help
+         </a>
+        </li>
+        <li class="menu__item is-leaf leaf">
+         <a class="menu__link" href="/disclaimer">
+          Disclaimer
+         </a>
+        </li>
+        <li class="menu__item is-leaf last leaf">
+         <a class="menu__link" href="/web-information-manager">
+          Web Information Manager
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="footer-bottom-wrapper">
+      <div class="container footer-bottom-container">
+       <div class="footer-content clearfix">
+        <div class="logo-cmf">
+         <a href="http://cmf.gov.in/" target="_blank">
+          <img alt="Built on Common Minimum Framework" src="https://dahd.nic.in/sites/all/modules/cmf/cmf_content/assets/images/cmf-logo.png"/>
+         </a>
+        </div>
+        <div class="copyright-content">
+         Website Content Managed &amp; Owned by
+         <strong>
+          Department of  Animal Husbandry &amp; Dairying
+         </strong>
+         <span>
+          Designed, Developed and Hosted by
+          <a href="http://www.nic.in/" target="_blank" title="NIC, External Link that opens in a new window">
+           <strong>
+            National Informatics Centre( NIC )
+           </strong>
+          </a>
+         </span>
+         <span class="lastupdated">
+          Last Updated:
+          <strong>
+           10 May 2019
+          </strong>
+         </span>
+        </div>
+        <div class="gtranslate skiptranslate">
+         <script type="text/javascript">
+          /* <![CDATA[ */
+eval(unescape("eval%28function%28p%2Ca%2Cc%2Ck%2Ce%2Cr%29%7Be%3Dfunction%28c%29%7Breturn%28c%3Ca%3F%27%27%3Ae%28parseInt%28c/a%29%29%29+%28%28c%3Dc%25a%29%3E35%3FString.fromCharCode%28c+29%29%3Ac.toString%2836%29%29%7D%3Bif%28%21%27%27.replace%28/%5E/%2CString%29%29%7Bwhile%28c--%29r%5Be%28c%29%5D%3Dk%5Bc%5D%7C%7Ce%28c%29%3Bk%3D%5Bfunction%28e%29%7Breturn%20r%5Be%5D%7D%5D%3Be%3Dfunction%28%29%7Breturn%27%5C%5Cw+%27%7D%3Bc%3D1%7D%3Bwhile%28c--%29if%28k%5Bc%5D%29p%3Dp.replace%28new%20RegExp%28%27%5C%5Cb%27+e%28c%29+%27%5C%5Cb%27%2C%27g%27%29%2Ck%5Bc%5D%29%3Breturn%20p%7D%28%276%207%28a%2Cb%29%7Bn%7B4%282.9%29%7B3%20c%3D2.9%28%22o%22%29%3Bc.p%28b%2Cf%2Cf%29%3Ba.q%28c%29%7Dg%7B3%20c%3D2.r%28%29%3Ba.s%28%5C%27t%5C%27+b%2Cc%29%7D%7Du%28e%29%7B%7D%7D6%20h%28a%29%7B4%28a.8%29a%3Da.8%3B4%28a%3D%3D%5C%27%5C%27%29v%3B3%20b%3Da.w%28%5C%27%7C%5C%27%29%5B1%5D%3B3%20c%3B3%20d%3D2.x%28%5C%27y%5C%27%29%3Bz%283%20i%3D0%3Bi%3Cd.5%3Bi++%294%28d%5Bi%5D.A%3D%3D%5C%27B-C-D%5C%27%29c%3Dd%5Bi%5D%3B4%282.j%28%5C%27k%5C%27%29%3D%3DE%7C%7C2.j%28%5C%27k%5C%27%29.l.5%3D%3D0%7C%7Cc.5%3D%3D0%7C%7Cc.l.5%3D%3D0%29%7BF%286%28%29%7Bh%28a%29%7D%2CG%29%7Dg%7Bc.8%3Db%3B7%28c%2C%5C%27m%5C%27%29%3B7%28c%2C%5C%27m%5C%27%29%7D%7D%27%2C43%2C43%2C%27%7C%7Cdocument%7Cvar%7Cif%7Clength%7Cfunction%7CGTranslateFireEvent%7Cvalue%7CcreateEvent%7C%7C%7C%7C%7C%7Ctrue%7Celse%7CdoGTranslate%7C%7CgetElementById%7Cgoogle_translate_element2%7CinnerHTML%7Cchange%7Ctry%7CHTMLEvents%7CinitEvent%7CdispatchEvent%7CcreateEventObject%7CfireEvent%7Con%7Ccatch%7Creturn%7Csplit%7CgetElementsByTagName%7Cselect%7Cfor%7CclassName%7Cgoog%7Cte%7Ccombo%7Cnull%7CsetTimeout%7C500%27.split%28%27%7C%27%29%2C0%2C%7B%7D%29%29"))
+/* ]]> */
+         </script>
+         <div id="google_translate_element2">
+         </div>
+         <script type="text/javascript">
+          function googleTranslateElementInit2() {new google.translate.TranslateElement({pageLanguage: 'en', autoDisplay: false}, 'google_translate_element2');}
+         </script>
+         <script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2" type="text/javascript">
+         </script>
+         <a class="gtflag" href="javascript:doGTranslate('en|en')" style="font-size:16px;padding:1px 0;background-repeat:no-repeat;background-position:-0px -0px;" title="English">
+          <img alt="English" height="16" src="/sites/all/modules/contributed/gtranslate/gtranslate-files/blank.png" style="border:0;vertical-align:top;" width="16"/>
+         </a>
+         <a class="gtflag" href="javascript:doGTranslate('en|hi')" style="font-size:16px;padding:1px 0;background-repeat:no-repeat;background-position:-500px -100px;" title="Hindi">
+          <img alt="Hindi" height="16" src="/sites/all/modules/contributed/gtranslate/gtranslate-files/blank.png" style="border:0;vertical-align:top;" width="16"/>
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </footer>
+  <!--**********Inline javascript end here *********************-->
+  <script>
+   jQuery(window).load(function(){
+// Slider           
+ jQuery('#flexSlider').flexslider({
+        animation: "slide",
+    controlNav: true,
+        start: function(slider){
+        jQuery('body').removeClass('loading');
+        }
+ });
+// Carousel           
+ jQuery('#flexCarousel').flexslider({
+        animation: "slide",
+        animationLoop: false,
+        itemWidth: 200,
+        itemMargin: 5,
+		pausePlay: true,
+        minItems: 2,
+        maxItems: 6,
+    slideshow: 1,
+    move: 1,
+    controlNav: false,
+        start: function(slider){
+          jQuery('body').removeClass('loading');
+      if (slider.pagingCount === 1) slider.addClass('flex-centered');
+        }
+      });
+    jQuery('#galleryCarousel .view-content ul li').each(function() { 
+      //alert(jQuery(this).children().attr('src'));
+       jQuery(this).attr('data-thumb', jQuery(this).children().attr('src'));
+    });
+ // Gallery
+      jQuery('#galleryCarousel').flexslider({
+        animation: "fade",
+        controlNav: "thumbnails",
+        start: function(slider){
+          jQuery('body').removeClass('loading');
+        }
+      });
+  });
+
+
+
+  jQuery('a[title^="External site that opens in a new window"]').each(function(){ 
+          jQuery(this).attr("class","externalLink");
+        });
+
+jQuery('a[title^="बाहरी वेबसाइट जो एक नई विंडों में खुलती हैं"]').each(function(){ 
+          jQuery(this).attr("class","externalLink");
+        });
+
+
+    jQuery('.externalLink').on('click', function(){
+        return confirm('This link willl take you to an external web site.');
+	});
+	 jQuery(".file-icon").attr("alt", "application/pdf");
+  </script>
+  <script>
+   jQuery('a[title^="External site that opens in a new window"]').each(function(){ 
+          jQuery(this).attr("class","externalLink");
+        });
+        jQuery('a[title^="External Link that opens in a new window"]').each(function(){ 
+          jQuery(this).attr("class","externalLink");
+        });
+
+       
+          jQuery('.facebook,.twitter,.youtube,.koo,.instagram').attr("class","externalLink");
+       
+
+jQuery('a[title^="बाहरी वेबसाइट जो एक नई विंडों में खुलती हैं"]').each(function(){ 
+          jQuery(this).attr("class","externalLink");
+        });
+
+
+    jQuery('.externalLink').on('click', function(){
+        return confirm('This link willl take you to an external web site.');
+	});
+  </script>
+ </body>
+</html>
